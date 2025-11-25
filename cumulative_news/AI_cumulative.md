@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-11-24 23:13
+**最后更新时间**: 2025-11-25 05:14
+
+---
+
+## 🆕 最新更新 (2025-11-25 05:14)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Gemini 3，是谢尔盖・布林「骂」出来的？](https://www.jiqizhixin.com/articles/2025-11-25-8)
+**发布时间**: 2025-11-25 12:59
+
+#### [与Banana Pro过过招，国产Libcom图像合成工作台开启Labubu漫游记](https://www.jiqizhixin.com/articles/2025-11-25-7)
+**发布时间**: 2025-11-25 12:53
+
+#### [吴恩达发布论文自动审阅器，ICLR上达到接近人类水平](https://www.jiqizhixin.com/articles/2025-11-25-6)
+**发布时间**: 2025-11-25 12:50
+
+#### [AAAI 2026 Oral | 悉尼科技大学联合港理工打破「一刀切」，联邦推荐如何实现「千人千面」的图文融合？](https://www.jiqizhixin.com/articles/2025-11-25-5)
+**发布时间**: 2025-11-25 12:47
+
+#### [用 AI 发明下一代巧克力：Barry Callebaut 与 NotCo 的技术联盟，甜品产业的可持续路线悄然改变](https://www.jiqizhixin.com/articles/2025-11-25-4)
+**发布时间**: 2025-11-25 11:52
+
+#### [xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态](https://www.jiqizhixin.com/articles/2025-11-25-3)
+**发布时间**: 2025-11-25 10:43
+
+#### [刚刚，智能体&编程新王Claude Opus 4.5震撼登场，定价大降2/3](https://www.jiqizhixin.com/articles/2025-11-25-2)
+**发布时间**: 2025-11-25 10:20
+
+#### [新型AI芯片能耗重大突破，已登Nature子刊](https://www.jiqizhixin.com/articles/2025-11-25)
+**发布时间**: 2025-11-25 10:14
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [二十五载聚智启新章，中国股权投资年度大会深圳将启](https://www.qbitai.com/2025/11/356152.html)
+**发布时间**: 2025-11-25 03:46
+
+#### [Nano Banana新玩法无限套娃！“GPT-5都不会处理这种级别的递归”](https://www.qbitai.com/2025/11/356060.html)
+**发布时间**: 2025-11-25 03:30
+
+#### [奥特曼谈OpenAI首款AI硬件：我想拿起它咬一口](https://www.qbitai.com/2025/11/356049.html)
+**发布时间**: 2025-11-25 02:20
+
+#### [Claude Opus 4.5发布！2小时工程测试超人类，前代Sonnet搞不定的活它轻松拿捏](https://www.qbitai.com/2025/11/355949.html)
+**发布时间**: 2025-11-25 01:30
 
 ---
 

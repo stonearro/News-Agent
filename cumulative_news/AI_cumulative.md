@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-11-25 23:13
+**最后更新时间**: 2025-11-26 05:14
+
+---
+
+## 🆕 最新更新 (2025-11-26 05:14)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Scaling时代终结了，Ilya Sutskever刚刚宣布](https://www.jiqizhixin.com/articles/2025-11-26-5)
+**发布时间**: 2025-11-26 12:26
+
+#### [测完Nano Banana Pro的时空重现，我人傻了……](https://www.jiqizhixin.com/articles/2025-11-26-4)
+**发布时间**: 2025-11-26 12:14
+
+#### [中兴发了一篇论文，洞察AI更前沿的探索方向](https://www.jiqizhixin.com/articles/2025-11-26-3)
+**发布时间**: 2025-11-26 12:11
+
+#### [NeurIPS 2025 Spotlight | 中国联通以全局优化重塑扩散模型加速](https://www.jiqizhixin.com/articles/2025-11-26-2)
+**发布时间**: 2025-11-26 12:05
+
+#### [华为Mate 80系列发布：麒麟9030 Pro加持，性能提升42%](https://www.jiqizhixin.com/articles/2025-11-26)
+**发布时间**: 2025-11-26 12:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Ilya罕见发声：大模型「大力出奇迹」到头了](https://www.qbitai.com/2025/11/356320.html)
+**发布时间**: 2025-11-26 01:04
 
 ---
 

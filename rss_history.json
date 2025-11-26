@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "21542acb0b16336a65a5a7e8599cb8d2334c1287480b1895db9a306b1b58f2a3": {
-        "title": "从辅助驾驶到无人驾驶出租车，Mobileye展现技术与商业化双重实力",
-        "link": "https://www.qbitai.com/2025/10/346319.html",
-        "published_date": "Mon, 27 Oct 2025 07:30:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555178"
-      },
-      "87a896a90772b997aea4454f2f2a59f3641b1e904659deeee1001601fb7826c2": {
-        "title": "美团视频生成模型来了！一出手就是开源SOTA",
-        "link": "https://www.qbitai.com/2025/10/346287.html",
-        "published_date": "Mon, 27 Oct 2025 07:23:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555345"
-      },
-      "3bfa46aeaaa2fb415f9db64b57f3a9be5ed3a2ee889d40f5b66d669824ab647a": {
-        "title": "直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局",
-        "link": "https://www.qbitai.com/2025/10/346201.html",
-        "published_date": "Mon, 27 Oct 2025 07:03:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555501"
-      },
-      "25dcac5fefd4deb7242a4acfba6830f54cb060b7b5511e09bf714c3b91fd3867": {
-        "title": "拜拜了GUI！中科院团队“LLM友好”计算机使用接口来了",
-        "link": "https://www.qbitai.com/2025/10/346262.html",
-        "published_date": "Mon, 27 Oct 2025 06:53:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555737"
-      },
-      "6dc74c487f3945bd3c232d5f460db5a2fddb8f58e6c7266fe7520d156655a143": {
-        "title": "这种眼镜我建议外卖快递小哥人手一个",
-        "link": "https://www.qbitai.com/2025/10/346206.html",
-        "published_date": "Mon, 27 Oct 2025 06:47:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555904"
-      },
-      "962aac5296244d5f0da8936f84eef670e9a1038c9bd780889ac01d1ca09fc88e": {
-        "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
-        "link": "https://www.qbitai.com/2025/10/346182.html",
-        "published_date": "Mon, 27 Oct 2025 06:39:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.556219"
-      },
-      "99082dad2478f9dae61ba2374a7217a3de33341d9a80850765448cde124e3604": {
-        "title": "OpenAI产品线拉出来吓我一跳，奥特曼不愧是YC出身",
-        "link": "https://www.qbitai.com/2025/10/346127.html",
-        "published_date": "Mon, 27 Oct 2025 06:19:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.556547"
-      },
       "f5fe4d22f38ff14660e16d06562b1463d9487955636d6773433982df3192238d": {
         "title": "How we are building the personal health coach",
         "link": "https://research.google/blog/how-we-are-building-the-personal-health-coach/",
@@ -1704,75 +1662,39 @@
         "link": "https://www.qbitai.com/2025/11/356469.html",
         "published_date": "Wed, 26 Nov 2025 05:26:00 GMT",
         "first_seen": "2025-11-26T08:24:47.831791"
+      },
+      "dfe8afeaf76b92a652856bf1e150e65d6b0eb705d30dca8ac0a39979cfeeacea": {
+        "title": "谢赛宁与Jaakkola团队重磅研究：无数据Flow Map蒸馏",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-26-13",
+        "published_date": "Wed, 26 Nov 2025 17:57:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.721577"
+      },
+      "e191fea766e26f1066b468262849b1227fc8d7be86fd4029eed7d4bb5e9505e8": {
+        "title": "小米开源首个跨域具身基座模型MiMo-Embodied，29个榜单SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-11-26-12",
+        "published_date": "Wed, 26 Nov 2025 17:53:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.721727"
+      },
+      "b2a44f52c9776c54a1b8aceb40d8f6d1ce92933171186a9fc7620d2cedc58bf8": {
+        "title": "爆发力超越波士顿动力液压机器人，PHYBOT M1实现全球首次全尺寸重型电驱人形机器人完美拟人态后空翻",
+        "link": "https://www.qbitai.com/2025/11/356796.html",
+        "published_date": "Wed, 26 Nov 2025 09:47:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.721932"
+      },
+      "386bd00aa6baed781c696575148ae56c540c89c4668b23fe5d49847411b5e20b": {
+        "title": "开源模型叫板Nano Banana Pro！Stable Diffusion原班人马杀回来了",
+        "link": "https://www.qbitai.com/2025/11/356661.html",
+        "published_date": "Wed, 26 Nov 2025 09:28:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.722249"
+      },
+      "42383bf96301f5a033183ee4b754d4151b70e6b36d4f712436441ca2cf6d4839": {
+        "title": "WeaveFox「AI艺术家」创意大赛千元豪礼等你来拿！",
+        "link": "https://www.qbitai.com/2025/11/356654.html",
+        "published_date": "Wed, 26 Nov 2025 09:09:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.722488"
       }
     },
     "Technology": {
-      "995e43cb43883e087246af155ef62b4d5af42c83f98e13e97cd90fac199c9693": {
-        "title": "汇丰科技25年丨植根中国，服务全球，加速金融创新和数字化进程",
-        "link": "https://www.infoq.cn/article/oRmckq78ykcL53oPPjlt?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 15:27:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085473"
-      },
-      "c29a58b78d6cc5b5fc81619cd91aed1b9a244bc3ae199b8bdc4b3c3852f77f7c": {
-        "title": "决战紫金之巅 —— 云谷杯 · 2025人工智能应用创新创业大赛报名中！",
-        "link": "https://www.infoq.cn/video/d4HGRQi8PyOTvPvzIzbN?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 15:08:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085503"
-      },
-      "ab1bb7f2afe0b6e8a2a605d0736d26f7a42a9d3df7e7471b83045c7a7be8fa6c": {
-        "title": "为什么软件工程治理很重要：降低风险但不拖累速度",
-        "link": "https://www.infoq.cn/article/8cG4Je2D5dPcmRehgGbJ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085540"
-      },
-      "ad5b5f6bdd91a16a0faf446cc5b6dfb74bbc06b627d87ae6aeeeca603cbcc038": {
-        "title": "开源共建重塑推理 Infra：从架构创新到生态协同，Mooncake的破局之路",
-        "link": "https://www.infoq.cn/article/qkXP2hrmdQBLJEop4h6m?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 10:49:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085518"
-      },
-      "395ccb808279a5916aff3b9d4dfc63924cd11a87fb7a79984ed92f927da6c06a": {
-        "title": "神舟二十一号发射前，中美来了个“太空互拍对决”，谁更胜一筹？",
-        "link": "http://www.huxiu.com/article/4797104.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085550"
-      },
-      "38a8417c68017246cd352387774bb7b28de3eeacdcea287cb56e5f84be0fd765": {
-        "title": "一枚微芯片+一副眼镜，如何让盲人重获看到世界的能力？",
-        "link": "http://www.huxiu.com/article/4796548.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 13:54:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085530"
-      },
-      "c82d3d6f81b7507f7df3973389e33d2849848e6e9473ede514e0dc71e77b6542": {
-        "title": "150亿美元比特币遭没收，柬埔寨华人巨鳄骗局覆灭",
-        "link": "http://www.huxiu.com/article/4797018.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085561"
-      },
-      "2c20476ecee0f99e33befc033784664d6a91c0227ae8f98676df67af0a7991f9": {
-        "title": "是谁让中国稀土“逆袭”成王者？",
-        "link": "http://www.huxiu.com/article/4796439.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 10:50:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085571"
-      },
-      "2a57d87aa810ad59c30c66ee8e2ff48166b81fcc265e2e28e88988de13cb4a1f": {
-        "title": "从100万亿到140万亿，中国下一个五年藏着什么密码？",
-        "link": "http://www.huxiu.com/article/4796664.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 10:05:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085582"
-      },
-      "110bd66efb056c2243dbd75c1aa7d372abd5c9ff2764e24d1b562a5427620fa8": {
-        "title": "我的双十一男装清单：从基础大牌到私藏好店",
-        "link": "https://sspai.com/post/103360",
-        "published_date": "Mon, 27 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085592"
-      },
-      "0921e6c3a3de4e6b4cdc5ada86dec789b906134d2994eccfb61cbd5450520486": {
-        "title": "​一个对话助理，如何盘活整个「夸克宇宙」？",
-        "link": "http://www.geekpark.net/news/355583",
-        "published_date": "Mon, 27 Oct 2025 14:08:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.614608"
-      },
       "5ee2df9657e359c40a089dc4e8a062582d4ac3dc274fed112b77310d3bfbc4db": {
         "title": "一把吉他卖出 10 亿后，LiberLive 选择自我革命",
         "link": "http://www.geekpark.net/news/355614",
@@ -12848,13 +12770,181 @@
         "link": "https://sspai.com/post/84574",
         "published_date": "Wed, 26 Nov 2025 15:16:00 GMT",
         "first_seen": "2025-11-26T08:24:47.902536"
+      },
+      "c532205b328dbd00fcc200675a2bcdfaca4e77385d5c57afeecc12f6fc13205e": {
+        "title": "Oracle Stock Rallies Over 6% at Midday as Analysts Defend AI Spending Concerns",
+        "link": "https://www.tmtpost.com/7783967.html",
+        "published_date": "Thu, 27 Nov 2025 03:16:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096716"
+      },
+      "7b9d7d07e34557c5269c2ecd1f3440009e7c9fed07d7eba4bde3fb7c2be81e13": {
+        "title": "三度出手揽入SK海力士“边缘”资产，普冉股份寻解赛道焦虑 ｜并购一线",
+        "link": "https://www.tmtpost.com/7783760.html",
+        "published_date": "Wed, 26 Nov 2025 21:42:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096726"
+      },
+      "7655f58d6f254f1569fb358d30da3b630db127ecdb7c8933b4194b51e8e1f12a": {
+        "title": "前特斯拉Optimus团队成员卢泽宇加入小米，任机器人灵巧手负责人 | 巴伦独家",
+        "link": "https://www.tmtpost.com/7783765.html",
+        "published_date": "Wed, 26 Nov 2025 20:59:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096736"
+      },
+      "650140c42d745c9225fe82731e10d565b3f1046c4a8209c42fac3824f24c3de4": {
+        "title": "4倍溢价无对赌，宋城演艺9.63亿“买地”能破主业困局？",
+        "link": "https://www.tmtpost.com/7783684.html",
+        "published_date": "Wed, 26 Nov 2025 20:05:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096745"
+      },
+      "efaa01e62a31212460b85587fcde3ea13c3def22330aacd1cfaff5fb39f69ecb": {
+        "title": "美的、小米，正面必有一战",
+        "link": "https://www.tmtpost.com/7783287.html",
+        "published_date": "Wed, 26 Nov 2025 19:10:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096753"
+      },
+      "7c07bbcb60b548b64749ca0595087e079f0fea728013558c2796570f1bb3e59e": {
+        "title": "闪极崩盘、大厂入局、退货率畸高：AI眼镜虚火过旺",
+        "link": "https://www.tmtpost.com/7782475.html",
+        "published_date": "Wed, 26 Nov 2025 19:08:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096762"
+      },
+      "d3482be8866b8c1f54551ac9418c01add8fd6c85bcaba4103068b488cbc37d97": {
+        "title": "打了一个夏天的胜仗，但对淘宝闪购只是刚刚开始",
+        "link": "https://www.tmtpost.com/7783318.html",
+        "published_date": "Wed, 26 Nov 2025 19:07:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096803"
+      },
+      "627851465b59540f0acfa1ebd737e3e93900a813f84ebd1f2ae3eb7b82f7f05b": {
+        "title": "电商“掼蛋局”，没有人愿意“下牌桌”",
+        "link": "https://www.tmtpost.com/7783566.html",
+        "published_date": "Wed, 26 Nov 2025 19:07:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.791534"
+      },
+      "746b426f70265909bbf3ccd47138e8a9726fc53c86b3e09feb0d48192491fd75": {
+        "title": "硅光芯片，热度飙升",
+        "link": "https://www.tmtpost.com/7783580.html",
+        "published_date": "Wed, 26 Nov 2025 19:06:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096703"
+      },
+      "0a3560013180b699ab35d0c913d45155c656e3f6c506249b43661e462a683be8": {
+        "title": "酒店“剪刀门”事件反转，这届网友终于不被情绪CPU了",
+        "link": "https://www.tmtpost.com/7783552.html",
+        "published_date": "Wed, 26 Nov 2025 19:06:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.792219"
+      },
+      "d9181416bcf551410a478bcb16cce21629726e745480e9d45b10470af9dad84f": {
+        "title": "AI会怎样改变教育？",
+        "link": "https://www.tmtpost.com/7783469.html",
+        "published_date": "Wed, 26 Nov 2025 18:43:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.792444"
+      },
+      "70aa285cb0caae3f5c45ca388ab9ea610c22b844dfe8723f06fe218e79d135fb": {
+        "title": "行业出清，电商玩家如何穿越周期？",
+        "link": "https://www.tmtpost.com/7783398.html",
+        "published_date": "Wed, 26 Nov 2025 18:40:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.792768"
+      },
+      "04e8e816e7c14995c0d8d628cb9eb0e842fb514e9733af709744a638f2c09d21": {
+        "title": "奥司他韦“失宠”，玛巴洛沙韦“上位”",
+        "link": "https://www.tmtpost.com/7783432.html",
+        "published_date": "Wed, 26 Nov 2025 18:37:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.793235"
+      },
+      "c73d7953e8f5108a0e656f86b6da2b5d0e1cf74abf35a599fbcf3a54862918af": {
+        "title": "阿里不用再给外卖砸钱了",
+        "link": "https://www.tmtpost.com/7783450.html",
+        "published_date": "Wed, 26 Nov 2025 18:34:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.793497"
+      },
+      "141af94718ff87a4cd8c59fb2765da6263bc12a28ac9c583c47be07a19279e08": {
+        "title": "MongoDB 存储引擎解密：底层原理 + 游戏行业落地优化案例| 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/ywfycl4BlZCFrYWEFslx?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 19:30:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.794281"
+      },
+      "9789e049d28c72d3766c8a53f98df3f4868213bfd1a930876478e35a68b8931f": {
+        "title": "破解游戏行业高并发冲击难题：MongoDB精细化限流与无损迁移架构| 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/BhoIfkwBQupMgZAtvNe1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 19:22:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.795078"
+      },
+      "496271fe353f1cdbf1f80112e2b9334242c64ef3f3d442faaacaf8495c82b804": {
+        "title": "赋能游戏回档极致体验：揭秘腾讯 MongoDB 按 Key 闪回技术| 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/JUlGJ2xUwqFw10f6iFVT?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 19:22:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096669"
+      },
+      "f0495261196e6a3d98662138e79c1897cd3727c2db5b2f59368658f4c23c14fe": {
+        "title": "SRE 智能体在金融核心系统的落地实践：DeepFlow 智能体的设计与思考｜AICon北京",
+        "link": "https://www.infoq.cn/article/UzcwdRCj18QJOy7tYiVP?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 17:42:00 GMT",
+        "first_seen": "2025-11-26T23:14:06.096693"
+      },
+      "7f53c2af09454ab2f8255a8cffbe07fd7c808bff5867fc114d128d3208408e52": {
+        "title": "用AI“打开”金融市场黑盒：微软亚洲研究院如何构建订单级仿真引擎",
+        "link": "https://www.infoq.cn/article/jmBjtwx3Iul4yjUorsqI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 17:42:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.797956"
+      },
+      "3765ec4082cc17791556b731d31361517c493017618fbe2db246fde3baf31f51": {
+        "title": "英伟达Run:ai没做到的，被华为开源方案实现了",
+        "link": "https://www.infoq.cn/article/cIWZrKz0iYlrXNFpm9GI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 16:41:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.798716"
+      },
+      "2d5bf0ad096b9f07effeed393febc1fd295dd2f1cd3376de3b83e1693ac12703": {
+        "title": "万卡时代，企业需要怎样的算力集群？",
+        "link": "https://www.infoq.cn/article/A7JsMo6EXZJqGbB2xQl2?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Nov 2025 11:04:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.799336"
+      },
+      "5584ba5a8f7b7a3322581f74cd9bf681fab01df915b066c103fe30e3f5888e76": {
+        "title": "超70亿独角兽“原地解散”，无人车赛道却将爆发？",
+        "link": "http://www.huxiu.com/article/4810062.html?f=wangzhan",
+        "published_date": "Wed, 26 Nov 2025 18:32:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.800175"
+      },
+      "d22da2391cfe51955b1832bd857b8222b1f71281430250c83027bf894aebf435": {
+        "title": "智驾下一个关键挑战，是不被别人摘“桃子”？",
+        "link": "http://www.huxiu.com/article/4808755.html?f=wangzhan",
+        "published_date": "Wed, 26 Nov 2025 18:17:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.800965"
+      },
+      "723d044e7a92b97ec5046a8f3d9e43c72bdee510207c51f5c291c9b06ba29f68": {
+        "title": "10个月狂开5000家门店，又一餐饮万店品牌诞生",
+        "link": "http://www.huxiu.com/article/4809394.html?f=wangzhan",
+        "published_date": "Wed, 26 Nov 2025 15:49:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.801718"
+      },
+      "e8827d7e73b8f5e28ee16a9c71f511b3f51733684a9e6a89790ee66fcd82185b": {
+        "title": "机器人学会“思考”后，以后真能在家帮我们干活了吗？",
+        "link": "http://www.huxiu.com/article/4809737.html?f=wangzhan",
+        "published_date": "Wed, 26 Nov 2025 14:40:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.802779"
+      },
+      "4fa8c9ebb5603be19227c97dac179e96f70954d1951a95b89ad327519c333126": {
+        "title": "为什么华为的硬件工程师，可能是最幸福的人？",
+        "link": "http://www.geekpark.net/news/356904",
+        "published_date": "Wed, 26 Nov 2025 17:23:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.803591"
+      },
+      "de3152aaafd057444a0cc134fac5ba0d693b62a52232666dfa31b2eb3a309999": {
+        "title": "抢到票的各位，看看你们将要面临什么！",
+        "link": "http://www.geekpark.net/news/356960",
+        "published_date": "Wed, 26 Nov 2025 16:44:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.804368"
+      },
+      "297a831e9f210e37242f6cecfa644041827a995b5a61e752afeab8bcc3067621": {
+        "title": "「捡垃圾」搭建远程文件服务器，顺便聊聊飞牛付费穿透",
+        "link": "https://sspai.com/post/104007",
+        "published_date": "Wed, 26 Nov 2025 17:22:00 GMT",
+        "first_seen": "2025-11-26T23:13:17.805406"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-26T08:24:47.854660",
-    "Technology": "2025-11-26T08:25:36.178078",
-    "Finance": "2025-11-26T08:24:47.721728"
+    "AI": "2025-11-26T23:13:17.757994",
+    "Technology": "2025-11-26T23:14:06.100601",
+    "Finance": "2025-11-26T23:13:17.624475"
   }
 }

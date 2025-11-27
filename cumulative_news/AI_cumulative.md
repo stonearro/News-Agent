@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-11-26 23:12
+**最后更新时间**: 2025-11-27 05:15
+
+---
+
+## 🆕 最新更新 (2025-11-27 05:15)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Adam的稳+Muon的快？华为诺亚开源ROOT破解大模型训练「既要又要」的两难困境](https://www.jiqizhixin.com/articles/2025-11-27-6)
+**发布时间**: 2025-11-27 13:11
+
+#### [当推荐系统真正「懂你」：快手团队在NeurIPS 2025提出新成果TagCF](https://www.jiqizhixin.com/articles/2025-11-27-5)
+**发布时间**: 2025-11-27 13:04
+
+#### [首个3D生成解构模型PartCrafter问世，GitHub狂揽2k星标](https://www.jiqizhixin.com/articles/2025-11-27-4)
+**发布时间**: 2025-11-27 12:58
+
+#### [NeurIPS 2025奖项出炉，Qwen获最佳论文，Faster R-CNN获时间检验奖](https://www.jiqizhixin.com/articles/2025-11-27-3)
+**发布时间**: 2025-11-27 11:41
+
+#### [通用脑机接口时代要来了？跨尺度脑基础模型CSBrain真正读懂脑信号](https://www.jiqizhixin.com/articles/2025-11-27-2)
+**发布时间**: 2025-11-27 11:37
+
+#### [2026五大科技趋势，这是亚马逊CTO Werner Vogels给出的预测](https://www.jiqizhixin.com/articles/2025-11-27)
+**发布时间**: 2025-11-27 11:27
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [NeurIPS 2025放榜：阿里Qwen门控注意力获最佳论文，何恺明Faster R-CNN获时间检验奖](https://www.qbitai.com/2025/11/356820.html)
+**发布时间**: 2025-11-27 03:15
 
 ---
 

@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-26 23:13
+**最后更新时间**: 2025-11-27 05:15
+
+---
+
+## 🆕 最新更新 (2025-11-27 05:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Hong Kong Blaze Highlights Fire Hazards of Bamboo Scaffolding](https://www.tmtpost.com/7784660.html)
+**发布时间**: 2025-11-27 12:50
+
+#### [光伏组件价格，涨得起来吗？](https://www.tmtpost.com/7783782.html)
+**发布时间**: 2025-11-27 12:40
+
+#### [蔚来决战Q4：李斌立下“盈利”军令状，没有Plan B](https://www.tmtpost.com/7784563.html)
+**发布时间**: 2025-11-27 12:31
+
+#### [Exclusive: Xiaomi Taps Tesla's Former Dexterous Hand Expert for Robotics Push](https://www.tmtpost.com/7784630.html)
+**发布时间**: 2025-11-27 12:26
+
+#### [当“老东家”大疆和“新黑马”拓竹摸向对方的“逆鳞”](https://www.tmtpost.com/7784409.html)
+**发布时间**: 2025-11-27 12:24
+
+#### [阿里的真正考验，是即将到来的“天王山之战”](https://www.tmtpost.com/7784049.html)
+**发布时间**: 2025-11-27 12:24
+
+#### [中国短剧，成好莱坞“回魂丹”](https://www.tmtpost.com/7783889.html)
+**发布时间**: 2025-11-27 12:24
+
+#### [百亿并购重组！国家电投整合煤电铝资产，旗下“煤炭航母”浮出水面](https://www.tmtpost.com/7784185.html)
+**发布时间**: 2025-11-27 12:24
+
+#### [中国00后做AI教育，赵长鹏3天投了8000万](https://www.tmtpost.com/7780409.html)
+**发布时间**: 2025-11-27 12:24
+
+#### [Infinigence AI Raises $69 Million in A+ Round to Expand Agentic Infrastructure](https://www.tmtpost.com/7784584.html)
+**发布时间**: 2025-11-27 12:06
+
+#### [理想拒绝进入ICU](https://www.tmtpost.com/7783736.html)
+**发布时间**: 2025-11-27 11:43
+
+#### [等位5小时、排队上千桌，这家湖北菜火了](https://www.tmtpost.com/7784381.html)
+**发布时间**: 2025-11-27 11:42
+
+#### [费大厨到美国为啥不卖辣椒炒肉？](https://www.tmtpost.com/7783708.html)
+**发布时间**: 2025-11-27 11:42
+
+#### [当带状疱疹疫苗开始“买一送一”](https://www.tmtpost.com/7784369.html)
+**发布时间**: 2025-11-27 11:42
+
+#### [Li Auto to Launch First Smart Glasses to Ramp Up AI Push](https://www.tmtpost.com/7784559.html)
+**发布时间**: 2025-11-27 11:42
+
+#### [5亿元A+轮融资，无问芯穹加速构建Agentic Infra | 巴伦精选](https://www.tmtpost.com/7784526.html)
+**发布时间**: 2025-11-27 11:20
+
+#### [Li Auto Posts First Quarterly Loss Since 2022, Weak Q4 Outlook amid AI Focus Shift](https://www.tmtpost.com/7784507.html)
+**发布时间**: 2025-11-27 11:08
+
+#### [Qualcomm Unveils Snapdragon 8 Gen 5, Bolstering Dual-Flagship Strategy in Smartphone Battle](https://www.tmtpost.com/7784485.html)
+**发布时间**: 2025-11-27 11:03
+
+#### [训练AI，然后被裁？Uber AI项目突遭裁员，零工、博士都没留下来](https://www.tmtpost.com/7784201.html)
+**发布时间**: 2025-11-27 11:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [开单效率暴增30倍！“数字销冠”的AI密码：飞桨+文心大模型双引擎驱动](https://www.infoq.cn/article/9OADQWdXJULDIjHtIx20?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 11:48
+
+#### [亚马逊为 Bedrock AgentCore 引入 A2A 协议，打造可互操作的多智能体工作流](https://www.infoq.cn/article/QmC5r0mr43tY44fh0zTS?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 11:44
+
+#### [AnyLanguageModel：苹果平台本地和云端LLM的统一API](https://www.infoq.cn/article/jy31Ald56YqvvabOfIQO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 11:28
+
+#### [无问芯穹完成近5亿元A+轮融资，加码Agentic Infra基础设施建设](https://www.infoq.cn/article/oE4ssf9Zlllbz0sxwr5y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 11:25
+
+#### [新发布的面向令牌的对象表示法（TOON）有望通过减少令牌消耗来降低大型语言模型的成本](https://www.infoq.cn/article/lCH1VSgxC5f8Gvb07wgB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 10:46
+
+#### [谷歌云推出Bigtable分层存储](https://www.infoq.cn/article/Bbamkto4beTA4glTqICf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 10:11
+
+#### [规范驱动开发：瀑布模型回潮](https://www.infoq.cn/article/hVZ6M31jJrPTy6dUZVKb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 10:00
+
+#### [Spring近期新闻：Boot、Security、GraphQL、Integration、Modulith、Batch等的GA版本](https://www.infoq.cn/article/bVFzA6OAAxZouCms3xK9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 09:56
+
+#### [Grafana Labs 发布 Mimir 3.0，推出全新架构以提升性能](https://www.infoq.cn/article/DjoXza2pPpXkyMmk2Aw9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 09:45
+
+#### [Cloudflare全球停机追踪到内部数据库更改](https://www.infoq.cn/article/lPMNmqXW25qPXKW4zEhu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 09:40
+
+#### [Uno Platform 6.4 与 Uno Platform Studio 2.0：.NET 10、VS2026 与 Agentic AI](https://www.infoq.cn/article/yIpNz4sseVy5rxs4d6QH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 09:40
+
+#### [抛弃“级联”架构！快手OneRec用大模型重构推荐系统，服务成本降至1/10](https://www.infoq.cn/article/4O7KcKogofXH1LCm6EiR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-27 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [服饰、生活、美食、数码……2025 我的年度好物分享](https://sspai.com/post/104118)
+**发布时间**: 2025-11-27 11:31
+
+#### [派早报：高通发布第五代骁龙 8 移动平台等](https://sspai.com/post/104119)
+**发布时间**: 2025-11-27 08:39
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [花100万就能上太空？中国太空船票比马斯克便宜390倍](http://www.huxiu.com/article/4809571.html?f=wangzhan)
+**发布时间**: 2025-11-27 09:00
 
 ---
 

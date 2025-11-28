@@ -1,7 +1,113 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 08:20
+**最后更新时间**: 2025-11-28 23:13
+
+---
+
+## 🆕 最新更新 (2025-11-28 23:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Intel Stock Soars 10% after Reliable Analyst Sees Delivery of Apple's Mac Chips in 2027](https://www.tmtpost.com/7787730.html)
+**发布时间**: 2025-11-29 03:36
+
+#### [“智驾普及元年”年终大考：奇瑞猎鹰智驾的承诺兑现了吗？](https://www.tmtpost.com/7787141.html)
+**发布时间**: 2025-11-28 21:57
+
+#### [奕东电子6120万并购深圳冠鼎，业绩承压下加码液冷业务｜并购一线](https://www.tmtpost.com/7787403.html)
+**发布时间**: 2025-11-28 21:40
+
+#### [高溢价“亲情并购”未设减值承诺，元力股份七度并购再谋突围｜并购一线](https://www.tmtpost.com/7787434.html)
+**发布时间**: 2025-11-28 21:39
+
+#### [国科微终止收购中芯宁波；连亏多年，佳华科技拟跨界收购谋转型【并购一线】](https://www.tmtpost.com/7787435.html)
+**发布时间**: 2025-11-28 21:36
+
+#### [西部数据公司、新蒙特公司，以及在人工智能抛售潮中幸存、仍有上涨空间的5只明星股票](https://www.tmtpost.com/7787380.html)
+**发布时间**: 2025-11-28 20:17
+
+#### [NIKE旗下户外子品牌ACG首家独立门店将落地北京；On昂跑推出「声音陪跑」播客；WOOLRICH首度亮相中国｜消研所周报](https://www.tmtpost.com/7787104.html)
+**发布时间**: 2025-11-28 19:30
+
+#### [“最牛风投”接盘辰安科技：一个城市安全龙头的自救与再造](https://www.tmtpost.com/7787238.html)
+**发布时间**: 2025-11-28 19:10
+
+#### [国产都市剧，为什么很少见“大男主”？](https://www.tmtpost.com/7785612.html)
+**发布时间**: 2025-11-28 19:07
+
+#### [争夺下一个“超级入口”，阿里和字节必有一战](https://www.tmtpost.com/7785671.html)
+**发布时间**: 2025-11-28 19:07
+
+#### [景区NPC抓住流量密码](https://www.tmtpost.com/7785997.html)
+**发布时间**: 2025-11-28 19:07
+
+#### [抢占AI入口，阿里无法回避与字节的全面战争](https://www.tmtpost.com/7787166.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [AI如何改写就业规则？](https://www.tmtpost.com/7786041.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [万科债券展期，房地产市场何去何从](https://www.tmtpost.com/7787013.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [小天才，也许是段永平最好的生意](https://www.tmtpost.com/7786936.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [背靠腾讯、招银国际，硅基智能带8万数字人冲刺“数字人第一股”](https://www.tmtpost.com/7787083.html)
+**发布时间**: 2025-11-28 18:53
+
+#### [成都5亿元国资合资企业落地，国资产区平台成白酒第三极，与巨头共舞？|行业风向标](https://www.tmtpost.com/7787114.html)
+**发布时间**: 2025-11-28 18:16
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [捐赠自研OS内核背后：Rust 先行者 vivo 的「担当」](http://www.geekpark.net/news/357444)
+**发布时间**: 2025-11-28 20:30
+
+#### [从代码补全到真实软件的生产级工具：Qoder 如何改写 AI 编程规则](http://www.geekpark.net/news/357437)
+**发布时间**: 2025-11-28 17:25
+
+#### [当「一人公司」成为现实，我们要如何重新「发明自己」？](http://www.geekpark.net/news/357436)
+**发布时间**: 2025-11-28 17:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [用先进算力，为AGI加速：华为千行百业AI赋能转型论坛在太原圆满落幕](https://www.infoq.cn/article/JHxNQYxspCLeSRgA2hFI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 19:00
+
+#### [算力筑基・生态聚力 华为云 AI 峰会杭州站引领浙企智能跃迁](https://www.infoq.cn/article/IHu0oNgApVSdFiXBlZpA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 19:00
+
+#### [算力难平衡、数据难高效？“软硬协同”破局企业数智化新挑战](https://www.infoq.cn/video/JpUmD8SYGSekw08lcRKf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 17:40
+
+#### [把工业知识放进 AI，把 AI 融进工作流：SOLIDWORKS 的工业 AI 路径](https://www.infoq.cn/article/ZhG2S6qM7PgsTkWXrXVb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 17:01
+
+#### [优化存储成本并简化合规性，通过存储生命周期策略现已正式提供 | 技术趋势](https://www.infoq.cn/article/oJ0Mwduxtl3P2v1ZbZaJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 17:00
+
+#### [火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral](https://www.infoq.cn/article/zaMWKCyS8bgwV1oMUdGk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 16:42
+
+#### [aiXcoder 7.0全新发布：面向企业真实研发场景，打“智能体工厂”](https://www.infoq.cn/article/36MwoVlUidFc1Ev9ioei?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-28 16:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/104156)
+**发布时间**: 2025-11-28 18:08
+
+#### [想学做饭，从哪些视频博主开始入门](https://sspai.com/prime/story/vlogs-for-learning-to-cook)
+**发布时间**: 2025-11-28 16:35
+
+#### [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/104144)
+**发布时间**: 2025-11-28 15:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [100%预测大盘走势的情绪指标？大师的择时策略靠谱吗？](http://www.huxiu.com/article/4810959.html?f=wangzhan)
+**发布时间**: 2025-11-28 18:00
 
 ---
 

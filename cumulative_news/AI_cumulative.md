@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-11-29 05:13
+**最后更新时间**: 2025-11-29 23:13
+
+---
+
+## 🆕 最新更新 (2025-11-29 23:13)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [AI驱动的行情里，AI终于成了淘金的铲子](https://www.jiqizhixin.com/articles/2025-11-29-5)
+**发布时间**: 2025-11-29 20:49
+
+#### [炸了！ICLR 一键清零 rebuttal，全网研究者怒了](https://www.jiqizhixin.com/articles/2025-11-29-4)
+**发布时间**: 2025-11-29 20:46
+
+#### [NeurIPS 2025 | DynaAct：DeepSeek R1之外，探索大模型推理的另一条道路](https://www.jiqizhixin.com/articles/2025-11-29-3)
+**发布时间**: 2025-11-29 20:43
+
+#### [世界模型，是否正在逼近自己的「ChatGPT时刻」？](https://www.jiqizhixin.com/articles/2025-11-29-2)
+**发布时间**: 2025-11-29 20:40
+
+#### [NeurIPS 2025 Oral | 1个Token零成本，REG让Diffusion训练收敛快20倍！](https://www.jiqizhixin.com/articles/2025-11-29)
+**发布时间**: 2025-11-29 20:38
 
 ---
 

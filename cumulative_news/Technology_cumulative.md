@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-28 23:13
+**最后更新时间**: 2025-11-29 05:14
+
+---
+
+## 🆕 最新更新 (2025-11-29 05:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [卷不过AI就去当CEO？架构师职业迎来“反向突围”｜独家对话哥大教授Arthur，M.，Langer](https://www.infoq.cn/article/gX2EwiLtCbeVgBMwoiMc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-29 13:00
+
+#### [Buoyant 宣布 Linkerd 支持 MCP，服务网格首次接管智能体式 AI 流量](https://www.infoq.cn/article/tahVbHZlCiDLk2NCgdlP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-29 11:00
+
+#### [Snowflake 成本优化：警惕那些 Rube Goldberg 式复杂查询 | 技术实践](https://www.infoq.cn/article/cV1hLo3Cb1qbN9JCz2CZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-29 09:30
+
+#### [“信息流转”视角下的Agent上下文工程规范与实践｜AICon北京](https://www.infoq.cn/article/Uj6yBUgwIFa1lwvVyyu8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-29 08:00
+
+#### [Valkey 9.0 引入多数据库集群、原子级槽位迁移，并带来大幅性能提升](https://www.infoq.cn/article/3Bv46oF2H6QxrNkGGCM4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-29 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Indian Commerce Chief Eyes Trade Deal to Lower U.S. Tariffs by Year-End](https://www.tmtpost.com/7787977.html)
+**发布时间**: 2025-11-29 11:57
+
+#### [Oracle Reportedly In talks with Banks on $38 Billion Funding for OpenAI Datacenters](https://www.tmtpost.com/7787974.html)
+**发布时间**: 2025-11-29 11:54
+
+#### [三巨头，捧出一个IPO](https://www.tmtpost.com/7787926.html)
+**发布时间**: 2025-11-29 11:37
+
+#### [Meituan Rejects Price War, Confident in Food Delivery Margin after Posting First Quarterly Loss Since 2022](https://www.tmtpost.com/7787952.html)
+**发布时间**: 2025-11-29 11:37
+
+#### [90后法务高管许思敏接棒宗馥莉，是不是权宜之计？](https://www.tmtpost.com/7787928.html)
+**发布时间**: 2025-11-29 10:54
+
+#### [阿里距离“谷歌时刻”还有多远？](https://www.tmtpost.com/7787368.html)
+**发布时间**: 2025-11-29 10:04
+
+#### [AI、外卖和国际化，三个核心命题透视阿里2477亿营收财报真相](https://www.tmtpost.com/7787612.html)
+**发布时间**: 2025-11-29 10:04
+
+#### [近期思考汇编：关于Gemini 3、Ilya访谈、Nested Learning](https://www.tmtpost.com/7787684.html)
+**发布时间**: 2025-11-29 10:03
+
+#### [这届“野生文旅”，野的是体验，卷的是安全](https://www.tmtpost.com/7787461.html)
+**发布时间**: 2025-11-29 09:54
+
+#### [全球肉业巨头将关停核心牛肉加工厂，牛肉产业的苦日子要来了？](https://www.tmtpost.com/7787732.html)
+**发布时间**: 2025-11-29 09:48
+
+#### [大模型是沉睡的智者：你不唤，它不醒](https://www.tmtpost.com/7787808.html)
+**发布时间**: 2025-11-29 09:44
+
+#### [AI医疗进阶3.0：医疗普惠潮下的效率革命与商业化破局丨2025·大复盘](https://www.tmtpost.com/7787613.html)
+**发布时间**: 2025-11-29 09:38
+
+#### [美光科技今年股价表现亮眼，戴尔和惠普的数据揭示了内存需求的新动向](https://www.tmtpost.com/7787826.html)
+**发布时间**: 2025-11-29 09:32
+
+#### [外卖大战刚开篇，美团想刹车，但阿里却猛踩油门](https://www.tmtpost.com/7787718.html)
+**发布时间**: 2025-11-29 09:24
+
+#### [“烧钱”豪赌未来，万亿阿里遇短期“阵痛”](https://www.tmtpost.com/7787582.html)
+**发布时间**: 2025-11-29 09:19
+
+#### [超级APP的“解体”时刻：当“千问们”成为需求起点？](https://www.tmtpost.com/7787567.html)
+**发布时间**: 2025-11-29 09:08
+
+#### [三家打榜，大众难评](https://www.tmtpost.com/7787550.html)
+**发布时间**: 2025-11-29 08:58
+
+#### [奶茶黑马赚钱快分红狠：古茗一年分红37亿，创始人王云安独揽15亿](https://www.tmtpost.com/7787657.html)
+**发布时间**: 2025-11-29 08:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/104157)
+**发布时间**: 2025-11-29 10:05
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [雷军：人形机器人将大面积进入小米工厂；淘宝闪购将全面取消超时扣款；苹果新专利：耳机读取脑电波](http://www.geekpark.net/news/357445)
+**发布时间**: 2025-11-29 09:12
 
 ---
 

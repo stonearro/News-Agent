@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 30 Nov 2025 08:16:00 GMT</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2025 08:17:03 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 23:13:00 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 23:13:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Transformer作者爆料GPT-5.1内幕！OpenAI内部命名规则变乱了</title>
-      <link>https://www.qbitai.com/2025/11/357506.html</link>
-      <description>&lt;![CDATA[Transformer作者爆料GPT-5.1内幕！OpenAI内部命名规则变乱了]]&gt;</description>
-      <pubDate>Sun, 30 Nov 2025 05:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/357506.html</guid>
+      <title>15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-30-5</link>
+      <description>&lt;![CDATA[15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>空间智能再进化！Spatial-SSRL帮助LVLM更好读懂空间</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-30-4</link>
+      <description>&lt;![CDATA[空间智能再进化！Spatial-SSRL帮助LVLM更好读懂空间]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 21:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>那些年，AI创始人创业有多奇葩</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-30-3</link>
+      <description>&lt;![CDATA[那些年，AI创始人创业有多奇葩]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 21:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>泄露代码显示，OpenAI要往ChatGPT里插广告了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-30-2</link>
+      <description>&lt;![CDATA[泄露代码显示，OpenAI要往ChatGPT里插广告了]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 21:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>NeurIPS 2025 | Language Ranker：从推荐系统的视角反思并优化大模型解码过程</title>
+      <link>https://www.jiqizhixin.com/articles/2025-11-30</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | Language Ranker：从推荐系统的视角反思并优化大模型解码过程]]&gt;</description>
+      <pubDate>Sun, 30 Nov 2025 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-30</guid>
       <category>AI</category>
     </item>
   </channel>

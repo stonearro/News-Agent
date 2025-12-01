@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-01 05:23
+**最后更新时间**: 2025-12-01 08:22
+
+---
+
+## 🆕 最新更新 (2025-12-01 08:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [途虎养车的加盟门店数，为何总是遥遥领先？](https://www.tmtpost.com/7786608.html)
+**发布时间**: 2025-12-01 16:01
+
+#### [【Fintech 周报】六大行集体下架五年期大额存单，险资年内举牌次数创近10年新高](https://www.tmtpost.com/7789633.html)
+**发布时间**: 2025-12-01 15:29
+
+#### [Why Did China Take a Hardline Stance on Stablecoins, Declaring Them Illegal, While the U.S. and Europe Opted for Regulation? | Opinion](https://www.tmtpost.com/7789462.html)
+**发布时间**: 2025-12-01 13:55
+
+#### [东风日产总算醒了](https://www.tmtpost.com/7788921.html)
+**发布时间**: 2025-12-01 13:53
+
+#### [对话Mootion童超：“一句话生成视频”撬动海外500万用户｜AI Founder请回答](https://www.tmtpost.com/7789407.html)
+**发布时间**: 2025-12-01 13:25
+
+#### [流感新药扎堆上市，谁才是真正的“顶流”？](https://www.tmtpost.com/7789048.html)
+**发布时间**: 2025-12-01 13:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [多模态思维链如何重塑 AI 与短视频的未来](https://www.infoq.cn/article/cgfpOVY9LVlazgZevusz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 15:54
+
+#### [下一代 AI 底座，需要怎样的 OS？｜2025 OpenCloudOS 操作系统大会全日程发布，席位有限，速来报名！](https://www.infoq.cn/article/aVjh3O42GKqO6umHPASD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 15:29
+
+#### [SAM 3 推出更强大的分割架构，面向现代视觉工作流程](https://www.infoq.cn/article/KmgM3piNAJEDhiwtUoMV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-01 14:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“赌徒”孙正义，日本人的春秋大梦](http://www.huxiu.com/article/4811388.html?f=wangzhan)
+**发布时间**: 2025-12-01 15:00
+
+#### [如何客观看待影视飓风的无氟冲锋衣被检测出含氟致癌物？](http://www.huxiu.com/article/4811324.html?f=wangzhan)
+**发布时间**: 2025-12-01 14:40
+
+#### [卖糖水的风，还是刮到了新茶饮](http://www.huxiu.com/article/4811071.html?f=wangzhan)
+**发布时间**: 2025-12-01 13:28
+
+#### [冲锋衣洗涤后面料鼓泡是什么原因？](http://www.huxiu.com/article/4811045.html?f=wangzhan)
+**发布时间**: 2025-12-01 13:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [昨晚，李想终于承认，他们走错了方向](http://www.geekpark.net/news/357486)
+**发布时间**: 2025-12-01 13:25
 
 ---
 

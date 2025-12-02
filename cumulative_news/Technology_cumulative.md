@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-01 23:13
+**最后更新时间**: 2025-12-02 05:14
+
+---
+
+## 🆕 最新更新 (2025-12-02 05:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Stripe的零停机数据转移平台以毫秒级流量切换迁移PB级数据](https://www.infoq.cn/article/b4ggCiClobYvRJH83ELp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 13:00
+
+#### [ChatGPT 混乱狂奔三周年：KPI 赢了一切，代价是一场致命的系统性故障](https://www.infoq.cn/article/3qW2ftQueKIqweMuWXd0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 12:00
+
+#### [DeepSeek 研究员：Speciale证明强化学习可持续扩展！谷歌AI研究员来划技术重点](https://www.infoq.cn/article/kl8Etgwi2EdrHDMbU859?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 12:00
+
+#### [微前端：迈向现代化前端架构的社会技术之旅](https://www.infoq.cn/article/1TQz62Q7wXK3sewmbkMG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 11:00
+
+#### [为何谷歌文件检索技术可能取代企业自建的RAG技术栈](https://www.infoq.cn/article/k5y6sxBlVlPxkPUIe4Lo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 10:00
+
+#### [Java资讯汇总：Liberica JDK、Jakarta EE、Open Liberty、Quarkus、JDKUpdater、OpenXava和Gradle](https://www.infoq.cn/article/wKEgJ4PBayFsHeh03bCD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-02 09:57
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [星链打击：下一代网络疑云](https://www.tmtpost.com/7791419.html)
+**发布时间**: 2025-12-02 12:11
+
+#### [海澜之家的“中年危机”](https://www.tmtpost.com/7791253.html)
+**发布时间**: 2025-12-02 12:10
+
+#### [泡芙羽绒服，硬控脆皮打工人](https://www.tmtpost.com/7791200.html)
+**发布时间**: 2025-12-02 12:10
+
+#### [NIO Shares Tumble Nearly 6% as November Deliveries Signal Monthly Decline](https://www.tmtpost.com/7791615.html)
+**发布时间**: 2025-12-02 12:06
+
+#### [陕西煤业，五年三倍，慢即是快](https://www.tmtpost.com/7791236.html)
+**发布时间**: 2025-12-02 12:05
+
+#### [短剧这一年，越来越像长剧了？](https://www.tmtpost.com/7791342.html)
+**发布时间**: 2025-12-02 12:04
+
+#### [AI眼镜，大厂第一战](https://www.tmtpost.com/7791358.html)
+**发布时间**: 2025-12-02 12:03
+
+#### [酒店接下来的日子会好么？](https://www.tmtpost.com/7791373.html)
+**发布时间**: 2025-12-02 12:02
+
+#### [公开发声、高调挖人、投资150亿，雷军想续上机器人梦](https://www.tmtpost.com/7784434.html)
+**发布时间**: 2025-12-02 11:57
+
+#### [收缩闪购、重押AI，阿里重算“生态账”](https://www.tmtpost.com/7791187.html)
+**发布时间**: 2025-12-02 11:55
+
+#### [自助“偷甘蔗”爆火，偷菜游戏永不落幕](https://www.tmtpost.com/7791329.html)
+**发布时间**: 2025-12-02 11:50
+
+#### [“奕境”登场：华为乾崑探索家庭智能车样本](https://www.tmtpost.com/7777891.html)
+**发布时间**: 2025-12-02 11:30
+
+#### [迈向 ASI，阿里云以全栈 AI 服务能力开拓智能新版图](https://www.tmtpost.com/7791235.html)
+**发布时间**: 2025-12-02 11:19
+
+#### [Tesla Sales Plunge in Most European Markets Deepens in November Despite a 175% Surge in Norway](https://www.tmtpost.com/7791377.html)
+**发布时间**: 2025-12-02 11:18
+
+#### [鸭绒价格涨至58万元每吨，羽绒服又要大涨价了吗？](https://www.tmtpost.com/7791116.html)
+**发布时间**: 2025-12-02 11:14
+
+#### [399元一个秒售罄，华为入局千亿“情绪生意”](https://www.tmtpost.com/7791096.html)
+**发布时间**: 2025-12-02 11:10
+
+#### [艾滋病攻防50年：一部未完待续的创新史](https://www.tmtpost.com/7790983.html)
+**发布时间**: 2025-12-02 11:09
+
+#### [Britain Agrees to Raise NHS Drug Spending 25% in Exchange for U.S. Tariff Exemption](https://www.tmtpost.com/7791270.html)
+**发布时间**: 2025-12-02 11:01
+
+#### [当中兴通讯遇上流量豆包，意义何在？](https://www.tmtpost.com/7790955.html)
+**发布时间**: 2025-12-02 11:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [网事：被遗忘的凡客诚品](http://www.huxiu.com/article/4811990.html?f=wangzhan)
+**发布时间**: 2025-12-02 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Quote/0 新玩法：当「张大妈」遇上「打工人」，我们把职场黑话做成了贴纸](https://sspai.com/post/104126)
+**发布时间**: 2025-12-02 11:30
+
+#### [派早报：Google 与 Amazon 达成多云解决方案合作等](https://sspai.com/post/104227)
+**发布时间**: 2025-12-02 08:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道](http://www.geekpark.net/news/357517)
+**发布时间**: 2025-12-02 08:41
 
 ---
 

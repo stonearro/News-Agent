@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 05:15
+**最后更新时间**: 2025-12-03 23:15
+
+---
+
+## 🆕 最新更新 (2025-12-03 23:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Li Auto Forays into Wearable-AI with Smart Glasses Livis Starting $283](https://www.tmtpost.com/7794926.html)
+**发布时间**: 2025-12-04 02:24
+
+#### [Robotics stocks Jump on Trump Admin. Reported to 'All-in' and Weigh Order to Boost Industry](https://www.tmtpost.com/7794917.html)
+**发布时间**: 2025-12-04 01:04
+
+#### [Nvidia Open Sources Latest VLA—Can It Break Through L4 Autonomous Driving Barriers?](https://www.tmtpost.com/7794822.html)
+**发布时间**: 2025-12-03 23:31
+
+#### [17亿纾困变夺权？贵州百灵实控人与华创证券对簿公堂](https://www.tmtpost.com/7794603.html)
+**发布时间**: 2025-12-03 21:59
+
+#### [爱克股份22亿豪赌东莞硅翔，新能源转型“背水一战”｜并购一线](https://www.tmtpost.com/7794644.html)
+**发布时间**: 2025-12-03 21:38
+
+#### [VLA、世界模型与一副AI眼镜：理想在押注怎样的未来？](https://www.tmtpost.com/7794584.html)
+**发布时间**: 2025-12-03 20:26
+
+#### [安凯微失血仍举债豪赌，十余家VC借道曲线退出](https://www.tmtpost.com/7794215.html)
+**发布时间**: 2025-12-03 19:07
+
+#### [AI为漫剧开了金手指](https://www.tmtpost.com/7794160.html)
+**发布时间**: 2025-12-03 18:44
+
+#### [AI「圈地」运动的开始](https://www.tmtpost.com/7794284.html)
+**发布时间**: 2025-12-03 18:44
+
+#### [潜力Biotech溃败，前列腺癌再成“研发黑洞”](https://www.tmtpost.com/7793637.html)
+**发布时间**: 2025-12-03 18:18
+
+#### [蔚来的 2025：死去，活来](https://www.tmtpost.com/7794208.html)
+**发布时间**: 2025-12-03 18:18
+
+#### [阿维塔递交招股书：富二代少的不是底气，而是“王思聪式”出圈](https://www.tmtpost.com/7793962.html)
+**发布时间**: 2025-12-03 18:18
+
+#### [跑在中国土地上的无人驾驶卡车](https://www.tmtpost.com/7793716.html)
+**发布时间**: 2025-12-03 17:53
+
+#### [亏损中逆势收购上游设备商，恩捷股份打响隔膜产业链整合第一枪](https://www.tmtpost.com/7793468.html)
+**发布时间**: 2025-12-03 17:53
+
+#### [亚马逊正淘汰一批卖家](https://www.tmtpost.com/7793782.html)
+**发布时间**: 2025-12-03 17:53
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 2025 世界开发者说-DAY2 | 同频共振：在re:Invent现场，大家都在聊些什么？](https://www.infoq.cn/video/bEJKvOC2LMZ6m5bAqUtv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 21:04
+
+#### [当亚马逊云科技拿到“麦克”，一年的云计算叙事都被改写了](https://www.infoq.cn/article/AgFXuIds2NWv5do02TeI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 19:52
+
+#### [Zig 退出 GitHub：微软对AI 的痴迷毁了它](https://www.infoq.cn/article/OhSxrrI8GEE7DhPWCekE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 18:40
+
+#### [Gemini 首次反超 ChatGPT，谷歌CEO劈柴哥复盘：不止是十年算力与全栈豪赌，更是找回了“老谷歌”那个味儿](https://www.infoq.cn/article/430kwuOXPJkk80wtX75J?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 18:30
+
+#### [Linux之父：AI泡沫“病态扭曲、迟早暴跌”、马斯克式代码行 KPI“愚蠢到不该待在科技圈”](https://www.infoq.cn/article/dy8pytV166TfySk4YRB4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 18:23
+
+#### [“通义科技助老”小程序正式上线：AI科技赋能银发关怀，智慧守护健康晚年](https://www.infoq.cn/article/30ffyNdizuUNbdM8DsIF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 18:03
+
+#### [🚀亚马逊云科技 2025 re:Invent 高光时刻 - DAY2！](https://www.infoq.cn/article/MeLM9uVj6ImGfzczP7a2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 17:46
+
+#### [大模型每百天性能翻倍！清华团队“密度法则”登上 Nature 子刊](https://www.infoq.cn/article/haMf7pRkZph8GiUzIe1S?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 16:33
+
+#### [LSTM之父劝不动Altman，但Transformer“亲爹”已跑路：一个赛道里卷没意思，无脑scaling也不行](https://www.infoq.cn/article/VpQfr4EHzUu3cMOVRsNY?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 16:25
+
+#### [生成式推荐与广告大模型的真实落地挑战 ｜InfoQ《极客有约》](https://www.infoq.cn/video/0ViWrdqyQwNvO7TdQpyD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 15:26
+
+#### [re:Invent 特别企划之“五天五问”Day 1 异见与共识](https://www.infoq.cn/video/fQ7NHcSBQTfEXwdIlq64?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 14:15
+
+#### [Azure Virtual Desktop通过Arc-Enabled Servers实现完全混合部署](https://www.infoq.cn/article/Rsdgvzk8LXEaJalQCq0j?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-03 14:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [梦核、CCD、Y2K……当代年轻人，为何爱怀旧？](http://www.huxiu.com/article/4812687.html?f=wangzhan)
+**发布时间**: 2025-12-03 21:00
+
+#### [预制菜天堂，真正的中国预制菜之神-米村拌饭](http://www.huxiu.com/article/4812948.html?f=wangzhan)
+**发布时间**: 2025-12-03 18:30
+
+#### [美联储换人，全球买单？新一轮“通胀输出”即将开始](http://www.huxiu.com/article/4812584.html?f=wangzhan)
+**发布时间**: 2025-12-03 13:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 Apple Intelligence 到来之前，用快捷指令做个 Gemini 识屏助手](https://sspai.com/prime/story/extract-from-screenshots-with-gemini-on-iphone)
+**发布时间**: 2025-12-03 17:53
+
+#### [🐰🦊搭配天生一对：为什么我们喜欢《疯狂动物城》](https://sspai.com/post/104251)
+**发布时间**: 2025-12-03 17:30
+
+#### [iOS 中的这些无障碍功能，你都了解吗？](https://sspai.com/post/104099)
+**发布时间**: 2025-12-03 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [实测千问 App 生图、生视频功能：国产实用主义的突围](http://www.geekpark.net/news/357569)
+**发布时间**: 2025-12-03 14:45
+
+#### [直击爱奇艺 AI 剧场创作营：当奥斯卡摄影大师遇上 AI](http://www.geekpark.net/news/357568)
+**发布时间**: 2025-12-03 14:13
 
 ---
 

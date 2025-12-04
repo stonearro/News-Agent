@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-04 05:19
+**最后更新时间**: 2025-12-04 08:21
+
+---
+
+## 🆕 最新更新 (2025-12-04 08:21)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [抢到票的必读：创新大会 2026 超全攻略！](http://www.geekpark.net/news/357613)
+**发布时间**: 2025-12-04 16:01
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [ChatGPT 诞生三年，OpenAI 还未取得绝对领先](https://www.tmtpost.com/7795449.html)
+**发布时间**: 2025-12-04 15:17
+
+#### [“宁波铜王”财富大挪移，34亿元股票赠儿女](https://www.tmtpost.com/7794783.html)
+**发布时间**: 2025-12-04 15:17
+
+#### [港投公司首份年报亮相：总资产超640亿港元，硬科技投资占比超七成 | 公司动态](https://www.tmtpost.com/7795302.html)
+**发布时间**: 2025-12-04 15:06
+
+#### [拼命化债的香港郑氏家族，要卖瑰丽酒店？](https://www.tmtpost.com/7795239.html)
+**发布时间**: 2025-12-04 13:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [朱雀三号首发成功入轨，但为什么回收失败？](http://www.huxiu.com/article/4813144.html?f=wangzhan)
+**发布时间**: 2025-12-04 15:00
+
+#### [美国新生儿还没学会叫爸爸，他们这一生就要先跟股市绑定了？](http://www.huxiu.com/article/4812892.html?f=wangzhan)
+**发布时间**: 2025-12-04 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [深入 iPhone 17 Pro：把 ProRes RAW 和 Open Gate 一次讲清楚](https://sspai.com/post/104213)
+**发布时间**: 2025-12-04 14:59
+
+#### [十年之后再出发，Apple 北京荟聚抢先看](https://sspai.com/post/104301)
+**发布时间**: 2025-12-04 14:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从补全到 Agentic Edit：Trae 在代码编辑上的落地与进化](https://www.infoq.cn/article/ep5bS0fMyaLbANwhohoE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 14:58
+
+#### [谷歌全新推出的LiteRT加速器为骁龙平台安卓设备的AI工作负载注入强劲动力](https://www.infoq.cn/article/muCJpeF9WrIpu4vO3Pv2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 14:00
+
+#### [烧钱，能解决 AI 存储的焦虑吗？](https://www.infoq.cn/article/2PGXMs2e1JPiO10epV0h?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 13:55
 
 ---
 

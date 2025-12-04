@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-03 23:15
+**最后更新时间**: 2025-12-04 05:14
+
+---
+
+## 🆕 最新更新 (2025-12-04 05:14)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [美国各州正建设自己专用的AI用超级计算机，意在加速各项研究进程](https://www.jiqizhixin.com/articles/2025-12-04-4)
+**发布时间**: 2025-12-04 12:05
+
+#### [全球顶尖AI科学家齐聚“大晓机器人”， 将于12月18日开源“开悟”世界模型（Kairos 3.0）](https://www.jiqizhixin.com/articles/2025-12-04-3)
+**发布时间**: 2025-12-04 11:53
+
+#### [ICLR重磅回应：评审回滚、AC重置、封禁泄密者、严查贿赂串通](https://www.jiqizhixin.com/articles/2025-12-04-2)
+**发布时间**: 2025-12-04 11:31
+
+#### [估值7.5亿美元初创意欲「撬动」8000亿半导体市场？前谷歌AlphaChip主导者创业研发「AI芯片设计自动化」](https://www.jiqizhixin.com/articles/2025-12-04)
+**发布时间**: 2025-12-04 11:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [记忆张量 × 商汤大装置：国产 GPGPU 推理成本反超 A100！](https://www.qbitai.com/2025/12/358566.html)
+**发布时间**: 2025-12-04 03:07
+
+#### [清华成立具身智能与机器人研究院](https://www.qbitai.com/2025/12/358555.html)
+**发布时间**: 2025-12-04 01:02
+
+#### [DeepSeekV3.2技术报告还是老外看得细](https://www.qbitai.com/2025/12/358490.html)
+**发布时间**: 2025-12-04 00:55
+
+#### [后生可畏！何恺明团队新成果发布，共一清华姚班大二在读](https://www.qbitai.com/2025/12/358411.html)
+**发布时间**: 2025-12-04 00:50
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence](https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/)
+**发布时间**: 2025-12-03 22:47
 
 ---
 

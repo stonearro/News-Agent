@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-04 08:21
+**最后更新时间**: 2025-12-04 23:13
+
+---
+
+## 🆕 最新更新 (2025-12-04 23:13)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+**发布时间**: 2025-12-04 19:26
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [免费版Banana2来了，Vidu推出Q2生图全家桶，限时无限免费](https://www.jiqizhixin.com/articles/2025-12-04-11)
+**发布时间**: 2025-12-04 18:11
+
+#### [DeepSeek-V3.2巨「吃」Token，竟然是被GRPO背刺了](https://www.jiqizhixin.com/articles/2025-12-04-10)
+**发布时间**: 2025-12-04 16:32
+
+#### [碾压π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架](https://www.jiqizhixin.com/articles/2025-12-04-9)
+**发布时间**: 2025-12-04 16:28
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [中国AI计算开放架构创新风向标：HAIC2025重磅启幕](https://www.qbitai.com/2025/12/359022.html)
+**发布时间**: 2025-12-04 10:40
+
+#### [Sora APP 30天留存率：1%](https://www.qbitai.com/2025/12/358665.html)
+**发布时间**: 2025-12-04 10:37
+
+#### [嘉宾全阵容揭晓！张亚勤孙茂松，百度小米商汤谷歌都要来MEET2026](https://www.qbitai.com/2025/12/358867.html)
+**发布时间**: 2025-12-04 10:09
+
+#### [下周三！量子位的这件大事就要来了｜MEET2026](https://www.qbitai.com/2025/12/358715.html)
+**发布时间**: 2025-12-04 09:45
+
+#### [抢到票的必读：创新大会 2026 超全攻略！](https://www.qbitai.com/2025/12/358683.html)
+**发布时间**: 2025-12-04 09:25
+
+#### [GPT-5-Thinking新训练方法公开：让AI学会忏悔](https://www.qbitai.com/2025/12/358618.html)
+**发布时间**: 2025-12-04 09:03
+
+#### [Invent 2025 Swami博士主题演讲：可用、易用、可靠的Agentic AI核心技术路径](https://www.qbitai.com/2025/12/358627.html)
+**发布时间**: 2025-12-04 09:01
+
+#### [又一高管弃库克而去！苹果UI设计负责人转投Meta](https://www.qbitai.com/2025/12/358601.html)
+**发布时间**: 2025-12-04 07:41
 
 ---
 

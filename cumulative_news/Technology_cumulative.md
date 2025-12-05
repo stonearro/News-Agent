@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 08:24
+**最后更新时间**: 2025-12-05 23:13
+
+---
+
+## 🆕 最新更新 (2025-12-05 23:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Musk's X Receives First EU Fine Under Digital Services Act](https://www.tmtpost.com/7798915.html)
+**发布时间**: 2025-12-06 02:41
+
+#### [Lessons from Three Tech Bubble Bursts: How to Escape the "AI Bubble"?](https://www.tmtpost.com/7798735.html)
+**发布时间**: 2025-12-05 21:35
+
+#### [Netflix to Acquire Warner Brothers in Landmark $82.7 Billion Deal](https://www.tmtpost.com/7798725.html)
+**发布时间**: 2025-12-05 21:26
+
+#### [李宁首家户外独立店亮相北京；利郎牵头起草国内首批拒水羽绒团体标准；迪卡侬亚洲首家户外概念店落地成都来福士｜消研所周报](https://www.tmtpost.com/7797517.html)
+**发布时间**: 2025-12-05 20:52
+
+#### [复盘2025年C端卡位战：阿里猛攻，字节守擂，腾讯亟需证明实力](https://www.tmtpost.com/7798096.html)
+**发布时间**: 2025-12-05 19:14
+
+#### [顾家家居的尖峰时刻](https://www.tmtpost.com/7796267.html)
+**发布时间**: 2025-12-05 19:14
+
+#### [豆包手机：从加价疯抢到吐槽一片，彩蛋竟是锤子归来？](https://www.tmtpost.com/7796853.html)
+**发布时间**: 2025-12-05 19:13
+
+#### [当“流量品牌”撞上地缘政治：安克创新的光环与暗面](https://www.tmtpost.com/7796451.html)
+**发布时间**: 2025-12-05 19:06
+
+#### [AI科技企业拟18亿元控股毛毯企业真爱美家，原实控人将获超11亿元现金](https://www.tmtpost.com/7796547.html)
+**发布时间**: 2025-12-05 19:05
+
+#### [夸克、千问、灵光各自为战，阿里需要下一个蒋凡](https://www.tmtpost.com/7797540.html)
+**发布时间**: 2025-12-05 19:03
+
+#### [东北985学霸在广州做出了川渝面馆老大，想做“面条界麦当劳”](https://www.tmtpost.com/7798388.html)
+**发布时间**: 2025-12-05 19:02
+
+#### [魅族活成Other厂商的镜子](https://www.tmtpost.com/7798468.html)
+**发布时间**: 2025-12-05 18:59
+
+#### [保守的谷歌，激进的豆包](https://www.tmtpost.com/7798472.html)
+**发布时间**: 2025-12-05 18:57
+
+#### [泰国一线观察：中企如何重建“永康模式”](https://www.tmtpost.com/7798248.html)
+**发布时间**: 2025-12-05 18:56
+
+#### [中美大模型“登月路”：谷歌与月之暗面的这一年](https://www.tmtpost.com/7798264.html)
+**发布时间**: 2025-12-05 18:54
+
+#### [转行七年后，我曾经的职业彻底被AI颠覆](https://www.tmtpost.com/7798301.html)
+**发布时间**: 2025-12-05 18:53
+
+#### [国产先进封装，持续增长](https://www.tmtpost.com/7798406.html)
+**发布时间**: 2025-12-05 18:49
+
+#### [运动的风，终究吹到了县城](https://www.tmtpost.com/7798420.html)
+**发布时间**: 2025-12-05 18:48
+
+#### [摩尔线程上市，谁是大赢家？](https://www.tmtpost.com/7798337.html)
+**发布时间**: 2025-12-05 18:47
+
+#### [摸着蔚来手机过河的理想眼镜](https://www.tmtpost.com/7798419.html)
+**发布时间**: 2025-12-05 18:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 2025 特别企划之“五天五问”Day 3 选择即创造——预告片](https://www.infoq.cn/video/UaljshJJWWAB4xMuDFSj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 22:20
+
+#### [re:Invent 2025 世界开发者说-DAY4 | 新品速评：开发者们最关注哪些新发布？](https://www.infoq.cn/video/67ShcWdLdsOhtWO9rPfC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 20:18
+
+#### [🚀亚马逊云科技 2025 re:Invent 高光时刻 - DAY4！](https://www.infoq.cn/article/H42AVUxCJ40pg2ZGTS5k?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 19:59
+
+#### [当云计算开始在硅谷“造星”，一场自我革命开始了](https://www.infoq.cn/article/0vI7po0SXHw2hI4JcvEM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 18:32
+
+#### [Agent 除了聊天，还能如何在投标、BI、用研与运维中“干重活”？](https://www.infoq.cn/article/q6tdA7aShv4RkQppHCQk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 18:06
+
+#### [谷歌承认其王牌编程工具Antigravity出现“清除了用户硬盘“的问题](https://www.infoq.cn/article/rC9PP9GAVZfIK1KkBcSW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 17:52
+
+#### [AI原生数据库的思考](https://www.infoq.cn/article/V2DodZM4tsW0KISxkUUq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 17:26
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [国补将近两年，谁吃到了甜头，谁赚到了钱](http://www.huxiu.com/article/4814111.html?f=wangzhan)
+**发布时间**: 2025-12-05 18:30
+
+#### [通俗解释：永久投资组合是什么？](http://www.huxiu.com/article/4814002.html?f=wangzhan)
+**发布时间**: 2025-12-05 16:10
+
+#### [AI手机，会反杀传统手机厂商吗？](http://www.huxiu.com/article/4813929.html?f=wangzhan)
+**发布时间**: 2025-12-05 14:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/104363)
+**发布时间**: 2025-12-05 18:05
+
+#### [App Store Awards 年度应用大奖出炉，今年有什么不一样？](https://sspai.com/post/104350)
+**发布时间**: 2025-12-05 15:44
 
 ---
 

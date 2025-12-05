@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-04 23:13
+**最后更新时间**: 2025-12-05 05:14
+
+---
+
+## 🆕 最新更新 (2025-12-05 05:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软的Azure Cobalt 200 ARM芯片带来了50%的性能提升](https://www.infoq.cn/article/XSpf3Kx8xGV15D2LfAtO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 13:00
+
+#### [夸克AI眼镜S1一手实测 and 小编们の聊天局｜AI的n次方](https://www.infoq.cn/video/eBNUzJy2m1W5UEqC8tiM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 12:09
+
+#### [CTO 焦虑自白：为什么我们有了 AI 博士生，但员工却越干越累？｜InfoQ《极客有约》](https://www.infoq.cn/video/UhEeVxdFNDd2HzStU7Ec?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 11:59
+
+#### [Aspire 13 带来了多语种支持和多项显著改进](https://www.infoq.cn/article/Mf4iA4kVmah61PjJj8Wt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 11:32
+
+#### [Groundcover使用可观察性迁移工具瞄准Datadog用户](https://www.infoq.cn/article/j2FPLWc7czKVdZksde6v?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 11:28
+
+#### [腾讯发布 EdgeOne Pages 正式版：国内首个边缘全栈开发平台，内测阶段用户突破15万](https://www.infoq.cn/article/zpf31KMDKJwZV9thOJKM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 11:16
+
+#### [京东、飞猪、云知声、蚂蚁专家复盘，揭秘 AI 提效的 4 本实战账本 | AICon](https://www.infoq.cn/article/QktMCDpImuBotYhFhVpc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 11:00
+
+#### [让表格会思考，多智能体重构大数据自助分析｜AICon北京](https://www.infoq.cn/article/MRcqeCqEbFKARTizgk1c?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 10:55
+
+#### [“人人都是程序员”的梦该醒了！AI编程“大逃杀”：Cursor或成创业公司唯一“幸存者”，“60分开发者”撑起最后防线](https://www.infoq.cn/article/FZYIG9xfw6eIBGLdgsT2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-05 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Agentic AI时代，向量数据库成“必选项”](https://www.tmtpost.com/7796610.html)
+**发布时间**: 2025-12-05 12:56
+
+#### [Blue Owl Raises $1.7 Billion for Datacenter Fund After Scrapping Private Credit Funds Merger](https://www.tmtpost.com/7797483.html)
+**发布时间**: 2025-12-05 12:41
+
+#### [“中国版英伟达”摩尔线程上市首日暴涨，国产芯片股集体狂欢](https://www.tmtpost.com/7796786.html)
+**发布时间**: 2025-12-05 12:06
+
+#### [Meta Stock Rises on Reported Plan to Cut Metaverse Budget by Up to 30%](https://www.tmtpost.com/7797409.html)
+**发布时间**: 2025-12-05 11:53
+
+#### [安克创新招股书里的AB面：高增长叙事与供应链裂痕](https://www.tmtpost.com/7797315.html)
+**发布时间**: 2025-12-05 11:50
+
+#### [怎么一年过去，李楠就不看好AI眼镜了？](https://www.tmtpost.com/7797259.html)
+**发布时间**: 2025-12-05 11:48
+
+#### [月之暗面，不想下牌桌](https://www.tmtpost.com/7797329.html)
+**发布时间**: 2025-12-05 11:47
+
+#### [绝不收手，淘宝闪购真正自立门户](https://www.tmtpost.com/7797376.html)
+**发布时间**: 2025-12-05 11:42
+
+#### [朱雀三号回收失败，中国版“Space X”无法一蹴而就](https://www.tmtpost.com/7797302.html)
+**发布时间**: 2025-12-05 11:33
+
+#### [Goldman Said to Pause CyrusOne Bond Sale After CME Thanksgiving Datacenter Outage](https://www.tmtpost.com/7797296.html)
+**发布时间**: 2025-12-05 11:18
+
+#### [探秘游戏叙事的王者之路：一家40岁的小公司这样风靡世界](https://www.tmtpost.com/7797184.html)
+**发布时间**: 2025-12-05 11:16
+
+#### [一瓶3块5，年销超百亿，卖了30年的“土味饮料”翻红](https://www.tmtpost.com/7797210.html)
+**发布时间**: 2025-12-05 11:16
+
+#### [矿产民族主义全球崛起](https://www.tmtpost.com/7795381.html)
+**发布时间**: 2025-12-05 11:15
+
+#### [安踏“跨”彪马：丁世忠已经按捺不住野心了](https://www.tmtpost.com/7796233.html)
+**发布时间**: 2025-12-05 11:13
+
+#### [净利暴增837%，户储一哥，仍未脱“困”](https://www.tmtpost.com/7796629.html)
+**发布时间**: 2025-12-05 11:12
+
+#### [毛利率70%，海菲曼IPO过会成功](https://www.tmtpost.com/7796100.html)
+**发布时间**: 2025-12-05 11:05
+
+#### [AI 接管手机这事儿，豆包能干成么？](https://www.tmtpost.com/7796361.html)
+**发布时间**: 2025-12-05 10:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派 12 月主题征稿：互联网「羊毛」、年度游戏、好用但停更的 app……](https://sspai.com/post/104329)
+**发布时间**: 2025-12-05 11:30
+
+#### [派早报：美光终止 Crucial 英睿达消费级业务](https://sspai.com/post/104327)
+**发布时间**: 2025-12-05 08:48
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [山姆搞成现在这样，是因为阿里前高管吗？](http://www.huxiu.com/article/4813554.html?f=wangzhan)
+**发布时间**: 2025-12-05 09:32
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iPhone Air成苹果最不保值手机；黄仁勋：4点起来工作，子女不敢懈怠；影翎全景无人机正式上市，6799起售](http://www.geekpark.net/news/357634)
+**发布时间**: 2025-12-05 08:26
 
 ---
 

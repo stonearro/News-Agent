@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-05 23:13
+**最后更新时间**: 2025-12-06 05:14
+
+---
+
+## 🆕 最新更新 (2025-12-06 05:14)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [古井贡酒：一副春联里的年味经济学，如何酿出C端情感共鸣？](https://www.tmtpost.com/7799062.html)
+**发布时间**: 2025-12-06 12:51
+
+#### [SpaceX Reported to Eye $800 Billion Record-Setting Valuation, Targeting 2026 IPO](https://www.tmtpost.com/7799133.html)
+**发布时间**: 2025-12-06 12:42
+
+#### [OpenAI Reportedly Accelerates GPT-5.2 Release Following CEO's 'Code Red' Alert](https://www.tmtpost.com/7799068.html)
+**发布时间**: 2025-12-06 11:48
+
+#### [Baidu Shares Surge on Reports of AI Chip Unit Kunlunxin's Hong Kong IPO Plan](https://www.tmtpost.com/7799030.html)
+**发布时间**: 2025-12-06 11:23
+
+#### [2025县域教育高质量发展大会在海南博鳌举行](https://www.tmtpost.com/7798970.html)
+**发布时间**: 2025-12-06 10:44
+
+#### [具身智能时代，谁将成为下一个“中国巴菲特”？](https://www.tmtpost.com/7798572.html)
+**发布时间**: 2025-12-06 09:00
+
+#### [豆包不必这么匆匆忙忙](https://www.tmtpost.com/7798630.html)
+**发布时间**: 2025-12-06 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [深圳硬件创业者，正在悄悄走入第二个「黄金时代」](http://www.geekpark.net/news/357688)
+**发布时间**: 2025-12-06 10:56
+
+#### [Netflix报827亿美元收购华纳；小米17 Ultra曝光；摩尔线程上市首日暴涨468%｜极客早知道](http://www.geekpark.net/news/357685)
+**发布时间**: 2025-12-06 07:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent 2025 世界开发者说-DAY5 | 未来指南：re:Invent 带给开发者哪些启示？看看Jeff Barr怎么说](https://www.infoq.cn/video/UbpjVUzBpGF2Uv9tXSii?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-06 10:00
+
+#### [面向智能研发的知识引擎构建及业务应用 ｜AICon北京](https://www.infoq.cn/article/82e7BGjhz87uh6BHUuSk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-06 08:00
+
+#### [Helm通过六年来最大规模的版本发布，提升了Kubernetes的包管理能力](https://www.infoq.cn/article/FHfdLrAsZ3kDjaidakob?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-06 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国汽车的真正考验，才刚开始](http://www.huxiu.com/article/4811722.html?f=wangzhan)
+**发布时间**: 2025-12-06 07:38
 
 ---
 

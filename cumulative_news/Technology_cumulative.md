@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-07 05:14
+**最后更新时间**: 2025-12-07 08:22
+
+---
+
+## 🆕 最新更新 (2025-12-07 08:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算](https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-07 16:12
+
+#### [运维大规模反向代理的教训](https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-07 16:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [字节即梦张楠：AI 时代，如何探索人的想象力？](http://www.geekpark.net/news/357697)
+**发布时间**: 2025-12-07 15:33
+
+#### [影石刘靖康：全景无人机，是「马车时代的汽车」](http://www.geekpark.net/news/357696)
+**发布时间**: 2025-12-07 15:20
+
+#### [好产品与时代共振｜2025 年度极客最爱好物](http://www.geekpark.net/news/357695)
+**发布时间**: 2025-12-07 14:43
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [做豆包AI手机前，张一鸣也行应该跟马化腾聊一聊](https://www.tmtpost.com/7799620.html)
+**发布时间**: 2025-12-07 13:49
+
+#### [对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选](https://www.tmtpost.com/7799686.html)
+**发布时间**: 2025-12-07 13:33
 
 ---
 

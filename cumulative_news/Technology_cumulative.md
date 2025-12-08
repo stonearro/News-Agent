@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 05:22
+**最后更新时间**: 2025-12-08 08:22
+
+---
+
+## 🆕 最新更新 (2025-12-08 08:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chinese Startup EngineAI Completes A1+ and A2 Funding Rounds, Launches Humanoid T800](https://www.tmtpost.com/7801102.html)
+**发布时间**: 2025-12-08 15:57
+
+#### [追梦空天科技完成近两亿元A轮融资，持续领跑混动倾转赛道 | 融资速递](https://www.tmtpost.com/7801070.html)
+**发布时间**: 2025-12-08 15:48
+
+#### [光伏破局：全面调整期的“反内卷”攻坚与价值重构丨2025·大复盘](https://www.tmtpost.com/7800939.html)
+**发布时间**: 2025-12-08 15:36
+
+#### [当57岁“数学传奇”决定为24岁“天才少女”的AI项目打工](https://www.tmtpost.com/7799942.html)
+**发布时间**: 2025-12-08 15:26
+
+#### [Airwallex空中云汇完成3.3亿美元G轮融资，估值达80亿美元](https://www.tmtpost.com/7800949.html)
+**发布时间**: 2025-12-08 15:09
+
+#### [达晨、华控领投，极佳视界A2轮再融2亿，押注“世界模型+行动模型”原生架构](https://www.tmtpost.com/7800936.html)
+**发布时间**: 2025-12-08 14:57
+
+#### [Hinton Says AI is Already Conscious, Flawed Models Make AI Believe They are Not](https://www.tmtpost.com/7800865.html)
+**发布时间**: 2025-12-08 14:17
+
+#### [神悦铸造：一项被雪藏30年技术的破冰之战｜50X50](https://www.tmtpost.com/7800752.html)
+**发布时间**: 2025-12-08 13:49
+
+#### ["Godfather of AI" Criticizes Elon Musk's “Irresponsible” Behaviour in AI Sector](https://www.tmtpost.com/7800773.html)
+**发布时间**: 2025-12-08 13:37
+
+#### [宫斗升级，曾经温暖无数国人的大品牌，悬了](https://www.tmtpost.com/7800514.html)
+**发布时间**: 2025-12-08 13:36
+
+#### [谁在赢得最后的红利](https://www.tmtpost.com/7800553.html)
+**发布时间**: 2025-12-08 13:28
+
+#### [执着追逐风口，69岁的海正药业仍要豪赌“多元化”](https://www.tmtpost.com/7800592.html)
+**发布时间**: 2025-12-08 13:20
+
+#### [豆包手机助手：打响“去App时代”的第一枪](https://www.tmtpost.com/7800629.html)
+**发布时间**: 2025-12-08 13:14
+
+#### [500亿梦未竞，林孝发和九牧卫浴是时候重定目标了？](https://www.tmtpost.com/7800660.html)
+**发布时间**: 2025-12-08 13:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake 为企业带来更智能、可治理的人工智能技术 | 技术趋势](https://www.infoq.cn/article/sGNUDN9VkbO1L0E98bru?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 15:33
+
+#### [太空 AI 时代来了？马斯克年射 100 万吨 AI 卫星，称月球建厂才是最便宜的算力出路](https://www.infoq.cn/article/lMRBQa6agghLo7zQ7MG1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 15:10
+
+#### [“穿越者” Werner Vogels 的谢幕时刻](https://www.infoq.cn/article/tetJXTlT2ZGKMeK96mCx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-08 14:36
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [罗永浩的十字路口：播客、年轻人和 AI 浪潮](http://www.geekpark.net/news/357750)
+**发布时间**: 2025-12-08 15:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [工作日的冬夜吃什么？15 分钟就能搞定的绝味火锅们](https://sspai.com/post/64749)
+**发布时间**: 2025-12-08 15:04
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [咱们的半导体，凡是没被制裁按死的，现在都强得可怕](http://www.huxiu.com/article/4814147.html?f=wangzhan)
+**发布时间**: 2025-12-08 13:00
+
+#### [香港火灾背后：要命的超高层住宅](http://www.huxiu.com/article/4814174.html?f=wangzhan)
+**发布时间**: 2025-12-08 10:40
+
+#### [7天票房21亿，《疯狂动物城2》火在哪里？](http://www.huxiu.com/article/4814471.html?f=wangzhan)
+**发布时间**: 2025-12-08 09:48
 
 ---
 

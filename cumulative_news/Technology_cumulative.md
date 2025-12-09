@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 05:15
+**最后更新时间**: 2025-12-09 08:21
+
+---
+
+## 🆕 最新更新 (2025-12-09 08:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！](https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 15:43
+
+#### [摩尔线程放大招？新一代 GPU 架构即将揭晓](https://www.infoq.cn/article/P4kfSIpdRG5grumbDZWH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 14:54
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [年底的文旅资本市场，开始“冲业绩”了](https://www.tmtpost.com/7802410.html)
+**发布时间**: 2025-12-09 15:37
+
+#### [猛士汽车有了华为，越野开始不讲武德了？](https://www.tmtpost.com/7802707.html)
+**发布时间**: 2025-12-09 15:09
+
+#### [The 2025 T-EDGE：A Feast of Ideas Dedicated to the AI Era](https://www.tmtpost.com/7802780.html)
+**发布时间**: 2025-12-09 14:37
+
+#### [2025饮料新品TOP100：元气森林、农夫山泉、康师傅、统一激战新品、乳饮退潮谁来补位？](https://www.tmtpost.com/7802195.html)
+**发布时间**: 2025-12-09 14:11
+
+#### [2025年底越南数字经济规模将达到390亿美元；TEMU在欧洲推出Y2新模式；菜鸟100%控股跨境物流商递四方｜一周出海参考](https://www.tmtpost.com/7789567.html)
+**发布时间**: 2025-12-09 13:48
+
+#### [日本计划对跨境电商平台征收消费税；TikTok Shop美国黑五GMV突破5亿美元；微信支付落地卡塔尔｜一周出海参考](https://www.tmtpost.com/7801116.html)
+**发布时间**: 2025-12-09 13:46
+
+#### [儿童饮料，一门持久而暴利的生意？](https://www.tmtpost.com/7802417.html)
+**发布时间**: 2025-12-09 13:17
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [极客公园创新大会 2026 在京落幕，罗永浩、张楠、何小鹏、刘靖康等共议 AI 时代「进程由我」](http://www.geekpark.net/news/357802)
+**发布时间**: 2025-12-09 14:53
 
 ---
 

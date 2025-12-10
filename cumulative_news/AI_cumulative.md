@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-10 08:20
+**最后更新时间**: 2025-12-10 23:12
+
+---
+
+## 🆕 最新更新 (2025-12-10 23:12)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [A differentially private framework for gaining insights into AI chatbot use](https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/)
+**发布时间**: 2025-12-10 21:59
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [GPT-5.2真身是它？OpenAI紧急端出全套「下午茶」，新一代图像模型同步泄露](https://www.jiqizhixin.com/articles/2025-12-10-13)
+**发布时间**: 2025-12-10 20:29
+
+#### [LLM距离AGI只差一层：斯坦福研究颠覆「模式匹配」观点](https://www.jiqizhixin.com/articles/2025-12-10-12)
+**发布时间**: 2025-12-10 20:24
+
+#### [微软发布首个测试时扩展大规模研究，还给出了终极指南](https://www.jiqizhixin.com/articles/2025-12-10-11)
+**发布时间**: 2025-12-10 20:19
+
+#### [「豆包手机」为何能靠超级Agent火遍全网，我们听听AI学者们怎么说](https://www.jiqizhixin.com/articles/2025-12-10-10)
+**发布时间**: 2025-12-10 16:45
+
+#### [南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot](https://www.jiqizhixin.com/articles/2025-12-10-9)
+**发布时间**: 2025-12-10 16:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [乐奇Rokid这一年，一路狂飙不回头](https://www.qbitai.com/2025/12/360063.html)
+**发布时间**: 2025-12-10 12:41
+
+#### [九章云极独揽量子位三项大奖：以“一度算力”重构AI基础设施云格局](https://www.qbitai.com/2025/12/360050.html)
+**发布时间**: 2025-12-10 10:48
+
+#### [戴尔 x OpenCSG，推出⾯向智能初创企业的⼀体化 IT 基础架构解决方案](https://www.qbitai.com/2025/12/360038.html)
+**发布时间**: 2025-12-10 08:01
 
 ---
 

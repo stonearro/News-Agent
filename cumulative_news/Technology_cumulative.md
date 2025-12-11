@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-11 05:18
+**最后更新时间**: 2025-12-11 08:26
+
+---
+
+## 🆕 最新更新 (2025-12-11 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025年，那些跨界机器人的造车势力](https://www.tmtpost.com/7806055.html)
+**发布时间**: 2025-12-11 16:24
+
+#### [量产太晚是硬伤：地平线HSD能否跨越Momenta这座大山？](https://www.tmtpost.com/7806129.html)
+**发布时间**: 2025-12-11 16:23
+
+#### [美亚科技：近7成资产为应收账款，无偿房产担保引监管问询｜IPO观察](https://www.tmtpost.com/7805547.html)
+**发布时间**: 2025-12-11 16:22
+
+#### [JD.com to Buy Half of Hong Kong Office Tower for USD450 Million as Retailer Deepens Presence in the City](https://www.tmtpost.com/7806108.html)
+**发布时间**: 2025-12-11 15:41
+
+#### [Moore Threads Shares Surge as Chinese AI Chipmaker Prepares Fifth-Generation GPU Launch](https://www.tmtpost.com/7806074.html)
+**发布时间**: 2025-12-11 15:05
+
+#### [从冷门歌手到热门金曲，AI音乐成了？](https://www.tmtpost.com/7805605.html)
+**发布时间**: 2025-12-11 14:27
+
+#### [再升科技实控人4.8亿变现迷局：减持转让无缝衔接，四连板前折价签约](https://www.tmtpost.com/7805775.html)
+**发布时间**: 2025-12-11 13:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世](https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 16:19
+
+#### [MySQL代码库分析报告显示，开发活动衰退且贡献者数量减少](https://www.infoq.cn/article/xWk03w7HZeBR6z35z7Zh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 15:13
+
+#### [BellSoft 发布 Java 加固镜像](https://www.infoq.cn/article/fPftGqWlNCDwqO3Vw8Ta?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 14:59
+
+#### [2025腾讯云TencentOS成功案例精选：助力国产OS无感替换与智能升级](https://www.infoq.cn/minibook/dSM1vS6JpmGmFsuRLPzU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 14:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [买哪款、怎么买：双十二 iPhone 选购指南](https://sspai.com/post/104349)
+**发布时间**: 2025-12-11 15:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [2026 硬件觉醒：AI 硬件迎来「安卓时刻」](http://www.geekpark.net/news/357920)
+**发布时间**: 2025-12-11 14:19
 
 ---
 

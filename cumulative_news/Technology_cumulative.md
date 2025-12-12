@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-11 23:14
+**最后更新时间**: 2025-12-12 05:16
+
+---
+
+## 🆕 最新更新 (2025-12-12 05:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [洋河梦之蓝M6+续约2026春晚报时，将与全球华人共赴新春](https://www.tmtpost.com/7806885.html)
+**发布时间**: 2025-12-12 13:04
+
+#### [Broadcom Shares Fall Over 4% After Earnings Call Despite Robust AI Revenue Growth and Guidance](https://www.tmtpost.com/7807034.html)
+**发布时间**: 2025-12-12 13:00
+
+#### [MiniMax and Zhipu AI Plan Hong Kong IPOs Within Weeks](https://www.tmtpost.com/7807026.html)
+**发布时间**: 2025-12-12 12:52
+
+#### [年末揽储：大中小银行们的加减法](https://www.tmtpost.com/7807002.html)
+**发布时间**: 2025-12-12 12:11
+
+#### [大模型第一股之争：MiniMax、智谱、月之暗面竞相赴港IPO](https://www.tmtpost.com/7806465.html)
+**发布时间**: 2025-12-12 11:34
+
+#### [Disney Licenses Iconic Characters to OpenAI, Invests $1 Billion in Hollywood's Largest AI Studio Deal](https://www.tmtpost.com/7806946.html)
+**发布时间**: 2025-12-12 11:17
+
+#### [2026前瞻：内娱男团，续上香火了？](https://www.tmtpost.com/7806599.html)
+**发布时间**: 2025-12-12 10:50
+
+#### [段永平和门徒们的AI新江湖](https://www.tmtpost.com/7806794.html)
+**发布时间**: 2025-12-12 10:31
+
+#### [地平线：智驾“国产平替芯”，能扳倒英伟达吗？](https://www.tmtpost.com/7806417.html)
+**发布时间**: 2025-12-12 10:00
+
+#### [起飞的中国扫地机，2025年“横扫”全球](https://www.tmtpost.com/7806684.html)
+**发布时间**: 2025-12-12 09:32
+
+#### [年末调仓信号：机构正买入“全球化”与“硬科技”](https://www.tmtpost.com/7806254.html)
+**发布时间**: 2025-12-12 09:30
+
+#### [最牛打工妹，瞄准人形机器人](https://www.tmtpost.com/7806443.html)
+**发布时间**: 2025-12-12 09:20
+
+#### [谁定义未来出行？高德、百度、腾讯的AI地图暗战](https://www.tmtpost.com/7806499.html)
+**发布时间**: 2025-12-12 08:40
+
+#### [在印度，亚马逊的AI连“生日蛋糕”都听不懂](https://www.tmtpost.com/7806522.html)
+**发布时间**: 2025-12-12 08:20
+
+#### [孙正义可以忘掉马云了吧](https://www.tmtpost.com/7806401.html)
+**发布时间**: 2025-12-12 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [我看 MiniMax 闫俊杰：「心舟」已过万重山](http://www.geekpark.net/news/357970)
+**发布时间**: 2025-12-12 12:41
+
+#### [语核科技翟星吉：离钱最近的 Agent，才是 AI ToB 的唯一出路](http://www.geekpark.net/news/357968)
+**发布时间**: 2025-12-12 12:03
+
+#### [OpenAI 发 GPT-5.2，瞄准专业用户；超越苹果，华为重夺第一；迪士尼 10 亿美元投资 OpenAI](http://www.geekpark.net/news/357946)
+**发布时间**: 2025-12-12 08:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 好内容、零门槛：给外语播客的「沉浸式翻译」](https://sspai.com/post/104019)
+**发布时间**: 2025-12-12 11:35
+
+#### [派早报：OpenAI 发布 GPT-5.2 模型等](https://sspai.com/post/104526)
+**发布时间**: 2025-12-12 08:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [鞍山钢铁集团数智发展部副总经理赵伟确认出席AICon北京站，分享多智能体协同嵌入核心业务流程工程化设计与实践](https://www.infoq.cn/article/cdxibUVl2RhDjzw51RRE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 11:12
+
+#### [谷歌云展示了大规模的Kubernetes规模，拥有13万个节点的GKE集群](https://www.infoq.cn/article/qktdvEVwfOfbYA8iJGTC?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 10:09
+
+#### [超载保护：平台工程缺失的支柱](https://www.infoq.cn/article/7NZcr7M3Q6ZmwKd4vpaq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 10:02
+
+#### [Snowflake 联合行业领袖通过开放语义交换计划释放 AI 的潜力 | 技术趋势](https://www.infoq.cn/article/I4rlSKK2gEx8x3tivvGv?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 09:30
+
+#### [GPT-5.2 的能力评估、市场反应与AI竞争格局演化](https://www.infoq.cn/article/DrB6mXayUtswARNSBYL7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 08:26
 
 ---
 

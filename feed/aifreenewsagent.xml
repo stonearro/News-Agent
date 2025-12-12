@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 23:13:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 23:14:16 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 05:16:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 05:16:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型的第一性原理：（一）统计物理篇</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-11</link>
-      <description>&lt;![CDATA[大模型的第一性原理：（一）统计物理篇]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 18:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-11</guid>
+      <title>Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-6</link>
+      <description>&lt;![CDATA[Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-10</link>
-      <description>&lt;![CDATA[何恺明NeurIPS 2025演讲盘点：视觉目标检测三十年]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-10</guid>
+      <title>全球强化学习+VLA范式，PI*0.6背后都有这家中国公司技术伏笔</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-5</link>
+      <description>&lt;![CDATA[全球强化学习+VLA范式，PI*0.6背后都有这家中国公司技术伏笔]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-11-9</link>
-      <description>&lt;![CDATA[效率提升25%，灵巧操作数采困境被「臂-手共享自主框架」解决]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-11-9</guid>
+      <title>Meta「内战」升级：做「神一般的AI」，还是守住「社交帝国」？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-4</link>
+      <description>&lt;![CDATA[Meta「内战」升级：做「神一般的AI」，还是守住「社交帝国」？]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>高通万卫星：混合AI与分布式协同是未来 | MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/360405.html</link>
-      <description>&lt;![CDATA[高通万卫星：混合AI与分布式协同是未来 | MEET2026]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360405.html</guid>
+      <title>NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-3</link>
+      <description>&lt;![CDATA[NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-3</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 | MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/360373.html</link>
-      <description>&lt;![CDATA[张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 | MEET2026]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360373.html</guid>
+      <title>刚刚，GPT-5.2满分屠榜，OpenAI十周年王者归来</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12-2</link>
+      <description>&lt;![CDATA[刚刚，GPT-5.2满分屠榜，OpenAI十周年王者归来]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谷歌发布智能体Scaling Law：180组实验打破传统炼金术</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-12</link>
+      <description>&lt;![CDATA[谷歌发布智能体Scaling Law：180组实验打破传统炼金术]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12</guid>
       <category>AI</category>
     </item>
   </channel>

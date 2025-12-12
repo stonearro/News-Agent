@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-12 08:21
+**最后更新时间**: 2025-12-12 23:14
+
+---
+
+## 🆕 最新更新 (2025-12-12 23:14)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [港大开源ViMax火了，实现AI自编自导自演](https://www.jiqizhixin.com/articles/2025-12-12-10)
+**发布时间**: 2025-12-12 18:16
+
+#### [提示词一响，烂片登场，OpenAI谈下200+迪士尼顶级IP出场费](https://www.jiqizhixin.com/articles/2025-12-12-9)
+**发布时间**: 2025-12-12 17:54
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa](https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/)
+**发布时间**: 2025-12-12 10:42
 
 ---
 

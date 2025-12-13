@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "fbce82749bbad32ff736b633fd7efb0eeb45e082c8ad0b97ec1141a0dacf6df3": {
-        "title": "Differentially private machine learning at scale with JAX-Privacy",
-        "link": "https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/",
-        "published_date": "Wed, 12 Nov 2025 15:32:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.055523"
-      },
       "45a3699e3eb9e7434d075c004bda17be591df0cd6223d9aae6a457129e943969": {
         "title": "OpenAI新模型GPT-5.1发布，不跑分不刷榜，主打一个说人话",
         "link": "https://www.qbitai.com/2025/11/351879.html",
@@ -2667,150 +2661,6 @@
       }
     },
     "Technology": {
-      "071cc97fa75ed33acef24bf8513473a31b9aea8802ea322ef8c7fd3cdef8eace": {
-        "title": "Yann LeCun终于被小扎“逼得”离职创业了！内行被外行指导、时刻担心被裁，Meta 人现在迷茫又内卷",
-        "link": "https://www.infoq.cn/article/GQSjzEBgUmScST2QATQN?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 07:00:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546907"
-      },
-      "be3c9a0c8a5ca49f203d0f2367fa0e232b4a45bdc37eb54ae5c392545ed22c3f": {
-        "title": "建筑机器人湃特纳完成A轮融资，华创资本领投｜融资首发",
-        "link": "https://www.tmtpost.com/7761599.html",
-        "published_date": "Wed, 12 Nov 2025 22:00:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546933"
-      },
-      "fa53b9ec9b0f476f4572f77aa1b060f6474b9c5cfca72cad2f3fc6e13c5fea87": {
-        "title": "「强一股份」科创板首发过会 | Profolio动态",
-        "link": "https://www.tmtpost.com/7761181.html",
-        "published_date": "Wed, 12 Nov 2025 21:53:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546946"
-      },
-      "60099fefb3c601299c63e67eccbee97dfb3d741c2fb0563951dd76b69472094b": {
-        "title": "这个双11 想“静静”，它要向GMV崇拜说“拜拜”",
-        "link": "https://www.tmtpost.com/7761578.html",
-        "published_date": "Wed, 12 Nov 2025 21:52:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546957"
-      },
-      "c56a649cce3782d97998786e12ac34b3e676f848f0489b232bde9463caf22fe4": {
-        "title": "2025世界动力电池大会在四川宜宾举行，签约180个项目金额861.3亿元",
-        "link": "https://www.tmtpost.com/7761407.html",
-        "published_date": "Wed, 12 Nov 2025 19:52:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546967"
-      },
-      "60d6861dd407060592fb03959ee635adc7a43bc956321d8b3f210a2e4a880227": {
-        "title": "秦安股份豪赌光电转型生变：8.85亿现金收购，卖方“质押持股”对赌3年2.4亿业绩",
-        "link": "https://www.tmtpost.com/7761360.html",
-        "published_date": "Wed, 12 Nov 2025 19:44:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546979"
-      },
-      "82f4046fa519fb8189fa55493f636fb0e10d1be36c90126381587010bfc7aa55": {
-        "title": "2025中国消费者图鉴：健康超收入，国货逆袭国际品牌",
-        "link": "https://www.tmtpost.com/7757969.html",
-        "published_date": "Wed, 12 Nov 2025 19:29:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546987"
-      },
-      "907e96ddd2553b29e4e7234e26e0ae16be2fb6a105bad6e328cb6e3a88a689c1": {
-        "title": "俞敏洪再失“中国合伙人”",
-        "link": "https://www.tmtpost.com/7761240.html",
-        "published_date": "Wed, 12 Nov 2025 19:28:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.546997"
-      },
-      "52201d4c286f9748c14c335a850a4222c96c157e21fdcf24a65042c4ddae4b62": {
-        "title": "我们在996，而欧美游戏同行还没回办公室",
-        "link": "https://www.tmtpost.com/7760358.html",
-        "published_date": "Wed, 12 Nov 2025 19:12:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.547005"
-      },
-      "8b5324f3d182c11738f86cb5d4aabc501b7cae2c5fdb6308bab423fdd9a2d967": {
-        "title": "印度5G加速赶超，中国全球领先优势迎来最强挑战",
-        "link": "https://www.tmtpost.com/7760356.html",
-        "published_date": "Wed, 12 Nov 2025 19:12:00 GMT",
-        "first_seen": "2025-11-12T23:21:20.547014"
-      },
-      "abb9288fd1022152f3ee366c48761388cc73e854ca6b380e4d5880306d625c7c": {
-        "title": "汉堡王中国，易主求变",
-        "link": "https://www.tmtpost.com/7759944.html",
-        "published_date": "Wed, 12 Nov 2025 18:48:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.105543"
-      },
-      "3b0e3d48110d9b8be749aa0b971811015e71bb792cecf992d292837588523e12": {
-        "title": "周杰伦概念股搞AI机器人，靠“巨星狗”赚了1.2亿",
-        "link": "https://www.tmtpost.com/7760081.html",
-        "published_date": "Wed, 12 Nov 2025 18:48:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.106039"
-      },
-      "b5bac80dc69afe6c0c8cdfbf9e89a0bb78948e91a2a0b6c2db74f4d53099ced5": {
-        "title": "禾赛：特斯拉“嫌弃”？ 照样风光逆袭",
-        "link": "https://www.tmtpost.com/7760216.html",
-        "published_date": "Wed, 12 Nov 2025 18:48:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.106503"
-      },
-      "738d1c9a784d0c08fc6880cba528d25afcdb087b09e5ef21ece710811fc57294": {
-        "title": "“配料表干净”真的更健康吗？",
-        "link": "https://www.tmtpost.com/7760849.html",
-        "published_date": "Wed, 12 Nov 2025 18:48:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.106878"
-      },
-      "9c4a78b75ae39b417ad5f8d078215a018636240a13f81119214c79b481bb8d62": {
-        "title": "“无铅采购”席卷幼教市场，千亿商机真的来了？",
-        "link": "https://www.tmtpost.com/7760827.html",
-        "published_date": "Wed, 12 Nov 2025 18:48:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.107416"
-      },
-      "dec91b419b2b2e01f18d6aeba4fd364a75789c97f6d30ee28d7d7a2e50e3c52f": {
-        "title": "超颖电子“钱紧”仍扩产，14.68亿豪赌AI算力PCB",
-        "link": "https://www.tmtpost.com/7761077.html",
-        "published_date": "Wed, 12 Nov 2025 18:31:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.108144"
-      },
-      "4931711ccc618b3bc4fc6fb9a1313c9dbb448526c457f6e54bfa538f1eb8f771": {
-        "title": "从关联方占资到存贷双高，科达制造利益输送疑云难消",
-        "link": "https://www.tmtpost.com/7761079.html",
-        "published_date": "Wed, 12 Nov 2025 18:27:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.108689"
-      },
-      "d3fa075019f61ee53a40847e4bf7497630e68f98890985b296f4b989d517260a": {
-        "title": "极星危局，纳斯达克启动“退市倒计时”",
-        "link": "https://www.tmtpost.com/7761106.html",
-        "published_date": "Wed, 12 Nov 2025 17:53:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.109327"
-      },
-      "d01e3ce620b48b7bdb90e83abd5df4677943922f7a5fa363d173cb315c8b7c0d": {
-        "title": "人工智能真正落地从广告开始",
-        "link": "https://www.tmtpost.com/7760489.html",
-        "published_date": "Wed, 12 Nov 2025 17:27:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.109711"
-      },
-      "8107fd741ec6eb4ad84cc5087ea8459e737d136e73aa3f9ee3107084e730ffe5": {
-        "title": "历史必然剪开IRON",
-        "link": "https://www.tmtpost.com/7759572.html",
-        "published_date": "Wed, 12 Nov 2025 17:27:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.110090"
-      },
-      "42a999a12845399f9713f5fcb3279b80280a4dd10ef4e047ef992ba1bc9703e9": {
-        "title": "“勇哥加盟惨案”底层真相：普通人不仅容易被骗，还没赚钱出路",
-        "link": "http://www.huxiu.com/article/4804077.html?f=wangzhan",
-        "published_date": "Wed, 12 Nov 2025 18:33:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.110971"
-      },
-      "1f0d6683480e18d12963a2e927c57f0478ad3de02683fb1a44e8186721622c24": {
-        "title": "工作笔记有必要吗？这是我的纸质笔记方法论与工作流",
-        "link": "https://sspai.com/post/103712",
-        "published_date": "Wed, 12 Nov 2025 17:31:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.111627"
-      },
-      "f136078f1f3e568aae46dfc9a0410be6a73e77b6693048d52098b33928bca423": {
-        "title": "对话元理智能张帆：为什么「商业强化学习」，才是 AI To B 的新出路",
-        "link": "http://www.geekpark.net/news/356333",
-        "published_date": "Wed, 12 Nov 2025 16:45:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.112830"
-      },
-      "18645dab303f38a4ea143d5ea22746dff1fa27e131d316a84556f115cb6fc309": {
-        "title": "深度复盘：大疆是如何成为影像领域新巨头的？",
-        "link": "http://www.geekpark.net/news/356310",
-        "published_date": "Wed, 12 Nov 2025 12:49:00 GMT",
-        "first_seen": "2025-11-12T23:20:32.113566"
-      },
       "e330061b2f8d9ca722ffb8ad47519db12925c86fc2c612e4792a8eb95f17fcfa": {
         "title": "国内表现平平，悠星自研为何在日韩市场成小爆款？",
         "link": "https://www.tmtpost.com/7762371.html",
@@ -13778,13 +13628,97 @@
         "link": "http://www.geekpark.net/news/357996",
         "published_date": "Fri, 12 Dec 2025 17:34:00 GMT",
         "first_seen": "2025-12-12T23:20:25.113665"
+      },
+      "1006e858cd0c8204b792b002c6a91dda7edab1faf0c6a94ed8ae1c9d57c7a1aa": {
+        "title": "为了年销100万辆，为了对冲“含华量”稀释，余承东跟“五界”抱作一团",
+        "link": "http://www.huxiu.com/article/4816965.html?f=wangzhan",
+        "published_date": "Sat, 13 Dec 2025 11:52:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.269962"
+      },
+      "9dfedfd1ba90d8d119fe0f1033010390438244bee1cdb896f736d1bb5764b47b": {
+        "title": "具透 | iOS 26.2 值得关注的新特性",
+        "link": "https://sspai.com/post/104408",
+        "published_date": "Sat, 13 Dec 2025 11:27:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.269976"
+      },
+      "9d6d6687cd7a2ea49bbde904d61754f8d8e9d918cd623f97abe3b1b7fd639193": {
+        "title": "AI Concerns Deepen as Oracle Reported to Delay Datacenters Completion to 2028",
+        "link": "https://www.tmtpost.com/7807971.html",
+        "published_date": "Sat, 13 Dec 2025 09:34:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.269989"
+      },
+      "91e0a5824f06478106d56bdb68d1a642a34396a9b223e6ae2d78aa387c0715d4": {
+        "title": "豆包“撕裂”AI手机",
+        "link": "https://www.tmtpost.com/7807590.html",
+        "published_date": "Sat, 13 Dec 2025 09:34:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.269999"
+      },
+      "3ac6f914f430a13f6d052d1c599cffaafa663533af80cbee7b25c1219f873dc8": {
+        "title": "大模型\"住\"进手机，芯片的\"芯\"事重了",
+        "link": "https://www.tmtpost.com/7807617.html",
+        "published_date": "Sat, 13 Dec 2025 09:22:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.269921"
+      },
+      "6dc8e8cd4e7dfedc436e5f7fe13903c1c86232b3d6efd66e84d2a1860a46c36c": {
+        "title": "从N7“喜忧参半”到N6“背水一战”，东风日产转型答卷怎么写？",
+        "link": "https://www.tmtpost.com/7807662.html",
+        "published_date": "Sat, 13 Dec 2025 09:08:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.270011"
+      },
+      "de20733a7037b90dc2ae46a48a0692b653d09830296d9e026928813cca352fa2": {
+        "title": "浙江电力大环线获批，千亿投资背后一场能源调度革命",
+        "link": "https://www.tmtpost.com/7807844.html",
+        "published_date": "Sat, 13 Dec 2025 09:01:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.270021"
+      },
+      "2399f346c147259391e65985e19d77f3504feebc1226dc15027587b4a3f286e4": {
+        "title": "一只猴14万元，昭衍新药单日股价飙涨近20%，“囤猴大户”的红利期来了？",
+        "link": "https://www.tmtpost.com/7807676.html",
+        "published_date": "Sat, 13 Dec 2025 08:43:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.270031"
+      },
+      "642cfd5cfe42f35f8f8024fd6095e5a969d15a7d88e84dd5ec0eeecf305d14a0": {
+        "title": "微软谷歌攻守易型，跌落神坛的OpenAI“亮血条”了？",
+        "link": "https://www.tmtpost.com/7807699.html",
+        "published_date": "Sat, 13 Dec 2025 08:31:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.270042"
+      },
+      "bcfdaf3cae679c529d7f17697e78e1cabdadfbf06249a5be8206a2882e5daab7": {
+        "title": "甲骨文财报后暴跌，从软件股改成了算力基建股？",
+        "link": "https://www.tmtpost.com/7807809.html",
+        "published_date": "Sat, 13 Dec 2025 08:23:00 GMT",
+        "first_seen": "2025-12-13T05:15:22.908686"
+      },
+      "9bbbd614582ce8c98adc8fc2aaee7a5e1f9775e09d644d991f3b956d14ca58e3": {
+        "title": "国网联姻思源电气，10亿新基金瞄准能源硬科技",
+        "link": "https://www.tmtpost.com/7807845.html",
+        "published_date": "Sat, 13 Dec 2025 08:15:00 GMT",
+        "first_seen": "2025-12-13T05:16:11.269947"
+      },
+      "2c51c1d68bd04ea4bfd4e49316f576141d3a803b75a19f056878a3e75930c8d5": {
+        "title": "杭州造梦vs广州造货：电商人走到了下半场对决",
+        "link": "https://www.tmtpost.com/7807851.html",
+        "published_date": "Sat, 13 Dec 2025 08:08:00 GMT",
+        "first_seen": "2025-12-13T05:15:22.909632"
+      },
+      "58c2c8a326023da1e12213175e1e3a9b077ed2a6e9d223042e5dfa86f43ed89d": {
+        "title": "灵巧手：中国具身智能的“最后一厘米”",
+        "link": "https://www.tmtpost.com/7807854.html",
+        "published_date": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "first_seen": "2025-12-13T05:15:22.910166"
+      },
+      "bc2bc6fca0904bb348b69bbff202cceacd66b1a716d6b1d282203d4f2f6b02c6": {
+        "title": "奥特曼抱紧迪士尼大腿，OpenAI能避免被踢下牌桌吗？",
+        "link": "https://www.tmtpost.com/7807114.html",
+        "published_date": "Sat, 13 Dec 2025 07:53:00 GMT",
+        "first_seen": "2025-12-13T05:15:22.910786"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-12T23:19:36.773982",
-    "Technology": "2025-12-12T23:20:25.117606",
-    "Finance": "2025-12-12T23:19:36.645320"
+    "AI": "2025-12-13T05:15:22.843630",
+    "Technology": "2025-12-13T05:16:11.286942",
+    "Finance": "2025-12-13T05:15:22.728848"
   }
 }

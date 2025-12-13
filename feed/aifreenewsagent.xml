@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Dec 2025 23:14:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 23:19:36 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 23:13:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 23:13:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>港大开源ViMax火了，实现AI自编自导自演</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-10</link>
-      <description>&lt;![CDATA[港大开源ViMax火了，实现AI自编自导自演]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-10</guid>
+      <title>ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-7</link>
+      <description>&lt;![CDATA[ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>提示词一响，烂片登场，OpenAI谈下200+迪士尼顶级IP出场费</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-12-9</link>
-      <description>&lt;![CDATA[提示词一响，烂片登场，OpenAI谈下200+迪士尼顶级IP出场费]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-12-9</guid>
+      <title>NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-6</link>
+      <description>&lt;![CDATA[NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa</title>
-      <link>https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/</link>
-      <description>&lt;![CDATA[Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/</guid>
+      <title>GPT-5.2已上线24小时：差评如潮！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-5</link>
+      <description>&lt;![CDATA[GPT-5.2已上线24小时：差评如潮！]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谢赛宁REPA得到大幅改进，只需不到4行代码</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-4</link>
+      <description>&lt;![CDATA[谢赛宁REPA得到大幅改进，只需不到4行代码]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-3</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14-2</link>
+      <description>&lt;![CDATA[苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>告别「盲目自信」，CCD：扩散语言模型推理新SOTA</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-14</link>
+      <description>&lt;![CDATA[告别「盲目自信」，CCD：扩散语言模型推理新SOTA]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 00:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-14</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>半世纪难题48小时破解！陶哲轩组队把AI数学玩成打怪游戏了</title>
+      <link>https://www.qbitai.com/2025/12/360669.html</link>
+      <description>&lt;![CDATA[半世纪难题48小时破解！陶哲轩组队把AI数学玩成打怪游戏了]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360669.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>美国视频生成老炮儿，入局世界模型</title>
+      <link>https://www.qbitai.com/2025/12/360627.html</link>
+      <description>&lt;![CDATA[美国视频生成老炮儿，入局世界模型]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360627.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>面向「空天具身智能」，北航团队提出星座规划新基准丨NeurIPS’25</title>
+      <link>https://www.qbitai.com/2025/12/360604.html</link>
+      <description>&lt;![CDATA[面向「空天具身智能」，北航团队提出星座规划新基准丨NeurIPS’25]]&gt;</description>
+      <pubDate>Sat, 13 Dec 2025 14:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360604.html</guid>
       <category>AI</category>
     </item>
   </channel>

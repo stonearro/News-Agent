@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8ca1ed5a3db82bc246941c40bfe36707c05c4934ab038db52d92af999ebd472a": {
-        "title": "百度文库网盘发布GenFlow3.0，活跃用户超2000万，“超级应用成就超级个体”",
-        "link": "https://www.qbitai.com/2025/11/352188.html",
-        "published_date": "Thu, 13 Nov 2025 08:22:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.483917"
-      },
-      "4d604c3cb738438072627c6b81e0272baec277cbb1f3bfc5e13644ce6514e638": {
-        "title": "Nature公开谷歌IMO金牌模型技术细节！核心团队仅10人，一年给AI编出8000万道数学题训练",
-        "link": "https://www.qbitai.com/2025/11/352175.html",
-        "published_date": "Thu, 13 Nov 2025 07:55:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.484145"
-      },
-      "80ab71337e86cb5f4e86f202ac390060bd50c211f88a6a4775b252f71e4c6220": {
-        "title": "滴滴自动驾驶出海，首站落户中东阿布扎比",
-        "link": "https://www.qbitai.com/2025/11/352168.html",
-        "published_date": "Thu, 13 Nov 2025 07:43:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.484303"
-      },
       "a1921470c893cd546df599519ce477707b7e597053d10d2d3e4b5a18fa907df6": {
         "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
         "link": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
@@ -2646,93 +2628,69 @@
         "link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
         "published_date": "Fri, 12 Dec 2025 10:42:00 GMT",
         "first_seen": "2025-12-12T23:19:36.758127"
+      },
+      "9e92462e6738212695c8d36750bd04d83682ffa6eac9039b8dc474026f8d581d": {
+        "title": "ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-7",
+        "published_date": "Sun, 14 Dec 2025 00:32:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.213168"
+      },
+      "c273e87b2cac8599bd0f145d772df316104377dc52d70c41d6aaee351ac21700": {
+        "title": "NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-6",
+        "published_date": "Sun, 14 Dec 2025 00:28:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.213400"
+      },
+      "837f72dc62be29a0ce0c5868f828b24d77f210725364898ed6d6484137609bc9": {
+        "title": "GPT-5.2已上线24小时：差评如潮！",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-5",
+        "published_date": "Sun, 14 Dec 2025 00:23:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.213594"
+      },
+      "c280eb28b149f7e234777a61e3b00497babcf9988374c63d520bdeba04f0131a": {
+        "title": "谢赛宁REPA得到大幅改进，只需不到4行代码",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-4",
+        "published_date": "Sun, 14 Dec 2025 00:16:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.213825"
+      },
+      "989103dd3762c9766afa97e4f4965fec79ccbef2799ef23e1aac79bbd612e97c": {
+        "title": "AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-3",
+        "published_date": "Sun, 14 Dec 2025 00:11:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.214295"
+      },
+      "860177d321df8c979668e764d01bfba969bd733b6bfba27e8a576fe7318324c1": {
+        "title": "苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-2",
+        "published_date": "Sun, 14 Dec 2025 00:07:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.214690"
+      },
+      "fed7cd5fdbd304d82f7ba04d745a76c6605bea27427bec83d80059ae002d914c": {
+        "title": "告别「盲目自信」，CCD：扩散语言模型推理新SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14",
+        "published_date": "Sun, 14 Dec 2025 00:03:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.215127"
+      },
+      "a19662e9e2b0529669703f79f3b3f64e966c2c053a10a76fa80e09d5991cc738": {
+        "title": "半世纪难题48小时破解！陶哲轩组队把AI数学玩成打怪游戏了",
+        "link": "https://www.qbitai.com/2025/12/360669.html",
+        "published_date": "Sat, 13 Dec 2025 14:43:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.215487"
+      },
+      "5abc301779a849539865376e7c55777dfeec87cafe455bf61ed5f489bc706a07": {
+        "title": "美国视频生成老炮儿，入局世界模型",
+        "link": "https://www.qbitai.com/2025/12/360627.html",
+        "published_date": "Sat, 13 Dec 2025 14:41:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.215817"
+      },
+      "f6c5e04c733e4e731be728460e39d209a1a19bcaf8b69698735002aad4d80d77": {
+        "title": "面向「空天具身智能」，北航团队提出星座规划新基准丨NeurIPS’25",
+        "link": "https://www.qbitai.com/2025/12/360604.html",
+        "published_date": "Sat, 13 Dec 2025 14:37:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.216371"
       }
     },
     "Technology": {
-      "fcce711013cd15439d024f783e5b693729bc769d09890c3bb60b0864d0a41e9f": {
-        "title": "小鹏科技日「太魔幻」：机器人走猫步，飞行汽车接近量产",
-        "link": "http://www.geekpark.net/news/356380",
-        "published_date": "Thu, 13 Nov 2025 16:26:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926594"
-      },
-      "5e3109a6e64ff08b7bdb50334c25f3a3480f8968d6c59445fb0f6feafe1ba49b": {
-        "title": "当电影公司开始做短剧，行业真正的变化才刚刚开始",
-        "link": "https://www.tmtpost.com/7762967.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926623"
-      },
-      "a0bd08f82c66a242517bb928b1765e17127dadbca9baf9aee3f8d8ceb6026bd1": {
-        "title": "《声鸣远扬》火拼《中国唱将》，“国家队级音综”成色如何？",
-        "link": "https://www.tmtpost.com/7762981.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926638"
-      },
-      "0df2e7c4721dce5e6fd03eb0b791c43ea4626a0624f9d92e37f9c335c190033e": {
-        "title": "字节发力，腾讯音乐还能“小而美”吗？",
-        "link": "https://www.tmtpost.com/7762281.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926650"
-      },
-      "72e092fa3d5fd8d4f964c24ac634bd6db4740e219a19960506946e99385b2046": {
-        "title": "高开不高调的《唐诡3》又来为续写IP现身说法了",
-        "link": "https://www.tmtpost.com/7762972.html",
-        "published_date": "Thu, 13 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926660"
-      },
-      "638e747ccc37a7e9b6fed4c111b6d4029e5f5f51275dbec7f89e0f59cf363f23": {
-        "title": "源码资本完成新一期双币成长基金募资 总规模达6亿美元 | 募资动态",
-        "link": "https://www.tmtpost.com/7762942.html",
-        "published_date": "Thu, 13 Nov 2025 15:20:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926712"
-      },
-      "03fd37d8e03425c0828500ca90090d1384c99d682df2e27a4839ab894322f260": {
-        "title": "11月13日A股分析：沪指涨0.73%续创十年新高，创业板指、北证指数涨超2%，两市合计成交20419.62亿元，资金流入最多的概念板块为锂电池、融资融券",
-        "link": "https://www.tmtpost.com/7762915.html",
-        "published_date": "Thu, 13 Nov 2025 15:13:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926731"
-      },
-      "80498e8440ae96779d9940b5401db885c4a46a0a9d8f916abd05f6cdc1b1bd8f": {
-        "title": "安道药业完成超4亿元人民币C轮融资，北极光创投连续多轮支持 | 融资首发",
-        "link": "https://www.tmtpost.com/7762919.html",
-        "published_date": "Thu, 13 Nov 2025 15:11:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926743"
-      },
-      "0efac384b3d10ca8cd0bc7e84db516fe0e26a88a12cf3efba12e93ee03c6f5b2": {
-        "title": "AMD Stock Jumps 9% after Accelerating Sales Outlook and Strategy to Lead $1 Trillion AI Datacenter Market Unveiled",
-        "link": "https://www.tmtpost.com/7762906.html",
-        "published_date": "Thu, 13 Nov 2025 15:04:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.555995"
-      },
-      "bf17c69896f1fcef621f5619b4b7466572380a70e402e1bd75fbc4dc1931326c": {
-        "title": "阿里秘密启动新AI项目全面对标ChatGPT，争夺海外用户 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7762917.html",
-        "published_date": "Thu, 13 Nov 2025 15:04:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926754"
-      },
-      "a053fef006236114440ba5b6ed23c670c7fccf6439efd0007e7076effe279122": {
-        "title": "起大早、赶大集：百度AI“长期主义”的兑现时刻",
-        "link": "https://www.tmtpost.com/7762694.html",
-        "published_date": "Thu, 13 Nov 2025 14:00:00 GMT",
-        "first_seen": "2025-11-13T08:29:38.926764"
-      },
-      "a273badc9cf3f8cab51fb85242e565ac5dd6c432b4d73cc9d2c34c80526c91af": {
-        "title": "与资深AI架构师⼀起，解锁传统行业转型的真实挑战与破局思路",
-        "link": "https://www.infoq.cn/article/A2KRmj3EbOy5ZoJ763ky?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 15:44:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.557868"
-      },
-      "2b19af0a75b21c2ce19cfb28f558ce2087b2c861c6081a3586a70ee3d6d38e66": {
-        "title": "基于多智能体与MCP，中国工商银行软件开发中心普惠金融智能中枢建设探索与实践",
-        "link": "https://www.infoq.cn/article/m7mguBli9H4WEjtK2RDs?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 13 Nov 2025 14:02:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.558620"
-      },
-      "27b1b20bef12f800815a45ba2ca918b3ed27b1b175b5c7a72381992fab11ddff": {
-        "title": "日本浮生录 10｜追逐棕熊、户外徒步：在北海道遇见最美秋日",
-        "link": "https://sspai.com/post/103795",
-        "published_date": "Thu, 13 Nov 2025 15:00:00 GMT",
-        "first_seen": "2025-11-13T08:28:50.559464"
-      },
       "c23b27e87e59585940cd8be0add3d9508f31b7a1d605dacafb10480d1ec32e30": {
         "title": "TWh时代新战事：全域增量、体系出海、AI破局 丨行业风向标",
         "link": "https://www.tmtpost.com/7763856.html",
@@ -13568,13 +13526,67 @@
         "link": "https://www.infoq.cn/article/84yOUazuZVZydfEZa1Nh?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 13 Dec 2025 14:38:00 GMT",
         "first_seen": "2025-12-13T08:22:48.385986"
+      },
+      "7134d7c9cf97d93f05cdb99dd76f637e0b0f2810f989e6db98996cf3aa59254b": {
+        "title": "天桥脑科学研究院成立尖峰智能实验室，推动类脑大模型发展",
+        "link": "https://www.tmtpost.com/7808249.html",
+        "published_date": "Sat, 13 Dec 2025 21:31:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.309616"
+      },
+      "037a521f2bfe502911c025faf7d066eec7d1f68bfef1ac789c6069b71fb8f92f": {
+        "title": "90后美女主持人接任150万年薪董秘：睿智医药选对人了？",
+        "link": "https://www.tmtpost.com/7807758.html",
+        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.309733"
+      },
+      "972a38c51b57fe8625aa0404935d18338835673c133ce44216870d96aace9b80": {
+        "title": "企业AI战略规划方法论与工作清单",
+        "link": "https://www.tmtpost.com/7807959.html",
+        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.309835"
+      },
+      "b38d6200914c427a38e803de1b37d89d87ed6d60eaa6277e9a3a473e3c2b19b2": {
+        "title": "赢时胜实控人唐球套现过亿，不久前因信披问题被监管",
+        "link": "https://www.tmtpost.com/7808003.html",
+        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.310019"
+      },
+      "b6c0bfc6becebc030101a0e0a86ff7d1ee8c8277169d39c323a8e8170d7f40ee": {
+        "title": "李飞飞深度解读：为什么空间智能是通往AGI的关键技术？",
+        "link": "https://www.tmtpost.com/7808166.html",
+        "published_date": "Sat, 13 Dec 2025 19:00:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.310227"
+      },
+      "bbd1aa3c32ecc5a19811803297ed51aed8bbc484a7fab3386da86965ca3d791f": {
+        "title": "LV高管加入泡泡玛特董事会；lululemonQ3中国大陆净营收同比增46%；红杉中国拟收购Golden Goose｜消研所周报",
+        "link": "https://www.tmtpost.com/7807635.html",
+        "published_date": "Sat, 13 Dec 2025 16:55:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.310561"
+      },
+      "ea9bcdfc47a32d650c8073a0cca999407b2f81d5ff3f4c81b2305499ea2b11b3": {
+        "title": "公用事业板块近期表现低迷，但前景值得期待",
+        "link": "https://www.tmtpost.com/7807999.html",
+        "published_date": "Sat, 13 Dec 2025 09:54:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.310828"
+      },
+      "d1505a8deffa38d76783d48a65b6d1a3cb7a2d6f8b3e9b0a02c95ceea910f6fd": {
+        "title": "波音、通用电气及其他10只受益于航空航天与国防大趋势的股票",
+        "link": "https://www.tmtpost.com/7807996.html",
+        "published_date": "Sat, 13 Dec 2025 09:51:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.311198"
+      },
+      "69700d18a97a36070a61616b5907e07fafd71f58dde62651db22fa3b8b5dbb3a": {
+        "title": "re:Invent特别企划之五天五问④《视野的合流》正片上线！",
+        "link": "https://www.infoq.cn/video/COuRzVEjIi0DS5oDeH2x?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 13 Dec 2025 16:35:00 GMT",
+        "first_seen": "2025-12-13T23:13:36.311618"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-13T08:22:48.320692",
-    "Technology": "2025-12-13T08:22:48.410828",
-    "Finance": "2025-12-13T08:22:48.208854"
+    "AI": "2025-12-13T23:13:36.247511",
+    "Technology": "2025-12-13T23:13:36.319263",
+    "Finance": "2025-12-13T23:13:36.103431"
   }
 }

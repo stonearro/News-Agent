@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-14 23:13
+**最后更新时间**: 2025-12-15 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-15 05:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [InfoQ Dev Summit 慕尼黑站：五个常见的 AI 安全误区被打破](https://www.infoq.cn/article/QtaIhovdE4crqmBDsI9K?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 13:20
+
+#### [10级漏洞刚补完，React又炸了！现代Web“默认底座”因一行代码缺失引发全球地震，开发者经历最黑暗一周](https://www.infoq.cn/article/iEHJjVSHEvakoOrVREqN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 12:48
+
+#### [Snowflake 模型注册表——在 Snowflake 数据云与 AI 云自建部署 LLM 的便捷工具 | 技术实践](https://www.infoq.cn/article/mqW6y1rwUyBYgKPm9fxD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 12:29
+
+#### [tRPC-Agent：腾讯多智能体框架的架构设计与业务实践 ｜AICon 北京](https://www.infoq.cn/article/dchtAVelmgDT52BORFhc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 12:03
+
+#### [Lambda持久函数与Werner Vogels的最后一次主题演讲：亚马逊云科技re:Invent 2025的亮点](https://www.infoq.cn/article/uGJYv5mxUMMySdjDyN7U?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 11:46
+
+#### [re:Invent特别企划 Drunk Coding 之「神」出「鬼」没奇妙夜 正片上线！](https://www.infoq.cn/video/8e5liRPXBt0wKXYabZss?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 10:00
+
+#### [告别深夜改Bug！CodeGenie帮你快速“驯服”鸿蒙编译错误！](https://www.infoq.cn/article/lMMox41ht9XOMEPElQS1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 09:52
+
+#### [从点播到直播：Netflix在1分钟内向一亿台设备推送直播流](https://www.infoq.cn/article/cCioUmss2jYJXhtAztp8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 09:36
+
+#### [Discord 如何将其机器学习平台从单 GPU 工作流扩展到共享 Ray 集群](https://www.infoq.cn/article/aMcaI7NIweVDe5tF0q03?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 09:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“非洲之王”传音赴港IPO：不缺钱，缺故事](https://www.tmtpost.com/7808738.html)
+**发布时间**: 2025-12-15 12:40
+
+#### [重磅签约！慧博投研携手中信、中金，开启智能投研新时代](https://www.tmtpost.com/7808813.html)
+**发布时间**: 2025-12-15 12:21
+
+#### [C罗的投资圈：牵手币安赵长鹏，与英伟达同投Perplexity Al](https://www.tmtpost.com/7802440.html)
+**发布时间**: 2025-12-15 11:53
+
+#### [单日蒸发近700亿美元，甲骨文“无惧”风险，继续加大投入](https://www.tmtpost.com/7808652.html)
+**发布时间**: 2025-12-15 11:28
+
+#### [Tianqiao & Chrissy Chen Institute Launches Spiking Intelligence Lab to Advance Brain-Inspired AI](https://www.tmtpost.com/7808876.html)
+**发布时间**: 2025-12-15 11:16
+
+#### [从0到3000万，中国长安汽车用科技完成“三级跳”](https://www.tmtpost.com/7808512.html)
+**发布时间**: 2025-12-15 10:55
+
+#### [谢尔盖·布林首次复盘：谷歌AI为什么落后，又如何实现绝地反击](https://www.tmtpost.com/7808563.html)
+**发布时间**: 2025-12-15 10:49
+
+#### [Humanity Must Entangle With Superintelligence to Survive, Argues Tianqiao Chen](https://www.tmtpost.com/7808828.html)
+**发布时间**: 2025-12-15 10:45
+
+#### [昉擎科技完成超5亿元多轮融资 | 融资速递](https://www.tmtpost.com/7808810.html)
+**发布时间**: 2025-12-15 10:41
+
+#### [AI Enable Alone Cannot Drive True Productivity, Says Tianqiao Chen](https://www.tmtpost.com/7808777.html)
+**发布时间**: 2025-12-15 10:08
+
+#### [AI医疗影像发展对人工智能应用的启示](https://www.tmtpost.com/7808672.html)
+**发布时间**: 2025-12-15 10:07
+
+#### [陈天桥：系统的融化——从 AI 赋能到 AI 原生](https://www.tmtpost.com/7808668.html)
+**发布时间**: 2025-12-15 09:25
+
+#### [智能眼镜的时代真来了吗？如来](https://www.tmtpost.com/7808576.html)
+**发布时间**: 2025-12-15 09:04
+
+#### [顺差首破万亿美元：中国外贸的新考题 | 马上评](https://www.tmtpost.com/7808598.html)
+**发布时间**: 2025-12-15 08:33
+
+#### [【钛晨报】更大力度提振消费，三部门最新发声；财政部：加大逆周期和跨周期调节力度，提升宏观经济治理效能；SpaceX确认2026年IPO计划，估值半年翻倍至8000亿美元](https://www.tmtpost.com/7808513.html)
+**发布时间**: 2025-12-15 07:20
+
+#### [哈森股份重组受阻，终止收购辰瓴光学；新疆猪企龙头抛出12亿元并购【并购一线】](https://www.tmtpost.com/7808562.html)
+**发布时间**: 2025-12-14 21:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [具身智能的共识与非共识：地平线携手生态伙伴共话产业未来](http://www.geekpark.net/news/358003)
+**发布时间**: 2025-12-15 11:01
+
+#### [特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 2028 年 | 极客早知道](http://www.geekpark.net/news/358009)
+**发布时间**: 2025-12-15 08:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [大学课堂学生不抬头，老师怎么办？](https://sspai.com/post/104575)
+**发布时间**: 2025-12-15 10:33
+
+#### [派早报：市监总局起草合规指南限制「赔本卖车」](https://sspai.com/post/104602)
+**发布时间**: 2025-12-15 08:57
 
 ---
 

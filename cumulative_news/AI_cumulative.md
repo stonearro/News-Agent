@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-15 08:23
+**最后更新时间**: 2025-12-15 23:14
+
+---
+
+## 🆕 最新更新 (2025-12-15 23:14)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Thinking Machines首款产品重大更新：K2 Thinking、Qwen3-VL都可以微调了](https://www.jiqizhixin.com/articles/2025-12-15-12)
+**发布时间**: 2025-12-15 18:39
+
+#### [AAAI 2026｜视频大语言模型到底可不可信？23款主流模型全面测评来了](https://www.jiqizhixin.com/articles/2025-12-15-11)
+**发布时间**: 2025-12-15 18:36
+
+#### [连续俩月霸榜全球第一的数据分析智能体，终于开源啦！](https://www.jiqizhixin.com/articles/2025-12-15-10)
+**发布时间**: 2025-12-15 17:46
+
+#### [国产芯片也能跑AI视频实时生成了，商汤Seko 2.0揭秘幕后黑科技](https://www.jiqizhixin.com/articles/2025-12-15-9)
+**发布时间**: 2025-12-15 16:34
+
+#### [Veo何止生成视频：DeepMind正在用它模拟整个机器人世界](https://www.jiqizhixin.com/articles/2025-12-15-8)
+**发布时间**: 2025-12-15 16:25
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Gemini provides automated feedback for theoretical computer scientists at STOC 2026](https://research.google/blog/gemini-provides-automated-feedback-for-theoretical-computer-scientists-at-stoc-2026/)
+**发布时间**: 2025-12-15 17:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蚂蚁数科宣布开源数据分析智能体技术，当前登顶BIRD](https://www.qbitai.com/2025/12/361042.html)
+**发布时间**: 2025-12-15 10:09
 
 ---
 

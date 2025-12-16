@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-16 05:18
+**最后更新时间**: 2025-12-16 08:26
+
+---
+
+## 🆕 最新更新 (2025-12-16 08:26)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [英特尔，下一个 AI 时代的「卖铲人」](http://www.geekpark.net/news/358085)
+**发布时间**: 2025-12-16 16:12
+
+#### [量产「中国版 FSD」后，地平线为何公开高阶智驾的「灵魂代码」？](http://www.geekpark.net/news/358084)
+**发布时间**: 2025-12-16 15:54
+
+#### [AI 时代，如何定义电商营销新范式？](http://www.geekpark.net/news/358075)
+**发布时间**: 2025-12-16 13:42
+
+#### [朱啸虎投资，Refly.AI黄巍：n8n太难用，Vibe Workflow才是更大众的解决方案](http://www.geekpark.net/news/357942)
+**发布时间**: 2025-12-11 17:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [点都德推“早茶夜酒”，为什么餐饮品牌都在做全时段生意？](https://www.tmtpost.com/7810553.html)
+**发布时间**: 2025-12-16 16:08
+
+#### [A股辞旧迎新，AI概念股投资还能买什么？](https://www.tmtpost.com/7810611.html)
+**发布时间**: 2025-12-16 16:07
+
+#### [商场餐饮“排队王”，扎堆去新疆捞金](https://www.tmtpost.com/7810538.html)
+**发布时间**: 2025-12-16 16:06
+
+#### [排队6小时也要吃，韩国料理，又行了？](https://www.tmtpost.com/7810547.html)
+**发布时间**: 2025-12-16 16:04
+
+#### [砸40万开店月亏上万，餐饮创业这个坑，很多人都踩过……](https://www.tmtpost.com/7810545.html)
+**发布时间**: 2025-12-16 16:02
+
+#### [华尔街惊魂夜：AI股大跌与CDS市场的狂欢](https://www.tmtpost.com/7810540.html)
+**发布时间**: 2025-12-16 15:59
+
+#### [人形机器人的2025：一半是迷雾森林，一半是星辰大海](https://www.tmtpost.com/7810382.html)
+**发布时间**: 2025-12-16 15:57
+
+#### [大规模关店后，85度C盯上了一个新赛道](https://www.tmtpost.com/7810548.html)
+**发布时间**: 2025-12-16 15:52
+
+#### [从咖啡因龙头一跃成为创新药新锐，石药创新如何成功转型？](https://www.tmtpost.com/7810483.html)
+**发布时间**: 2025-12-16 15:49
+
+#### [一边上市敲钟，一边老店结业，香港餐饮大换血？](https://www.tmtpost.com/7810550.html)
+**发布时间**: 2025-12-16 15:46
+
+#### [民营加油站直面生存危机](https://www.tmtpost.com/7810478.html)
+**发布时间**: 2025-12-16 15:43
+
+#### [Identic AI is the Next Leap in Digital Transformation, Says Don Tapscott](https://www.tmtpost.com/7810594.html)
+**发布时间**: 2025-12-16 15:11
+
+#### [启明创投领投，眼科创新药研发企业欧科健完成3000万美元B轮融资 | 融资速递](https://www.tmtpost.com/7810376.html)
+**发布时间**: 2025-12-16 15:01
+
+#### [Ant Afu Emerges as China's Fastest-Growing AI Health Companion in 2025](https://www.tmtpost.com/7810518.html)
+**发布时间**: 2025-12-16 14:29
+
+#### [智慧物流2025质变：AI 驱动下，从规模竞赛转向价值深耕](https://www.tmtpost.com/7809930.html)
+**发布时间**: 2025-12-16 14:08
+
+#### [又一货代美洲星暴雷](https://www.tmtpost.com/7810450.html)
+**发布时间**: 2025-12-16 13:50
+
+#### [春雨医生“卖身”，打开微医、微脉们的任督二脉？](https://www.tmtpost.com/7810417.html)
+**发布时间**: 2025-12-16 13:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TPU 订单狂增，谷歌扩产新一代芯片！谷歌首席科学家：我们使用10多年了，一直非常满意](https://www.infoq.cn/article/ur4SXTRC07GVAFv2ifRJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 15:34
+
+#### [JEP 526为JDK 26简化了延迟初始化](https://www.infoq.cn/article/4YGQYqtKNj9IS7poWyAb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 15:30
+
+#### [NVIDIA Dynamo解决了多节点大语言模型推断的挑战](https://www.infoq.cn/article/MbwXsNvEcFdumo02kwLs?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 14:57
+
+#### [Grab为其平台新增实时数据质量监控功能](https://www.infoq.cn/article/0Gsi1oP2oM9Pj78KePl3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 13:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透｜Android 16 正式版值得关注的功能更新](https://sspai.com/post/100130)
+**发布时间**: 2025-12-16 14:50
 
 ---
 

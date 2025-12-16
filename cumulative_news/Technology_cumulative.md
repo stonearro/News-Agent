@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 23:14
+**最后更新时间**: 2025-12-16 05:18
+
+---
+
+## 🆕 最新更新 (2025-12-16 05:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“AMD基因”vs“英伟达血统”：沐曦股份上市能否复刻摩尔线程走势？](https://www.tmtpost.com/7810370.html)
+**发布时间**: 2025-12-16 13:03
+
+#### [合资品牌的2025：用品牌溢价换喘息的一年](https://www.tmtpost.com/7809864.html)
+**发布时间**: 2025-12-16 12:55
+
+#### [China AI Chip Startup Biren Prepares Hong Kong IPO Amid Push for Semiconductor Self-Reliance](https://www.tmtpost.com/7810359.html)
+**发布时间**: 2025-12-16 12:29
+
+#### [中国平安：是否到了可以乐观的时点？](https://www.tmtpost.com/7810208.html)
+**发布时间**: 2025-12-16 12:10
+
+#### [中国短剧用“狼人赘婿”征服欧美](https://www.tmtpost.com/7810198.html)
+**发布时间**: 2025-12-16 12:10
+
+#### [80亿，国家电投+国家电网联手押注生物质新赛道](https://www.tmtpost.com/7810206.html)
+**发布时间**: 2025-12-16 12:09
+
+#### [没有硬数据，HR的年终总结就是流水账](https://www.tmtpost.com/7810211.html)
+**发布时间**: 2025-12-16 12:08
+
+#### [新叙事：太空算力](https://www.tmtpost.com/7810214.html)
+**发布时间**: 2025-12-16 12:08
+
+#### [Tesla Shares Surge Over 3% to Year-High after Musk Confirms Driverless Robotaxi Road Tests](https://www.tmtpost.com/7810312.html)
+**发布时间**: 2025-12-16 12:05
+
+#### [中国燃油车在海外大火？国产燃油车是怎么行的？](https://www.tmtpost.com/7810158.html)
+**发布时间**: 2025-12-16 12:04
+
+#### [告别“挖矿”逻辑：OpenAI前联合创始人Ilya揭示AI下半场的新赛点](https://www.tmtpost.com/7810210.html)
+**发布时间**: 2025-12-16 12:03
+
+#### [他，让黄仁勋睡不着](https://www.tmtpost.com/7810219.html)
+**发布时间**: 2025-12-16 12:02
+
+#### [AI to C战局升温，“蚂蚁阿福”何以成为现象级应用？](https://www.tmtpost.com/7810069.html)
+**发布时间**: 2025-12-16 12:02
+
+#### [AI的“万亿拷问”：疯狂砸AI，从哪里赚回来？](https://www.tmtpost.com/7810243.html)
+**发布时间**: 2025-12-16 11:56
+
+#### [Trump Admin. Launches New Initiative to Hire 1,000 Specialists for AI and Other Tech Projects](https://www.tmtpost.com/7810222.html)
+**发布时间**: 2025-12-16 11:36
+
+#### [马来西亚打造首个免税能源港；Ozon黑五中国商品订单量飙升5倍；2026年墨西哥电商平台预扣税最高达36%｜一周出海参考](https://www.tmtpost.com/7809372.html)
+**发布时间**: 2025-12-16 11:25
+
+#### [曾拒绝10亿收购，“情绪个护鼻祖”POLYVOLY走向破产](https://www.tmtpost.com/7809717.html)
+**发布时间**: 2025-12-16 11:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [我高中辍学，跟 AI 学习，逆袭成为 OpenAI 研究员](http://www.geekpark.net/news/358072)
+**发布时间**: 2025-12-16 13:00
+
+#### [群核科技，摸着李飞飞过河](http://www.geekpark.net/news/358069)
+**发布时间**: 2025-12-16 11:07
+
+#### [马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验](http://www.geekpark.net/news/358055)
+**发布时间**: 2025-12-16 08:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [大模型在荣耀推荐和广告场景的应用实践 ｜AICon 北京](https://www.infoq.cn/article/TccQfhBDKcbLiYE1Mz6L?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 12:09
+
+#### [2025年InfoQ趋势报告：Java篇](https://www.infoq.cn/article/ps1x5VJ7XiIuWzDzul5m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 11:59
+
+#### [培养 Data Superhero 的思维模式](https://www.infoq.cn/article/zef6xMixQVDouh7lG5PA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 11:16
+
+#### [Vitest团队发布4.0版本，提供稳定的浏览器模式与视觉回归测试功能](https://www.infoq.cn/article/O9bTEFlNdmoIBR7QPXa9?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 11:15
+
+#### [亚马逊云科技发布持久化函数，支持在Lambda代码中实现有状态逻辑](https://www.infoq.cn/article/S6tXGvHrScFKPGt50OEB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 10:50
+
+#### [突发！激光雷达巨头申请破产：30 亿估值归零，资产不及负债零头，创始人另立门户收购旧部却遭拒？](https://www.infoq.cn/article/tk2N8dYK4waPv9oDIDSd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 10:27
+
+#### [GPT-5.2全力出击！碾压44类专业工作，实测编程同价位无对手、深度推理封神，但速度太拉胯了](https://www.infoq.cn/article/PTZf4yop95FB43yF1HWW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 10:03
+
+#### [AI编码工具变 “格式化神器”？Claude CLI半年频当“系统杀手”，多位开发者痛斥：心血都没了！](https://www.infoq.cn/article/ExvGzai2dQXZ3xzURUiJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 10:00
+
+#### [OpenAI 偷装“死对头”Anthropic Skills 实锤，ChatGPT、Codex已植入！111分钟造PDF+自动改字体，开发者亲测力捧：比MCP重要！](https://www.infoq.cn/article/bxJP3kqK0Jq5mG5BE3PV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-16 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [百元成本亦可圆梦：这是我的低成本痛车心得](https://sspai.com/post/104541)
+**发布时间**: 2025-12-16 11:06
+
+#### [派早报：vivo 发布 S50 系列新机等](https://sspai.com/post/104623)
+**发布时间**: 2025-12-16 08:02
 
 ---
 

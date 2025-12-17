@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-17 05:17
+**最后更新时间**: 2025-12-17 08:21
+
+---
+
+## 🆕 最新更新 (2025-12-17 08:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航](https://www.jiqizhixin.com/articles/2025-12-17-15)
+**发布时间**: 2025-12-17 15:31
+
+#### [硬刚Sora2，万相2.6轻松定制角色、控制分镜，普通人也能当导演](https://www.jiqizhixin.com/articles/2025-12-17-14)
+**发布时间**: 2025-12-17 14:47
+
+#### [人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态](https://www.jiqizhixin.com/articles/2025-12-17-13)
+**发布时间**: 2025-12-17 14:43
+
+#### [欢迎申请、提名和转发！第二届Wiley新锐科学家奖开放申请](https://www.jiqizhixin.com/articles/2025-12-17-12)
+**发布时间**: 2025-12-17 14:42
+
+#### [SIGGRAPH Asia 2025：摩尔线程赢图形顶会3DGS挑战赛大奖，自研LiteGS全面开源](https://www.jiqizhixin.com/articles/2025-12-17-11)
+**发布时间**: 2025-12-17 14:36
+
+#### [OpenAI发布专家级科学能力评估基准FrontierScience，Gemini 3 Pro与GPT‑5.2表现相当](https://www.jiqizhixin.com/articles/2025-12-17-10)
+**发布时间**: 2025-12-17 14:33
+
+#### [WAIC Future Tech 2026：全球科技曝光+合作，资本的下一个掘金点](https://www.jiqizhixin.com/articles/2025-12-17-9)
+**发布时间**: 2025-12-17 14:32
+
+#### [经验记忆黑科技：LightSearcher让AI工具调用减39.6%、推理快48.6%](https://www.jiqizhixin.com/articles/2025-12-17-8)
+**发布时间**: 2025-12-17 14:28
+
+#### [再获头部厂商定点，千寻位置BG1101系列车规级芯片模组定点累计超千万片](https://www.jiqizhixin.com/articles/2025-12-17-7)
+**发布时间**: 2025-12-17 14:04
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态](https://www.qbitai.com/2025/12/361460.html)
+**发布时间**: 2025-12-17 07:19
+
+#### [是个公司都在用AI Agent，但大家真的用明白了吗| MEET2026圆桌论坛](https://www.qbitai.com/2025/12/361436.html)
+**发布时间**: 2025-12-17 05:10
 
 ---
 

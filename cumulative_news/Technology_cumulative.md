@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 05:17
+**最后更新时间**: 2025-12-18 08:21
+
+---
+
+## 🆕 最新更新 (2025-12-18 08:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯云TencentOS智能运维平台TManager正式发布 | Q推荐](https://www.infoq.cn/article/0sQNUHiVBjLqTV6ybm0T?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 16:09
+
+#### [来，和模力工场一起亮相 AI 闪耀中国！
+——12月28日，共赴一场定义未来的思想盛宴](https://www.infoq.cn/article/G0SSQ5R7jb0UqaOectys?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 15:58
+
+#### [Meta的React Compiler 1.0将自动记忆化引入到生产环境](https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 15:30
+
+#### [生成式 AI 的投资回报远超预期](https://www.infoq.cn/minibook/aja6h8SVCM1Smvggyvvu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 15:02
+
+#### [人才济济的大厂，为何频频产出垃圾代码？](https://www.infoq.cn/article/jXR5eXUZdt3IW7zJgaUE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 14:55
+
+#### [TornadoVM 2.0为Java提供自动GPU加速和LLM支持](https://www.infoq.cn/article/WETdDcH0thPepBGK5vkh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [月活暴跌70%背后，Kimi走在钢索之上](https://www.tmtpost.com/7813316.html)
+**发布时间**: 2025-12-18 16:01
+
+#### [AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视](https://www.tmtpost.com/7813373.html)
+**发布时间**: 2025-12-18 16:01
+
+#### [Gemini 3 Flash发布：谷歌以“速度优先”重新定义AI效率之战](https://www.tmtpost.com/7813380.html)
+**发布时间**: 2025-12-18 15:59
+
+#### [互联网大厂跨越2025：不出海，就出局；乱出海，也出局？](https://www.tmtpost.com/7813303.html)
+**发布时间**: 2025-12-18 15:57
+
+#### [曾不被李彦宏和余凯等大佬看好的L3，如今支棱起来了](https://www.tmtpost.com/7813245.html)
+**发布时间**: 2025-12-18 15:54
+
+#### [玛莎拉蒂的坠落：从“总裁座驾”到30万清仓](https://www.tmtpost.com/7813235.html)
+**发布时间**: 2025-12-18 15:54
+
+#### [甲骨文魔幻100天：从AI狂欢到债务恐惧](https://www.tmtpost.com/7813226.html)
+**发布时间**: 2025-12-18 15:52
+
+#### [OpenAI Said to Explore Funding Round of Up to $100 billion at $750 Billion Valuation](https://www.tmtpost.com/7813253.html)
+**发布时间**: 2025-12-18 13:35
 
 ---
 

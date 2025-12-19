@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 05:16:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 05:17:02 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 08:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 08:21:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>T5Gemma模型再更新，谷歌还在坚持编码器-解码器架构</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-6</link>
-      <description>&lt;![CDATA[T5Gemma模型再更新，谷歌还在坚持编码器-解码器架构]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-6</guid>
+      <title>拆解CANN：当华为决定打开算力的「黑盒」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-10</link>
+      <description>&lt;![CDATA[拆解CANN：当华为决定打开算力的「黑盒」]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-5</link>
-      <description>&lt;![CDATA[基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-5</guid>
+      <title>Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-9</link>
+      <description>&lt;![CDATA[Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>商汤大装置助力全国规划资源领域首个基础大模型-“云宇星空大模型（专业版）”正式发布</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-4</link>
-      <description>&lt;![CDATA[商汤大装置助力全国规划资源领域首个基础大模型-“云宇星空大模型（专业版）”正式发布]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-4</guid>
+      <title>大模型「越想越错」？人大&amp;腾讯团队用信息论揭示：什么时候该想、什么时候别想</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-8</link>
+      <description>&lt;![CDATA[大模型「越想越错」？人大&amp;腾讯团队用信息论揭示：什么时候该想、什么时候别想]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI最强代码模型GPT-5.2-Codex上线</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-3</link>
-      <description>&lt;![CDATA[OpenAI最强代码模型GPT-5.2-Codex上线]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-3</guid>
+      <title>谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-19-7</link>
+      <description>&lt;![CDATA[谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19-2</link>
-      <description>&lt;![CDATA[亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19-2</guid>
+      <title>当年带你上网冲浪的头号老玩家，这回是真AI上头了</title>
+      <link>https://www.qbitai.com/2025/12/362082.html</link>
+      <description>&lt;![CDATA[当年带你上网冲浪的头号老玩家，这回是真AI上头了]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362082.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>首创ACE具身研发范式，大晓机器人构建具身智能开放新生态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-19</link>
-      <description>&lt;![CDATA[首创ACE具身研发范式，大晓机器人构建具身智能开放新生态]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-19</guid>
+      <title>让“组织AI”追上“物理AI”，飞书广州峰会发布“粤企一齐飞”加速计划</title>
+      <link>https://www.qbitai.com/2025/12/362097.html</link>
+      <description>&lt;![CDATA[让“组织AI”追上“物理AI”，飞书广州峰会发布“粤企一齐飞”加速计划]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362097.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>认知偏差、落地断层、体验割裂是目前AI产品的三大痛点｜百度王颖@MEET2026</title>
-      <link>https://www.qbitai.com/2025/12/362059.html</link>
-      <description>&lt;![CDATA[认知偏差、落地断层、体验割裂是目前AI产品的三大痛点｜百度王颖@MEET2026]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 03:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362059.html</guid>
+      <title>可打电话可对讲！全球首款奥特曼 AI 互动对话器来了</title>
+      <link>https://www.qbitai.com/2025/12/362076.html</link>
+      <description>&lt;![CDATA[可打电话可对讲！全球首款奥特曼 AI 互动对话器来了]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 06:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362076.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>LeCun创业首轮估值247亿！Alexandre当CEO</title>
-      <link>https://www.qbitai.com/2025/12/362050.html</link>
-      <description>&lt;![CDATA[LeCun创业首轮估值247亿！Alexandre当CEO]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 02:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362050.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>“大疆教父”李泽湘敲钟IPO，市值112亿！</title>
-      <link>https://www.qbitai.com/2025/12/361961.html</link>
-      <description>&lt;![CDATA[“大疆教父”李泽湘敲钟IPO，市值112亿！]]&gt;</description>
-      <pubDate>Fri, 19 Dec 2025 02:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/361961.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>Google Research 2025: Bolder breakthroughs, bigger impact</title>
-      <link>https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/</link>
-      <description>&lt;![CDATA[Google Research 2025: Bolder breakthroughs, bigger impact]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 23:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/</guid>
+      <title>云宇星空大模型正式发布，上海市规划资源局与商汤大装置联合打造</title>
+      <link>https://www.qbitai.com/2025/12/362081.html</link>
+      <description>&lt;![CDATA[云宇星空大模型正式发布，上海市规划资源局与商汤大装置联合打造]]&gt;</description>
+      <pubDate>Fri, 19 Dec 2025 06:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/362081.html</guid>
       <category>AI</category>
     </item>
   </channel>

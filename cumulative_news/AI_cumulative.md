@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-18 23:14
+**最后更新时间**: 2025-12-19 05:16
+
+---
+
+## 🆕 最新更新 (2025-12-19 05:16)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [T5Gemma模型再更新，谷歌还在坚持编码器-解码器架构](https://www.jiqizhixin.com/articles/2025-12-19-6)
+**发布时间**: 2025-12-19 11:59
+
+#### [基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP](https://www.jiqizhixin.com/articles/2025-12-19-5)
+**发布时间**: 2025-12-19 11:53
+
+#### [商汤大装置助力全国规划资源领域首个基础大模型-“云宇星空大模型（专业版）”正式发布](https://www.jiqizhixin.com/articles/2025-12-19-4)
+**发布时间**: 2025-12-19 11:32
+
+#### [OpenAI最强代码模型GPT-5.2-Codex上线](https://www.jiqizhixin.com/articles/2025-12-19-3)
+**发布时间**: 2025-12-19 10:17
+
+#### [亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任](https://www.jiqizhixin.com/articles/2025-12-19-2)
+**发布时间**: 2025-12-19 10:14
+
+#### [首创ACE具身研发范式，大晓机器人构建具身智能开放新生态](https://www.jiqizhixin.com/articles/2025-12-19)
+**发布时间**: 2025-12-19 10:06
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [认知偏差、落地断层、体验割裂是目前AI产品的三大痛点｜百度王颖@MEET2026](https://www.qbitai.com/2025/12/362059.html)
+**发布时间**: 2025-12-19 03:58
+
+#### [LeCun创业首轮估值247亿！Alexandre当CEO](https://www.qbitai.com/2025/12/362050.html)
+**发布时间**: 2025-12-19 02:39
+
+#### [“大疆教父”李泽湘敲钟IPO，市值112亿！](https://www.qbitai.com/2025/12/361961.html)
+**发布时间**: 2025-12-19 02:24
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Google Research 2025: Bolder breakthroughs, bigger impact](https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/)
+**发布时间**: 2025-12-18 23:29
 
 ---
 

@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "38f58fd5940732e59740455ee0260d30489cac8907ea7f9f93a8ad4a4ca05596": {
-        "title": "NEX：下一代能动性模型体系与开源生态",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-9",
-        "published_date": "Thu, 20 Nov 2025 15:17:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454052"
-      },
-      "d27bbbc4a606148a72a5be66934f334217ee8c2af2603ceecb7e30fbf232bc62": {
-        "title": "本周六，围观学习NeurIPS 2025论文分享会，最后报名了",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-8",
-        "published_date": "Thu, 20 Nov 2025 14:54:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454233"
-      },
-      "f6a3724c81cd7b452d9ab04d81322f8f5c7436746cb3f415567d3bb16c508e60": {
-        "title": "AI终于学会「读懂人心」，带飞DeepSeek R1，OpenAI o3等模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-7",
-        "published_date": "Thu, 20 Nov 2025 14:48:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454431"
-      },
-      "c8385776462a0be30e2e111e854bc2b93eafda4ee9d27012c9c2cb770b5d6eea": {
-        "title": "让移动不再成为噪声：搭载AI的新一代可穿戴传感实现高动态条件下的精准识别",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-20-6",
-        "published_date": "Thu, 20 Nov 2025 14:34:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454645"
-      },
-      "b5c62bd027453bb493513414e4311e2ae19722f79240b2829a8532273c57d235": {
-        "title": "2025人工智能+大会在海淀举行 共绘AI下一个十年图景",
-        "link": "https://www.qbitai.com/2025/11/354542.html",
-        "published_date": "Thu, 20 Nov 2025 06:27:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.454878"
-      },
-      "8568348d6e1df3d213c7aeb4ae97985525acc38e0b9246e6382fd7a6d413084a": {
-        "title": "2025人工智能+大会圆满落幕，人工智能百人会凝聚共识",
-        "link": "https://www.qbitai.com/2025/11/354521.html",
-        "published_date": "Thu, 20 Nov 2025 06:20:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.455173"
-      },
       "b89c0de95377ce7caa2cbca7ed138a5b705b79ec6e0eb2d0cffb9af53ebed7b2": {
         "title": "谷歌Nano Banana Pro上线，深度结合Gemini 3，这下生成世界了",
         "link": "https://www.jiqizhixin.com/articles/2025-11-21",
@@ -2952,159 +2916,39 @@
         "link": "https://www.qbitai.com/2025/12/362185.html",
         "published_date": "Fri, 19 Dec 2025 10:45:00 GMT",
         "first_seen": "2025-12-19T23:19:26.194518"
+      },
+      "389dcff3faf5d669624b8cbcdf9375d6278bedf7fac2fda34d1f29a33448aa58": {
+        "title": "LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-5",
+        "published_date": "Sun, 21 Dec 2025 01:11:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.674729"
+      },
+      "1c1c98cf1fe70f79f0ecf8f7bd0655c1e9e08b8f44db566cf3e17362f339787b": {
+        "title": "人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-4",
+        "published_date": "Sun, 21 Dec 2025 01:06:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.674908"
+      },
+      "4b6889588ccc275866c3cffb918393286e02d6b89ea0126ba14c7be470ef47fe": {
+        "title": "玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-3",
+        "published_date": "Sun, 21 Dec 2025 01:00:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.675119"
+      },
+      "c5c66b42bda7b660e213e4280bee2ecb29a78fc177dd2ca9d13d828eea42dba5": {
+        "title": "布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-2",
+        "published_date": "Sun, 21 Dec 2025 00:54:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.675348"
+      },
+      "f543f8628a74270ab5f94ef7f3293bfb20a7c83fa2b9332025028729252951d9": {
+        "title": "Anthropic公布新技术：不靠删数据，参数隔离移除AI危险",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21",
+        "published_date": "Sun, 21 Dec 2025 00:48:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.675671"
       }
     },
     "Technology": {
-      "510005fef7936fa77e17f1a337140b67e1208fa9a3d4bf4edd6fe7df038716df": {
-        "title": "为什么说在 AI 时代，「想象」比「记录」更费劲？",
-        "link": "http://www.geekpark.net/news/356672",
-        "published_date": "Thu, 20 Nov 2025 16:26:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879151"
-      },
-      "196fc8636e6b085f37efac3c6a49a1ed2aa7d8a3461a744e1f70a6a2b08f1b7c": {
-        "title": "Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？",
-        "link": "https://www.infoq.cn/article/8M7jEXAvzGNRFCaiUXO5?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:57:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879164"
-      },
-      "2ae44cda5a3afc1a76f26af6ff9743fbaa059121454526e3d6ad5712c9789d0c": {
-        "title": "LLM 没意思，小扎决策太拉垮，图灵奖大佬 LeCun 离职做 AMI",
-        "link": "https://www.infoq.cn/article/YyXpLPJwazKxww4craMv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:37:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879176"
-      },
-      "81030e128c35a9a7668846783a323a7a89b4f72679ba4279737c7c454a28f011": {
-        "title": "谷歌预览Code Wiki：你能信任AI来记录你的代码库吗？",
-        "link": "https://www.infoq.cn/article/Xh50z4ehHKu7oIMTPNov?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:33:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879186"
-      },
-      "b23c74bba1bc113d5ab56d1ae1e39a4ae814385f008d9ce91a465ba61b15ae62": {
-        "title": "React 基金会负责人谈框架的下一步发展",
-        "link": "https://www.infoq.cn/article/w6Pm4uhGMJa7XzxHyu1z?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:23:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879196"
-      },
-      "584af2736b10b02209c0279ae5589998d49d2716128e86a8e5043450f55d907a": {
-        "title": "从 C++ 转向 Rust？ClickHouse 有话说",
-        "link": "https://www.infoq.cn/article/eazVcVHlRuHTOeWDy0rs?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:18:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879207"
-      },
-      "ce9148e404d34b03cfb1a922e8b45182e38212d8d0223264d47a84a92d7e88fa": {
-        "title": "理解规范驱动开发：Kiro、spec-kit和Tessl",
-        "link": "https://www.infoq.cn/article/4GT6jbMzEmCBavfDlzHK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 15:05:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879217"
-      },
-      "a0c64d2311eed88cfbfa3f74abd243abdd5d9ec25a59440e384e027ea6c68a5e": {
-        "title": "腾讯音乐如何基于 AutoMQ 降低 Kafka 50%+ 成本",
-        "link": "https://www.infoq.cn/article/PmRWNaHyjw2IBZYPpY2H?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:55:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.535602"
-      },
-      "ccdd3f2f48b8653aa67c605d5ad23e451d6bdf2208132a4e0264208e4e7b8a82": {
-        "title": "InfraTalk直播第一期完整版｜Agent浪潮之下：AI Infra的演化成果与方向解读",
-        "link": "https://www.infoq.cn/video/VkJR3aH430YQSvYJDZEQ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:55:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.536268"
-      },
-      "0985c9023b52335aa1328d0b67d4c8b5c69ae5bbea75040fbab161ecdef9baad": {
-        "title": "征程再启，剑指桂冠 | 云谷杯·2025 人工智能应用创新创业大赛复赛顺利举⾏",
-        "link": "https://www.infoq.cn/article/MbkcNlIDLbIPxtLX7iZl?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:36:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879091"
-      },
-      "4e2c518fc455ce1b1e6b3812b6c3acfd57873dac666449daa556be93d58d078f": {
-        "title": "Agent规模化落地前夜，AI Infra的难题全都暴露了",
-        "link": "https://www.infoq.cn/article/dRPGO5HCirJQP7Ayy8DK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:23:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.537583"
-      },
-      "2e32b7bb680ecaa91eab33d09952d16ca12657cf4493b810947119c3b9c7c39e": {
-        "title": "微软通过私有云扩展解决数据驻留问题",
-        "link": "https://www.infoq.cn/article/ZTmzTF7B8ZcENQ9kaqlD?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 14:00:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.537932"
-      },
-      "be3e8b124d13c281dab2cf66127495dfab70431cd76aaa68ce8259b90c24b97d": {
-        "title": "从需求到投标：数据驱动的智能技术方案生成 Agent 实战｜AICon北京",
-        "link": "https://www.infoq.cn/article/33Aozr1sH9J8gj7UxBfu?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 20 Nov 2025 13:30:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879121"
-      },
-      "3ea60ea66e582d8a2432804edad1548fa885b35dc3fa69b877e520227be8d545": {
-        "title": "比非农还重要，英伟达能再次撑起美股脊梁骨吗？",
-        "link": "https://www.tmtpost.com/7773222.html",
-        "published_date": "Thu, 20 Nov 2025 15:43:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.539297"
-      },
-      "be7448357ce097b2396de0ab40e7d0474dfbe488525a46e2501d2cf76bc5b1f4": {
-        "title": "摆摊自救，餐厅上街抢生意",
-        "link": "https://www.tmtpost.com/7773412.html",
-        "published_date": "Thu, 20 Nov 2025 15:30:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.539756"
-      },
-      "06a2d37c2096581b42a681baf66f326dfa1e8bb0548a1c13cfd3a9d85acafad9": {
-        "title": "iPhone 17 Series Powers Apple to Record Highs in China as Cook Eyes Possible Exit",
-        "link": "https://www.tmtpost.com/7773958.html",
-        "published_date": "Thu, 20 Nov 2025 15:16:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.541425"
-      },
-      "55358c6ee6d4bb7bbd70475a40b2fef2db48c29da849d88def22c35ec7059880": {
-        "title": "A股进入下半场，还有哪些风口？",
-        "link": "https://www.tmtpost.com/7773236.html",
-        "published_date": "Thu, 20 Nov 2025 15:13:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.542020"
-      },
-      "5e1892a1da23fd7d33c2e9fa14f65eb0751a0b792a88138358f1b44118b8e12c": {
-        "title": "Musk's xAI Joins Hands with Nvidia to Develop a 500MW Datacenter in Saudi Arabia",
-        "link": "https://www.tmtpost.com/7773871.html",
-        "published_date": "Thu, 20 Nov 2025 14:18:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.544043"
-      },
-      "3c9c2c3b50cdc4340a872a3857ea53ce1ecb79baaad0e8affc80517061df3990": {
-        "title": "巴菲特临退休卖出苹果买谷歌，股神的最后一战意欲何为？",
-        "link": "https://www.tmtpost.com/7773432.html",
-        "published_date": "Thu, 20 Nov 2025 14:17:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.544833"
-      },
-      "5da32107c00aabf027bd24e92edcfc10a9fd4d6371edc559973f881e97a10ab0": {
-        "title": "光伏下半场：光储协同、体系出海、技术融合丨行业风向标",
-        "link": "https://www.tmtpost.com/7773783.html",
-        "published_date": "Thu, 20 Nov 2025 14:13:00 GMT",
-        "first_seen": "2025-11-20T08:30:44.879137"
-      },
-      "0d1cde81f8b44d6ae5e809523d8123b8b68a4c2ad3dd250fd84108ca8fca173d": {
-        "title": "新国标之下，两轮电动厂商开始押注B端场景",
-        "link": "https://www.tmtpost.com/7773762.html",
-        "published_date": "Thu, 20 Nov 2025 13:59:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.546573"
-      },
-      "69e569bdfedcd231c074f3f14e0c18039fed487ed234f3f5790f2b8775c29078": {
-        "title": "AMD, Cisco, PIF-Backed Humain Plan to Build 1GW Datacenters in Saudi Arabia",
-        "link": "https://www.tmtpost.com/7773800.html",
-        "published_date": "Thu, 20 Nov 2025 13:47:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.548965"
-      },
-      "df87b636cc1a6b6fe3d6aaeaf917ae9f342ac379aa3c3f3c4986df2914c4102a": {
-        "title": "Gemini 3负责人最新访谈：不做情感陪伴，只做最强生产力工具",
-        "link": "https://www.tmtpost.com/7773644.html",
-        "published_date": "Thu, 20 Nov 2025 13:24:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.550204"
-      },
-      "55511f08f3e61fb2946c348c4bc4b26d1b87c01aed34ab772256f9e1e66501d9": {
-        "title": "开源、免费、隐私友好，功能强大的 Android 输入法：小企鹅输入法",
-        "link": "https://sspai.com/post/103871",
-        "published_date": "Thu, 20 Nov 2025 15:00:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.551916"
-      },
-      "2cbd28900d43ba79516826ce067d2670fc3cadf4c41583a267d1da775a1ae736": {
-        "title": "又一轻食巨头暴雷！曾融资过亿，如今创始人被悬赏“追债”？",
-        "link": "http://www.huxiu.com/article/4807163.html?f=wangzhan",
-        "published_date": "Thu, 20 Nov 2025 14:16:00 GMT",
-        "first_seen": "2025-11-20T08:29:56.553172"
-      },
       "062fdeb60550029732b23948b91a46ec23c0b348e536b6f5fc5cf2a6f4137e7c": {
         "title": "Google Launches Gemini 3-Backed Image Generation Model Nano Banana Pro",
         "link": "https://www.tmtpost.com/7774785.html",
@@ -13640,13 +13484,31 @@
         "link": "http://www.huxiu.com/article/4818868.html?f=wangzhan",
         "published_date": "Sat, 20 Dec 2025 14:00:00 GMT",
         "first_seen": "2025-12-20T08:18:41.010482"
+      },
+      "9b64598440ba3d0828ec4f054cc5dbc1d22420541ffa7b0cfe6f4a334034d343": {
+        "title": "对2025年中国游戏行业的简短总结",
+        "link": "https://www.tmtpost.com/7815520.html",
+        "published_date": "Sat, 20 Dec 2025 22:06:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.765303"
+      },
+      "989d009b7cf07c5e4084f0a6157588aab4e1fa6a20e7493ba0434d29b0a5b794": {
+        "title": "红杉中国成为Golden Goose控股股东 带领意大利时尚品牌加速全球布局",
+        "link": "https://www.tmtpost.com/7815745.html",
+        "published_date": "Sat, 20 Dec 2025 16:23:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.765441"
+      },
+      "dd479383c9e7217e60572a5d25aa7112a34738758043e56f607529afd76849d7": {
+        "title": "十多道啫啫煲和砂锅菜，让你的冬日吃出汗",
+        "link": "https://sspai.com/prime/story/clay-pot-casserole-dishes-for-winter",
+        "published_date": "Sat, 20 Dec 2025 20:17:00 GMT",
+        "first_seen": "2025-12-20T23:13:30.765577"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-20T08:18:40.943902",
-    "Technology": "2025-12-20T08:18:41.030594",
-    "Finance": "2025-12-20T08:18:40.822383"
+    "AI": "2025-12-20T23:13:30.695630",
+    "Technology": "2025-12-20T23:13:30.773247",
+    "Finance": "2025-12-20T23:13:30.565530"
   }
 }

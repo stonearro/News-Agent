@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-29 05:28
+**最后更新时间**: 2025-12-29 08:23
+
+---
+
+## 🆕 最新更新 (2025-12-29 08:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [独立游戏十年，是更好还是更卷了？](https://www.tmtpost.com/7824034.html)
+**发布时间**: 2025-12-29 16:19
+
+#### [霸王茶姬，困在咖啡因里？](https://www.tmtpost.com/7823994.html)
+**发布时间**: 2025-12-29 15:51
+
+#### [H200的“放”与“限”：中国AI算力代差中何以破局？](https://www.tmtpost.com/7823889.html)
+**发布时间**: 2025-12-29 14:52
+
+#### [机器人租赁火了，但这真的是一门好生意吗？](https://www.tmtpost.com/7823909.html)
+**发布时间**: 2025-12-29 14:15
+
+#### [AI is Energy That Has Found Self-Awareness, Says Chairman of Envision Group](https://www.tmtpost.com/7824473.html)
+**发布时间**: 2025-12-29 13:54
+
+#### [反思AI理财第一股：算法退场，“吃息”上市 | 巴伦精选](https://www.tmtpost.com/7824477.html)
+**发布时间**: 2025-12-29 13:52
+
+#### [肯德基在韩国，被私募玩明白了](https://www.tmtpost.com/7823857.html)
+**发布时间**: 2025-12-29 13:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [靠 AI 智能体让网络走向自动驾驶！HPE Networking两大平台推出AIOps能力，正直奔“L5阶段”](https://www.infoq.cn/article/N6S6vuVmhY54Rgtd4AWF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-29 16:12
 
 ---
 

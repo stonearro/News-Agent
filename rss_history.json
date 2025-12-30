@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b0193162ddf35e07c0a51d149b2070f0ee75a973ea582b0ad238c736c17714b8": {
-        "title": "Transformer作者爆料GPT-5.1内幕！OpenAI内部命名规则变乱了",
-        "link": "https://www.qbitai.com/2025/11/357506.html",
-        "published_date": "Sun, 30 Nov 2025 05:18:00 GMT",
-        "first_seen": "2025-11-30T08:17:03.891795"
-      },
       "ad02f63cdf15cf78d2cea303c8f84fd65f9c54211c36fec61bdd76a2ad64c5a5": {
         "title": "15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」",
         "link": "https://www.jiqizhixin.com/articles/2025-11-30-5",
@@ -2778,21 +2772,21 @@
         "link": "https://www.qbitai.com/2025/12/366226.html",
         "published_date": "Tue, 30 Dec 2025 00:15:00 GMT",
         "first_seen": "2025-12-30T05:19:35.274572"
+      },
+      "ea8cc5115700cc0560b94b66fac9949d6b1a0f28ba4a9a3a9821922b3efa887e": {
+        "title": "吴恩达年终总结：2025是AI工业时代的黎明",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-7",
+        "published_date": "Tue, 30 Dec 2025 15:17:00 GMT",
+        "first_seen": "2025-12-30T08:21:27.969100"
+      },
+      "bda7044f363694ff9d280c6dd883f9e0ce972847da4a96446fed37c49b032185": {
+        "title": "自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-6",
+        "published_date": "Tue, 30 Dec 2025 15:10:00 GMT",
+        "first_seen": "2025-12-30T08:21:27.969292"
       }
     },
     "Technology": {
-      "cc38c3763155739465c76a3e601707dda19db52e9722546b7be996af1c18bc2f": {
-        "title": "对话卡尔动力CEO韦峻青：自动驾驶卡车赛道即将形成商业闭环 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7788529.html",
-        "published_date": "Sun, 30 Nov 2025 15:06:00 GMT",
-        "first_seen": "2025-11-30T08:17:03.996582"
-      },
-      "baab8846bddc2ef4a1f2e5c77021c1635506b425f6910674ff2e62340da0716c": {
-        "title": "央行定调稳定币违法，相比欧美中国为何走“禁止”这条路？| 马上评",
-        "link": "https://www.tmtpost.com/7788487.html",
-        "published_date": "Sun, 30 Nov 2025 14:12:00 GMT",
-        "first_seen": "2025-11-30T08:17:03.996749"
-      },
       "fee13e705159f159bec49b0e6ae2f7ff44cfd30cd6bf47bce048fd6a20ac18f8": {
         "title": "宝马M的“平衡术”：在激进转型的车市中，寻找燃油车的生存缝隙",
         "link": "https://www.tmtpost.com/7788829.html",
@@ -12938,13 +12932,133 @@
         "link": "http://www.huxiu.com/article/4815326.html?f=wangzhan",
         "published_date": "Tue, 30 Dec 2025 07:08:00 GMT",
         "first_seen": "2025-12-30T05:19:35.380120"
+      },
+      "e7ca756a44f32380485addef0c4a2ebbc356b40fccacd35cabb8db16fdaeb3d3": {
+        "title": "智谱启动招股，估值超500亿港元",
+        "link": "https://www.tmtpost.com/7826011.html",
+        "published_date": "Tue, 30 Dec 2025 15:59:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321488"
+      },
+      "fab1bd099e7e63f6c1bcf0fc960b8a81fcb6d12c517f6f77faa797ce24b5f5fa": {
+        "title": "绵柔飘香世界，洋河股份斩获“全球化先锋企业” 称号",
+        "link": "https://www.tmtpost.com/7825974.html",
+        "published_date": "Tue, 30 Dec 2025 15:13:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321503"
+      },
+      "368aa721c1e28ad5e9bc0a882742d28845f62864283f5ed593ddd2d7251dd40c": {
+        "title": "国网综能副总樊功成被查，为何牵动“隔墙售电”改革神经？",
+        "link": "https://www.tmtpost.com/7825891.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321516"
+      },
+      "99265acadff50a463c3d6b07810768bfc5f63efe9f8de40d2b2193c72bbf90a9": {
+        "title": "“斩杀线”下的美国养老真相",
+        "link": "https://www.tmtpost.com/7825916.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321528"
+      },
+      "58de619dc250eb3ab60be474e880913b6034014755d98ccddd72df694f9daccd": {
+        "title": "大批卖家被迫出局，意大利市场大洗牌",
+        "link": "https://www.tmtpost.com/7825917.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321539"
+      },
+      "ed5e271ac35f94921e6601ce140511c676c080519c7d6e3e8bd176cf6fce9be2": {
+        "title": "从4个月2.2亿到1个月10亿播放，女频漫剧距离爆款还差哪一步？",
+        "link": "https://www.tmtpost.com/7825970.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321550"
+      },
+      "8c5bf9accfd7d167ec3f25a64d2f2a9604b9b63b6b3db8023d53df5e67f5f917": {
+        "title": "全球AI制药领军企业英矽智能成功登陆港交所 | 公司动态",
+        "link": "https://www.tmtpost.com/7825831.html",
+        "published_date": "Tue, 30 Dec 2025 14:20:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321561"
+      },
+      "7b9a671778ccc0b00c32932b0eb74b5a7ae538f7548ce6c50ba2829d51890973": {
+        "title": "Meta买下Manus，买的是AI变现模板",
+        "link": "https://www.tmtpost.com/7825802.html",
+        "published_date": "Tue, 30 Dec 2025 14:06:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321571"
+      },
+      "01edaefd7f572a35e307978f246166eb6128eeb91f486f8f27813a13114d7616": {
+        "title": "春节把“乐事”带回家，为什么能占据消费者心智？",
+        "link": "https://www.tmtpost.com/7819356.html",
+        "published_date": "Tue, 30 Dec 2025 14:05:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321582"
+      },
+      "e40591f5f0539ebf266995a4f9d199e634f7d42afd3788d7226deed09bb9317a": {
+        "title": "优衣库们盯上了娃衣",
+        "link": "https://www.tmtpost.com/7825820.html",
+        "published_date": "Tue, 30 Dec 2025 13:43:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.055269"
+      },
+      "6033a9f13be560eab4028388bf81ad457da27f18be5b6af6610952d6bbf7464b": {
+        "title": "酒店收并购走向激流深处",
+        "link": "https://www.tmtpost.com/7825771.html",
+        "published_date": "Tue, 30 Dec 2025 13:42:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.055503"
+      },
+      "0ae01b52d962076b13252092fee02a2d10f12ae8a030f98c7949ece54c458e29": {
+        "title": "真正的Jarvis要来了？涂鸦智能押注Physical AI",
+        "link": "https://www.infoq.cn/article/wMddiUfgpHt9QzDTpGDM?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 15:05:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.056001"
+      },
+      "212749d891bbc146fbf15d0315082a6c1a709c04d9b19bb1257d91462552bb38": {
+        "title": "整机 29 克、全球最轻的AI眼镜上线？闪极两款AI眼镜新品开售，入手价1999元起",
+        "link": "https://www.infoq.cn/article/8FBNCryRBNOp8AIr8LgZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 15:01:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.056727"
+      },
+      "f72d953f19f74d2443d71b216e2b8c3ccbfed0fdd60fa5bee6ac9905ea0e5601": {
+        "title": "对话天猪：AI 时代的挑战与程序员的认知进化",
+        "link": "https://www.infoq.cn/article/EiO80Aacx4sMZHjtXqNR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:30:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.057268"
+      },
+      "730ff70580a8f106e064adae06b58849750e975160dacff332182ddcbd69e374": {
+        "title": "对话 CodeBuddy黄广民：一堆“冒烟”的上下文，正在决定 AI 编程的成败",
+        "link": "https://www.infoq.cn/article/j8jMvIOfmZS8M33t72uP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:30:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.058137"
+      },
+      "c0b6ac41f98823a2bb3695fc17d093590ab7c0889a1c00e7ad8f790aa54852ec": {
+        "title": "在Go中使用QJS和WebAssembly运行现代ES2023 JavaScript",
+        "link": "https://www.infoq.cn/article/xmt3XjJbX8LTPUHUd0XL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:27:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.058907"
+      },
+      "00e8dedce30822826289a5185bce5c1f878ce85d56b4fe10a6e381aa85bedbf9": {
+        "title": "优步采用Amazon OpenSearch进行语义搜索，以更好地捕捉用户意图",
+        "link": "https://www.infoq.cn/article/mkdfBHl8tbvjFbP19JP6?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 13:42:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.059776"
+      },
+      "52091fd839ff5e6b16b3e657059cc51313fb3136b1989c980a1e55eaa1249cf0": {
+        "title": "Snowflake Intelligence：与数据对话，解锁真实商业洞察 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/HlkoQs3mGH89AsawtGaU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 13:40:00 GMT",
+        "first_seen": "2025-12-30T08:21:37.321459"
+      },
+      "eb9f59731262c999df16e309cb49e207bf9bd207fe473d249755589cd16b8183": {
+        "title": "安全键盘：一场横跨 30 年的大型掩耳盗铃",
+        "link": "https://sspai.com/post/104978",
+        "published_date": "Tue, 30 Dec 2025 15:00:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.061669"
+      },
+      "e00292124c71b78245203cce6b956f89339078fefa3b4e0a7c6012e52f40baf5": {
+        "title": "从热搜报告中，我发现了跟过往不同的三个深层变化......",
+        "link": "http://www.huxiu.com/article/4821404.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 14:00:00 GMT",
+        "first_seen": "2025-12-30T08:21:28.062472"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-30T05:19:35.297487",
-    "Technology": "2025-12-30T05:19:44.651114",
-    "Finance": "2025-12-30T05:19:35.156892"
+    "AI": "2025-12-30T08:21:27.988942",
+    "Technology": "2025-12-30T08:21:37.325101",
+    "Finance": "2025-12-30T08:21:27.862412"
   }
 }

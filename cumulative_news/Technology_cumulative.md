@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-02 23:14
+**最后更新时间**: 2026-01-03 05:16
+
+---
+
+## 🆕 最新更新 (2026-01-03 05:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025，我们失去了看长内容的能力](https://www.tmtpost.com/7829350.html)
+**发布时间**: 2026-01-03 13:01
+
+#### [2025爆综盘点：“市场嗅觉”大比拼](https://www.tmtpost.com/7829328.html)
+**发布时间**: 2026-01-03 10:48
+
+#### [罗振宇2026“时间的朋友”跨年演讲全文稿](https://www.tmtpost.com/7829139.html)
+**发布时间**: 2026-01-03 10:42
+
+#### [2026跨年晚会复盘：流量、情怀、圈层，谁才是真顶流？](https://www.tmtpost.com/7829459.html)
+**发布时间**: 2026-01-03 10:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技扩展Well-Architected Framework，新增Data Residency with Hybrid Cloud Services Lens](https://www.infoq.cn/article/oe0TfABIOmAbrvjr8L0O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-03 11:02
+
+#### [Java近期资讯：Spring Vault、LangChain4j、Seed4J、Infinispan、Gradle](https://www.infoq.cn/article/LyXHACSluGvTUaB4HeTg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-03 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [车企2026谁家强？我们列出了13家看好与“欠佳”](http://www.huxiu.com/article/4821950.html?f=wangzhan)
+**发布时间**: 2026-01-03 07:39
 
 ---
 

@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "c1e76f0bfd671fe7c89b39e4bf695b8cb3cc3e3f2f76e3feff9bf213ed3c088e": {
-        "title": "刚刚，云计算一哥出手，大家AI Agent自由了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-8",
-        "published_date": "Thu, 04 Dec 2025 14:38:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.870591"
-      },
-      "50bcf63bc3c6db07f44aa413a999da1caf14dfe614e3d36c09ea24ab5ccba625": {
-        "title": "从MiniMax到DeepSeek：为何头部大模型都在押注「交错思维」？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-7",
-        "published_date": "Thu, 04 Dec 2025 14:30:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.870771"
-      },
-      "1321b3f019722a7005bf1bdc2c983452b49c083abefe4cf54ae3d6f0735bc8ef": {
-        "title": "挑战ReAct！MetaGPT团队提出ReCode智能体新范式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-6",
-        "published_date": "Thu, 04 Dec 2025 14:16:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.870964"
-      },
-      "fa49a1b912f91ffdca7a7ca748316c12c7f1bfacc546295490ac3c0673641356": {
-        "title": "科大讯飞获首届“AI领航杯”大赛技术创新奖及AI+安全赛道一等奖",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-04-5",
-        "published_date": "Thu, 04 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.871205"
-      },
-      "fb2b77e77f55e0535e03e402465337a95b0f681b776b1a9604524f017f8d5ef9": {
-        "title": "误入人均10个顶级offer的技术天团活动，顶尖AI人才的选择逻辑我悟了",
-        "link": "https://www.qbitai.com/2025/12/358582.html",
-        "published_date": "Thu, 04 Dec 2025 06:02:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.871538"
-      },
-      "8541b52dc08173062fe1e40e4dee4456b7e8e2cecb2c237685f24fb7fa366ac4": {
-        "title": "](https://www.qbitai.com/2025/11/348474.html)\n**发布时间**: 2025-11-03 10:27\n\n---\n\n## 🆕 最新更新 (2025-11-03 23:18)\n### 📰 来源: [量子位",
-        "link": "https://www.qbitai.com/feed",
-        "published_date": "Thu, 04 Dec 2025 08:21:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.878132"
-      },
       "22c65225dee07b1cbf65248a7f4d5c532680d2ecc5f51afd2b838fcd61745dbc": {
         "title": "Titans + MIRAS: Helping AI have long-term memory",
         "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
@@ -78,18 +42,6 @@
         "link": "https://www.qbitai.com/2025/12/358867.html",
         "published_date": "Thu, 04 Dec 2025 10:09:00 GMT",
         "first_seen": "2025-12-04T23:14:46.726902"
-      },
-      "fb8064b3b10356f3267e620962ab9d3f9fe00954e9d00ec7a8bbb5a5b9c6dca4": {
-        "title": "下周三！量子位的这件大事就要来了｜MEET2026",
-        "link": "https://www.qbitai.com/2025/12/358715.html",
-        "published_date": "Thu, 04 Dec 2025 09:45:00 GMT",
-        "first_seen": "2025-12-04T23:13:58.435908"
-      },
-      "2bf7e2569bfc56c3172f8bde906a4500fe3e1c65d1d23655663664070bebf728": {
-        "title": "抢到票的必读：创新大会 2026 超全攻略！",
-        "link": "https://www.qbitai.com/2025/12/358683.html",
-        "published_date": "Thu, 04 Dec 2025 09:25:00 GMT",
-        "first_seen": "2025-12-04T23:13:58.436378"
       },
       "5e885d4cdf7b267908f1dab64cd12bfdde8d304a29683c2a811c6dad52a0cfaa": {
         "title": "GPT-5-Thinking新训练方法公开：让AI学会忏悔",
@@ -2568,81 +2520,45 @@
         "link": "https://www.qbitai.com/2026/01/366454.html",
         "published_date": "Sat, 03 Jan 2026 06:26:00 GMT",
         "first_seen": "2026-01-03T08:19:55.372450"
+      },
+      "af76bf61b7fc5c17424a21cc759ccf5c00b5b9cf2da8907ec9abd1987fb6acb3": {
+        "title": "ControlNet作者张吕敏最新论文：长视频也能实现超短上下文",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-5",
+        "published_date": "Sun, 04 Jan 2026 01:39:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.833245"
+      },
+      "2398a62915881d2c8c23701a38f1db9f6d8a8e75493372922f552c03733ac861": {
+        "title": "4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-4",
+        "published_date": "Sun, 04 Jan 2026 01:33:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.833452"
+      },
+      "5505562334ded702b11b4d49369f890dab8fdd3b44b8a7e76de43d35a1d8b904": {
+        "title": "LeCun在Meta还有论文：JEPA物理规划的「终极指南」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-3",
+        "published_date": "Sun, 04 Jan 2026 01:29:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.833658"
+      },
+      "72fcd14071be5b8dffbc58b406d632f26d9db3b1605b680becb35a45da64f0f0": {
+        "title": "微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-2",
+        "published_date": "Sun, 04 Jan 2026 01:23:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.833903"
+      },
+      "03afa13c4a8db6cca91e4436652af8e84292958c2b3e848f773e79d11fc3613d": {
+        "title": "陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04",
+        "published_date": "Sun, 04 Jan 2026 01:19:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.834233"
+      },
+      "94eec4f5b5bf9a153f1b448b4a4930dc4bdedec5ee212d0a25a7686058dfbfd3": {
+        "title": "这里还有8个“Manus”：1亿美元ARR，都是ToC",
+        "link": "https://www.qbitai.com/2026/01/366495.html",
+        "published_date": "Sat, 03 Jan 2026 10:10:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.834597"
       }
     },
     "Technology": {
-      "301992713ba723fd019aeb5f3ac3aff9d64d783b309e81861a8cb90ee1c8c6b1": {
-        "title": "抢到票的必读：创新大会 2026 超全攻略！",
-        "link": "http://www.geekpark.net/news/357613",
-        "published_date": "Thu, 04 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231194"
-      },
-      "fa585a1f114d470714963bd2dfc1420b6a67182b4a871ba88f4e40ecc4110e58": {
-        "title": "ChatGPT 诞生三年，OpenAI 还未取得绝对领先",
-        "link": "https://www.tmtpost.com/7795449.html",
-        "published_date": "Thu, 04 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231290"
-      },
-      "53dd4f346202f1b9a23dcade6130b66a0d814e11f1d1872e28515bfa714e0aab": {
-        "title": "“宁波铜王”财富大挪移，34亿元股票赠儿女",
-        "link": "https://www.tmtpost.com/7794783.html",
-        "published_date": "Thu, 04 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231302"
-      },
-      "a3f08ca5a0f49cce69e1e044e5d403446480d8301fff746884ad5bc5985056e7": {
-        "title": "港投公司首份年报亮相：总资产超640亿港元，硬科技投资占比超七成 | 公司动态",
-        "link": "https://www.tmtpost.com/7795302.html",
-        "published_date": "Thu, 04 Dec 2025 15:06:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231258"
-      },
-      "e66208b6f8e4600b3253b36bb86827b98d459ec8571e90dd911a856587e13c2f": {
-        "title": "拼命化债的香港郑氏家族，要卖瑰丽酒店？",
-        "link": "https://www.tmtpost.com/7795239.html",
-        "published_date": "Thu, 04 Dec 2025 13:30:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231313"
-      },
-      "8315a5b27590ec180c28e661aeff5b9821b5fd3ac4f00b2ab88418528152a689": {
-        "title": "朱雀三号首发成功入轨，但为什么回收失败？",
-        "link": "http://www.huxiu.com/article/4813144.html?f=wangzhan",
-        "published_date": "Thu, 04 Dec 2025 15:00:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231328"
-      },
-      "a8108390390688ca1274f0af9b73b78f252a72c8da5f7aa3a4b41523f98ba8c1": {
-        "title": "美国新生儿还没学会叫爸爸，他们这一生就要先跟股市绑定了？",
-        "link": "http://www.huxiu.com/article/4812892.html?f=wangzhan",
-        "published_date": "Thu, 04 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231338"
-      },
-      "120cb6578fb45170f6c70318079b354872b90d136e33251fc8c6342c9e387e99": {
-        "title": "深入 iPhone 17 Pro：把 ProRes RAW 和 Open Gate 一次讲清楚",
-        "link": "https://sspai.com/post/104213",
-        "published_date": "Thu, 04 Dec 2025 14:59:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231353"
-      },
-      "4913882087aa93868412b418219ccec1270b203dcac0ee5e4cc1f65082c4a634": {
-        "title": "十年之后再出发，Apple 北京荟聚抢先看",
-        "link": "https://sspai.com/post/104301",
-        "published_date": "Thu, 04 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231364"
-      },
-      "1d334b1e52041b7c873c6dc389c08d45488be993da488c54690ae0e7771be296": {
-        "title": "从补全到 Agentic Edit：Trae 在代码编辑上的落地与进化",
-        "link": "https://www.infoq.cn/article/ep5bS0fMyaLbANwhohoE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Dec 2025 14:58:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.958923"
-      },
-      "2760769f5947626dc918f34d11c6952f9555414b16b6769d16d61d17e5cf76bd": {
-        "title": "谷歌全新推出的LiteRT加速器为骁龙平台安卓设备的AI工作负载注入强劲动力",
-        "link": "https://www.infoq.cn/article/muCJpeF9WrIpu4vO3Pv2?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-04T08:22:05.231276"
-      },
-      "f10f35df48ac6942272a7aa914a94ffad1a8ca02253cdc760bdbe2a6083b9881": {
-        "title": "烧钱，能解决 AI 存储的焦虑吗？",
-        "link": "https://www.infoq.cn/article/2PGXMs2e1JPiO10epV0h?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Dec 2025 13:55:00 GMT",
-        "first_seen": "2025-12-04T08:21:16.959952"
-      },
       "6acac5c165c1e2f83d6b6767b493ceb97241d1ef2c1dd88e91de90fbc33b4a1b": {
         "title": "EU Opens Antitrust Probe into Meta's WhatsApp AI Policy",
         "link": "https://www.tmtpost.com/7796575.html",
@@ -12362,13 +12278,37 @@
         "link": "https://www.tmtpost.com/7829469.html",
         "published_date": "Sat, 03 Jan 2026 15:39:00 GMT",
         "first_seen": "2026-01-03T08:19:55.458836"
+      },
+      "8873c35457828cd2a6e04023d5c8f59c577185ea06a7c68289529281465ca44a": {
+        "title": "告别舒适区，银行从“债主”变身“股东”",
+        "link": "https://www.tmtpost.com/7829602.html",
+        "published_date": "Sat, 03 Jan 2026 19:09:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.920468"
+      },
+      "639d567dd400475bae2d49d4309f2a44408f9ea8f66f09942e8be46d425589a3": {
+        "title": "新年第一问：“舞动”2025之后，机器人行业如何挺进2026？",
+        "link": "https://www.tmtpost.com/7829542.html",
+        "published_date": "Sat, 03 Jan 2026 17:50:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.920610"
+      },
+      "3f25844491c239c973fb1bdc2b6df29e4d6ac062dd4dd52461b3021376ac9c37": {
+        "title": "从全年销量看腾势：一个跑通的高端品牌样本",
+        "link": "https://www.tmtpost.com/7829518.html",
+        "published_date": "Sat, 03 Jan 2026 17:46:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.920760"
+      },
+      "3a8dcab80143ca3173586326f7653b21bc0f68a84680c9800ad7432cff6d1cac": {
+        "title": "与其重复「新年计划」的失败，不如反思「新年目标」是否恰当",
+        "link": "https://sspai.com/post/95907",
+        "published_date": "Sat, 03 Jan 2026 15:31:00 GMT",
+        "first_seen": "2026-01-03T23:14:11.921004"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-03T08:19:55.393297",
-    "Technology": "2026-01-03T08:19:55.465976",
-    "Finance": "2026-01-03T08:19:55.266731"
+    "AI": "2026-01-03T23:14:11.854581",
+    "Technology": "2026-01-03T23:14:11.928296",
+    "Finance": "2026-01-03T23:14:11.720937"
   }
 }

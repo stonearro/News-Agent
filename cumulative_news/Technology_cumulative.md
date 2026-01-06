@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 05:20
+**最后更新时间**: 2026-01-06 08:26
+
+---
+
+## 🆕 最新更新 (2026-01-06 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全岛封关，海南酒店“分层时代”已至](https://www.tmtpost.com/7832286.html)
+**发布时间**: 2026-01-06 16:17
+
+#### [机器人的罪与罚](https://www.tmtpost.com/7832492.html)
+**发布时间**: 2026-01-06 16:09
+
+#### [黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”](https://www.tmtpost.com/7831996.html)
+**发布时间**: 2026-01-06 16:09
+
+#### [OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋](https://www.tmtpost.com/7832526.html)
+**发布时间**: 2026-01-06 15:47
+
+#### [贵州茅台的盈利会下降吗？](https://www.tmtpost.com/7831974.html)
+**发布时间**: 2026-01-06 15:20
+
+#### [China’s First! Airwallex Partners with China Construction Bank to Pioneer a New Model in Cross-Border Finance](https://www.tmtpost.com/7832563.html)
+**发布时间**: 2026-01-06 15:12
+
+#### [黄仁勋CES预言：另一个“时刻”快到来了](https://www.tmtpost.com/7832269.html)
+**发布时间**: 2026-01-06 14:48
+
+#### [4A景区“大批发”？](https://www.tmtpost.com/7831732.html)
+**发布时间**: 2026-01-06 14:23
+
+#### [踩雷财税后押注机器人，金财互联拼装式转型能走多远？](https://www.tmtpost.com/7831626.html)
+**发布时间**: 2026-01-06 14:20
+
+#### [石化，周期复苏不远了](https://www.tmtpost.com/7832120.html)
+**发布时间**: 2026-01-06 13:43
+
+#### [车圈下半场在复购口碑](https://www.tmtpost.com/7832082.html)
+**发布时间**: 2026-01-06 13:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Alexey 精选的 2025 年他最喜欢的 ClickHouse 功能](https://www.infoq.cn/article/o6JKDDXl1l25YL5i3yzQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 16:03
+
+#### [Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍](https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 15:04
+
+#### [Bun 推出内置数据库客户端与零配置前端开发](https://www.infoq.cn/article/12DFcmoFXOyQ2xZRf6vl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 13:53
+
+#### [谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！](https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 13:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」](https://sspai.com/post/105165)
+**发布时间**: 2026-01-06 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [马杜罗被抓，唐罗主义式入侵，川普的目标能否实现？](http://www.huxiu.com/article/4823376.html?f=wangzhan)
+**发布时间**: 2026-01-06 14:29
 
 ---
 

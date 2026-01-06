@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-05 23:14
+**最后更新时间**: 2026-01-06 05:20
+
+---
+
+## 🆕 最新更新 (2026-01-06 05:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [信息图的不可能三角，被这个开源项目打破了](https://www.infoq.cn/article/3iErdVLkHlYkGRlM6QMC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 12:09
+
+#### [被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实](https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 11:20
+
+#### [独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向](https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:58
+
+#### [软件开发人员认为无需关注却可能会影响其工作的那些事](https://www.infoq.cn/article/Tk3YL2ujBedb1JGquOxS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:56
+
+#### [“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！](https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:37
+
+#### [「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路](https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:33
+
+#### [API平台Unkey因性能问题放弃无服务器架构](https://www.infoq.cn/article/FQQDeR4upyOzyj4dSHph?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 10:07
+
+#### [直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月](https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 09:17
+
+#### [微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了](https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-06 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [价格战杀到6元线，矿泉水价的咖啡背后藏着怎样的盈利魔法？](https://www.tmtpost.com/7832203.html)
+**发布时间**: 2026-01-06 11:49
+
+#### [脑机接口“炒作”，有点太超前了](https://www.tmtpost.com/7832208.html)
+**发布时间**: 2026-01-06 11:10
+
+#### [硅基同事来了：关于机油、风沙与个体尊严](https://www.tmtpost.com/7831265.html)
+**发布时间**: 2026-01-06 10:59
+
+#### [Nvidia Unveils ‘Vera Rubin’ Platform as Next Generation of AI Computing at CES 2026](https://www.tmtpost.com/7832224.html)
+**发布时间**: 2026-01-06 10:50
+
+#### [年度趋势：告别大单品时代](https://www.tmtpost.com/7831787.html)
+**发布时间**: 2026-01-06 10:20
+
+#### [2026综艺展望：止颓之后，如何劈开行业新生机？](https://www.tmtpost.com/7831795.html)
+**发布时间**: 2026-01-06 10:00
+
+#### [黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至](https://www.tmtpost.com/7832067.html)
+**发布时间**: 2026-01-06 09:45
+
+#### [罗马仕想活着有什么错？](https://www.tmtpost.com/7831671.html)
+**发布时间**: 2026-01-06 09:30
+
+#### [国内首家！Airwallex 空中云汇携手建设银行共建跨境金融新范式](https://www.tmtpost.com/7832016.html)
+**发布时间**: 2026-01-06 09:00
+
+#### [谁在瓜分GEO的新红利？](https://www.tmtpost.com/7831709.html)
+**发布时间**: 2026-01-06 09:00
+
+#### [头部演员流量化，短剧染上富贵病](https://www.tmtpost.com/7831804.html)
+**发布时间**: 2026-01-06 08:30
+
+#### [中国汽配出海40年后，2026年的增长动能会在哪？ ｜ 出海参考](https://www.tmtpost.com/7831882.html)
+**发布时间**: 2026-01-06 08:16
+
+#### [过去的2025年，互联网为什么疯狂“买地”？](https://www.tmtpost.com/7831702.html)
+**发布时间**: 2026-01-06 08:00
+
+#### [【钛晨报】证监会新年首会，重拳出击财务造假；2026存储涨价第一枪：三星、海力士DRAM报价上调70%；高盛：建议高配中国股票](https://www.tmtpost.com/7831736.html)
+**发布时间**: 2026-01-06 07:20
+
+#### [站上4000点后沪指早盘持续走强，外资机构：建议高配中国股票](https://www.tmtpost.com/7832178.html)
+**发布时间**: 2026-01-06 02:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [将旧 iPad 物尽其用，我把它变成了一个智能天气时钟](https://sspai.com/post/105047)
+**发布时间**: 2026-01-06 11:31
+
+#### [派早报：荣耀发布多款新品、抖音将支持杜比视界等](https://sspai.com/post/105184)
+**发布时间**: 2026-01-06 08:21
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [李在明带着韩企半壁江山来访华，是求合作还是找靠山？](http://www.huxiu.com/article/4823702.html?f=wangzhan)
+**发布时间**: 2026-01-06 10:40
+
+#### [九成收购都是失败的，为什么大厂还要疯狂买买买？](http://www.huxiu.com/article/4823447.html?f=wangzhan)
+**发布时间**: 2026-01-06 09:46
+
+#### [豪赌委内瑞拉：特朗普的“斩首行动”与注定烂尾的结局](http://www.huxiu.com/article/4823296.html?f=wangzhan)
+**发布时间**: 2026-01-06 08:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Jan 2026 05:24:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 05:25:01 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 08:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:21:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07-2</link>
-      <description>&lt;![CDATA[曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-2</guid>
+      <title>重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-8</link>
+      <description>&lt;![CDATA[重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-07</link>
-      <description>&lt;![CDATA[近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」]]&gt;</description>
-      <pubDate>Wed, 07 Jan 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07</guid>
+      <title>AAAI 2026 新加坡在吗？中国电信 TeleAI 邀你晚宴</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-7</link>
+      <description>&lt;![CDATA[AAAI 2026 新加坡在吗？中国电信 TeleAI 邀你晚宴]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-7</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-6</link>
+      <description>&lt;![CDATA[多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-5</link>
+      <description>&lt;![CDATA[OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>大模型最难的AI Infra，用Vibe Coding搞定</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-4</link>
+      <description>&lt;![CDATA[大模型最难的AI Infra，用Vibe Coding搞定]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-3</link>
+      <description>&lt;![CDATA[注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>三赴CES，睿尔曼以三大底层能力构建全球化具身智能新基建</title>
+      <link>https://www.qbitai.com/2026/01/367216.html</link>
+      <description>&lt;![CDATA[三赴CES，睿尔曼以三大底层能力构建全球化具身智能新基建]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 06:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367216.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚开年，马斯克就到账了200亿美金！</title>
+      <link>https://www.qbitai.com/2026/01/367180.html</link>
+      <description>&lt;![CDATA[刚开年，马斯克就到账了200亿美金！]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 05:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367180.html</guid>
       <category>AI</category>
     </item>
   </channel>

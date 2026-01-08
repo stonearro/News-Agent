@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 05:19
+**最后更新时间**: 2026-01-08 08:21
+
+---
+
+## 🆕 最新更新 (2026-01-08 08:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新](https://www.tmtpost.com/7835366.html)
+**发布时间**: 2026-01-08 16:13
+
+#### [从合规到进化，我们到底该如何理解新国标？](https://www.tmtpost.com/7835321.html)
+**发布时间**: 2026-01-08 14:55
+
+#### [首个「AI六小虎」上市，海淀收获「全球大模型第一股」](https://www.tmtpost.com/7835384.html)
+**发布时间**: 2026-01-08 14:51
+
+#### [Industrial AI Is the True Value Driver of the AI Revolution, Says Siemens Exec](https://www.tmtpost.com/7835351.html)
+**发布时间**: 2026-01-08 13:59
+
+#### [开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态](https://www.tmtpost.com/7835316.html)
+**发布时间**: 2026-01-08 13:36
+
+#### [First Solar股价因评级下调而下跌，投资者应降低预期](https://www.tmtpost.com/7835315.html)
+**发布时间**: 2026-01-08 13:27
+
+#### [苹果和戴尔面临内存价格飙升，股价能否应对这一威胁？](https://www.tmtpost.com/7835286.html)
+**发布时间**: 2026-01-08 13:03
+
+#### [康斯特雷莱申完成对卡尔派恩的收购，成为全球最大电力生产商](https://www.tmtpost.com/7835284.html)
+**发布时间**: 2026-01-08 13:02
+
+#### [跟风追逐闪迪和美光，可能让你的投资组合陷入风险](https://www.tmtpost.com/7835281.html)
+**发布时间**: 2026-01-08 13:01
+
+#### [反弹言之尚早，Academy Sports还有硬仗要打](https://www.tmtpost.com/7835279.html)
+**发布时间**: 2026-01-08 13:01
+
+#### [AST SpaceMobile股价下跌，因分析师警告存在50%的下行风险](https://www.tmtpost.com/7835274.html)
+**发布时间**: 2026-01-08 13:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？](https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 15:19
+
+#### [Slack增强Chef基础设施，提升安全性并降低部署影响范围](https://www.infoq.cn/article/9DINHIzbyiQYT4mj7vPA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“真德绒”杀回来了，商标追回背后，一场持续数年的市场闹剧终于收场？](http://www.huxiu.com/article/4824383.html?f=wangzhan)
+**发布时间**: 2026-01-08 15:00
+
+#### [日本懵了，连续两重击：断军事粮草，反芯片材料倾销](http://www.huxiu.com/article/4824488.html?f=wangzhan)
+**发布时间**: 2026-01-08 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [浏览器扩展合集：派友近期推荐的 7 款浏览器扩展](https://sspai.com/post/105249)
+**发布时间**: 2026-01-08 15:00
 
 ---
 

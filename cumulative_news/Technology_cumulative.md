@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 08:21
+**最后更新时间**: 2026-01-08 23:14
+
+---
+
+## 🆕 最新更新 (2026-01-08 23:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智源发布2026十大 AI技术趋势：世界模型成AGI共识方向](https://www.infoq.cn/article/XzfoHiKPOLjjHlJXK8OV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 21:48
+
+#### [“通用大模型微调成为行业模型是伪命题”？医疗AI深度重构，传神语联创始人何恩培：孪生智能体能砍70%线下复诊工作](https://www.infoq.cn/article/xNklNmPZoPXlfk9QJ2wb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 18:33
+
+#### [智谱正式成“全球大模型第一股”，开盘首日涨超13%！10位董事7个清华背景，专家：国内IPO抢收“确定性”，OpenAI们豪赌“无限性”](https://www.infoq.cn/article/VIJ9o1qFoOvttecimCwC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 18:27
+
+#### [奇富科技发布首个信贷多模态评测基准，构筑信贷AI研究与落地关键桥梁](https://www.infoq.cn/article/swXkuTsb083IU7xQc4eB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-08 16:43
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [40亿大单缩水+信披违规，城地香江算力国家队故事难讲](https://www.tmtpost.com/7835819.html)
+**发布时间**: 2026-01-08 20:50
+
+#### [35天4家国产GPU公司上市，累计市值狂飙6800亿元](https://www.tmtpost.com/7835387.html)
+**发布时间**: 2026-01-08 20:50
+
+#### [美邦服饰再陷“卖股补血”窘境，周成建回归两年转型前景不明](https://www.tmtpost.com/7835955.html)
+**发布时间**: 2026-01-08 20:48
+
+#### [公募销售新规正式稿落地：债基的“松绑”与行业生态重构](https://www.tmtpost.com/7836209.html)
+**发布时间**: 2026-01-08 20:47
+
+#### [“光伏组件第一股”至暗时刻：预亏、资不抵债、遭政府追债](https://www.tmtpost.com/7836005.html)
+**发布时间**: 2026-01-08 20:47
+
+#### [宁波银行不想当“消费贷之王”了](https://www.tmtpost.com/7836203.html)
+**发布时间**: 2026-01-08 20:46
+
+#### [春季骚动15连阳：趁回调抓紧上车？](https://www.tmtpost.com/7835942.html)
+**发布时间**: 2026-01-08 19:32
+
+#### [近850亿资本涌入，中芯、华虹、晶合密集动作](https://www.tmtpost.com/7835940.html)
+**发布时间**: 2026-01-08 19:31
+
+#### [短剧出海，遇到了网文“同款困境”](https://www.tmtpost.com/7835951.html)
+**发布时间**: 2026-01-08 19:31
+
+#### [2025年“最靓的崽”：大疆系创业者](https://www.tmtpost.com/7835981.html)
+**发布时间**: 2026-01-08 19:31
+
+#### [越过漫剧元年，AI漫剧热潮下的双面叙事](https://www.tmtpost.com/7835983.html)
+**发布时间**: 2026-01-08 19:24
+
+#### [2026品牌AI营销的第一场共识](https://www.tmtpost.com/7832271.html)
+**发布时间**: 2026-01-08 18:54
+
+#### [2026年，品牌该认真对待AI GEO了](https://www.tmtpost.com/7832895.html)
+**发布时间**: 2026-01-08 18:05
+
+#### [包圆壁仞、沐曦、燧原，上海靠GPU赚疯了](https://www.tmtpost.com/7835672.html)
+**发布时间**: 2026-01-08 18:05
+
+#### [2026年汽车国补，黄牛天塌了，油车受益，16万级别车市将成竞技场](https://www.tmtpost.com/7835724.html)
+**发布时间**: 2026-01-08 18:01
+
+#### [Suplay：一张“纸片”的IPO冒险](https://www.tmtpost.com/7835735.html)
+**发布时间**: 2026-01-08 18:01
+
+#### [AI眼镜大战终局前瞻：阿里与百度的超级终端争夺战](https://www.tmtpost.com/7835740.html)
+**发布时间**: 2026-01-08 18:01
+
+#### [AI从概念走向落地，钛媒体「2026CES创新榜单」重磅揭晓](https://www.tmtpost.com/7832445.html)
+**发布时间**: 2026-01-08 17:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 232｜少数派的编辑们最近买了啥？](https://sspai.com/post/105270)
+**发布时间**: 2026-01-08 20:50
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [鼓励使用兴奋剂，全球最？的增强运动会了解一下](http://www.huxiu.com/article/4824292.html?f=wangzhan)
+**发布时间**: 2026-01-08 18:30
+
+#### [黄仁勋宣布Rubin平台量产，中国AI产业将迎来生死大考](http://www.huxiu.com/article/4824335.html?f=wangzhan)
+**发布时间**: 2026-01-08 17:30
+
+#### [162站1800公里！天神之眼B高速ETC通过率全网最全实测](http://www.huxiu.com/article/4824531.html?f=wangzhan)
+**发布时间**: 2026-01-08 16:00
 
 ---
 

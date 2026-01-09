@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-09 05:19
+**最后更新时间**: 2026-01-09 08:21
+
+---
+
+## 🆕 最新更新 (2026-01-09 08:21)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master](https://www.jiqizhixin.com/articles/2026-01-09-9)
+**发布时间**: 2026-01-09 14:29
+
+#### [OpenAI for Healthcare——面向医疗保健的AI产品](https://www.jiqizhixin.com/articles/2026-01-09-8)
+**发布时间**: 2026-01-09 14:28
+
+#### [深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点](https://www.jiqizhixin.com/articles/2026-01-09-7)
+**发布时间**: 2026-01-09 14:27
+
+#### [一年后，DeepSeek-R1的每token成本降到了原来的1/32](https://www.jiqizhixin.com/articles/2026-01-09-6)
+**发布时间**: 2026-01-09 14:24
+
+#### [Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗](https://www.jiqizhixin.com/articles/2026-01-09-5)
+**发布时间**: 2026-01-09 13:36
+
+#### [谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线](https://www.jiqizhixin.com/articles/2026-01-09-4)
+**发布时间**: 2026-01-09 13:30
+
+#### [大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL](https://www.jiqizhixin.com/articles/2026-01-09-3)
+**发布时间**: 2026-01-09 13:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [清华AI找药登Science！一天筛选10万亿次，解决AlphaFold到药物发现的最后一公里](https://www.qbitai.com/2026/01/368052.html)
+**发布时间**: 2026-01-09 07:00
+
+#### [一口气集齐老黄苏妈英特尔，还得是AI，还得是联想](https://www.qbitai.com/2026/01/367831.html)
+**发布时间**: 2026-01-09 06:29
+
+#### [起猛了，追觅的扫地机、割草机、洗护机器人在CES成精了！](https://www.qbitai.com/2026/01/367855.html)
+**发布时间**: 2026-01-09 04:39
 
 ---
 

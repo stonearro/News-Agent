@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d56e9b94fb4323c6be702c96d252f615d8d357c42226114e3d756f176c7c3103": {
-        "title": "首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-8",
-        "published_date": "Wed, 10 Dec 2025 14:08:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.647236"
-      },
-      "6a3ce7c91f37605a81953993da7a54c85783feb68c063af56e3916515ea6c8c4": {
-        "title": "融资官宣｜达晨、华控领投，极佳视界完成2亿元A2轮融资，3个月连融5亿，打造物理AGI的原生模型和原生本体！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-7",
-        "published_date": "Wed, 10 Dec 2025 14:03:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.647459"
-      },
-      "b6961b70c9f2f275701398c2f85d1e119c1cf44d19d2dfddd06a673d1940f745": {
-        "title": "一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-6",
-        "published_date": "Wed, 10 Dec 2025 13:35:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.647693"
-      },
-      "27137f8d9b7036a34bbd35c411eedb9ec9fe8890c8416da94c4b9a1d6822d3ad": {
-        "title": "Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-5",
-        "published_date": "Wed, 10 Dec 2025 13:28:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.647993"
-      },
-      "6e38d82fd1600f3fafea67ebc50179f20fbf2f8b46a9492c605c4c18666114ad": {
-        "title": "告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-4",
-        "published_date": "Wed, 10 Dec 2025 13:25:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.648306"
-      },
-      "897fc5caa682784d000500a217d2c5021e7086c77f0522e8e1e8a3be15831bcc": {
-        "title": "5天连更5次，可灵AI年末“狂飙式”升级",
-        "link": "https://www.qbitai.com/2025/12/360022.html",
-        "published_date": "Wed, 10 Dec 2025 06:28:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.648661"
-      },
       "2be4c54f7f46464765c516d35bb65fa5799027c1952b743d80a760b6cef16399": {
         "title": "A differentially private framework for gaining insights into AI chatbot use",
         "link": "https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/",
@@ -2508,6 +2472,60 @@
         "link": "https://www.qbitai.com/2026/01/367789.html",
         "published_date": "Fri, 09 Jan 2026 02:49:00 GMT",
         "first_seen": "2026-01-09T05:20:23.362445"
+      },
+      "dfa2282500bae5f719671ef44ace2045b270b482b44663da5f0ebfd732ca50df": {
+        "title": "让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-9",
+        "published_date": "Fri, 09 Jan 2026 14:29:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.218790"
+      },
+      "579b2508a0b1b0844d4b07499f29a7dedd74c31b555e2bee9caf44d517bec872": {
+        "title": "OpenAI for Healthcare——面向医疗保健的AI产品",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-8",
+        "published_date": "Fri, 09 Jan 2026 14:28:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.218975"
+      },
+      "317881ad430b556ba86f190f9a063d43605db34abba7697d8eced87f698af0d5": {
+        "title": "深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-7",
+        "published_date": "Fri, 09 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.219232"
+      },
+      "492a9f820a7420ead9896ba12a6340996a7e16d2edc7712b4b150f2cb9b78c13": {
+        "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-6",
+        "published_date": "Fri, 09 Jan 2026 14:24:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.219516"
+      },
+      "1c94ca338b162f25921e15206907f3aca6b40ec548623f198d61890d2075e316": {
+        "title": "Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-5",
+        "published_date": "Fri, 09 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.219831"
+      },
+      "19295898083c7a2d4922381067714532751b77fa6f695d94106cb827b1451b2c": {
+        "title": "谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-4",
+        "published_date": "Fri, 09 Jan 2026 13:30:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.220323"
+      },
+      "1e19726f26e13f1e02a106c796ab72bba31c651efb78542b6f49cddaaa63c26d": {
+        "title": "大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-3",
+        "published_date": "Fri, 09 Jan 2026 13:26:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.220730"
+      },
+      "d44843120ad1258325f5cb919598f1537b257ed3e351c3872d17f33320e063a4": {
+        "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold到药物发现的最后一公里",
+        "link": "https://www.qbitai.com/2026/01/368052.html",
+        "published_date": "Fri, 09 Jan 2026 07:00:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.221380"
+      },
+      "78ecc9e6d95e163835d60c17b5bed055446d434c3e771f0bc916e8b0e289334f": {
+        "title": "一口气集齐老黄苏妈英特尔，还得是AI，还得是联想",
+        "link": "https://www.qbitai.com/2026/01/367831.html",
+        "published_date": "Fri, 09 Jan 2026 06:29:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.221808"
       }
     },
     "Technology": {
@@ -2534,12 +2552,6 @@
         "link": "https://www.tmtpost.com/7804367.html",
         "published_date": "Wed, 10 Dec 2025 16:08:00 GMT",
         "first_seen": "2025-12-10T08:21:58.995481"
-      },
-      "e9d935ee23a97c3ce71e839dfdf5a55ed0ea663ef249c1c5877ce27f0c216152": {
-        "title": "曾毓群，不赌了？",
-        "link": "https://www.tmtpost.com/7804334.html",
-        "published_date": "Wed, 10 Dec 2025 16:08:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.712547"
       },
       "326c3b031a6ed1d48a47dc85f82919d6b39e860b47517a39995b6fe460c98055": {
         "title": "始祖鸟平替要上市，毛利率60%，安徽夫妇年入17亿",
@@ -2576,90 +2588,6 @@
         "link": "https://www.tmtpost.com/7804051.html",
         "published_date": "Wed, 10 Dec 2025 14:26:00 GMT",
         "first_seen": "2025-12-10T08:21:58.995537"
-      },
-      "0a8151efd30e2d6350976664e495943a4be7d603586ae1ef2239df00ebe78f97": {
-        "title": "从1.8万降到2899元，艾维岚躬身入局“童颜针大战”",
-        "link": "https://www.tmtpost.com/7803754.html",
-        "published_date": "Wed, 10 Dec 2025 14:26:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.715166"
-      },
-      "9e3cbed90d25d16aaa142cbcbb715a86d306dce474f2249cf7aa2e07c76ed29b": {
-        "title": "说下复星医药这单BD，卖给辉瑞",
-        "link": "https://www.tmtpost.com/7803744.html",
-        "published_date": "Wed, 10 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.715590"
-      },
-      "d46065d015551e696d5289f69571cc08a2b40e406dc98c47b75dc8e2e0b406f7": {
-        "title": "摩尔线程“造富潮”：张建中让一部分人先富了起来",
-        "link": "https://www.tmtpost.com/7803611.html",
-        "published_date": "Wed, 10 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.716175"
-      },
-      "1b3560e71ced0f832e44fdc3f456eeb1a5a9781e7508f820d6b1e35cb2685187": {
-        "title": "高光制药赴港IPO：两款首创药，带来高光时刻，也带来了持久战",
-        "link": "https://www.tmtpost.com/7803563.html",
-        "published_date": "Wed, 10 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.716893"
-      },
-      "3041b7dd85af76936027d23f00ed855f77fbe9bc544c7b9fbe34482587b1de0c": {
-        "title": "从种草到交易，小红书为何总差最后一步？",
-        "link": "https://www.tmtpost.com/7803518.html",
-        "published_date": "Wed, 10 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.717441"
-      },
-      "6b7b21ce41d047c9d6495d79dd5e6be15c1b49647788cc27b07040cde08e0078": {
-        "title": "小红卡「百日叫停」，小红书少了团购“基因”？",
-        "link": "https://www.tmtpost.com/7803432.html",
-        "published_date": "Wed, 10 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.718139"
-      },
-      "f51901cad9019dbebe4fe35b2666a6963e9788a20c4b05997a671266b033fd41": {
-        "title": "自如董事长、CEO熊林：巨量市场里，“窄门”怎么找？",
-        "link": "https://www.tmtpost.com/7804332.html",
-        "published_date": "Wed, 10 Dec 2025 13:25:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.718995"
-      },
-      "af819fdc2ec3e1a62ccf79ca61179cde77fafec9f14deef13e034fea6a566e4e": {
-        "title": "阿里云ECS AMD实例年终狂欢，算力成本最多立省75%",
-        "link": "https://www.infoq.cn/article/wwB5MatXYVlb74EfysKj?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Dec 2025 15:46:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.719874"
-      },
-      "b4d0474b6db697ac3ff9258f91b15a6465f80d0eaaeee9735e706d6f02d0ad80": {
-        "title": "AI 进化论丨第六期：LLM for AIOps 是泡沫还是银弹？",
-        "link": "https://www.infoq.cn/video/E6e0SEEdV7aRKezRI52F?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Dec 2025 15:45:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.720923"
-      },
-      "37e2d4f954f24b1c88a529b983bdd4370a500b1fac5a038268a314d804096a76": {
-        "title": "JetBrains 放弃 Fleet：急刹变道打造全新 Agentic IDE，与 VS Code、Cursor 争夺下一代 AI 编程王座",
-        "link": "https://www.infoq.cn/article/b0beyqiWkDJW4txqakQ4?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Dec 2025 13:22:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.722700"
-      },
-      "b3a83b9c034e3f105cc54581706dd2619460ac8abe4a777b8294e8701e55fb82": {
-        "title": "猿辅导一个月连发两张 AI 牌：这次把 Agent 交给老师",
-        "link": "http://www.geekpark.net/news/357855",
-        "published_date": "Wed, 10 Dec 2025 13:53:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.723880"
-      },
-      "d6826ee3a0763d01cd4d3609ab647a3f9cb171a3dcd3feaa95d86c96dfe11748": {
-        "title": "跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图",
-        "link": "http://www.geekpark.net/news/357853",
-        "published_date": "Wed, 10 Dec 2025 13:50:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.725056"
-      },
-      "4d65547c2728a94b734d12100338181f83a222a5599477b2def0ef02bcdf2f8c": {
-        "title": "美国突然对华“降温“？不，是战略撤退",
-        "link": "http://www.huxiu.com/article/4815228.html?f=wangzhan",
-        "published_date": "Wed, 10 Dec 2025 13:30:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.726083"
-      },
-      "877ef7c07bb39eb75205002eab2829b8acc8ffda6a32993a2dad75ddf686b77d": {
-        "title": "美国对委内瑞拉为什么围而不打？特朗普的真实目的是什么？",
-        "link": "http://www.huxiu.com/article/4814591.html?f=wangzhan",
-        "published_date": "Wed, 10 Dec 2025 13:00:00 GMT",
-        "first_seen": "2025-12-10T08:21:10.727054"
       },
       "e8a5e2623837b66667f4ad51eb11b7fc84c535ee2da5a13ab227840975d64d6a": {
         "title": "Godfather of AI Criticizes Elon Musk for Irresponsible Behaviour in AI Sector",
@@ -12464,13 +12392,97 @@
         "link": "https://sspai.com/post/105283",
         "published_date": "Fri, 09 Jan 2026 08:56:00 GMT",
         "first_seen": "2026-01-09T05:20:32.786584"
+      },
+      "bdf8b73bf8853e7ce28e748c24c0589ee14800265f3009e097ff29571027628f": {
+        "title": "新年第一举来了，又是险资举牌银行H股",
+        "link": "https://www.tmtpost.com/7837148.html",
+        "published_date": "Fri, 09 Jan 2026 15:59:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664264"
+      },
+      "cbfdab4ade1027394078eeb56b6a06138ca38e3ddb0dfa62f2fd6d02dcda042e": {
+        "title": "回顾与前瞻：弱势市场",
+        "link": "https://www.tmtpost.com/7837145.html",
+        "published_date": "Fri, 09 Jan 2026 15:57:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664277"
+      },
+      "ac2d9cc3d9fb8ac3d2560e7cb18d992285d51c689d0165fc5edb047d9796dd17": {
+        "title": "西贝不服输",
+        "link": "https://www.tmtpost.com/7834407.html",
+        "published_date": "Fri, 09 Jan 2026 15:51:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.336339"
+      },
+      "b9a33896b4d14c09b918c3b37a404f656784d5ee7c0ae13a5f1fe13a32036bae": {
+        "title": "CES 2026：在全球市场谈智能化，长城汽车选择了哪些取舍",
+        "link": "https://www.tmtpost.com/7837114.html",
+        "published_date": "Fri, 09 Jan 2026 15:34:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664291"
+      },
+      "8f3edbca0b03e69da9d60700eb233ddcfd4d1db56f7ad781186a70d13ba5aa3d": {
+        "title": "9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI",
+        "link": "https://www.tmtpost.com/6424013.html",
+        "published_date": "Fri, 09 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664303"
+      },
+      "66a6569fc8b1ed0fa6fd1834eeaee89b0a8aed9c29d113bf7d6ab184757a96f3": {
+        "title": "卫蓝新能源，抢滩“资本盛宴”",
+        "link": "https://www.tmtpost.com/7836622.html",
+        "published_date": "Fri, 09 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664312"
+      },
+      "bd36eabf1b94a02672c15c8f801388c6a7b726df1b3b50d2722bd2460652060d": {
+        "title": "CES 2026观察：AI眼镜并没有迎来iPhone时刻",
+        "link": "https://www.tmtpost.com/7836799.html",
+        "published_date": "Fri, 09 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664323"
+      },
+      "d7708cf2f02df9da4a08c18b02b3ed5186a1c0872202eabf4474abad63d3f29a": {
+        "title": "史上最大规模Tech World，联想开启“混合式AI新纪元”",
+        "link": "https://www.tmtpost.com/7836883.html",
+        "published_date": "Fri, 09 Jan 2026 13:54:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664334"
+      },
+      "1fa17b81167bc24a9df2b7cf7471ad209ef3afcfa3d1dbfb2bbb388855ab4629": {
+        "title": "高特电子：盈利质量堪忧+产品竞争力下滑，神秘股东巨额收益引热议｜IPO观察",
+        "link": "https://www.tmtpost.com/7836767.html",
+        "published_date": "Fri, 09 Jan 2026 13:41:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664235"
+      },
+      "1461451f6f7d07234122699b8145c792b955f3966fdf5d09579da8674f3da008": {
+        "title": "MiniMax盘中一度涨超80%，历史上IPO规模最大的AI大模型公司诞生，引爆港股市场",
+        "link": "https://www.tmtpost.com/7836947.html",
+        "published_date": "Fri, 09 Jan 2026 13:38:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664345"
+      },
+      "cd0dd0fb01279c92459afd3e35432a6526aa8f8469e3d65834d2170086e8ef5a": {
+        "title": "恒瑞医药上岸，但TGF-还没有",
+        "link": "https://www.tmtpost.com/7836754.html",
+        "published_date": "Fri, 09 Jan 2026 13:27:00 GMT",
+        "first_seen": "2026-01-09T08:22:06.664354"
+      },
+      "e072ba557412a0c99c9dad29c1295003b9d52c9143b1507194d55ded2355f67d": {
+        "title": "Facebook调查显示：越来越多的人开始采用带类型的Python，以提升代码质量和灵活性",
+        "link": "https://www.infoq.cn/article/t6i8lghRAdi9I4weD2mR?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 09 Jan 2026 15:21:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.339775"
+      },
+      "35039fd0af59601bfdb9cf077d681da70e4d8ea5e0117c2d3e553d7e63e0973e": {
+        "title": "Manus高溢价收购背后，是Agent开发落地困境",
+        "link": "https://www.infoq.cn/article/SxeNI9gVzcKr36xlwuCQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 09 Jan 2026 14:47:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.340331"
+      },
+      "7a087214fa05b7db890395aa2a436e633a7606a33641ff4ea856fa06478bb46b": {
+        "title": "动态磁贴消亡史",
+        "link": "https://sspai.com/post/105188",
+        "published_date": "Fri, 09 Jan 2026 15:11:00 GMT",
+        "first_seen": "2026-01-09T08:21:57.340615"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-09T05:20:23.386868",
-    "Technology": "2026-01-09T05:20:32.790143",
-    "Finance": "2026-01-09T05:20:23.252603"
+    "AI": "2026-01-09T08:21:57.263404",
+    "Technology": "2026-01-09T08:22:06.667903",
+    "Finance": "2026-01-09T08:21:57.109392"
   }
 }

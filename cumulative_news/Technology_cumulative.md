@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 23:14
+**最后更新时间**: 2026-01-09 05:20
+
+---
+
+## 🆕 最新更新 (2026-01-09 05:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [MiniMax 上市，“多巴胺”能否供养“AGI 野心”？](https://www.tmtpost.com/7836346.html)
+**发布时间**: 2026-01-09 12:04
+
+#### [数读长剧2025：“独大”消失，“冷热”两极](https://www.tmtpost.com/7836083.html)
+**发布时间**: 2026-01-09 11:37
+
+#### [二线电池厂，活在巨头阴影下](https://www.tmtpost.com/7836591.html)
+**发布时间**: 2026-01-09 11:24
+
+#### [China’s BAAI Sees AI Shifting From Language Models to Physical World Understanding](https://www.tmtpost.com/7836846.html)
+**发布时间**: 2026-01-09 11:23
+
+#### [香港酒店批量“爆改”学生公寓](https://www.tmtpost.com/7836612.html)
+**发布时间**: 2026-01-09 10:54
+
+#### [“冰火交织”消费电子：2026在博弈中重塑，AI端侧开启新纪元](https://www.tmtpost.com/7836429.html)
+**发布时间**: 2026-01-09 10:26
+
+#### [外卖大战近一年，重新理解美团](https://www.tmtpost.com/7836309.html)
+**发布时间**: 2026-01-09 10:20
+
+#### [智源研究院2026十大AI技术趋势：具身智能迎来行业“出清”，世界模型成为AGI共识方向 | CES 2026](https://www.tmtpost.com/7836677.html)
+**发布时间**: 2026-01-09 10:10
+
+#### [2025零售业复盘：量贩零食店从“万店狂奔”到“红利拐点”，谁是下一个出局者？](https://www.tmtpost.com/7836274.html)
+**发布时间**: 2026-01-09 10:00
+
+#### [阿里主动加码外卖大战，谁能笑到最后？](https://www.tmtpost.com/7836036.html)
+**发布时间**: 2026-01-09 09:40
+
+#### [广告公司开始逃离汽车圈](https://www.tmtpost.com/7836337.html)
+**发布时间**: 2026-01-09 09:20
+
+#### [白酒2026：迟到且漫长的筑底才开始](https://www.tmtpost.com/7835759.html)
+**发布时间**: 2026-01-09 08:40
+
+#### [AI开始替游戏厂商赚钱：腾讯的算盘、网易的执念、中腰部的生死局](https://www.tmtpost.com/7836185.html)
+**发布时间**: 2026-01-09 08:30
+
+#### [资本狂欢，智谱IPO造富了谁？](https://www.tmtpost.com/7836163.html)
+**发布时间**: 2026-01-09 08:00
+
+#### [【钛晨报】广州迎利好！加速培育AI、半导体、航空航天等5个战略先导产业；雀巢因原料问题召回奶粉，蒙牛、君乐宝等紧急回应；中国石化与中国航油官宣重组](https://www.tmtpost.com/7836246.html)
+**发布时间**: 2026-01-09 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [刚刚，AI企业IPO最速纪录刷新！MiniMax的技术野心，价值超800亿](https://www.infoq.cn/article/U7llrTLhdJxypjxLbTkz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-09 11:53
+
+#### [Meta运用基于大型语言模型的变异测试提升合规覆盖率](https://www.infoq.cn/article/AVRJAU6tE2FA70QD6pOg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-09 11:03
+
+#### [“AI火了，我们却快完了！”顶级开源框架Tailwind之父含泪裁掉75%兄弟：半年后，这个项目可能就没了](https://www.infoq.cn/article/avx0cJiB7tR3uorMOxDd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-09 10:00
+
+#### [DeepSeek-V3.2在推理任务中的表现优于GPT-5](https://www.infoq.cn/article/fJRLWvOdwbcSiQXlNPek?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-09 09:35
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [水果顶流崩盘，车厘子价格降至十年来最低](http://www.huxiu.com/article/4824821.html?f=wangzhan)
+**发布时间**: 2026-01-09 11:38
+
+#### [IP联名如何摆脱“预制味”？](http://www.huxiu.com/article/4824730.html?f=wangzhan)
+**发布时间**: 2026-01-09 10:50
+
+#### [中国灵鹊150首飞成功，民用外壳下 藏着多少 “隐藏技能”](http://www.huxiu.com/article/4824571.html?f=wangzhan)
+**发布时间**: 2026-01-09 10:23
+
+#### [米粉和KOL，谁才是小米的真爱？](http://www.huxiu.com/article/4824623.html?f=wangzhan)
+**发布时间**: 2026-01-09 07:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [如何花式压榨 Gemini：一位律师选手的 2025 年 AI 使用报告](https://sspai.com/post/104638)
+**发布时间**: 2026-01-09 11:09
+
+#### [派早报：一加发布 Turbo 6 系列手机等](https://sspai.com/post/105283)
+**发布时间**: 2026-01-09 08:56
 
 ---
 

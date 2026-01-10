@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "52a77bec74ec5b61701e09be308c6020629da21ebaad630f26952e8e54cbc851": {
-        "title": "被拒≠失败！这些高影响力论文都被顶会拒收过",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-4",
-        "published_date": "Thu, 11 Dec 2025 11:06:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.791077"
-      },
-      "de021ffab22cac0dcb7b9bc58c7831327c6007d5d4e60e28eb7bb4a506d56b6a": {
-        "title": "MIT最新发现：这十年，算法进步被高估了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-3",
-        "published_date": "Thu, 11 Dec 2025 10:58:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.791240"
-      },
-      "ea75e549bd28bdc62c3ac92c34d149e4f0f3e21aafabcc88d8a5ec66a80d3268": {
-        "title": "全球首个！灵巧手真实世界具身数采引擎Psi-SynEngine来了，灵初智能发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-2",
-        "published_date": "Thu, 11 Dec 2025 10:18:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.791439"
-      },
-      "8e52b4733d6802c2cb36f36cda6c79f52b5036d3c26fbf2276bb4a6d06e4ff52": {
-        "title": "扩散语言模型推理太慢？北大团队提出ODB-dLLM框架，破解计算访存双重瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11",
-        "published_date": "Thu, 11 Dec 2025 10:15:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.791683"
-      },
-      "24f9ad318f43586eedb62f3eaf1ad9f67b3c90a5ce1fcbaf980932ef7683ea4c": {
-        "title": "Meta公开抄阿里Qwen作业，还闭源了…",
-        "link": "https://www.qbitai.com/2025/12/360104.html",
-        "published_date": "Thu, 11 Dec 2025 03:48:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.791910"
-      },
-      "ffac0d16e0260bc88889e9e55d3059dda41ccc626a9810944153c708ab58dc77": {
-        "title": "预见未来：96位前沿先锋超万字核心观点总结，抢抓未来产业新高地",
-        "link": "https://www.qbitai.com/2025/12/360107.html",
-        "published_date": "Thu, 11 Dec 2025 02:27:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.792237"
-      },
       "8bd8e28f4ea9cc34f7284f2874acea87367727625b170f051df2b7b7d47d4c8d": {
         "title": "BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征",
         "link": "https://www.jiqizhixin.com/articles/2025-12-11-8",
@@ -2520,177 +2484,21 @@
         "link": "https://www.qbitai.com/2026/01/368820.html",
         "published_date": "Sat, 10 Jan 2026 01:27:00 GMT",
         "first_seen": "2026-01-10T05:16:58.469118"
+      },
+      "cb38d6447051521240c98a48762bed2d2000f426fefd23b783c6754b4dd6e4b0": {
+        "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
+        "link": "https://www.qbitai.com/2026/01/368834.html",
+        "published_date": "Sat, 10 Jan 2026 06:39:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.718794"
+      },
+      "4ed45a7c11a3bf719dc5d27b90635300472953ba38199c54d4729bd20c3002f6": {
+        "title": "](https://www.qbitai.com/2026/01/368856.html)\n**发布时间**: 2026-01-10 04:57\n\n---\n\n## 🆕 最新更新 (2026-01-10 05:16)\n### 📰 来源: [量子位",
+        "link": "https://www.qbitai.com/feed",
+        "published_date": "Sat, 10 Jan 2026 08:18:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.719061"
       }
     },
     "Technology": {
-      "a4b95eb81f12495e7f91549cb0518d054471a6655a892e98ecafb83bd6a20618": {
-        "title": "对话《梦之形》主创：4人团队，如何做出24小时破十万销量的独游？",
-        "link": "https://www.tmtpost.com/7805702.html",
-        "published_date": "Thu, 11 Dec 2025 12:30:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168786"
-      },
-      "f9c301ac801699f9ac9aae0d986f85f095ad69eaefeb4fb1d29946e9fb72c138": {
-        "title": "腾讯的长青IP为什么“重新”开始做IP",
-        "link": "https://www.tmtpost.com/7805683.html",
-        "published_date": "Thu, 11 Dec 2025 12:30:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168797"
-      },
-      "1405561d56307bd29d2393b40409e10339ed0f959deb2456e042caf182cd702b": {
-        "title": "中国建材企业海外求生",
-        "link": "https://www.tmtpost.com/7805691.html",
-        "published_date": "Thu, 11 Dec 2025 12:29:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168807"
-      },
-      "9d45e6ec1a157caa386b7d572684171c4158919c65f1f4165988af21f281a951": {
-        "title": "“姐狗文学”真能让长剧破茧成蝶？",
-        "link": "https://www.tmtpost.com/7805715.html",
-        "published_date": "Thu, 11 Dec 2025 12:27:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168818"
-      },
-      "5a20e7d32ed8c6d61221db54ad93d6675ac3aa47fa50511ee1292fcf9f64d7f6": {
-        "title": "硅料收储平台正式成立，光伏“反内卷”实现诺曼底登陆？",
-        "link": "https://www.tmtpost.com/7805737.html",
-        "published_date": "Thu, 11 Dec 2025 12:15:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168744"
-      },
-      "e00b17ddaa63e8a869b4051a07a1c4db83a3ce6bab2ef14a9bc3ddbc1c7d0b02": {
-        "title": "自动驾驶派系之争，四大技术路线的博弈与融合",
-        "link": "https://www.tmtpost.com/7805508.html",
-        "published_date": "Thu, 11 Dec 2025 12:10:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168757"
-      },
-      "32c7644cb25d9adc62842104b7bc7a649e4e2c440f5292d4ae5cf05e49cc8136": {
-        "title": "CAS Star Ventures Raises Record $573 Million for Early-Stage Hard Tech Fund",
-        "link": "https://www.tmtpost.com/7805769.html",
-        "published_date": "Thu, 11 Dec 2025 12:06:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168832"
-      },
-      "358e9858de4cb08ecf1b54fad24e08b5686675e0473a21e9a50e8132ad3ad994": {
-        "title": "Oracle Shares Plunge Over 10% as AI Spending Surge Outpaces Revenue Growth",
-        "link": "https://www.tmtpost.com/7805747.html",
-        "published_date": "Thu, 11 Dec 2025 11:53:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168844"
-      },
-      "fa890f2e165cd322407ca6e8f97254b51127ca0772a444a88463295009e14015": {
-        "title": "迈向数字深水区的全球营销变革",
-        "link": "https://www.tmtpost.com/7805322.html",
-        "published_date": "Thu, 11 Dec 2025 10:57:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.883558"
-      },
-      "06ffaf2e085d302ba6e09ab1cfb46463c738f39fa1d5d267543fd828793dd240": {
-        "title": "Steam游戏制作零经验的团队，如何用1年多做出《女吊》",
-        "link": "https://www.tmtpost.com/7805621.html",
-        "published_date": "Thu, 11 Dec 2025 10:56:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.884026"
-      },
-      "f5dd1ae2bee5e02e273366eeeccfd0cf72ae418732a912dc8b6dd53a8d839c07": {
-        "title": "为什么罗永浩也没有把视频播客带火？",
-        "link": "https://www.tmtpost.com/7805559.html",
-        "published_date": "Thu, 11 Dec 2025 10:54:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.884303"
-      },
-      "bb4aae5e2888f0a1f5da697722b3edd344ff2652f8e088e78301b34d98923ad9": {
-        "title": "世茂第一高楼梦碎，超高层酒店告别狂飙时代",
-        "link": "https://www.tmtpost.com/7805566.html",
-        "published_date": "Thu, 11 Dec 2025 10:47:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.884685"
-      },
-      "5c529283abd3e071fd53dd98fbc35747cb2c50a27adc3849f084e55888308625": {
-        "title": "影石刘靖康，拒绝失败者叙事",
-        "link": "https://www.tmtpost.com/7805536.html",
-        "published_date": "Thu, 11 Dec 2025 10:41:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.885043"
-      },
-      "9da9e719ee9f54add669df7a721ad8bf65f748490cf3ad80dedde8102ef41265": {
-        "title": "被中产女性抛弃，百年巨头撤离，这个千亿市场变天了",
-        "link": "https://www.tmtpost.com/7805476.html",
-        "published_date": "Thu, 11 Dec 2025 10:40:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.885578"
-      },
-      "3f72f05af79ebb74d9a005e107376f8ec480cd711577f384c0b12248b7ce8e29": {
-        "title": "社交电商，一场集体幻灭的资本游戏",
-        "link": "https://www.tmtpost.com/7805550.html",
-        "published_date": "Thu, 11 Dec 2025 10:39:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.886043"
-      },
-      "62d95fafbf76ada417d293814c217811395ea79ba66343880ddeba82ed0b16f0": {
-        "title": "瑞士机器人科技公司RoBoa研发管状软体机器人，完成极端狭窄环境救援检测 | 瑞士创新100强",
-        "link": "https://www.tmtpost.com/7805487.html",
-        "published_date": "Thu, 11 Dec 2025 10:37:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168712"
-      },
-      "9961e78efbb82873f3e07dc39a72a53613ab20893e71a2d2af680b28d700dfc2": {
-        "title": "Meta Said to Shift to Profit-Driven AI Model Development Using Alibaba's Qwen",
-        "link": "https://www.tmtpost.com/7805569.html",
-        "published_date": "Thu, 11 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.888298"
-      },
-      "ef0a19fac8bb9134635379707d7c484a5085edfbd4defab6bbc077ceae5172c8": {
-        "title": "今年最大黑马，巨人又一次用年轻团队抓住了年轻用户",
-        "link": "https://www.tmtpost.com/7805066.html",
-        "published_date": "Thu, 11 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.888943"
-      },
-      "6d1564a9f6fc04e47a6663f1f83d196390293fae47afa3656c41be12908300bf": {
-        "title": "天原化工原“一把手”被查，国企转型关键期遇高管震荡",
-        "link": "https://www.tmtpost.com/7805397.html",
-        "published_date": "Thu, 11 Dec 2025 10:35:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.889778"
-      },
-      "ac66de298b03c52d3ae43797745746736d0ac103bb7e6e420c46a9fdb9c43dd8": {
-        "title": "记一次拥抱开源地图的尝试：让 Organic Maps 在国内可用",
-        "link": "https://sspai.com/post/104395",
-        "published_date": "Thu, 11 Dec 2025 11:35:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.890855"
-      },
-      "54ef3a01c65c01536d1eefa027cb5055ef2dd10ef0015de03cbdae80b4f00d6b": {
-        "title": "派早报：AMD 推出支持 FSR Redstone 的全新驱动等",
-        "link": "https://sspai.com/post/104512",
-        "published_date": "Thu, 11 Dec 2025 08:42:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.892135"
-      },
-      "1d2a91feb4a87797bb2fc38562e14eae0a7a565629b238a1307c644c25651161": {
-        "title": "大模型赋能供应链决策：从工具创新到规模化应用 ｜AICon北京",
-        "link": "https://www.infoq.cn/article/hY3Q4zJu1UyB3Zq1J4cr?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 10:56:00 GMT",
-        "first_seen": "2025-12-11T05:19:11.168771"
-      },
-      "47a81fdf7dd2cf4f516a0fe83e5992b9873930d31e2ef0b7f953f146b5fcdc28": {
-        "title": "XREAL 徐驰：智能眼镜，拉开了「Agent as Hardware」的新时代",
-        "link": "http://www.geekpark.net/news/357904",
-        "published_date": "Thu, 11 Dec 2025 10:50:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.894784"
-      },
-      "0a8065114cf60842dc6f046de714d606839bb19423dc3c9ace7677c1eb86f5db": {
-        "title": "Teeni.AI 袁琳：10 后与 AI 的共生关系，将如空气般自然",
-        "link": "http://www.geekpark.net/news/357903",
-        "published_date": "Thu, 11 Dec 2025 10:42:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.896281"
-      },
-      "79e258ea62a7a448456c7c6ac810a637678254ff84568f90ccd86b175c8f0d29": {
-        "title": "中国 AI 硬件团队，在 Kickstarter 上找到「第三条路」",
-        "link": "http://www.geekpark.net/news/357902",
-        "published_date": "Thu, 11 Dec 2025 10:38:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.897759"
-      },
-      "45263c07e53519fe4c88d861b7ba7f270bcf04d1680a7b2f607be528e2afc761": {
-        "title": "流量时代的失灵：AI 能否让经营者重新看见真实需求？",
-        "link": "http://www.geekpark.net/news/357901",
-        "published_date": "Thu, 11 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.898880"
-      },
-      "bdb47663d2d66ef19e7c6b26234f86635564594e7a98805e6a6186ebf3a96634": {
-        "title": "AI 时代的超级个体，正在小红书上寻找自己的绿洲",
-        "link": "http://www.geekpark.net/news/357900",
-        "published_date": "Thu, 11 Dec 2025 10:31:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.900105"
-      },
-      "d18fcf4c5e9b832c676332e1f7b3aa7b421dd771b6d6d888575d006330dc881b": {
-        "title": "OpenAI 宣布紧急状态：全力推进 ChatGPT；冯提莫复播，直播间破十万；马斯克：若重新来过，不会再领导美国「政府效率部」｜极客早知道",
-        "link": "http://www.geekpark.net/news/357888",
-        "published_date": "Thu, 11 Dec 2025 08:26:00 GMT",
-        "first_seen": "2025-12-11T05:18:22.902975"
-      },
       "aac889ee5126a88635ca2178dc9107bb0f6c6c3c90fd8e6dd79228d8de18cc24": {
         "title": "2025年，那些跨界机器人的造车势力",
         "link": "https://www.tmtpost.com/7806055.html",
@@ -12524,13 +12332,61 @@
         "link": "https://sspai.com/post/105308",
         "published_date": "Sat, 10 Jan 2026 11:00:00 GMT",
         "first_seen": "2026-01-10T05:16:58.575542"
+      },
+      "0fd395433360a9f6c9ed7b144318127606f442a55ad8d66b36d48986287651db": {
+        "title": "快手AI可以更稳点",
+        "link": "https://www.tmtpost.com/7837543.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.835752"
+      },
+      "3987b68c1aa36e027f371ec038521a62f7a0ce9aebb7b57dbe1c6fb2cf4a5d1f": {
+        "title": "美国斩杀线vs云南秋那桶",
+        "link": "https://www.tmtpost.com/7837551.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.835858"
+      },
+      "fb48fa40c4cb8aee144947501ba59186ac04ba5548fc4ae6fbc93f5f28a6ce3b": {
+        "title": "大疆忙着抢别人地盘，影石却来偷家了",
+        "link": "https://www.tmtpost.com/7837782.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.835958"
+      },
+      "c828350ed27acd9973a36dd3a1b04c8036f3de59e9e1d9a96863ddb1c8629d60": {
+        "title": "RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地",
+        "link": "https://www.tmtpost.com/7837893.html",
+        "published_date": "Sat, 10 Jan 2026 13:24:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.836137"
+      },
+      "54fc912a1ffa2bbe3438917f7b5bd1a51e37d620c97a02440b97a8aebc0ae80d": {
+        "title": "大模型IPO走向分野",
+        "link": "https://www.tmtpost.com/7837632.html",
+        "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.836301"
+      },
+      "f15a52f1a97841d88369791a2dc8443b1a357b9e489a53a31f80cce7693c770c": {
+        "title": "机场里的AI云",
+        "link": "https://www.tmtpost.com/7837630.html",
+        "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.836464"
+      },
+      "ef716b5c20b57d5c2fe3d562b90b221c5656ea1e4e269c2d2f03fc1a28125c3f": {
+        "title": "对抗AI的人",
+        "link": "https://www.tmtpost.com/7837443.html",
+        "published_date": "Sat, 10 Jan 2026 09:07:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.836633"
+      },
+      "6c8ecb350fc159a1c87b548895f997568890b180721d29360b9ad42e7d4f9e44": {
+        "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！",
+        "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Jan 2026 13:30:00 GMT",
+        "first_seen": "2026-01-10T08:18:53.837028"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-10T05:16:58.491643",
-    "Technology": "2026-01-10T05:17:07.834945",
-    "Finance": "2026-01-10T05:16:58.360523"
+    "AI": "2026-01-10T08:18:53.751484",
+    "Technology": "2026-01-10T08:18:53.845116",
+    "Finance": "2026-01-10T08:18:53.606506"
   }
 }

@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b7bf333403f708842a9ad5a9fe19cd91a200311f6b93cb47b7783e93286dde67": {
-        "title": "AI 驱动的科学系统分析框架：SciSciGPT 打开科学研究的新工作方式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-8",
-        "published_date": "Fri, 12 Dec 2025 14:10:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.003266"
-      },
-      "6f6f7e001526d14a96be711e9f9dc40b138e8500305ae671187e8e0a0aed7656": {
-        "title": "里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-7",
-        "published_date": "Fri, 12 Dec 2025 13:16:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.003443"
-      },
-      "d54a56cef2dd1c2e6fa0ce44d3bd01ea924b88663459e22c41539a4c071eed3f": {
-        "title": "谷歌智能体发力：增强版Gemini Deep Research和专属API都来了",
-        "link": "https://www.qbitai.com/2025/12/360539.html",
-        "published_date": "Fri, 12 Dec 2025 07:48:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.003644"
-      },
-      "7d3a46d7ac7875d783273abbfea5f0e0347ed3428cff6017d80a0be53c984f56": {
-        "title": "中国机器人比赛应急救援，美国网友Reddit破防：我们还在给机器狗化妆拍段子",
-        "link": "https://www.qbitai.com/2025/12/360542.html",
-        "published_date": "Fri, 12 Dec 2025 07:28:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.003898"
-      },
-      "99d261ddb9eee75ddf4e86a1cff24a4a86a620553e43fc22ba2507ca8dadd32a": {
-        "title": "GPT-5.2果然反超谷歌Gemini 3 Pro！北大数院校友核心贡献",
-        "link": "https://www.qbitai.com/2025/12/360439.html",
-        "published_date": "Fri, 12 Dec 2025 06:39:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.004179"
-      },
-      "42c64b124d1a2bcddd318d772386e7b58a437ee6097196f9573f76c553b56bbe": {
-        "title": "ToC智能体火得快，但更大的价值在企业丨中关村科金@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360476.html",
-        "published_date": "Fri, 12 Dec 2025 06:36:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.004578"
-      },
-      "93ec066d55e399b6baaf682320fb22dd3f5f2eeae4cec3be0786bbb8cd75b929": {
-        "title": "10亿美元OpenAI股权兑换迪士尼版权！米老鼠救Sora来了",
-        "link": "https://www.qbitai.com/2025/12/360465.html",
-        "published_date": "Fri, 12 Dec 2025 05:56:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.004963"
-      },
       "dbd7173b324c89ba6d9042740dd179583aa8b60e9ec8c779722d5f6c26eca5e3": {
         "title": "港大开源ViMax火了，实现AI自编自导自演",
         "link": "https://www.jiqizhixin.com/articles/2025-12-12-10",
@@ -2439,108 +2397,6 @@
       }
     },
     "Technology": {
-      "8204a13c59680d2a184859a990c39035b4c17c7ef19f64c247e87b00dbe543ac": {
-        "title": "紧急补丁——React服务器函数中的严重漏洞CVE-2025-55182被主动利用",
-        "link": "https://www.infoq.cn/article/jVcfXOWB0UoOOwrfiyjW?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 16:02:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369458"
-      },
-      "e0c63c4fb15da1058dcf5cb16d90f1bc7875916b7459937d5a2efd9602f922e4": {
-        "title": "OpenAI新的GPT-5.1模型更快、更具对话性",
-        "link": "https://www.infoq.cn/article/mVVDliO1Ly62oTbkfqg3?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 15:52:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369470"
-      },
-      "cd0d8e2ea03231430eb1a9a7dfe2e47115e9f9059b9f921400ef32b0cd3c9e11": {
-        "title": "Karrot通过在亚马逊云科技上部署全新可扩展的特征平台将转化率提升70%",
-        "link": "https://www.infoq.cn/article/T7INQA4vJqAAGeIQFo3o?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 15:10:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369412"
-      },
-      "5467fe9af1ccfb20f248db7b9cf61757f1dcee0ceab7cc431edda56a1398e761": {
-        "title": "Azure API Management Premium v2 正式发布：简化的私有网络连接与 VNet 注入",
-        "link": "https://www.infoq.cn/article/ybmjPE1Xo1pqMhtErZTd?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 14:16:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369442"
-      },
-      "83cfa1a31b2cc5e373b645cb9a4155e284e364a461c3b42c044a1e820536883f": {
-        "title": "如何让AI智能体从“玩具”变“工具”？",
-        "link": "https://www.infoq.cn/article/MhBpL7m3y873tY1qmm0I?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 13:34:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369482"
-      },
-      "5ac2e1e8b950f747c4eb636a0b7b68ce565a4ba02c64d1945014b739bfbc123b": {
-        "title": "GPT-5.2获封“最强打工人”，谷歌同日以Gemini“性价比”系列应战",
-        "link": "https://www.tmtpost.com/7807145.html",
-        "published_date": "Fri, 12 Dec 2025 15:56:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369495"
-      },
-      "e6cec93577f372e0a8d6a094ddbbdcaf52dbb387e4a4cf9f53e118ea7554ba5e": {
-        "title": "两大股东6亿增持+榜单领跑，解码成都银行稳健经营底色",
-        "link": "https://www.tmtpost.com/7807113.html",
-        "published_date": "Fri, 12 Dec 2025 15:45:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369505"
-      },
-      "1dc02a85a192a39149366d8212d3675d720051137fcf9a528db54f1935c53e41": {
-        "title": "先涨价后“共创”，谁在为Rokid的“焦虑”买单？",
-        "link": "https://www.tmtpost.com/7806412.html",
-        "published_date": "Fri, 12 Dec 2025 15:37:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369517"
-      },
-      "594c35efb2f83ffbc4df249cb271dfbdb31dc8417a8ef1f8ba0470d0c687ae05": {
-        "title": "JD.com Pledges $3.1 Billion in Housing Support for Couriers as Instant Retail Battle Heats Up",
-        "link": "https://www.tmtpost.com/7807157.html",
-        "published_date": "Fri, 12 Dec 2025 15:24:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369531"
-      },
-      "5dc748dbde6bf0896a821b3a573574f63949b42bc8b4f1fc4d353bd544782f32": {
-        "title": "AI部署中”端、云、边”的权衡与决策",
-        "link": "https://www.tmtpost.com/7806720.html",
-        "published_date": "Fri, 12 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-12T08:22:22.369541"
-      },
-      "69f4b2209af6bc26804aaf511512e586f84c0aa30242028d329a16e00b480127": {
-        "title": "Rivian Shares Dive Over 6% After Unveiling In-House AI Chip and Self-Driving Plans",
-        "link": "https://www.tmtpost.com/7807074.html",
-        "published_date": "Fri, 12 Dec 2025 13:53:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.094302"
-      },
-      "79bc17631129e0a63c58c4c80b7f65d9a39dff9a972451c79b9653bba9e754b0": {
-        "title": "5000台量产不是终点，智元的新起点决定下一轮去留",
-        "link": "https://www.tmtpost.com/7806840.html",
-        "published_date": "Fri, 12 Dec 2025 13:38:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.094806"
-      },
-      "c4d2e88040a393b262b74c990253f1378ad50b3f069426242828c782661edf92": {
-        "title": "年营收超60亿元，它会成为3D打印领域的大疆吗？",
-        "link": "https://www.tmtpost.com/7806841.html",
-        "published_date": "Fri, 12 Dec 2025 13:21:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.095387"
-      },
-      "9e47a8baf752d989031314b14f58f89b1b492a9a040a885a75736c4e27039a8b": {
-        "title": "Sora“不懂”的物理常识，成了这家杭州独角兽的护城河？",
-        "link": "https://www.tmtpost.com/7806998.html",
-        "published_date": "Fri, 12 Dec 2025 13:20:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.096333"
-      },
-      "95535803c960487a18213b6738c9fa50a09867406a1fb2295f38652af8e6b018": {
-        "title": "当运动相机不运动：聊一台正方形画幅的超广角定焦相机",
-        "link": "https://sspai.com/post/104390",
-        "published_date": "Fri, 12 Dec 2025 15:10:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.096982"
-      },
-      "12e0442c8fca4ec184c6ed5b6162360ca8f0b2c173966b64d9fb09db55d58ae3": {
-        "title": "印度背刺美国，亚太战略要崩？",
-        "link": "http://www.huxiu.com/article/4816000.html?f=wangzhan",
-        "published_date": "Fri, 12 Dec 2025 15:00:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.097502"
-      },
-      "cf877227df8c8c7f5902120b59641249d4ed11d29220367db72b3d059065e048": {
-        "title": "测测任永亮：为什么一家泛心理公司，要造个「有身体」的机器人？",
-        "link": "http://www.geekpark.net/news/357971",
-        "published_date": "Fri, 12 Dec 2025 13:32:00 GMT",
-        "first_seen": "2025-12-12T08:21:34.098515"
-      },
       "5827aef2b4b818237063d6edb169530ae8ab699de2e458a40c7d9c56c6037b67": {
         "title": "Maternal Instincts are Key to AI's Co-existence With Humans: Hinton",
         "link": "https://www.tmtpost.com/7807870.html",
@@ -12116,13 +11972,31 @@
         "link": "https://www.tmtpost.com/7838175.html",
         "published_date": "Sat, 10 Jan 2026 23:18:00 GMT",
         "first_seen": "2026-01-11T05:20:31.596418"
+      },
+      "6a2ea88de1b73f740a2cf858740c8a74ff6b252b49d5edc64be170dc26a3790c": {
+        "title": "2026，AI的价值不在参数里",
+        "link": "https://www.tmtpost.com/7838391.html",
+        "published_date": "Sun, 11 Jan 2026 14:22:00 GMT",
+        "first_seen": "2026-01-11T08:23:48.677799"
+      },
+      "ac5f1755181d23a8f69dd6ea07378557cf2add16daaf356feb22b940691dfe9a": {
+        "title": "卓驭创始人沈劭劼：2026，智驾要从“端到端” 到“端到所有地方”",
+        "link": "https://www.tmtpost.com/7836257.html",
+        "published_date": "Sun, 11 Jan 2026 13:33:00 GMT",
+        "first_seen": "2026-01-11T08:23:48.677946"
+      },
+      "9f60f82ce4b78dc44009982b8fc8642bad85f38212a3908a5cf39070c0cf245d": {
+        "title": "AI+硬件的\"最后一公里\"：从技术到场景，如何破局？| CES 2026",
+        "link": "https://www.tmtpost.com/7837988.html",
+        "published_date": "Sun, 11 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-11T08:23:48.678127"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-11T05:20:31.515267",
-    "Technology": "2026-01-11T05:20:40.944373",
-    "Finance": "2026-01-11T05:20:31.374537"
+    "AI": "2026-01-11T08:23:48.610743",
+    "Technology": "2026-01-11T08:23:48.709232",
+    "Finance": "2026-01-11T08:23:48.492842"
   }
 }

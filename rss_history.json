@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f8120283fc8aa3c43e8f4b1cbb02b840877fa36aa3cdcb3887f31d5821a35c65": {
-        "title": "谷歌创始人布林：当年发完Transformer论文，我们太不当回事了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-12",
-        "published_date": "Sun, 14 Dec 2025 21:04:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.813830"
-      },
-      "e35d9669cc4b2174b3003c243054af22c97554053eea28a5c68413c7fc969926": {
-        "title": "1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-11",
-        "published_date": "Sun, 14 Dec 2025 21:00:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.814005"
-      },
-      "b0fefc0a7cd15d197b579e5586376e9b7bb24a125f093a37745c7d2de0c3a79f": {
-        "title": "SIGGRAPH Asia 2025｜30FPS普通相机恢复200FPS细节，4D重建方案来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-10",
-        "published_date": "Sun, 14 Dec 2025 20:56:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.814220"
-      },
-      "3f66361be5c7f49ded1471d2d181279b20cb41aa37104af64e8d4bbdf8b93a15": {
-        "title": "干掉同传？谷歌把AI同传放入所有耳机，顺手发了个颠覆性的AI浏览器",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-9",
-        "published_date": "Sun, 14 Dec 2025 20:51:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.814517"
-      },
-      "23ce8fe35c7fed5481f136c1c75bf7e1ad757dbbef3f5e3ee5d0549355364d80": {
-        "title": "8B模型任务击败GPT-5？阶跃星辰开源Deep Think新框架，小模型解锁百万Token测试时计算",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-8",
-        "published_date": "Sun, 14 Dec 2025 20:48:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.814900"
-      },
-      "31c08ab959e4d570d84507527bc42767dc30ecfc362a160213d4129ea8f7e08d": {
-        "title": "低调霸榜全球最难SQL榜单超两月，国产AI这次选择高调开源！",
-        "link": "https://www.qbitai.com/2025/12/360886.html",
-        "published_date": "Sun, 14 Dec 2025 13:17:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.815205"
-      },
       "fa436858b88cc3c5107c242f2846ff3a5e9d1a5ad4d6d7170b9f500987a31875": {
         "title": "当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子",
         "link": "https://www.jiqizhixin.com/articles/2025-12-15-3",
@@ -2454,33 +2418,51 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-13",
         "published_date": "Tue, 13 Jan 2026 10:10:00 GMT",
         "first_seen": "2026-01-13T05:21:00.951981"
+      },
+      "92b4779eca572d7ec3f40e51cc3d47b119e7748ce7ea384a4b0c6ebfa0d569ad": {
+        "title": "Hard-braking events as indicators of road segment crash risk",
+        "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+        "published_date": "Tue, 13 Jan 2026 22:44:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.478685"
+      },
+      "9398c8feec801af64b561a32996b88fb9617951581ab0fbaf2ee8689696a4b73": {
+        "title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
+        "link": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/",
+        "published_date": "Tue, 13 Jan 2026 20:57:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.479097"
+      },
+      "2f8c15cd60e8130c51edb59fbf17edb39713ab975573cf3b366bc4e80ab1130e": {
+        "title": "Dynamic surface codes open new avenues for quantum error correction",
+        "link": "https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/",
+        "published_date": "Tue, 13 Jan 2026 17:32:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.479515"
+      },
+      "f5fd1c659bbbb1b2e4db9071d27bfe8754e213fbcc460e8f9e579a88545ef347": {
+        "title": "相约AAAI 2026 | 上海AI实验室北极星 X 星启交流会（报名开启）",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-9",
+        "published_date": "Tue, 13 Jan 2026 18:16:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.480070"
+      },
+      "ae08d600a9c96a7734103f6d77e17ad7a63d3f703046ebbd406a4304f97561b8": {
+        "title": "视觉模型既懂语义，又能还原细节，南洋理工&商汤提出棱镜假说",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-8",
+        "published_date": "Tue, 13 Jan 2026 18:12:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.480391"
+      },
+      "f6a05f94beba218c5802afdea52f81f5129bc65dffdd1be516a867b2dfa16ffe": {
+        "title": "无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-7",
+        "published_date": "Tue, 13 Jan 2026 16:25:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.480877"
+      },
+      "f80a6a3f80048e2c9389cf0227b4aa98424b9d2c88f1847caeb44cf9743e0b3a": {
+        "title": "王小川：30亿现金在手，明年IPO，toC产品马上就发",
+        "link": "https://www.qbitai.com/2026/01/369332.html",
+        "published_date": "Tue, 13 Jan 2026 11:49:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.481374"
       }
     },
     "Technology": {
-      "b97b5e62337f66aa149c111cdebe0a9ab42d922da1c405ed70895907524d5f7b": {
-        "title": "顺丰让出来的电退件市场，京东和三通一达接得住吗？",
-        "link": "https://www.tmtpost.com/7808404.html",
-        "published_date": "Sun, 14 Dec 2025 18:51:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.906609"
-      },
-      "41f4abd4a9c193d879338896105a63e29db57ca35e52d912ef170f2e5302f6fa": {
-        "title": "AI音乐改造音乐行业？",
-        "link": "https://www.tmtpost.com/7808457.html",
-        "published_date": "Sun, 14 Dec 2025 18:48:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.906703"
-      },
-      "43138f64f6d9c1609492d488a05a22edd6d020f9f8f9b779c6c8fe3c8e6276c0": {
-        "title": "昨夜星辰（四）我的三星职场之旅",
-        "link": "https://www.tmtpost.com/7808408.html",
-        "published_date": "Sun, 14 Dec 2025 16:14:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.906825"
-      },
-      "63944da433147a875e7d62d5a60805cba6b971a429c173573a95e26701d2cd8d": {
-        "title": "那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例",
-        "link": "https://sspai.com/post/104595",
-        "published_date": "Sun, 14 Dec 2025 17:42:00 GMT",
-        "first_seen": "2025-12-14T23:13:53.907043"
-      },
       "44ce64c52a95dc4f157d795586982212ad537fd749d6c7ca3a919670df69a751": {
         "title": "InfoQ Dev Summit 慕尼黑站：五个常见的 AI 安全误区被打破",
         "link": "https://www.infoq.cn/article/QtaIhovdE4crqmBDsI9K?utm_source=rss&utm_medium=article",
@@ -12284,13 +12266,151 @@
         "link": "https://www.infoq.cn/article/Wrhj4dCb7ARmzcKkdgcM?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 13 Jan 2026 14:11:00 GMT",
         "first_seen": "2026-01-13T08:22:30.857541"
+      },
+      "5fcf399527ea0d781ee23c3faf418bfdd6123c6a271e2d0f822b4238a8138f6f": {
+        "title": "追觅“豪横”、影石“耀眼”、AI场景“繁荣”，从CES看中国品牌出海的新叙事 ｜ 出海参考",
+        "link": "https://www.tmtpost.com/7840889.html",
+        "published_date": "Wed, 14 Jan 2026 06:53:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881675"
+      },
+      "cfc6d6699b6be56241b50ca0b3413524c8e1d00d6c2815089ca452a5da75e61c": {
+        "title": "对话王小川：“语言才是中轴，多模态不是主战场”",
+        "link": "https://www.tmtpost.com/7841537.html",
+        "published_date": "Tue, 13 Jan 2026 22:32:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881687"
+      },
+      "b39169e7d06f6be36573d9e714df64645cab41d21cfce7a1dd8d5c40560a973d": {
+        "title": "“三元正极一哥”现首亏！“豪赌”钠电绑定“宁王”，容百科技难掩转型阵痛｜看财报",
+        "link": "https://www.tmtpost.com/7841395.html",
+        "published_date": "Tue, 13 Jan 2026 19:40:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881598"
+      },
+      "fa5f75915642b2ad9e0549f05d346a31b9205ce0c1feae8123c707106017b5fd": {
+        "title": "豪赌AI医疗，全球第一药企与全球第一科技巨头达成合作",
+        "link": "https://www.tmtpost.com/7841324.html",
+        "published_date": "Tue, 13 Jan 2026 19:09:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881631"
+      },
+      "d7481bd69a1abcd2e9b1f7177dae8d0bc88760c0945d7a1fea5ca9ec97c6d24e": {
+        "title": "封测厂商，报价大涨30%",
+        "link": "https://www.tmtpost.com/7841335.html",
+        "published_date": "Tue, 13 Jan 2026 19:08:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881698"
+      },
+      "90e6bac89ddeb4a5e1b42b965e9805da32faad5c9cbb638af7c91952fedcb419": {
+        "title": "开年价格战重现：汽车公司从最难的第一季度开始更难的一年",
+        "link": "https://www.tmtpost.com/7841347.html",
+        "published_date": "Tue, 13 Jan 2026 19:08:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881708"
+      },
+      "fffd01f5b613db084e2e86d81271b0cf82fc4f5c020e610234588dc0c32808b9": {
+        "title": "2026年，安全正在成为AI选型的“新标配”",
+        "link": "https://www.tmtpost.com/7841200.html",
+        "published_date": "Tue, 13 Jan 2026 18:25:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881719"
+      },
+      "aba6b06200f97cab15b7dfa92eeb57906fa0428b3dfe5744700d5649bd9821cb": {
+        "title": "“死了么”爆火，因为击中1.25亿“孤独患者”？",
+        "link": "https://www.tmtpost.com/7841160.html",
+        "published_date": "Tue, 13 Jan 2026 18:24:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881730"
+      },
+      "9e21bb11e85dd99628da5da4540af102a3b9332296e374c423fc95a2c0a0c1e7": {
+        "title": "困在直播间里的“厂二代”，正在表演“渡劫”",
+        "link": "https://www.tmtpost.com/7841201.html",
+        "published_date": "Tue, 13 Jan 2026 18:23:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.596553"
+      },
+      "4544c89df977fe96d4e29c28f60a89388f8e50695e2906262abaed3e75878c45": {
+        "title": "洪九果品退市、百果园巨亏，资本催不熟水果",
+        "link": "https://www.tmtpost.com/7840828.html",
+        "published_date": "Tue, 13 Jan 2026 17:18:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.596969"
+      },
+      "9f889b252e9e24e632710e4e29d9d8349e56ee45167395ca851bde0be584e10f": {
+        "title": "Realme会有一加的好命吗？",
+        "link": "https://www.tmtpost.com/7840982.html",
+        "published_date": "Tue, 13 Jan 2026 17:17:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.597309"
+      },
+      "9593396950ddcd8df2abc9d91089ebb497492e731e104fed93e0d08b2b7d52fe": {
+        "title": "480亿智飞生物，存货超200亿",
+        "link": "https://www.tmtpost.com/7840025.html",
+        "published_date": "Tue, 13 Jan 2026 17:17:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.597691"
+      },
+      "49fe3f602d2b401a163cb2c426ee1a73fcd332bd4f1d70ec31454414f2444f80": {
+        "title": "好莱坞的竖屏时刻到了",
+        "link": "https://www.tmtpost.com/7840931.html",
+        "published_date": "Tue, 13 Jan 2026 17:17:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.598002"
+      },
+      "2666ab688a3ef74cb4048ed48de1b1ae3d385a6c3003aecb7a373bc1fc0f7214": {
+        "title": "云厂商的AI决战",
+        "link": "https://www.tmtpost.com/7840800.html",
+        "published_date": "Tue, 13 Jan 2026 17:17:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.598341"
+      },
+      "9750dfcb79bc2697f3494be1ff73b00a703a526d9b7ec1958439dd7e4a49d212": {
+        "title": "短期“账本”，能算明白主题公园的盈亏账吗？",
+        "link": "https://www.tmtpost.com/7840988.html",
+        "published_date": "Tue, 13 Jan 2026 17:16:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.598941"
+      },
+      "7f07f374c608e53fe9cfb4c30c551d6a2da46ff01412da8e8131c13e74404b62": {
+        "title": "“光子嫩肤”治疗干眼，医美技术在眼科杀疯了",
+        "link": "https://www.tmtpost.com/7841096.html",
+        "published_date": "Tue, 13 Jan 2026 17:16:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881647"
+      },
+      "c73fbabfca2ccf6b3cdbfe4c8c4b9df34ac56f08dad1a39c8fd3fa1dd58412c9": {
+        "title": "雅虎广告重回牌桌？",
+        "link": "https://www.tmtpost.com/7840797.html",
+        "published_date": "Tue, 13 Jan 2026 17:04:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.599927"
+      },
+      "b6e00215a05d7669364444d71d8c77676f595acec2371b60258ba69466f8be37": {
+        "title": "蛰伏四年首笔投资，字节终于落子机器人这盘棋",
+        "link": "https://www.tmtpost.com/7840963.html",
+        "published_date": "Tue, 13 Jan 2026 17:04:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.600480"
+      },
+      "c6470d1668b4003d5901dcc696f86c7814bfb8c20c01be876cda94de6e1c6bb4": {
+        "title": "卖车如卖白菜，车企们2026的“小目标”有点儿猛",
+        "link": "https://www.tmtpost.com/7840865.html",
+        "published_date": "Tue, 13 Jan 2026 17:00:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.601272"
+      },
+      "cfe225d96d8f693dad255e898e33723263620c2eb0cc422e271cb2b3935d29e4": {
+        "title": "模力工场 028 周 AI 应用榜：AI “身体”觉醒，从工业前线到情感陪伴",
+        "link": "https://www.infoq.cn/article/7ehDUqzteJ1tJXfLglPE?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 20:00:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.602417"
+      },
+      "2fda876847a5e35d334790d6317a7724d076d36f1ebb54858d56f5d73d21f51b": {
+        "title": "社区速递 126 | 语音输入法大讨论、派友辣评CES、让桌面更整洁的磁吸方案",
+        "link": "https://sspai.com/post/105406",
+        "published_date": "Tue, 13 Jan 2026 17:00:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.603645"
+      },
+      "94c87cf5a389e32e5aa09ae4cfbe4f2b8222e648a3bdacedfeeb5ccd41860be0": {
+        "title": "Typeless：语音输入法新物种，开启 AI 信息记录新时代",
+        "link": "https://sspai.com/post/105358",
+        "published_date": "Tue, 13 Jan 2026 15:22:00 GMT",
+        "first_seen": "2026-01-13T23:15:23.604729"
+      },
+      "d5ae3acf9ac129db89d0843d679b13a39fd5b00032426f32a734f6684c64a233": {
+        "title": "这8个科技展品，每个都能改变我们未来的生活",
+        "link": "http://www.huxiu.com/article/4825427.html?f=wangzhan",
+        "published_date": "Tue, 13 Jan 2026 15:50:00 GMT",
+        "first_seen": "2026-01-13T23:15:32.881660"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-13T08:22:21.456776",
-    "Technology": "2026-01-13T08:22:30.877722",
-    "Finance": "2026-01-13T08:22:21.338233"
+    "AI": "2026-01-13T23:15:23.514844",
+    "Technology": "2026-01-13T23:15:32.885166",
+    "Finance": "2026-01-13T23:15:23.366508"
   }
 }

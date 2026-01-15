@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-15 08:22
+**最后更新时间**: 2026-01-15 23:14
+
+---
+
+## 🆕 最新更新 (2026-01-15 23:14)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking health insights: Estimating advanced walking metrics with smartwatches](https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/)
+**发布时间**: 2026-01-15 22:56
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案](https://www.jiqizhixin.com/articles/2026-01-15-13)
+**发布时间**: 2026-01-15 21:37
+
+#### [联发科天玑9500s、8500发布：GPU、光追拉满，红米Turbo 5Max将搭载](https://www.jiqizhixin.com/articles/2026-01-15-12)
+**发布时间**: 2026-01-15 18:48
+
+#### [通用级PixVerse P1的技术突破，揣着进入平行世界的密码](https://www.jiqizhixin.com/articles/2026-01-15-11)
+**发布时间**: 2026-01-15 17:26
+
+#### [Mira公司内乱？CTO被开除，带团队回OpenAI，翁荔上推发言](https://www.jiqizhixin.com/articles/2026-01-15-10)
+**发布时间**: 2026-01-15 17:19
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [国产GPU又杀出一匹黑马！成立不到一年，两款芯片量产落地](https://www.qbitai.com/2026/01/369731.html)
+**发布时间**: 2026-01-15 09:22
 
 ---
 

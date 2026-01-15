@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-15 05:21
+**最后更新时间**: 2026-01-15 08:23
+
+---
+
+## 🆕 最新更新 (2026-01-15 08:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Alibaba’s Qwen App Launches AI Shopping With Full Ecosystem Integration](https://www.tmtpost.com/7844398.html)
+**发布时间**: 2026-01-15 15:50
+
+#### [年终奖、工资涨涨涨，大厂为何集体 “讨好” 员工？](https://www.tmtpost.com/7844129.html)
+**发布时间**: 2026-01-15 15:45
+
+#### [浙江省上市公司ESG-V评级榜｜上市公司观察](https://www.tmtpost.com/7844374.html)
+**发布时间**: 2026-01-15 15:25
+
+#### [谁是真正的行业巨擘？ A股规模实力百强榜出炉｜上市公司观察](https://www.tmtpost.com/7844364.html)
+**发布时间**: 2026-01-15 15:21
+
+#### [上市公司TOP5济安评估（1月5日至1月9日）｜上市公司观察](https://www.tmtpost.com/7844356.html)
+**发布时间**: 2026-01-15 15:20
+
+#### [英特尔亮出AI PC王牌：酷睿Ultra](https://www.tmtpost.com/7843795.html)
+**发布时间**: 2026-01-15 14:48
+
+#### [扎克伯格亲手杀死元宇宙](https://www.tmtpost.com/7844120.html)
+**发布时间**: 2026-01-15 14:26
+
+#### [3%退货率，这台泳池机器人的“异类”硬件哲学｜50×50](https://www.tmtpost.com/7843850.html)
+**发布时间**: 2026-01-15 14:17
+
+#### [“死了么”App估值上亿，照见“孤独经济”万亿新蓝海](https://www.tmtpost.com/7843709.html)
+**发布时间**: 2026-01-15 13:55
+
+#### [藏在茶馆里的银发经济](https://www.tmtpost.com/7844012.html)
+**发布时间**: 2026-01-15 13:38
+
+#### [千问接入淘宝、支付宝等App，阿里巴巴Agent行动开始了](https://www.tmtpost.com/7844188.html)
+**发布时间**: 2026-01-15 13:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌推出Conductor：一款面向Gemini CLI的上下文驱动开发扩展](https://www.infoq.cn/article/RjIZD2dC9ZX3ROmzpsST?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 15:28
+
+#### [手握30亿、被蚂蚁狂挖人，转型被骂惨的王小川，真的翻身了？](https://www.infoq.cn/article/YK5s1sA4dEkP15fKNrkc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 14:51
+
+#### [LangGrant推出LEDGE MCP服务器，赋能企业数据库启用代理式AI](https://www.infoq.cn/article/oNxDI4OWZTmvoXrZXMvA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-15 14:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
+**发布时间**: 2026-01-15 14:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [鲍威尔为何成懂王眼中钉？](http://www.huxiu.com/article/4825757.html?f=wangzhan)
+**发布时间**: 2026-01-15 14:26
 
 ---
 

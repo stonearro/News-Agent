@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-17 05:15
+**最后更新时间**: 2026-01-17 08:19
+
+---
+
+## 🆕 最新更新 (2026-01-17 08:19)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑](https://sspai.com/post/105413)
+**发布时间**: 2026-01-17 15:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [曾经遥遥领先的德国制造，为何骤然“跌落神坛”？](https://www.tmtpost.com/7845975.html)
+**发布时间**: 2026-01-17 14:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理](https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-17 13:42
+
+#### [腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验](https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-17 13:36
 
 ---
 

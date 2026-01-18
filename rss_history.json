@@ -1,54 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a565299e0a1d48966d6491de7537b25433f5df096644d9549267cbb6007e2114": {
-        "title": "拆解CANN：当华为决定打开算力的「黑盒」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-10",
-        "published_date": "Fri, 19 Dec 2025 15:09:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.125443"
-      },
-      "7dd3cd8ccdd32beec23a1f047a02e65a4bb0d15390fbb76a76e91909ccde797b": {
-        "title": "Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-9",
-        "published_date": "Fri, 19 Dec 2025 15:02:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.125622"
-      },
-      "39dfd50f1e4f4a78ab2443d0e9ff3edb952a02c07cbe1a58384c9fbdf8874ff4": {
-        "title": "大模型「越想越错」？人大&腾讯团队用信息论揭示：什么时候该想、什么时候别想",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-8",
-        "published_date": "Fri, 19 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.125813"
-      },
-      "d55953a55ce68adffe42a6101d86e9a8953abc8cc771a0a21a32e7b7f80b5520": {
-        "title": "谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-7",
-        "published_date": "Fri, 19 Dec 2025 14:03:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.126106"
-      },
-      "0415a8fe80df9e248b4131301be5eb333590f7451ee8a01f8b2418bbb03e7303": {
-        "title": "当年带你上网冲浪的头号老玩家，这回是真AI上头了",
-        "link": "https://www.qbitai.com/2025/12/362082.html",
-        "published_date": "Fri, 19 Dec 2025 07:26:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.126314"
-      },
-      "92a031cb1b31a6cd1055f1a644b3993b7172991b2e065d031e233be5403026dc": {
-        "title": "让“组织AI”追上“物理AI”，飞书广州峰会发布“粤企一齐飞”加速计划",
-        "link": "https://www.qbitai.com/2025/12/362097.html",
-        "published_date": "Fri, 19 Dec 2025 07:08:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.126690"
-      },
-      "e27cb47c0f4b6824b7368ec73b5ae9f326315bc4ef772cb950eaea20dcf04027": {
-        "title": "可打电话可对讲！全球首款奥特曼 AI 互动对话器来了",
-        "link": "https://www.qbitai.com/2025/12/362076.html",
-        "published_date": "Fri, 19 Dec 2025 06:40:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.127024"
-      },
-      "a7eae878c17671c0d072d45986041110d48678b39b5e03b6e937a5a2a6de14cf": {
-        "title": "云宇星空大模型正式发布，上海市规划资源局与商汤大装置联合打造",
-        "link": "https://www.qbitai.com/2025/12/362081.html",
-        "published_date": "Fri, 19 Dec 2025 06:34:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.127357"
-      },
       "fe4ac4e092322be8a2567e3bb479a9ce48a97be34b6a9dd976b65fff4bbd19c2": {
         "title": "破局工业自动化界哥德巴赫猜想，它石智航以全栈技术掀开高价值场景序幕",
         "link": "https://www.jiqizhixin.com/articles/2025-12-19-11",
@@ -2292,93 +2244,39 @@
         "link": "https://www.qbitai.com/2026/01/370136.html",
         "published_date": "Sun, 18 Jan 2026 05:27:00 GMT",
         "first_seen": "2026-01-18T08:19:21.953457"
+      },
+      "3105c27c5ae7c5157dcd0d08cb7ebacdd1aeeab71686ca731018092970f8332c": {
+        "title": "咖啡机变聪明后，我连咖啡都喝不上了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
+        "published_date": "Sun, 18 Jan 2026 20:50:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.660719"
+      },
+      "5bb37305572b7ab5348cab5a45a4f2c8a78b737ef82827de24e754f5de7d0ca0": {
+        "title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-4",
+        "published_date": "Sun, 18 Jan 2026 20:45:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.660877"
+      },
+      "e4e8181b7e327c92aa2fb86bc487e8c16662d8131df5aead4ed86810e7ba2068": {
+        "title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-3",
+        "published_date": "Sun, 18 Jan 2026 20:42:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.661025"
+      },
+      "0da94459c99529e959abd047525bf5badc6143171906ec77e39a8a9fdecd79ab": {
+        "title": "红杉合伙人：2026，AGI已经来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-2",
+        "published_date": "Sun, 18 Jan 2026 20:39:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.661207"
+      },
+      "d1e9443ad48a523a3aaf0b2324218596e1465ff5dad0d89d739c2188ac6c9a53": {
+        "title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18",
+        "published_date": "Sun, 18 Jan 2026 20:35:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.661456"
       }
     },
     "Technology": {
-      "43c3043c012e1cfd3311a6b04adeef0dd0219165f251ba0389e044e509b8ba9a": {
-        "title": "Visual Studio 2026正式发布，带来AI原生IDE和提升性能",
-        "link": "https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 16:00:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593681"
-      },
-      "ce5c9bfa4b6580502b573d3e6f077149af11e81fb589fce60eb91c87c1de48d1": {
-        "title": "10人创业团干翻行业“潜规则”！全员必须会AI、让跑大模型全程“裸奔”，谷歌老兵不烧钱创业",
-        "link": "https://www.infoq.cn/article/wZmOay6P7zXF9IeaLdqZ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593721"
-      },
-      "a5f90f4dea099b527e69802774a57cd5497f020d6fc2bd1753ee99741d22e4e4": {
-        "title": "Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%",
-        "link": "https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 14:30:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593733"
-      },
-      "4f7f5560b705173eb5ad060b747c29ab2f17c6a8092f503b7bc50d889e0f03a3": {
-        "title": "三小时，让灵感长成公司：AI编程闪电黑客松完美收官！",
-        "link": "https://www.infoq.cn/article/vhw7arhVBxgXvZayuTgC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 14:08:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593744"
-      },
-      "99bf8a5f1d1f05f1cb36c3da53ebe74b70f33dd8f4e44c3bf3498306240beb8e": {
-        "title": "Jenni.ai：9人团队，18月实现千万美元ARR｜赚大钱的小AI | 巴伦精选",
-        "link": "https://www.tmtpost.com/7814828.html",
-        "published_date": "Fri, 19 Dec 2025 15:53:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593758"
-      },
-      "39d9e453d79257b24ea99fd7a339b1d0c729ab4d6b1111473dd6bbe8ade5cce0": {
-        "title": "摩尔和沐曦，拉开国产芯片大幕",
-        "link": "https://www.tmtpost.com/7814639.html",
-        "published_date": "Fri, 19 Dec 2025 15:18:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593707"
-      },
-      "fd143845fc62e56ff9fc47d690c8c5ac4af5757ac18d62a01d9d0a08af0a4559": {
-        "title": "AI无限拉低了普通人造假的门槛",
-        "link": "https://www.tmtpost.com/7814688.html",
-        "published_date": "Fri, 19 Dec 2025 15:18:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593766"
-      },
-      "70e89c2b9a772caf17580601448992a6a6d59598827be8cff05f70beea196985": {
-        "title": "2026 年，我们该如何定义泡泡玛特",
-        "link": "https://www.tmtpost.com/7814694.html",
-        "published_date": "Fri, 19 Dec 2025 15:18:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593775"
-      },
-      "984a5307afde12ee1af1df84ffccfc67fff0520afd296004cb006d78aa9c5db6": {
-        "title": "杉川能把iRobot救活吗？",
-        "link": "https://www.tmtpost.com/7814698.html",
-        "published_date": "Fri, 19 Dec 2025 15:15:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593783"
-      },
-      "e2af0e8015e8421f4eeecb3cb128afb5de2b1fa6a7efae97aef0b329ec563754": {
-        "title": "年轻人封神果立方，但是神也有烦恼",
-        "link": "https://www.tmtpost.com/7814714.html",
-        "published_date": "Fri, 19 Dec 2025 15:11:00 GMT",
-        "first_seen": "2025-12-19T08:22:19.593791"
-      },
-      "2795a4c559f64c4272a81c8f5f179c2e21104ffe8bf730302ee41d9e2a7f6e1b": {
-        "title": "用创意守护飞鸟，让年味更有温度：防鸟撞新春窗花设计公益征集活动",
-        "link": "https://sspai.com/post/104702",
-        "published_date": "Fri, 19 Dec 2025 15:11:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.209513"
-      },
-      "e18d96858bf31b407d1267307ad1b949f97be03816afd3f72d191d0c178a417a": {
-        "title": "拉伸没有用？也许只是你拉伸不到位",
-        "link": "https://sspai.com/post/104692",
-        "published_date": "Fri, 19 Dec 2025 15:00:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.209862"
-      },
-      "7f9cb33cd0480ec0ab2f71334accd1b597eac6f0c012b54b8f7d63b4b419e00b": {
-        "title": "海南封关，会对香港和新加坡造成影响吗？",
-        "link": "http://www.huxiu.com/article/4818666.html?f=wangzhan",
-        "published_date": "Fri, 19 Dec 2025 15:10:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.210269"
-      },
-      "76ea33c0351f470533ad0a798152996998a07e68712541cd4123892d0fcc4ff3": {
-        "title": "L3级自动驾驶落地，双手离开方向盘也能开车？",
-        "link": "http://www.huxiu.com/article/4818896.html?f=wangzhan",
-        "published_date": "Fri, 19 Dec 2025 14:50:00 GMT",
-        "first_seen": "2025-12-19T08:21:31.210696"
-      },
       "a4d670925387db4ef7ac104858d4d73f76be39b5f85b55e8f62f37874f4fbbf2": {
         "title": "银河通用200亿估值背后：为什么\"不那么复杂\"的场景反而能赢？",
         "link": "https://www.tmtpost.com/7815491.html",
@@ -11732,13 +11630,43 @@
         "link": "https://www.tmtpost.com/7846657.html",
         "published_date": "Sun, 18 Jan 2026 11:34:00 GMT",
         "first_seen": "2026-01-18T08:19:22.062627"
+      },
+      "a4bd75e5d6762f20c4fbf26bd9492d70d0c01815ee634823661668b9090137f2": {
+        "title": "不学抖音学INS，OpenAI想站着把钱挣了",
+        "link": "https://www.tmtpost.com/7846722.html",
+        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.752404"
+      },
+      "cfd65552e91c7ec499428270edb09b7492ae26ef53d1cf14a2af792ccfd1da88": {
+        "title": "AI应用爆发前夜，大模型等待黎明",
+        "link": "https://www.tmtpost.com/7846728.html",
+        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.752511"
+      },
+      "455cc95c0ab482b2ca906374a5b6e98baadb5a065ee9d06cdacdf0e7c8ece238": {
+        "title": "2026，广西菜元年？",
+        "link": "https://www.tmtpost.com/7838127.html",
+        "published_date": "Sun, 18 Jan 2026 17:54:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.752645"
+      },
+      "136a551c71dbaae79180da870484780d48a44cb8a86361ec676d1c4c64fe547f": {
+        "title": "宏大叙事的创业的时代，互联网需要更多Demumu",
+        "link": "https://www.tmtpost.com/7846725.html",
+        "published_date": "Sun, 18 Jan 2026 17:50:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.752810"
+      },
+      "3637f98d5b365a8140d76bf6c3179c11cb2905097b752945b3e74fb35fd59eee": {
+        "title": "打造医生“智能外脑”，医疗级AI在多家医院加速应用",
+        "link": "https://www.tmtpost.com/7846793.html",
+        "published_date": "Sun, 18 Jan 2026 09:46:00 GMT",
+        "first_seen": "2026-01-18T23:14:36.753016"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-18T08:19:21.993064",
-    "Technology": "2026-01-18T08:19:22.069691",
-    "Finance": "2026-01-18T08:19:21.845259"
+    "AI": "2026-01-18T23:14:36.681118",
+    "Technology": "2026-01-18T23:14:36.760312",
+    "Finance": "2026-01-18T23:14:36.552374"
   }
 }

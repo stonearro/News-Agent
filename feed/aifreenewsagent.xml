@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 20 Jan 2026 08:27:00 GMT</pubDate>
-    <lastBuildDate>Tue, 20 Jan 2026 08:28:18 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 23:15:00 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 23:15:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-9</link>
-      <description>&lt;![CDATA[具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-9</guid>
+      <title>刚刚，MiniMax来承包你的桌面了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-14</link>
+      <description>&lt;![CDATA[刚刚，MiniMax来承包你的桌面了]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 20:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-14</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>EmbodiChain开源，用100%生成式数据自动训练具身智能模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-8</link>
-      <description>&lt;![CDATA[EmbodiChain开源，用100%生成式数据自动训练具身智能模型]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-8</guid>
+      <title>马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-13</link>
+      <description>&lt;![CDATA[马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 20:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-13</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一周对战2500万局，这些「AI假人」让人类游戏玩家破防了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-7</link>
-      <description>&lt;![CDATA[一周对战2500万局，这些「AI假人」让人类游戏玩家破防了]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-7</guid>
+      <title>击败GPT、Gemini，复旦×创智孵化创业团队「模思智能」，语音模型上新了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-12</link>
+      <description>&lt;![CDATA[击败GPT、Gemini，复旦×创智孵化创业团队「模思智能」，语音模型上新了]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-12</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-6</link>
-      <description>&lt;![CDATA[TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-6</guid>
+      <title>当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-11</link>
+      <description>&lt;![CDATA[当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-11</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-10</link>
+      <description>&lt;![CDATA[从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 18:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-10</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>MiniMax把自家“实习生”放出来了！</title>
+      <link>https://www.qbitai.com/2026/01/370720.html</link>
+      <description>&lt;![CDATA[MiniMax把自家“实习生”放出来了！]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370720.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>豆包的新身份曝光：在国际艺术展当起了“AI讲解员”</title>
+      <link>https://www.qbitai.com/2026/01/370665.html</link>
+      <description>&lt;![CDATA[豆包的新身份曝光：在国际艺术展当起了“AI讲解员”]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370665.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>智谱新模型也用DeepSeek的MLA，苹果M5就能跑</title>
+      <link>https://www.qbitai.com/2026/01/370652.html</link>
+      <description>&lt;![CDATA[智谱新模型也用DeepSeek的MLA，苹果M5就能跑]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370652.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户</title>
+      <link>https://www.qbitai.com/2026/01/370618.html</link>
+      <description>&lt;![CDATA[“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370618.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>美团卡姐接管无人车，MIT博士离职创业具身智能</title>
+      <link>https://www.qbitai.com/2026/01/370599.html</link>
+      <description>&lt;![CDATA[美团卡姐接管无人车，MIT博士离职创业具身智能]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370599.html</guid>
       <category>AI</category>
     </item>
   </channel>

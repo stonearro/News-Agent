@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "0c1d67d38fe53a121da13c070a6065a287e4e26eba19ca7855eba0ac6bb21b41": {
-        "title": "SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-6",
-        "published_date": "Mon, 22 Dec 2025 15:54:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.487924"
-      },
-      "63f96aa393f7a88631e36a707609675ec914d2bfe79ea88a725da8e2ac010a5d": {
-        "title": "自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-5",
-        "published_date": "Mon, 22 Dec 2025 14:07:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.488162"
-      },
-      "68e2ddc94f495f57f9d5ca373946c303548f51d0a6149509a53438b9fe6077f8": {
-        "title": "陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-4",
-        "published_date": "Mon, 22 Dec 2025 13:50:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.488411"
-      },
-      "b0497ca1f9a29904a708471b259c173dc6863186eda99bcbb46580bd50521712": {
-        "title": "瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-3",
-        "published_date": "Mon, 22 Dec 2025 13:45:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.488662"
-      },
-      "01a266e02b65541b25d84c5847ade1f88eef75c1f42ad11516916198996bd9c5": {
-        "title": "智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-2",
-        "published_date": "Mon, 22 Dec 2025 13:39:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.489024"
-      },
-      "5f04d21140f4da0fbf745bfa33acfc711beaffb0122868da483fd9c5a900abf9": {
-        "title": "天下苦SaaS已久，企业级AI得靠「结果」说话",
-        "link": "https://www.qbitai.com/2025/12/363581.html",
-        "published_date": "Mon, 22 Dec 2025 05:46:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.489378"
-      },
       "a2dc8893020e1fd7e564d05b4f42d6790dbbc1f77695bb0e7c782abfaf8c7f4e": {
         "title": "最火、最全的Agent记忆综述，NUS、人大、复旦、北大等联合出品",
         "link": "https://www.jiqizhixin.com/articles/2025-12-22-10",
@@ -2388,225 +2352,21 @@
         "link": "https://www.qbitai.com/2026/01/370734.html",
         "published_date": "Wed, 21 Jan 2026 04:13:00 GMT",
         "first_seen": "2026-01-21T05:24:24.905905"
+      },
+      "c3a2b8dc7b605ad9d421c6925d4bfb68292bb0465fb826efc751edd4ed908a9f": {
+        "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
+        "published_date": "Wed, 21 Jan 2026 14:19:00 GMT",
+        "first_seen": "2026-01-21T08:24:23.843271"
+      },
+      "fa58a9357b4c8eb1b821a9d2cbd420677b6513de41fa039a390baa89493ea636": {
+        "title": "恒者蓬勃！第18届创业邦年会暨创业邦100未来独角兽大会圆满举办",
+        "link": "https://www.qbitai.com/2026/01/370790.html",
+        "published_date": "Wed, 21 Jan 2026 07:37:00 GMT",
+        "first_seen": "2026-01-21T08:24:23.843456"
       }
     },
     "Technology": {
-      "e657ab87052c4d87f133a994d2251c824677ae03b10117a6b5a5f67a199909af": {
-        "title": "市值蒸发超540亿，一家明星上市公司破产了",
-        "link": "https://www.tmtpost.com/7816674.html",
-        "published_date": "Mon, 22 Dec 2025 12:30:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485653"
-      },
-      "9103ba88ed905b7e0b09fd37ea4115608736ccf1af413b44c5a851b5b381cafd": {
-        "title": "中国第一个开劳斯莱斯的男人，走了",
-        "link": "https://www.tmtpost.com/7816677.html",
-        "published_date": "Mon, 22 Dec 2025 12:30:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485661"
-      },
-      "8f1e5580dca1241888fa6ce8a7db378e649c9547196376d2317030add7a07b4f": {
-        "title": "旧金山“黑夜迷途”：一次停电暴露自动驾驶单车智能的当下困境",
-        "link": "https://www.tmtpost.com/7816692.html",
-        "published_date": "Mon, 22 Dec 2025 12:29:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485670"
-      },
-      "45ee0f1f2bc0fb031b3d610b9d5e3cee61eaa3c16a04996a476afb0c9405a8fe": {
-        "title": "五大发电集团“换将”频次骤减：下一赛段拼什么？",
-        "link": "https://www.tmtpost.com/7816731.html",
-        "published_date": "Mon, 22 Dec 2025 12:28:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485678"
-      },
-      "a271dd1766fd55974c21bca62a0b739025ca06a49891aba78483d5393d726ea5": {
-        "title": "小红书“趁火打劫”住宿蛋糕",
-        "link": "https://www.tmtpost.com/7816484.html",
-        "published_date": "Mon, 22 Dec 2025 11:39:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485686"
-      },
-      "4ca9c714b6ab82b6c582f5cb9780e5ad5ae330580d236e891080ccd33a3dfa0b": {
-        "title": "美团为什么要开线下大超市？",
-        "link": "https://www.tmtpost.com/7816525.html",
-        "published_date": "Mon, 22 Dec 2025 11:30:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485694"
-      },
-      "16fd5e48b174aaf814499cf2b92694e35019b286079631789c18c39897d0b438": {
-        "title": "跨越二十年的共同记忆：我们在各平台都「折腾」过什么",
-        "link": "https://sspai.com/post/104704",
-        "published_date": "Mon, 22 Dec 2025 11:31:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485587"
-      },
-      "adc296ff20d81b80c7e8603292c7511b90f8f98463a183f27b1c79de3a06f145": {
-        "title": "派早报：《互联网平台价格行为规则》发布",
-        "link": "https://sspai.com/post/104796",
-        "published_date": "Mon, 22 Dec 2025 09:00:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485558"
-      },
-      "85f25d0a05352c049af6736a9dee2baf5771feabf81e0e8d3d610ca5de37a2a6": {
-        "title": "从工程实践到底层重构，openGauss Summit 2025 将揭示下一轮技术演进方向",
-        "link": "https://www.infoq.cn/article/C04CwOuNaEeSERDOEYMX?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 10:22:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485603"
-      },
-      "76d39c9217c744f5df3001ae8194cd75f3822e49dfa1798275a31bfe86369ba6": {
-        "title": "Yelp 发布大规模管理 S3 服务器访问日志的方案",
-        "link": "https://www.infoq.cn/article/yYvYwDZJOIEVI2h1rKvq?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 10:12:00 GMT",
-        "first_seen": "2025-12-22T05:24:28.485642"
-      },
-      "2ec4af651e6fab0cea087dceb75a3c5d8769b7de9103a96e87f4e2da6bbff390": {
-        "title": "摩尔线程发布会上，郑纬民院士放出核心观点：真正决定主权AI成败的，是开发者与类CUDA生态",
-        "link": "https://www.infoq.cn/article/VYK3iBJlAfS9HM8aU96U?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 16:14:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929283"
-      },
-      "a574946208192c8dcb1e909a3f3c3e88872df4e30673b80970b22a49d25d5c11": {
-        "title": "上市后的摩尔线程，重心从造芯变成建生态",
-        "link": "https://www.infoq.cn/article/AgpCt64PP8ZNLHxNgsdE?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 16:10:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929373"
-      },
-      "0cf9ca835c2c3c2448426a3e0205a7759f9c38dfddf6726d20e81909cf6a3f9b": {
-        "title": "基于 SGlang RBG + Mooncake 打造生产级云原生大模型推理平台",
-        "link": "https://www.infoq.cn/article/spES4ES1DVCxMc6vtEA4?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929312"
-      },
-      "d51a56b04191126e5b97076c59800d9974fc4ec17d433e03764e586db41d3740": {
-        "title": "AlphaEvolve作为面向算法优化的Agentic系统正式进入谷歌云",
-        "link": "https://www.infoq.cn/article/WOltsxNikIAzZTXDDsjC?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 15:27:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929326"
-      },
-      "f53c78a1a092f0eb55537ae5fa081cff5973e66e68c025b5d361411c4a59bfcb": {
-        "title": "Lyft采用AWS SageMaker与Kubernetes混合架构重构其机器学习平台",
-        "link": "https://www.infoq.cn/article/xlk9jmBFwB5vm7BSzSq8?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 15:00:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929337"
-      },
-      "cc84933ee180dfc85590ae0ddc32bf59635f2461d60cb1f25862fd1643231dda": {
-        "title": "视涯科技四问：股权定价混乱、代持未披露、巨亏难止、15亿现金为何还募20亿？｜IPO观察",
-        "link": "https://www.tmtpost.com/7816844.html",
-        "published_date": "Mon, 22 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929351"
-      },
-      "e6f3bd6d9a7d30dfcd1845974d796c1a86bc1edfa7df7fc0d18380a6f555bce1": {
-        "title": "单品低至3.8元，海底捞开卖小份菜",
-        "link": "https://www.tmtpost.com/7817099.html",
-        "published_date": "Mon, 22 Dec 2025 15:34:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929384"
-      },
-      "53514403fbc44808ff2c323d1ea193cfd173258af13ca3d3eee1cccf453c67f2": {
-        "title": "2025年，50+新品牌跑出2个“亿级黑马”",
-        "link": "https://www.tmtpost.com/7817074.html",
-        "published_date": "Mon, 22 Dec 2025 15:32:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929395"
-      },
-      "9007b7751775afb9b554958deb75936c034134ae86e0fa6f3cd732da43e63d1a": {
-        "title": "这个低调的地方菜，正悄悄“杀”向全国？",
-        "link": "https://www.tmtpost.com/7817097.html",
-        "published_date": "Mon, 22 Dec 2025 15:32:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929405"
-      },
-      "eac64c439c371c91cf2fad74652944fe97c128867c27f89f701db521f0b3aacc": {
-        "title": "阿里向高德投下一枚“钻地弹”",
-        "link": "https://www.tmtpost.com/7817011.html",
-        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.576625"
-      },
-      "c5d00f77aa636af474b6fcb73453bd816d1a4df0b7146070e2924c439cb1f469": {
-        "title": "90后接棒、老将升迁、国际CEO离任……供应链行业人事大震荡",
-        "link": "https://www.tmtpost.com/7817059.html",
-        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.577228"
-      },
-      "d68718112412c2dd82dc527b98c3a9320d3c7931faf7b08cb199882b5d6c0a29": {
-        "title": "消费者不爱，资本退潮，植物肉在中国的故事讲不下去了？",
-        "link": "https://www.tmtpost.com/7817095.html",
-        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.577764"
-      },
-      "76a159ab0b3d6eda60b91bbff69945499d8724b5d81c259e714c3d0d35b3b2d3": {
-        "title": "联想创投杀疯了",
-        "link": "https://www.tmtpost.com/7816937.html",
-        "published_date": "Mon, 22 Dec 2025 15:27:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.578053"
-      },
-      "2296910bd034c094512926027547333c2058debdfd2af9d5a132e51ed1eb7c58": {
-        "title": "果链巨头，加速向“英伟达链”转移",
-        "link": "https://www.tmtpost.com/7816933.html",
-        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.578582"
-      },
-      "3e1ec3beaa2b1e9807d6a7e353f666d342e55767bd708bd510717a28100da6e2": {
-        "title": "Transformer能否支撑下一代Agent？",
-        "link": "https://www.tmtpost.com/7816940.html",
-        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.579121"
-      },
-      "acec307a6be1d2aa31ac033a75f896976a91a89e943a11f8204415ede8e57b9b": {
-        "title": "行业洗牌的2025年，一批中小卖家艰难生存",
-        "link": "https://www.tmtpost.com/7816950.html",
-        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.579695"
-      },
-      "238d627956e1e4469cef034fe9681767d013c8f677a08f8a101ba81957aff0f6": {
-        "title": "年轻人开始认真“养头”，卷出一个千亿新市场",
-        "link": "https://www.tmtpost.com/7816559.html",
-        "published_date": "Mon, 22 Dec 2025 15:14:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.580345"
-      },
-      "48f85c3cf2b15121c9e76d6422f4398edc30710c425c2bf0aa1fc8ba83de2b25": {
-        "title": "贷款8万看剧，饭圈正在捧杀音乐剧",
-        "link": "https://www.tmtpost.com/7816751.html",
-        "published_date": "Mon, 22 Dec 2025 15:08:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.580935"
-      },
-      "52745ff684c78a4639cca04b6bd68fc2229614af3b03089653538cad95259e84": {
-        "title": "泛滥的会员消费，装不下李国庆的“创业梦”",
-        "link": "https://www.tmtpost.com/7816952.html",
-        "published_date": "Mon, 22 Dec 2025 15:07:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.581668"
-      },
-      "07409570b82fcf47452297bd01f15b882da5fb4d8725babff28d1054e461bd1a": {
-        "title": "欠债25亿，美国“行业鼻祖”破产，被中国代工厂反向收购",
-        "link": "https://www.tmtpost.com/7816914.html",
-        "published_date": "Mon, 22 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.582589"
-      },
-      "25bd31f1e2e0afdf97b61e77ea21ed8cda0c7021d7f3fc4a539de747c1c69d6b": {
-        "title": "合成生物2025：资本退烧、技术落地，万亿赛道迈向“成年期”",
-        "link": "https://www.tmtpost.com/7816732.html",
-        "published_date": "Mon, 22 Dec 2025 13:47:00 GMT",
-        "first_seen": "2025-12-22T08:22:51.929363"
-      },
-      "dccd34270586e6cf72c895f7a5dd11372fb4a50c19e024add1548c17b722dc46": {
-        "title": "西方媒体炒作EUV光刻机，背后真的是怕我们打破垄断吗？",
-        "link": "http://www.huxiu.com/article/4819171.html?f=wangzhan",
-        "published_date": "Mon, 22 Dec 2025 14:51:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.584441"
-      },
-      "fb8c9192705df12330be65209a44ac264dd44badd37fc0ffd9fc7378587992ee": {
-        "title": "老板正在消失，DAO将如何重构我们的工作",
-        "link": "http://www.huxiu.com/article/4818961.html?f=wangzhan",
-        "published_date": "Mon, 22 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.585296"
-      },
-      "1424eabed5ce03323749506e886c55e87570a8d403fec34c0fab14f007ccbd2c": {
-        "title": "日本加息、油门刹车一起踩，到底要干嘛？对中国有什么影响？",
-        "link": "http://www.huxiu.com/article/4819036.html?f=wangzhan",
-        "published_date": "Mon, 22 Dec 2025 09:56:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.586410"
-      },
-      "ee6de458392d7829af02d0f0636e4c9915b10c4664510910485e9b5b2952f2c8": {
-        "title": "史上最抽象的编程语言，照片、乐谱、空白也能编程？",
-        "link": "http://www.huxiu.com/article/4818994.html?f=wangzhan",
-        "published_date": "Mon, 22 Dec 2025 09:00:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.587486"
-      },
-      "15a7cbc2cc3f9ceac5ae1f22d2b2e19c35848b6e00b8ecc6e0e76c87cf29f012": {
-        "title": "一日一技 | 达玛卡亚冥想法入门指南",
-        "link": "https://sspai.com/post/86003",
-        "published_date": "Mon, 22 Dec 2025 14:40:00 GMT",
-        "first_seen": "2025-12-22T08:22:42.588308"
-      },
       "847d6c566d2943a7278b8a9833b22e6abc40b9a51ecfca7524f026c59b5e44d9": {
         "title": "中国创新药，从”借船出海“到”造船出海“｜2025 T-EDGE全球对话",
         "link": "https://www.tmtpost.com/7815365.html",
@@ -12236,13 +11996,97 @@
         "link": "https://sspai.com/post/105628",
         "published_date": "Wed, 21 Jan 2026 07:00:00 GMT",
         "first_seen": "2026-01-21T05:24:34.286756"
+      },
+      "26278995540e796f50bf7f98b447aa20d573ff20957999c53c338770641c02ba": {
+        "title": "XAML Studio 开源：一款老牌原型工具，如何在 WinUI 时代重获生命力",
+        "link": "https://www.infoq.cn/article/JCw7RzpyL4DUPvC0kHwE?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 16:00:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259680"
+      },
+      "dcf021ce63fdc7389750cf8b4ed7487ab9f9333edeb111061bf9bb44eda56b88": {
+        "title": "飞猪搭建系统演进：从人工运营到多Agent协同\n搭投生产",
+        "link": "https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 13:51:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259659"
+      },
+      "f327929284a1f1ea50c96bcb7668792e44d32a8b28f4b82dfe19c57689759ea3": {
+        "title": "大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战",
+        "link": "https://www.tmtpost.com/7850118.html",
+        "published_date": "Wed, 21 Jan 2026 15:54:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259689"
+      },
+      "949513d0fdea442bf6d65b0f61bfc622597a6418dd45206031c8a9ed3fa8b07d": {
+        "title": "黄仁勋亲自邀请的男人，将PCB生意做到了3000亿",
+        "link": "https://www.tmtpost.com/7850144.html",
+        "published_date": "Wed, 21 Jan 2026 15:54:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259697"
+      },
+      "c29e25f9220e3574fcf44668c7bea23ab348beccb6f4a3e4ea2a669d5a8b9de4": {
+        "title": "高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”",
+        "link": "https://www.tmtpost.com/7850537.html",
+        "published_date": "Wed, 21 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-21T08:24:23.937952"
+      },
+      "74e1fa887e2f22a70e880df744ddf3b3f8a29aa463ded0671457da51fabbaf01": {
+        "title": "惠康科技：实控人套现5.61亿、不差钱仍募资、低研发确有高毛利｜IPO观察",
+        "link": "https://www.tmtpost.com/7849141.html",
+        "published_date": "Wed, 21 Jan 2026 15:38:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259621"
+      },
+      "d51590b901bdd38c6aef137865fa8894d1891fb7425fe3b3009964cab5eceed8": {
+        "title": "上市即 “贬值”？弥富科技突击入股估值倒挂，应收账款逾期超三成｜IPO观察",
+        "link": "https://www.tmtpost.com/7849197.html",
+        "published_date": "Wed, 21 Jan 2026 15:34:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259670"
+      },
+      "cc9e237017f76acad931bd1a5bf11fe113d8f3ae35a8d6773b7f59d0dacf980f": {
+        "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
+        "link": "https://www.tmtpost.com/7850502.html",
+        "published_date": "Wed, 21 Jan 2026 15:24:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259708"
+      },
+      "6630d07e652638fe8b7f498ff0ba4fd27c8271150e8bb305db87f3383bf02166": {
+        "title": "呼吸机概念60日涨超20%：从ICU闯入“卧室赛道”的产业价值重估丨行业风向标",
+        "link": "https://www.tmtpost.com/7850421.html",
+        "published_date": "Wed, 21 Jan 2026 14:39:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259717"
+      },
+      "33dd91b9330d5c7f3323d6f6556540b66d5fa195083e0026192fcf88c7a31c0a": {
+        "title": "黄金涨疯了，想租银行保险箱要排队5-6年",
+        "link": "https://www.tmtpost.com/7850417.html",
+        "published_date": "Wed, 21 Jan 2026 14:05:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259725"
+      },
+      "073f9df404c2d30bb864774ab9a7a2071f2ac72588d4b6cd15eae61e3e8d8035": {
+        "title": "两位大佬放出“坏消息”：实习生进入AI“斩杀线”",
+        "link": "https://www.tmtpost.com/7850077.html",
+        "published_date": "Wed, 21 Jan 2026 13:50:00 GMT",
+        "first_seen": "2026-01-21T08:24:23.941097"
+      },
+      "934720d769dc2d131dd754ff9bbda3c12635b7dd98d3394eea10a1a9e89d9b32": {
+        "title": "奈飞：收购拖垮剧王？又到考验信仰的时候了",
+        "link": "https://www.tmtpost.com/7850133.html",
+        "published_date": "Wed, 21 Jan 2026 13:50:00 GMT",
+        "first_seen": "2026-01-21T08:24:23.941675"
+      },
+      "b7ff065785e89f1aac94bfb175d248a4a44479d6057bd4dae43fe224bf1a54fd": {
+        "title": "瑞士机器人科技公司Nautica研发自主船体清洁机器人，推动航运业生物污损自动化处理",
+        "link": "https://www.tmtpost.com/7850281.html",
+        "published_date": "Wed, 21 Jan 2026 13:39:00 GMT",
+        "first_seen": "2026-01-21T08:24:33.259646"
+      },
+      "a2beafb88c219db5aecc5076322cb12e58455e6abf0d0a5c82df835180757c9d": {
+        "title": "5 款替代品，找回 LaunchPad 的快捷",
+        "link": "https://sspai.com/post/105471",
+        "published_date": "Wed, 21 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-21T08:24:23.943279"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-21T05:24:24.939603",
-    "Technology": "2026-01-21T05:24:34.288333",
-    "Finance": "2026-01-21T05:24:24.795747"
+    "AI": "2026-01-21T08:24:23.863404",
+    "Technology": "2026-01-21T08:24:33.261200",
+    "Finance": "2026-01-21T08:24:23.735054"
   }
 }

@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-22 05:23
+**最后更新时间**: 2026-01-22 08:22
+
+---
+
+## 🆕 最新更新 (2026-01-22 08:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“合规”二字已变成每个跨境卖家生存的必答题](https://www.tmtpost.com/7851966.html)
+**发布时间**: 2026-01-22 16:19
+
+#### [诡异的春节档](https://www.tmtpost.com/7851920.html)
+**发布时间**: 2026-01-22 16:19
+
+#### [高分韩剧翻拍为何总是水土不服？](https://www.tmtpost.com/7851912.html)
+**发布时间**: 2026-01-22 16:09
+
+#### [许继电气李俊涛辞职，季侃提名董事长， 电力圈人事更迭频繁，电网五万亿狂欢谁领风骚？](https://www.tmtpost.com/7851963.html)
+**发布时间**: 2026-01-22 16:09
+
+#### [发布增强医疗大模型M3 Plus，王小川：年成本仅1亿可让中国医疗AI跑起来](https://www.tmtpost.com/7851981.html)
+**发布时间**: 2026-01-22 15:33
+
+#### [技术面显示，曾经推荐的股票出现了买入机会](https://www.tmtpost.com/7851987.html)
+**发布时间**: 2026-01-22 15:25
+
+#### [TCL控股索尼电视，日系电视从全球霸主到“集体退场”](https://www.tmtpost.com/7851794.html)
+**发布时间**: 2026-01-22 14:25
+
+#### [联邦快递股价下跌：为什么利好消息反而会让华尔街下调评级](https://www.tmtpost.com/7851881.html)
+**发布时间**: 2026-01-22 13:46
+
+#### [OpenAI 去中东，寻求500亿美元融资](https://www.tmtpost.com/7851863.html)
+**发布时间**: 2026-01-22 13:44
+
+#### [上市公司TOP5济安评估 （1月12日至1月16日）｜上市公司观察](https://www.tmtpost.com/7851870.html)
+**发布时间**: 2026-01-22 13:38
+
+#### [四川上市公司ESG-V评级出炉：资源型经济如何走向价值型定价？｜上市公司观察](https://www.tmtpost.com/7851859.html)
+**发布时间**: 2026-01-22 13:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Salesforce将1,000多个EKS集群迁移到Karpenter，以提高扩缩速度和效率](https://www.infoq.cn/article/MJlz0Dv7QQPqf782oCPJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 16:02
+
+#### [AI撞到“数据天花板”，一场革命正悄悄上演](https://www.infoq.cn/article/vAZrlAQMJ6rvaq6oWypv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 14:47
+
+#### [Android Studio Otter 优化代理工作流程，增强 LLM 灵活性](https://www.infoq.cn/article/hGq63lTTN44RtAmwA128?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 14:40
+
+#### [Cloudflare在R2 SQL中推出聚合功能，提升数据分析能力](https://www.infoq.cn/article/233savw2C6lrQCPaUbMX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 13:58
+
+#### [飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产](https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 13:51
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [真正的纯棉面料到底是什么？](http://www.huxiu.com/article/4828522.html?f=wangzhan)
+**发布时间**: 2026-01-22 15:00
+
+#### [“总有一种力量让我们泪流满面”](http://www.huxiu.com/article/4828592.html?f=wangzhan)
+**发布时间**: 2026-01-22 13:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Mac 视觉史（四）：用动效交互为 Mac OS X 附魔](https://sspai.com/post/105410)
+**发布时间**: 2026-01-22 15:00
 
 ---
 

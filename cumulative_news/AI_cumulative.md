@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-22 08:22
+**最后更新时间**: 2026-01-22 23:15
+
+---
+
+## 🆕 最新更新 (2026-01-22 23:15)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [幻觉率不到3%，王小川把医生版的DeepSeek免费了](https://www.jiqizhixin.com/articles/2026-01-22-14)
+**发布时间**: 2026-01-22 19:17
+
+#### [清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化](https://www.jiqizhixin.com/articles/2026-01-22-13)
+**发布时间**: 2026-01-22 19:13
+
+#### [苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？](https://www.jiqizhixin.com/articles/2026-01-22-12)
+**发布时间**: 2026-01-22 19:06
+
+#### [华为云昇腾AI云服务客户增长超8倍，稳居最大国产AI云服务提供商](https://www.jiqizhixin.com/articles/2026-01-22-11)
+**发布时间**: 2026-01-22 17:35
+
+#### [AAAI杰出论文来了！港科大、同济、浙师大等国内高校获奖](https://www.jiqizhixin.com/articles/2026-01-22-10)
+**发布时间**: 2026-01-22 16:56
+
+#### [Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了](https://www.jiqizhixin.com/articles/2026-01-22-9)
+**发布时间**: 2026-01-22 16:53
+
+#### [金山云星流全面升级 以智算穿越云上AI新周期](https://www.jiqizhixin.com/articles/2026-01-22-8)
+**发布时间**: 2026-01-22 16:47
+
+#### [Future Tech | 16支AI新锐齐聚数码港，FT Demo Day第二期引爆湾区创新浪潮](https://www.jiqizhixin.com/articles/2026-01-22-7)
+**发布时间**: 2026-01-22 16:45
+
+#### [WAIC CONNECT | 沪港联动激活产业新引擎，两地各界共筑AI+多元应用新生态](https://www.jiqizhixin.com/articles/2026-01-22-6)
+**发布时间**: 2026-01-22 16:25
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Small models, big results: Achieving superior intent extraction through decomposition](https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/)
+**发布时间**: 2026-01-22 16:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？](https://www.qbitai.com/2026/01/371570.html)
+**发布时间**: 2026-01-22 11:17
+
+#### [2025最强AI产品一文看尽丨量子位智库年度AI 100](https://www.qbitai.com/2026/01/371559.html)
+**发布时间**: 2026-01-22 09:28
+
+#### [高通砸钱、雷军入股！刚刚，上海诞生一个183亿手机代工巨头](https://www.qbitai.com/2026/01/371535.html)
+**发布时间**: 2026-01-22 09:02
+
+#### [昇腾云客户2663家，华为云稳居最大国产AI云服务提供商](https://www.qbitai.com/2026/01/371533.html)
+**发布时间**: 2026-01-22 08:42
+
+#### [金山云星流全面升级，以智算穿越云上AI新周期](https://www.qbitai.com/2026/01/371527.html)
+**发布时间**: 2026-01-22 08:33
+
+#### [大学开始用AI招生了](https://www.qbitai.com/2026/01/371510.html)
+**发布时间**: 2026-01-22 07:57
+
+#### [Node.js之父：手写代码已死](https://www.qbitai.com/2026/01/371389.html)
+**发布时间**: 2026-01-22 06:43
+
+#### [57.1%的人分不清真假！Runway新视频模型太爆炸](https://www.qbitai.com/2026/01/371481.html)
+**发布时间**: 2026-01-22 06:40
 
 ---
 

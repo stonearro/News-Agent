@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-23 05:22
+**最后更新时间**: 2026-01-23 08:21
+
+---
+
+## 🆕 最新更新 (2026-01-23 08:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [雷诺，没按外资车企的老路走](https://www.tmtpost.com/7853270.html)
+**发布时间**: 2026-01-23 16:00
+
+#### [AI会让媒体老师变蠢吗？](https://www.tmtpost.com/7853176.html)
+**发布时间**: 2026-01-23 15:41
+
+#### [英特尔：AI CPU火热造势，“冰冷”指引浇灭了期待？](https://www.tmtpost.com/7852924.html)
+**发布时间**: 2026-01-23 15:10
+
+#### [当AI偷走人类的冠军](https://www.tmtpost.com/7853093.html)
+**发布时间**: 2026-01-23 14:44
+
+#### [How U.S. and Chinese CIOs See Their Role in Responsible AI and Cross-border Business?](https://www.tmtpost.com/7852753.html)
+**发布时间**: 2026-01-23 14:43
+
+#### [平头哥拆分IPO：阿里AI战略的“最后拼图”浮出水面](https://www.tmtpost.com/7852630.html)
+**发布时间**: 2026-01-23 14:26
+
+#### [数字资管新范式：Crypto Quant 全球加密量化大赛平台上线](https://www.tmtpost.com/7853205.html)
+**发布时间**: 2026-01-23 14:20
+
+#### [AI手机的终局，“读屏”还是“对话”？](https://www.tmtpost.com/7852879.html)
+**发布时间**: 2026-01-23 13:46
+
+#### [射频芯片开启新的卡位赛](https://www.tmtpost.com/7852278.html)
+**发布时间**: 2026-01-23 13:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [IDC：人形机器人在六大场景大规模商用，智元登顶五大场景](https://www.infoq.cn/article/xJZepWGP6dmoQ8AJpNbF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-23 15:09
+
+#### [AI 进化论丨第八期：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？](https://www.infoq.cn/video/0a2A4lh12FJJMYgS7jqx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-23 14:42
+
+#### [欧洲数据主权倡议发布了一个信任框架](https://www.infoq.cn/article/KdUzYQcqMUOSh4Xmx7AI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-23 14:17
+
+#### [8B端侧写作智能体AgentCPM-Report开源，DeepResearch 终于本地化](https://www.infoq.cn/article/m3AbwhgYsmXQua8Fu2XG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-23 14:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）](https://sspai.com/post/105475)
+**发布时间**: 2026-01-23 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [当衰老遇上机器人，晚年正在被重新定义](http://www.huxiu.com/article/4828489.html?f=wangzhan)
+**发布时间**: 2026-01-23 14:30
 
 ---
 

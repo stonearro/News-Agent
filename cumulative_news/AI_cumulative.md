@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-23 08:21
+**最后更新时间**: 2026-01-23 23:15
+
+---
+
+## 🆕 最新更新 (2026-01-23 23:15)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Introducing GIST: The next stage in smart sampling](https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/)
+**发布时间**: 2026-01-23 17:46
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [OpenAI：以后大家用AI赚的钱，我可能要抽成](https://www.jiqizhixin.com/articles/2026-01-23-10)
+**发布时间**: 2026-01-23 16:46
+
+#### [陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的](https://www.jiqizhixin.com/articles/2026-01-23-9)
+**发布时间**: 2026-01-23 16:42
+
+#### [思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式](https://www.jiqizhixin.com/articles/2026-01-23-8)
+**发布时间**: 2026-01-23 16:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [2.4万亿参数“最强文科生”，文心5.0正式版，你挺懂山东人啊？](https://www.qbitai.com/2026/01/372108.html)
+**发布时间**: 2026-01-23 13:43
+
+#### [把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录](https://www.qbitai.com/2026/01/372099.html)
+**发布时间**: 2026-01-23 12:25
+
+#### [轻舟智航重回高端局： L2+量产超百万，城市NOA量产下放10万级](https://www.qbitai.com/2026/01/372001.html)
+**发布时间**: 2026-01-23 12:03
+
+#### [九骏踏浪，海淀这片“创新深海”做了啥？](https://www.qbitai.com/2026/01/371980.html)
+**发布时间**: 2026-01-23 10:59
+
+#### [LeCun创业0产品估值247亿，回应谢赛宁入伙](https://www.qbitai.com/2026/01/371949.html)
+**发布时间**: 2026-01-23 08:04
 
 ---
 

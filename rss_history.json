@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "da3ffbc0a8706872de4dd03b9c93966461dc99cb806c214f7e82218034cef730": {
-        "title": "VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-7",
-        "published_date": "Fri, 26 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.926572"
-      },
-      "8cc67c89cd6b8f325b0987081a5c038a3492910749a4c7de91a44583848be108": {
-        "title": "视频生成DeepSeek时刻！清华&生数开源框架提速200倍，一周斩获2k Star",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-6",
-        "published_date": "Fri, 26 Dec 2025 13:31:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.926785"
-      },
-      "2c6a8c9e2aa6567a415d3114195e5df6043e4e5887b48b31712d574ee281513e": {
-        "title": "Agent「记吃不记打」？华为诺亚&港中文发布SCOPE：Prompt自我进化，让HLE成功率翻倍",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-5",
-        "published_date": "Fri, 26 Dec 2025 13:23:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.926997"
-      },
-      "ddb778a5c8318b8f281d511f36f0b833c179340bca45966409650cd4f787b430": {
-        "title": "顶刊TPAMI｜多模态视频理解领域重磅数据更新：MeViSv2发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-4",
-        "published_date": "Fri, 26 Dec 2025 13:19:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.927296"
-      },
-      "e92b9cb4c2b49b098b25a252c0d253e6d93d47c3435f1d149812830085b9e933": {
-        "title": "特斯拉通过「物理图灵测试」！英伟达机器人主管爆吹，圣诞节刷屏了",
-        "link": "https://www.qbitai.com/2025/12/365975.html",
-        "published_date": "Fri, 26 Dec 2025 07:17:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.927626"
-      },
-      "70317a9c0639e191117560b44ad6ea37150c8651c1e4430258507d9a65dfadc9": {
-        "title": "第一批拿12.8万月薪的实习生已经出现！AI人才抢夺战真的好激烈",
-        "link": "https://www.qbitai.com/2025/12/365958.html",
-        "published_date": "Fri, 26 Dec 2025 07:03:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.927977"
-      },
-      "2c4025b908e0445ea82c67ef78f2ddb066646125e9f0e6b09873da25a6644a23": {
-        "title": "推理成本打到1元/每百万token，浪潮信息撬动Agent规模化的“最后一公里”",
-        "link": "https://www.qbitai.com/2025/12/365959.html",
-        "published_date": "Fri, 26 Dec 2025 06:47:00 GMT",
-        "first_seen": "2025-12-26T08:25:40.928493"
-      },
       "c97b3633ec621604bf5cc835bbdf9c2eb7d5ff4151d98c7528f3bf94fb679a72": {
         "title": "一只大头机器狗供不应求，打响了消费级具身智能第一枪",
         "link": "https://www.qbitai.com/2025/12/366060.html",
@@ -2316,105 +2274,63 @@
         "link": "https://www.qbitai.com/2026/01/372343.html",
         "published_date": "Sun, 25 Jan 2026 03:41:00 GMT",
         "first_seen": "2026-01-25T05:23:59.960887"
+      },
+      "8c95c9efe54b39e251fde1914ccaf5948b48344fdbf528b33477e5cbf9c09794": {
+        "title": "谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-25-6",
+        "published_date": "Sun, 25 Jan 2026 21:17:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.133933"
+      },
+      "7152a445a2eb7bd912da921eadf4caefce9871f91bdeb0540e8b98909d6b796a": {
+        "title": "没博士没论文，这些人靠什么「野路子」杀进OpenAI等顶级AI大厂？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-25-5",
+        "published_date": "Sun, 25 Jan 2026 21:14:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.134138"
+      },
+      "3f61d37342e8e3eb60771aca29d474ef94eb62f94a746d1d6fca8377bd6f736a": {
+        "title": "17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-25-4",
+        "published_date": "Sun, 25 Jan 2026 21:10:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.134347"
+      },
+      "2e73718e5d7356b120e3984b133ea63c9d09ab19c2bca45664e53187617480d2": {
+        "title": "国内首篇！融合语言模型的多模态触觉传感器，推动机器人触觉迈向人类水平",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-25-3",
+        "published_date": "Sun, 25 Jan 2026 21:07:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.134588"
+      },
+      "2ef3a744fd581a038d1c5680156d6e3a12f5572149a1adf3ff4f8aee93181e0b": {
+        "title": "谷歌用一堆不赚钱的AI小玩意，给科技圈上了一课",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-25-2",
+        "published_date": "Sun, 25 Jan 2026 21:02:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.134835"
+      },
+      "f3f1c12bbdd6041db3bea4c08013a1d5fffd01f2430478b5279b1c89b72276b6": {
+        "title": "拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-25",
+        "published_date": "Sun, 25 Jan 2026 20:54:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.135329"
+      },
+      "92cbad41e3f28a7b451e9eb3e511501ae6c1a03022857e216d446c01c60b095b": {
+        "title": "李飞飞世界模型公司一年估值暴涨5倍！正洽谈新一轮5亿美元融资",
+        "link": "https://www.qbitai.com/2026/01/372526.html",
+        "published_date": "Sun, 25 Jan 2026 12:08:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.135670"
+      },
+      "a3ec4f7c47f08234de288991f286e7fb43b6bf303897a41d6a275dcf5a85fd37": {
+        "title": "不读博士，照样进OpenAI！o1核心成员现身说法了",
+        "link": "https://www.qbitai.com/2026/01/372364.html",
+        "published_date": "Sun, 25 Jan 2026 12:05:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.136076"
+      },
+      "2b95babe37a7553f7caf275b1efb58cf27d33aa3108e697fd9dcd5d34ee5acfd": {
+        "title": "达沃斯聚焦技术新前沿，梅卡曼德创始人邵天兰受邀分享具身智能落地实践",
+        "link": "https://www.qbitai.com/2026/01/372351.html",
+        "published_date": "Sun, 25 Jan 2026 11:51:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.136478"
       }
     },
     "Technology": {
-      "7e5b482fa741778eb07fdb3521bc920266a355b4e7762be8032abc8e2a6957d8": {
-        "title": "智谱正在穿越大模型最危险的那段路",
-        "link": "https://www.tmtpost.com/7821744.html",
-        "published_date": "Fri, 26 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256358"
-      },
-      "e33daee074224bcf09a4e92161e58afca8f4bc9f52318ea02c3e8a47b306c4d4": {
-        "title": "豪特节能：98%收入来自前五大客户，上市前夕股东密集套现，实控人更是上演股权“高买低卖的骚操作”｜IPO观察",
-        "link": "https://www.tmtpost.com/7818274.html",
-        "published_date": "Fri, 26 Dec 2025 15:15:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256372"
-      },
-      "37f85460a2507a8c48992c9d3d61d0420b52c270fbb15b07b27056f3b2cecda8": {
-        "title": "凌科药业：7年亏损超12亿，资金告急和估值暴增相伴｜IPO观察",
-        "link": "https://www.tmtpost.com/7818316.html",
-        "published_date": "Fri, 26 Dec 2025 15:13:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256383"
-      },
-      "23b932da2ddfc09beb808503cdee07597145d332adf80b1a77da502af0b9bab8": {
-        "title": "162家店年入23亿，河南跑出的火锅店要IPO了",
-        "link": "https://www.tmtpost.com/7821480.html",
-        "published_date": "Fri, 26 Dec 2025 15:12:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256394"
-      },
-      "2184abec862b28063fb1033d5ff2f61f39d895e52baf3eb55ba04a8e96d1c610": {
-        "title": "英伟达真正的对手是谁？",
-        "link": "https://www.tmtpost.com/7821700.html",
-        "published_date": "Fri, 26 Dec 2025 14:34:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256403"
-      },
-      "3c812ec20800acc86478ab289e4d72c9f48925ebe4d18681d2906e25688cb552": {
-        "title": "推出App Store，宇树会迎来它的“苹果商店”时刻吗？",
-        "link": "https://www.tmtpost.com/7821785.html",
-        "published_date": "Fri, 26 Dec 2025 14:16:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256414"
-      },
-      "b7c2626d80463b124f3f233d17ff46330f4a5ca96ec930105ea66a41cd98bf39": {
-        "title": "储能内卷其实已开始，未来惨烈程度或将远超光伏？",
-        "link": "https://www.tmtpost.com/7821597.html",
-        "published_date": "Fri, 26 Dec 2025 13:48:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256423"
-      },
-      "3394349633ae004ab9134763b9c5420ce34de7abbf47af64e754dbf3bf3a8761": {
-        "title": "今年最赚钱的游戏，带富大批人",
-        "link": "https://www.tmtpost.com/7821889.html",
-        "published_date": "Fri, 26 Dec 2025 13:13:00 GMT",
-        "first_seen": "2025-12-26T08:25:41.019803"
-      },
-      "0739503becd34db986f09c04757d3bdfd73f16a90a44db5195c8d8600b8318ff": {
-        "title": "Orion：面向注重隐私用户的新型浏览器——零遥测、零广告、防范AI追踪",
-        "link": "https://www.infoq.cn/article/GyjC1wEe8xdFf9M1dr1c?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 16:00:00 GMT",
-        "first_seen": "2025-12-26T08:25:41.020251"
-      },
-      "4eb4305e68b693ed3624ae30899d45ad9cdaa7c311ee15f8750fb7ee78795788": {
-        "title": "中国VIBE创作生态报告2025",
-        "link": "https://www.infoq.cn/minibook/8Lyuvhef2SM1sTKcPRxd?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 15:52:00 GMT",
-        "first_seen": "2025-12-26T08:25:41.020550"
-      },
-      "48821c7116e1636d70b828b4b1b75b3850695619ac4f5e993d0a3dcfe46cfafa": {
-        "title": "Cactus v1：具有零延迟和完全隐私的跨平台移动LLM推理",
-        "link": "https://www.infoq.cn/article/5KuFxAH51ppXAkRvXKtx?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 15:28:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256298"
-      },
-      "b9dee35dd1a6c2a9d8240e222f9a79822b8d29a07547b461781b90017bcba83e": {
-        "title": "AI 时代，软件架构师的角色该如何重新定位",
-        "link": "https://www.infoq.cn/article/AxmB827ivHG2HUWceisD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 14:47:00 GMT",
-        "first_seen": "2025-12-26T08:25:41.021545"
-      },
-      "bbb89c88356e114eff3d035d6a68941de7a9dba1c5b8206798f271472b07195f": {
-        "title": "Midscene v1.0 发布 - 视觉驱动，UI 自动化体验跃迁",
-        "link": "https://www.infoq.cn/article/HrBT45TqBv2hLEreMqob?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 14:46:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256330"
-      },
-      "b4c2de1eb685a8c549959117f42782c340fcf3a51d9de3144fe3b10bd517bacd": {
-        "title": "OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议",
-        "link": "https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 14:46:00 GMT",
-        "first_seen": "2025-12-26T08:25:41.023134"
-      },
-      "3dd53bf72e92d092798f8cac463992fbd4b8866a0b05795b92cd2c27389836cb": {
-        "title": "从“救火”到“预见”：汽车行业操作系统智能运维解决方案",
-        "link": "https://www.infoq.cn/article/a9vBqsg8b08Ufrd6RZzH?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 14:33:00 GMT",
-        "first_seen": "2025-12-26T08:25:50.256346"
-      },
-      "4063530cd127f494bd59957146c6835db1ec56252f1d72b4cd76235ef52776e7": {
-        "title": "Pinecone在公开预览中引入专用读取节点，用于可预测的向量工作负载",
-        "link": "https://www.infoq.cn/article/39uEo8INcly3LrLfpPXU?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 14:20:00 GMT",
-        "first_seen": "2025-12-26T08:25:41.024831"
-      },
       "97736db57fe5068f2f31adae1ccfe4a824b39ca20dcd064d3eeaea3c2449218e": {
         "title": "高度内部化技术栈锁死谷歌人！一个 bug 逼麻省理工精英逃离“金手铐”：离开谷歌，我的技能就作废了",
         "link": "https://www.infoq.cn/article/Yca7ZIm6rCBi6DrwfLR9?utm_source=rss&utm_medium=article",
@@ -11750,13 +11666,79 @@
         "link": "https://sspai.com/post/105482",
         "published_date": "Sun, 25 Jan 2026 14:17:00 GMT",
         "first_seen": "2026-01-25T08:19:50.160565"
+      },
+      "b9f84ca1903082ae15cc960f4776f64dcda00acd5a8c0925b88f44f5639b2c88": {
+        "title": "50天155家银行消失，大撤退里藏着新玩法",
+        "link": "https://www.tmtpost.com/7855022.html",
+        "published_date": "Sun, 25 Jan 2026 21:27:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608070"
+      },
+      "2dbfab1ed2684af8d5859343a6b4b21e3bd1177280f29c5782e00ddfb364477e": {
+        "title": "价值判断涨停板的投资机会和风险提示（1月23日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7855008.html",
+        "published_date": "Sun, 25 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608081"
+      },
+      "31fea782cfd85d01487d02855841e00c165b8a878d469a73888a906b4e6c0db3": {
+        "title": "美股新高后市场分化，资金风向在变吗？| 巴伦菁英月谈会 | 巴伦精选",
+        "link": "https://www.tmtpost.com/7854998.html",
+        "published_date": "Sun, 25 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608093"
+      },
+      "83f3dca14ddfb5d583904564995acfe7949e1ff2297484726e42ebda121528b3": {
+        "title": "OTA平台的规则边界正在重估",
+        "link": "https://www.tmtpost.com/7843553.html",
+        "published_date": "Sun, 25 Jan 2026 19:41:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608025"
+      },
+      "2e073e961f52a61ae495ef5008993ef95ad5af1fd8c11803d6710738091ab42e": {
+        "title": "转折中的OTA",
+        "link": "https://www.tmtpost.com/7854789.html",
+        "published_date": "Sun, 25 Jan 2026 17:25:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608144"
+      },
+      "b95579d92efa92856474f6e0b05efd7a50f7fd17d62245bb805521f40c1cd241": {
+        "title": "百度网盘要赚钱养家了？",
+        "link": "https://www.tmtpost.com/7854294.html",
+        "published_date": "Sun, 25 Jan 2026 17:24:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608103"
+      },
+      "c16abc539d1d8929086b123c9fc1d02d6decaa3715abf8963ea9838933446b73": {
+        "title": "黎瑞刚：\"中国默多克\"的隐秘资本江湖",
+        "link": "https://www.tmtpost.com/7854807.html",
+        "published_date": "Sun, 25 Jan 2026 17:24:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608114"
+      },
+      "aed43a0a98081d6535dcba4c7d39ea28bd80f65e4f42ea070e7002fa9b370e27": {
+        "title": "汇川技术港股IPO的豪赌，2000亿投入欲为“绝对第一”储能野心输血",
+        "link": "https://www.tmtpost.com/7854770.html",
+        "published_date": "Sun, 25 Jan 2026 17:20:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608056"
+      },
+      "d616653ea0a4b403021be7010ea9fef4fb984399a4e33470283ca2d5acd741c8": {
+        "title": "涨声震天，马斯克力挺的“太空光伏”，到底虚实几分？",
+        "link": "https://www.tmtpost.com/7854755.html",
+        "published_date": "Sun, 25 Jan 2026 17:14:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608125"
+      },
+      "92d908af267e22f481a6507f07fe5bffb93f7bd1bb3b38d935e5c5d6ceeed811": {
+        "title": "AI熔化白银？",
+        "link": "https://www.tmtpost.com/7854712.html",
+        "published_date": "Sun, 25 Jan 2026 17:14:00 GMT",
+        "first_seen": "2026-01-25T23:14:58.247305"
+      },
+      "0f854446b13e76963bd9eb504c85116e7d9e31082868ee717e3fa799ca5d2d54": {
+        "title": "国电投贵州一公司被罚没80余万，新能源“无证驾驶”遭遇监管急刹车",
+        "link": "https://www.tmtpost.com/7854761.html",
+        "published_date": "Sun, 25 Jan 2026 17:12:00 GMT",
+        "first_seen": "2026-01-25T23:15:07.608135"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-25T08:19:50.086977",
-    "Technology": "2026-01-25T08:19:50.191669",
-    "Finance": "2026-01-25T08:19:49.972020"
+    "AI": "2026-01-25T23:14:58.163782",
+    "Technology": "2026-01-25T23:15:07.610171",
+    "Finance": "2026-01-25T23:14:58.025716"
   }
 }

@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-27 08:23
+**最后更新时间**: 2026-01-27 23:16
+
+---
+
+## 🆕 最新更新 (2026-01-27 23:16)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [ATLAS: Practical scaling laws for multilingual models](https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/)
+**发布时间**: 2026-01-27 18:58
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限](https://www.jiqizhixin.com/articles/2026-01-27-12)
+**发布时间**: 2026-01-27 18:38
+
+#### [刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天](https://www.jiqizhixin.com/articles/2026-01-27-11)
+**发布时间**: 2026-01-27 18:03
+
+#### [ICLR 2026 放榜了！28%接收率，欢迎投稿机器之心](https://www.jiqizhixin.com/articles/2026-01-27-10)
+**发布时间**: 2026-01-27 17:51
+
+#### [英伟达Earth 2开源全新天气预报模型，能生成15天全球预报](https://www.jiqizhixin.com/articles/2026-01-27-9)
+**发布时间**: 2026-01-27 17:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本](https://www.qbitai.com/2026/01/373113.html)
+**发布时间**: 2026-01-27 14:41
+
+#### [让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型](https://www.qbitai.com/2026/01/373105.html)
+**发布时间**: 2026-01-27 12:00
+
+#### [姚欣获聘“光谷全球产业合伙人”，PPIO以普惠算力助力武汉AI创新](https://www.qbitai.com/2026/01/373101.html)
+**发布时间**: 2026-01-27 09:34
+
+#### [雷军真把Model 3拉下神坛了！小米SU7销量首超特斯拉Model 3](https://www.qbitai.com/2026/01/373061.html)
+**发布时间**: 2026-01-27 09:23
+
+#### [阶跃星辰不再低调：巨额融资，印奇加入，“1+3”核心决策层浮出水面](https://www.qbitai.com/2026/01/373038.html)
+**发布时间**: 2026-01-27 08:43
 
 ---
 

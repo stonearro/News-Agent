@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 05:22
+**最后更新时间**: 2026-01-27 08:24
+
+---
+
+## 🆕 最新更新 (2026-01-27 08:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025漫剧年度报告：年增长6万部漫剧，广东漫剧领先，游戏厂商转型漫剧？](https://www.tmtpost.com/7855879.html)
+**发布时间**: 2026-01-27 16:16
+
+#### [168亿，“铁娘子”刘静瑜落子欧洲，中创新航激战全球锂电格局](https://www.tmtpost.com/7855796.html)
+**发布时间**: 2026-01-27 14:12
+
+#### [儿童手表市场“大变天”](https://www.tmtpost.com/7857113.html)
+**发布时间**: 2026-01-27 14:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构](https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 15:14
+
+#### [从 Vibe 到生产：Vibe Coding 的艺术、训练与陷阱](https://www.infoq.cn/article/F6jd0giAQlBKmhVhVt7H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 15:13
+
+#### [Docker通过Cagent提供AI代理确定性测试](https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 15:10
+
+#### [2025 火山引擎智能视频云实践精选集](https://www.infoq.cn/minibook/2kQxCXUXOQ1eu4czPUNA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 14:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [软件工程师的 AI Coding 进化论](https://sspai.com/post/105584)
+**发布时间**: 2026-01-27 15:09
 
 ---
 

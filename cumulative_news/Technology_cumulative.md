@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 05:23
+**最后更新时间**: 2026-01-28 08:25
+
+---
+
+## 🆕 最新更新 (2026-01-28 08:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [内存一年疯涨170%，云账单里的“隐性成本”该算清了](https://www.infoq.cn/article/pvHVtYNYmM7EDEpIgJQE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 16:06
+
+#### [数据土壤，决胜 AI 下半场：一场关于企业 Data+AI 战略的炉边思辨](https://www.infoq.cn/article/b9Wb9tEFrgzAcxUt5Kv1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 16:03
+
+#### [当雪花落在中国 遇见企业 AI Strategy 的变革时刻 ｜ 2025-2026 Data+AI 年度时刻精华版](https://www.infoq.cn/video/vy4ZYjr71ohKEOGp9tXz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 15:50
+
+#### [鸿蒙好文月度精选丨2026_2月刊](https://www.infoq.cn/article/dSNvzJS92gsUFI79ZpZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 15:36
+
+#### [最极致的数据安全计算，迎来产业化的“临界时刻”](https://www.infoq.cn/article/sjlgGt1p4xvaWWgGgRrZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 14:50
+
+#### [AI 驱动的智能异常处置：从异常发现到根因定位](https://www.infoq.cn/article/Mv7SsDMyFBDz3coYwTUx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 14:03
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马化腾摘掉了“紧箍咒”](https://www.tmtpost.com/7857956.html)
+**发布时间**: 2026-01-28 15:44
+
+#### [市场部斩杀线](https://www.tmtpost.com/7858299.html)
+**发布时间**: 2026-01-28 15:44
+
+#### [韩娱史上最大税务炸弹：车银优“牢饭”预定？](https://www.tmtpost.com/7858140.html)
+**发布时间**: 2026-01-28 15:44
+
+#### [一年狂销240亿，与安踏联手，“韩国优衣库”押注中国市场](https://www.tmtpost.com/7858444.html)
+**发布时间**: 2026-01-28 15:44
+
+#### [化工，2026年最大的反转预期来源](https://www.tmtpost.com/7858337.html)
+**发布时间**: 2026-01-28 15:21
+
+#### [百度芯事](https://www.tmtpost.com/7858551.html)
+**发布时间**: 2026-01-28 15:20
+
+#### [腾讯10亿现金押注元宝，能否复制微信红包神话？](https://www.tmtpost.com/7857987.html)
+**发布时间**: 2026-01-28 15:18
+
+#### [Tether Reportedly Becomes One of the World's Largest Gold Market Players](https://www.tmtpost.com/7858772.html)
+**发布时间**: 2026-01-28 15:11
+
+#### [大模型统一竞赛700天后，AI走向“分野之年”](https://www.tmtpost.com/7857888.html)
+**发布时间**: 2026-01-28 13:53
+
+#### [字节跳动的云未来，押注在火山引擎上](https://www.tmtpost.com/7857928.html)
+**发布时间**: 2026-01-28 13:53
+
+#### [光伏2026年最大的故事，来自马斯克](https://www.tmtpost.com/7858396.html)
+**发布时间**: 2026-01-28 13:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Matrix 圆桌 | 可惜！聊聊那些好用但停更的 App](https://sspai.com/post/105134)
+**发布时间**: 2026-01-28 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [70万亿存款到期，A股充满想象？](http://www.huxiu.com/article/4830047.html?f=wangzhan)
+**发布时间**: 2026-01-28 08:30
 
 ---
 

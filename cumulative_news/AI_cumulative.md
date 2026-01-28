@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-28 05:22
+**最后更新时间**: 2026-01-28 08:22
+
+---
+
+## 🆕 最新更新 (2026-01-28 08:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [腾讯云lighthouse一键部署Clawdbot保姆级教程](https://www.jiqizhixin.com/articles/2026-01-28-10)
+**发布时间**: 2026-01-28 14:30
+
+#### [利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术](https://www.jiqizhixin.com/articles/2026-01-28-9)
+**发布时间**: 2026-01-28 14:17
+
+#### [万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要](https://www.jiqizhixin.com/articles/2026-01-28-8)
+**发布时间**: 2026-01-28 13:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro](https://www.qbitai.com/2026/01/373447.html)
+**发布时间**: 2026-01-28 06:16
 
 ---
 

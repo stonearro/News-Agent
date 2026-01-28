@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-28 08:22
+**最后更新时间**: 2026-01-28 23:20
+
+---
+
+## 🆕 最新更新 (2026-01-28 23:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，AI音乐被重新定义！昆仑天工甩出新王炸，拿下全球第一](https://www.jiqizhixin.com/articles/2026-01-28-12)
+**发布时间**: 2026-01-28 23:36
+
+#### [字节跳动李航博士新作：AI智能体的通用框架](https://www.jiqizhixin.com/articles/2026-01-28-11)
+**发布时间**: 2026-01-28 23:28
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体](https://www.qbitai.com/2026/01/373666.html)
+**发布时间**: 2026-01-28 12:08
+
+#### [蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争](https://www.qbitai.com/2026/01/373649.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [黄仁勋预言落地，物理AI开年第一枪竟是中国公司打响](https://www.qbitai.com/2026/01/373591.html)
+**发布时间**: 2026-01-28 08:28
+
+#### [腾讯混元图像3.0图生图开源，LMArena跻身全球第一梯队，开源最强](https://www.qbitai.com/2026/01/373580.html)
+**发布时间**: 2026-01-28 08:23
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
+**发布时间**: 2026-01-28 11:00
 
 ---
 

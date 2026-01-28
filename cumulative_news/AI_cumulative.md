@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-27 23:16
+**最后更新时间**: 2026-01-28 05:22
+
+---
+
+## 🆕 最新更新 (2026-01-28 05:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题](https://www.jiqizhixin.com/articles/2026-01-28-7)
+**发布时间**: 2026-01-28 13:22
+
+#### [AAAI 2026 Oral | SplatSSC：解耦深度引导的高斯泼溅，开启单目语义场景补全高效新范式](https://www.jiqizhixin.com/articles/2026-01-28-6)
+**发布时间**: 2026-01-28 13:18
+
+#### [蚂蚁出手VLA，就是开源超越Pi0.5的基座模型](https://www.jiqizhixin.com/articles/2026-01-28-5)
+**发布时间**: 2026-01-28 11:54
+
+#### [刚刚，OpenAI发布「科研写作神器」Prism，Overleaf危](https://www.jiqizhixin.com/articles/2026-01-28-4)
+**发布时间**: 2026-01-28 11:43
+
+#### [蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高](https://www.jiqizhixin.com/articles/2026-01-28-3)
+**发布时间**: 2026-01-28 10:38
+
+#### [被Anthropic指控侵权，Clawdbot改名Moltbot](https://www.jiqizhixin.com/articles/2026-01-28-2)
+**发布时间**: 2026-01-28 10:34
+
+#### [「熟悉的陌生人」才是「好老师」？复旦提出简单指标，找出推理蒸馏中真正有教学价值的数据](https://www.jiqizhixin.com/articles/2026-01-28)
+**发布时间**: 2026-01-28 10:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [爆火Clawdbot被Claude公司强制要求改名](https://www.qbitai.com/2026/01/373401.html)
+**发布时间**: 2026-01-28 03:10
+
+#### [蚂蚁灵波开源具身大模型LingBot-VLA，让机器人“看的更清楚 做的更明白”](https://www.qbitai.com/2026/01/373396.html)
+**发布时间**: 2026-01-28 02:21
+
+#### [搜狗输入法，居然还在更新？？](https://www.qbitai.com/2026/01/373317.html)
+**发布时间**: 2026-01-28 00:48
+
+#### [录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了](https://www.qbitai.com/2026/01/373117.html)
+**发布时间**: 2026-01-28 00:37
 
 ---
 

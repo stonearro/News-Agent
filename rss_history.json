@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "eafe1d3403815d6a46e3590315c54b7731bd4de6bfca808c01c11c6171de67a6": {
-        "title": "AI正在占领你的视频推荐流",
-        "link": "https://www.qbitai.com/2026/01/366433.html",
-        "published_date": "Fri, 02 Jan 2026 03:58:00 GMT",
-        "first_seen": "2026-01-02T05:20:35.912647"
-      },
-      "11e9df29d55129b27e95369830121f754d0efed12d8127ec19c81e1a6e242bd3": {
-        "title": "「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2",
-        "link": "https://www.qbitai.com/2026/01/366408.html",
-        "published_date": "Fri, 02 Jan 2026 03:51:00 GMT",
-        "first_seen": "2026-01-02T05:20:35.912812"
-      },
       "977efbc21c047a16b632d423408b2c6cd803d5433ae4881b709113b743a1a02d": {
         "title": "马斯克宣布：量产脑机接口，手术全自动化",
         "link": "https://www.qbitai.com/2026/01/366444.html",
@@ -2619,66 +2607,6 @@
       }
     },
     "Technology": {
-      "92b2c214141bf36927b389a5b6b8ed8e474d5d04b65bfc857709a45abb8407f9": {
-        "title": "壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮",
-        "link": "https://www.tmtpost.com/7829011.html",
-        "published_date": "Fri, 02 Jan 2026 11:55:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.001392"
-      },
-      "3daf6cc291a4bdb0dd6180b4fec8049d979715c75a2497d4f08475a7a247bab1": {
-        "title": "2026增长的本质并没有变",
-        "link": "https://www.tmtpost.com/7828987.html",
-        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.001514"
-      },
-      "81f2f599eedf3bbec789cd74f437683b1bacc1f4064df6f15fdec30633325993": {
-        "title": "2025，这些互联网巨头赢麻了",
-        "link": "https://www.tmtpost.com/7828731.html",
-        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.001637"
-      },
-      "d7799fd2d6ac866022958384ed85dcc1b662ae3042fd06547666fdbc27fe8f1b": {
-        "title": "又是量化基金，第二个DeepSeek时刻到来了？",
-        "link": "https://www.tmtpost.com/7829093.html",
-        "published_date": "Fri, 02 Jan 2026 10:42:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.001795"
-      },
-      "bb7aa9a19c0df4d1581b5a214282f09e19ff311d11cd83dc69caed754301804c": {
-        "title": "Meta收购Manus的背后：AI时代的危与机",
-        "link": "https://www.tmtpost.com/7828964.html",
-        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.002005"
-      },
-      "cbe18e0e5838263c1dcb01601286186a5944f3a1bf262b15486d093b6badb7f6": {
-        "title": "特朗普的“充电宝”，要赴港IPO了",
-        "link": "https://www.tmtpost.com/7828993.html",
-        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.002249"
-      },
-      "5763d6387ce230d8685aba9c60c6a262627a17b35be495c9846a2d206ea9365f": {
-        "title": "商汤前总裁带队，港股“GPU第一股”壁仞科技开年挂牌：市值破千亿、首日涨幅领跑市场",
-        "link": "https://www.infoq.cn/article/b7oKHuFAxNlVIGpSpGiP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 11:02:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.002624"
-      },
-      "ee17585435f390cc0d1f84fc9f1eccdb79a818c947a581e8a66dab0b245674fa": {
-        "title": "SIMA 2利用Gemini和自我改进技术在未见过的3D和逼真世界中进行泛化",
-        "link": "https://www.infoq.cn/article/kX8Kzyl87l5Sij8lvMT7?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 10:15:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.003037"
-      },
-      "b7fa5b3ae852868e5e5b774f5e0daac2fe2745ca38b640fd9a940adea04f18a6": {
-        "title": "Docker在容器安全转型中免费提供加固镜像",
-        "link": "https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.003315"
-      },
-      "7cb3dcce1136295ddb14ff1ae22599e7cffc11e6685f22a4747e8ddf44832e30": {
-        "title": "微软预览Foundry Agent Service长期记忆功能，简化状态管理",
-        "link": "https://www.infoq.cn/article/fJSWBV2X88YKUCvoqI6P?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-02T05:20:36.003870"
-      },
       "d73b111e182a68a66bb3ed8ec6ec764c0e1fab1ea9ca3a0d66b0042666145355": {
         "title": "国产GPU领军企业壁仞科技成功登陆 香港交易所 | 公司动态",
         "link": "https://www.tmtpost.com/7829193.html",
@@ -12428,13 +12356,109 @@
         "link": "http://www.huxiu.com/article/4828493.html?f=wangzhan",
         "published_date": "Sat, 31 Jan 2026 20:00:00 GMT",
         "first_seen": "2026-01-31T23:16:18.907489"
+      },
+      "262b4a534c595ea59e559c1d97a6d49e96625d88196f3dbd30a12242bfa14b98": {
+        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
+        "link": "https://www.tmtpost.com/7863229.html",
+        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.307979"
+      },
+      "3df33982ae3e118dcccf3c83006785fd2211ef5aeb64de0e38f9b96f4f69b44c": {
+        "title": "好未来盈利了，但还得苦战AI",
+        "link": "https://www.tmtpost.com/7863157.html",
+        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308007"
+      },
+      "ca843fbddb3f4c8d3afd4fae33d587acd4c7607622284b9daaedd0ed7d10d1d9": {
+        "title": "长三角能源龙头净利跳升，火电回血绿电冲锋",
+        "link": "https://www.tmtpost.com/7863039.html",
+        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308020"
+      },
+      "04c1fb0accaf5868e6a062c058e8ffb562135c1edea04a8cc1dd1017eccc5c74": {
+        "title": "浙大校友带高特电子冲刺“储能BMS第一股”，超5亿应收账款压顶",
+        "link": "https://www.tmtpost.com/7863096.html",
+        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308032"
+      },
+      "cfd8c102e750cb66bf70ab06e4e5c692c1040d0fd3bb57fd5bd11e9a8da60a86": {
+        "title": "大众“弃帅保车”，2026猛攻中国区",
+        "link": "https://www.tmtpost.com/7863160.html",
+        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308043"
+      },
+      "083c41550aba7df01770ad7f9cd3186c24d05002ffba6596b30d3bb4c487e402": {
+        "title": "全网都在降本增效，为什么字节在拼命加薪？",
+        "link": "https://www.tmtpost.com/7863041.html",
+        "published_date": "Sun, 01 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308102"
+      },
+      "db9332807e73dad3d80ba9e5849ecb0767bac6348bbde01f463aae32b20574be": {
+        "title": "利润腰斩，669亿“非洲之王”怎么“蔫了”？",
+        "link": "https://www.tmtpost.com/7863044.html",
+        "published_date": "Sun, 01 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308119"
+      },
+      "64dde849a8c618ca6cbc7c043ba700e13bb4462dca412c0caa4184ab268c5762": {
+        "title": "《太平年》：太过考据，反而成了观众的“劝退墙”？",
+        "link": "https://www.tmtpost.com/7863061.html",
+        "published_date": "Sun, 01 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308132"
+      },
+      "8307ed53312735bb861b53ce291d5111c00788cf47ce7b15b7b6eabc5b26b37a": {
+        "title": "150万AI Agents在Moltbook“发疯”，人，慌不？",
+        "link": "https://www.tmtpost.com/7863132.html",
+        "published_date": "Sun, 01 Feb 2026 10:53:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308143"
+      },
+      "23f3b6c5b20fc068248827ea82dccd617dc8b40ce6db316f29f734cef13830bf": {
+        "title": "【数智周报】马化腾评豆包手机；OpenAI计划四季度上市，已聘请新高管筹备IPO；开源项目Clawdbot爆火，开发者爆料开发内幕；",
+        "link": "https://www.tmtpost.com/7862957.html",
+        "published_date": "Sun, 01 Feb 2026 10:08:00 GMT",
+        "first_seen": "2026-02-01T05:56:22.308155"
+      },
+      "f198d1b7f7306f63e0771b568661bd4ffa69b05f21f19670b60f51de94f9d1a2": {
+        "title": "年货迭代，“忙坏”了整个消费市场？",
+        "link": "https://www.tmtpost.com/7862965.html",
+        "published_date": "Sun, 01 Feb 2026 09:26:00 GMT",
+        "first_seen": "2026-02-01T05:56:13.047117"
+      },
+      "38cd4548cd4ceb405a040faef7b4468c1b41ab4deccdb28971e7940e32c10a63": {
+        "title": "白银跌倒，光伏能否吃饱？",
+        "link": "https://www.tmtpost.com/7863026.html",
+        "published_date": "Sun, 01 Feb 2026 09:26:00 GMT",
+        "first_seen": "2026-02-01T05:56:13.047501"
+      },
+      "204bbf5387ef6a5e81da891461bcfdf0faba59c6caab56bd034b9c178c3c35e1": {
+        "title": "黄仁勋反悔，不投千亿美元给OpenAI了？",
+        "link": "https://www.tmtpost.com/7862944.html",
+        "published_date": "Sun, 01 Feb 2026 09:12:00 GMT",
+        "first_seen": "2026-02-01T05:56:13.048002"
+      },
+      "2a1a002ff751bc315e37af49d8c08236f8c1175ba5c9637cf88c1ec14eeb0ed4": {
+        "title": "Anthropic掌门人Amodei长文预警：AI竞争愈加激烈，难以重视自主性风险",
+        "link": "https://www.tmtpost.com/7862935.html",
+        "published_date": "Sun, 01 Feb 2026 09:04:00 GMT",
+        "first_seen": "2026-02-01T05:56:13.048795"
+      },
+      "e16dd5d021f47496637719b6f050d9711421d200c9c6bcfebcafe60a8ceb2ad0": {
+        "title": "Apple 新春大片如期而至，今年的故事有点不一样",
+        "link": "https://sspai.com/post/105948",
+        "published_date": "Sun, 01 Feb 2026 11:30:00 GMT",
+        "first_seen": "2026-02-01T05:56:13.049527"
+      },
+      "fe3e8e7367c0a2231ccc4aa842ebf016b1c319cdcf1389718050210e060217c9": {
+        "title": "打造让员工蓬勃发展的软件组织",
+        "link": "https://www.infoq.cn/article/bg0pzN0dZQm6HhRMliej?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 01 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-01T05:56:13.049909"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-31T23:16:18.858289",
-    "Technology": "2026-01-31T23:16:28.181663",
-    "Finance": "2026-01-31T23:16:18.686477"
+    "AI": "2026-02-01T05:56:12.998676",
+    "Technology": "2026-02-01T05:56:22.322480",
+    "Finance": "2026-02-01T05:56:12.847132"
   }
 }

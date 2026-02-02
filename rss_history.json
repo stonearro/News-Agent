@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "94f5377e741c03a19328ec491f2fb622aef41103e210534e16ae1280d63bf428": {
-        "title": "中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊",
-        "link": "https://www.qbitai.com/2026/01/366477.html",
-        "published_date": "Sat, 03 Jan 2026 07:02:00 GMT",
-        "first_seen": "2026-01-03T08:19:55.372098"
-      },
-      "8b5a9355f0581d58d03ea91c3a43b0823e926d55b949b64a4cc8a982f1c3c31b": {
-        "title": "机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满",
-        "link": "https://www.qbitai.com/2026/01/366466.html",
-        "published_date": "Sat, 03 Jan 2026 06:30:00 GMT",
-        "first_seen": "2026-01-03T08:19:55.372290"
-      },
-      "2773fb99b5898913fc71f68c3281f5e7f6994f85b91061b34ba6f3cf74a4dce1": {
-        "title": "百度AI芯片公司冲刺IPO：出货量国产第二",
-        "link": "https://www.qbitai.com/2026/01/366454.html",
-        "published_date": "Sat, 03 Jan 2026 06:26:00 GMT",
-        "first_seen": "2026-01-03T08:19:55.372450"
-      },
       "af76bf61b7fc5c17424a21cc759ccf5c00b5b9cf2da8907ec9abd1987fb6acb3": {
         "title": "ControlNet作者张吕敏最新论文：长视频也能实现超短上下文",
         "link": "https://www.jiqizhixin.com/articles/2026-01-04-5",
@@ -2592,15 +2574,87 @@
         "link": "https://www.qbitai.com/2026/02/375340.html",
         "published_date": "Mon, 02 Feb 2026 02:12:00 GMT",
         "first_seen": "2026-02-02T05:59:16.365911"
+      },
+      "25df79b0c377a1920d5b2c0fb8e184e6f5876656c3f3cad0a24c47f6567f95fa": {
+        "title": "媒体通稿 — 大模型应用进入深水区，模型 API 服务的新范式是什么？清程AI Ping 给出了答案",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-7",
+        "published_date": "Mon, 02 Feb 2026 16:25:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453714"
+      },
+      "b806ef109303a284955b02320f4905ba7017eef7cbfbbb96b543a63a795659b2": {
+        "title": "Moltbook漏洞大到可以冒充Karpathy发帖，黑客都急了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-6",
+        "published_date": "Mon, 02 Feb 2026 16:22:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453781"
+      },
+      "3233d01dd126cc6f186024a5ede22b6bc6c5c8fa2412c55fb86b23d2e417b20d": {
+        "title": "VL-LN Bench：模拟「边走边问找具体目标」的真实导航场景",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-5",
+        "published_date": "Mon, 02 Feb 2026 16:16:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453792"
+      },
+      "0afc400aba51c5f3ff19b0e6046ad822d3ecdc4837f056c82b0a9280882f91aa": {
+        "title": "18个月，中国Token消化狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-4",
+        "published_date": "Mon, 02 Feb 2026 14:36:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453744"
+      },
+      "94f85a342bc241ea05247a1b5df416e669f876e05c1cbdff87c852b43d0fd058": {
+        "title": "中途退学的艺术生，开发Web 3D项目，周下载量破400万",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-3",
+        "published_date": "Mon, 02 Feb 2026 14:29:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453803"
+      },
+      "880842ae8654d7dabf4996ff4b686d7fb83d0388dbe663e89564ae645b73e330": {
+        "title": "像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-2",
+        "published_date": "Mon, 02 Feb 2026 14:25:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453813"
+      },
+      "2d7ac85c449d50c43196bbc905e050f0593a30d26e8156cd24fcec8941e5c898": {
+        "title": "让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02",
+        "published_date": "Mon, 02 Feb 2026 14:03:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453758"
+      },
+      "b89e9dfcc975793387e7b81ca996d4fe2d8cfb61205ee8f33caf2c8c8b47efe0": {
+        "title": "何恺明带大二本科生颠覆扩散图像生成：扔掉多步采样和潜空间，一步像素直出",
+        "link": "https://www.qbitai.com/2026/02/375507.html",
+        "published_date": "Mon, 02 Feb 2026 07:54:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453823"
+      },
+      "f837d09e3759eae93e0e3c5c1a74be3cd54694d274dffb3696a3bba39faeef27": {
+        "title": "两个95后华人，搞出硬件版Clawdbot，售价1700元",
+        "link": "https://www.qbitai.com/2026/02/375361.html",
+        "published_date": "Mon, 02 Feb 2026 07:46:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453832"
+      },
+      "5bcfe459b3a36923df750f00a9e15b854cbd3006f9610ae2f1b8db3571bc706b": {
+        "title": "Nature | 清北合作研发全球首个全柔性存算一体AI芯片",
+        "link": "https://www.qbitai.com/2026/02/375362.html",
+        "published_date": "Mon, 02 Feb 2026 07:43:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.453771"
+      },
+      "e9b1aca3409b7b922de237614c3ca0810e4e327b6bbb2536c99bc637aace8999": {
+        "title": "OpenClaw们狂奔，谁来焊死安全车门？",
+        "link": "https://www.qbitai.com/2026/02/375375.html",
+        "published_date": "Mon, 02 Feb 2026 07:42:00 GMT",
+        "first_seen": "2026-02-02T08:40:11.137791"
+      },
+      "c5cbed2773072b445a2ad78a8e72bd399e3d864a7b42fe23447f062204884320": {
+        "title": "Agent当上群主后，群聊变成办事大厅了",
+        "link": "https://www.qbitai.com/2026/02/375356.html",
+        "published_date": "Mon, 02 Feb 2026 07:41:00 GMT",
+        "first_seen": "2026-02-02T08:40:11.138343"
+      },
+      "94324fc34b2ec82e971b91e8878e8d4efc910f9e81e4656e763c163a1e07fac6": {
+        "title": "大事不好！机器人学会预测未来了",
+        "link": "https://www.qbitai.com/2026/02/374619.html",
+        "published_date": "Mon, 02 Feb 2026 07:11:00 GMT",
+        "first_seen": "2026-02-02T08:40:11.138850"
       }
     },
     "Technology": {
-      "5f33a00df16d12f23f7173514474b2183ab358f2fc86518f1c2f8cd47fdc0ca9": {
-        "title": "\"最快女护士\"张水华辞职了，那些嘲讽她的人终究没看懂这场突围",
-        "link": "https://www.tmtpost.com/7829469.html",
-        "published_date": "Sat, 03 Jan 2026 15:39:00 GMT",
-        "first_seen": "2026-01-03T08:19:55.458836"
-      },
       "8873c35457828cd2a6e04023d5c8f59c577185ea06a7c68289529281465ca44a": {
         "title": "告别舒适区，银行从“债主”变身“股东”",
         "link": "https://www.tmtpost.com/7829602.html",
@@ -12542,13 +12596,115 @@
         "link": "http://www.huxiu.com/article/4831386.html?f=wangzhan",
         "published_date": "Mon, 02 Feb 2026 10:10:00 GMT",
         "first_seen": "2026-02-02T05:59:16.442701"
+      },
+      "ff384b7a00e27394fadaa4573c6b30f8a33d48f2fbed7e4c5d3896448276415e": {
+        "title": "2026年中国企业AI人才与组织发展报告",
+        "link": "https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 16:33:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784287"
+      },
+      "19488b18cc7ced9d3938bd25329c71816db4890b9b93144c9d853b8edddb24e2": {
+        "title": "100 毫秒不是优化，是信仰：顶级工程团队如何“设计”极速 API",
+        "link": "https://www.infoq.cn/article/W2wKpX7whY2JZp3YY76R?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 16:29:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784302"
+      },
+      "e8e4715ae1e4bfb8e2ec698822184cba3bb41d4342067abadcfd7f0dedce3bcd": {
+        "title": "Java近期资讯：WildFly 39、Open Liberty、Spring Framework、JobRunr、Gradle和Micrometer",
+        "link": "https://www.infoq.cn/article/VpbxrQajdsOSDXyNchca?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784318"
+      },
+      "c5061ecd78ca22ff35ac4a71cf6e0f37e4d7bf0e74453121460820898dc3c3f8": {
+        "title": "2026 年 AI 与数据发展预测",
+        "link": "https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 15:09:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784328"
+      },
+      "19b7b1c89527fd6b960c1ef0c0244522f81f7592a0d52ce546cce3862264d6f2": {
+        "title": "ArkType推出ArkRegex，实现类型安全的正则表达式",
+        "link": "https://www.infoq.cn/article/O1hmhradKkpvvRNIyJMb?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784339"
+      },
+      "5e28e21ca653320d15f1c793580cf38447df7326e5b6c0d8c2bda10eb0397b6e": {
+        "title": "彩讯股份发布《企业级 AI 应用白皮书》用AI重新定义企业级软件",
+        "link": "https://www.infoq.cn/article/GpiFToEo9bh05SGXwwyL?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 14:57:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784262"
+      },
+      "f5f88c05a3836ce31a02517d736824dc760c204db0a77cb5b1135918af6a1fbd": {
+        "title": "Linux 宕机分析“三座大山”，AI智能诊断如何破局？",
+        "link": "https://www.infoq.cn/article/hAPDteGECUhbzL2OCxwd?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784350"
+      },
+      "ce24efb11387c96e274854732eaa8d1c826397fce81fd5278706756df98390ef": {
+        "title": "8英寸晶圆，正上演一场“关厂式涨价”",
+        "link": "https://www.tmtpost.com/7863813.html",
+        "published_date": "Mon, 02 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784361"
+      },
+      "d1e3ecc54d05807881e6b32cf2304537ebae75f6eb6ad76ff107df123b926045": {
+        "title": "谁在“夺舍”你的 Mac？",
+        "link": "https://www.tmtpost.com/7864062.html",
+        "published_date": "Mon, 02 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784370"
+      },
+      "0fc1ad3c5d2edba321d56fefc028b50d28f1cc373a86b6664cd44dbf5727b9d8": {
+        "title": "日销3000杯，把吃饭变“炒股”，年轻人集体上头",
+        "link": "https://www.tmtpost.com/7863839.html",
+        "published_date": "Mon, 02 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-02T08:40:29.784380"
+      },
+      "dc06084a92d421b0180df9ab5d32b814faf45d6729210d517fb077208ee1a736": {
+        "title": "汇源内斗，国中水务受伤",
+        "link": "https://www.tmtpost.com/7863664.html",
+        "published_date": "Mon, 02 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.524107"
+      },
+      "ecd4abc1331adad31d29d947a2a8fb6f5f21b9c99b7b3bcc24c2781106d6285b": {
+        "title": "求求你们，别折腾AI了",
+        "link": "https://www.tmtpost.com/7863675.html",
+        "published_date": "Mon, 02 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.524515"
+      },
+      "201987b8e3718603e509724202f12d8328ce9118a5bfd5ca2d9f95ee24a5d7d8": {
+        "title": "三大运营商税率上调，别再扯员工内卷了，真正受冲击的是这群人",
+        "link": "https://www.tmtpost.com/7863740.html",
+        "published_date": "Mon, 02 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.525139"
+      },
+      "e6bc5453e566ce5ec354c62480346ad09c305bacb7b3b0ae5f10fa49daa05919": {
+        "title": "谁的财务骨架最健康？ A股资本结构百强榜出炉｜上市公司观察",
+        "link": "https://www.tmtpost.com/7864075.html",
+        "published_date": "Mon, 02 Feb 2026 14:25:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.525779"
+      },
+      "8c82a19ca8b9914a2b37c7ec26aff1f8af2b684f81de8536f280f4e6ea412280": {
+        "title": "河南上市公司ESG-V评级：头部企业价值能力突出，环境管理仍成短板｜上市公司观察",
+        "link": "https://www.tmtpost.com/7864070.html",
+        "published_date": "Mon, 02 Feb 2026 14:24:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.526728"
+      },
+      "267ecf07b581aaf06cf788a251429966fabdff84d45359cbd9a050d533962ab0": {
+        "title": "欧洲养老金减持美债，地缘与财政 双重压力下的战略重构｜养老金研究",
+        "link": "https://www.tmtpost.com/7864065.html",
+        "published_date": "Mon, 02 Feb 2026 14:24:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.527567"
+      },
+      "d415985d9eee666b418d47125e3bc81e76a1d240195752dd7949301dca533613": {
+        "title": "2026 春运买票指北：乡愁愈烈，莫添烦恼",
+        "link": "https://sspai.com/post/86328",
+        "published_date": "Mon, 02 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-02T08:40:20.528373"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-02T05:59:16.384671",
-    "Technology": "2026-02-02T05:59:25.804159",
-    "Finance": "2026-02-02T05:59:16.233528"
+    "AI": "2026-02-02T08:40:20.468868",
+    "Technology": "2026-02-02T08:40:29.786022",
+    "Finance": "2026-02-02T08:40:10.997617"
   }
 }

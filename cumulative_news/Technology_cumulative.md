@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-02 05:59
+**最后更新时间**: 2026-02-02 08:40
+
+---
+
+## 🆕 最新更新 (2026-02-02 08:40)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2026年中国企业AI人才与组织发展报告](https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 16:33
+
+#### [100 毫秒不是优化，是信仰：顶级工程团队如何“设计”极速 API](https://www.infoq.cn/article/W2wKpX7whY2JZp3YY76R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 16:29
+
+#### [Java近期资讯：WildFly 39、Open Liberty、Spring Framework、JobRunr、Gradle和Micrometer](https://www.infoq.cn/article/VpbxrQajdsOSDXyNchca?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 16:00
+
+#### [2026 年 AI 与数据发展预测](https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 15:09
+
+#### [ArkType推出ArkRegex，实现类型安全的正则表达式](https://www.infoq.cn/article/O1hmhradKkpvvRNIyJMb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 15:00
+
+#### [彩讯股份发布《企业级 AI 应用白皮书》用AI重新定义企业级软件](https://www.infoq.cn/article/GpiFToEo9bh05SGXwwyL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 14:57
+
+#### [Linux 宕机分析“三座大山”，AI智能诊断如何破局？](https://www.infoq.cn/article/hAPDteGECUhbzL2OCxwd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 14:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [8英寸晶圆，正上演一场“关厂式涨价”](https://www.tmtpost.com/7863813.html)
+**发布时间**: 2026-02-02 16:23
+
+#### [谁在“夺舍”你的 Mac？](https://www.tmtpost.com/7864062.html)
+**发布时间**: 2026-02-02 16:23
+
+#### [日销3000杯，把吃饭变“炒股”，年轻人集体上头](https://www.tmtpost.com/7863839.html)
+**发布时间**: 2026-02-02 16:23
+
+#### [汇源内斗，国中水务受伤](https://www.tmtpost.com/7863664.html)
+**发布时间**: 2026-02-02 15:39
+
+#### [求求你们，别折腾AI了](https://www.tmtpost.com/7863675.html)
+**发布时间**: 2026-02-02 15:39
+
+#### [三大运营商税率上调，别再扯员工内卷了，真正受冲击的是这群人](https://www.tmtpost.com/7863740.html)
+**发布时间**: 2026-02-02 15:39
+
+#### [谁的财务骨架最健康？ A股资本结构百强榜出炉｜上市公司观察](https://www.tmtpost.com/7864075.html)
+**发布时间**: 2026-02-02 14:25
+
+#### [河南上市公司ESG-V评级：头部企业价值能力突出，环境管理仍成短板｜上市公司观察](https://www.tmtpost.com/7864070.html)
+**发布时间**: 2026-02-02 14:24
+
+#### [欧洲养老金减持美债，地缘与财政 双重压力下的战略重构｜养老金研究](https://www.tmtpost.com/7864065.html)
+**发布时间**: 2026-02-02 14:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [2026 春运买票指北：乡愁愈烈，莫添烦恼](https://sspai.com/post/86328)
+**发布时间**: 2026-02-02 15:00
 
 ---
 

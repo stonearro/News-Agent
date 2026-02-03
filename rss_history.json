@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3e6219ac3951297d23fbdf45619fd1ec07a46dec9acef86cc2450240194a4016": {
-        "title": "从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-04-10",
-        "published_date": "Sun, 04 Jan 2026 14:44:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.055833"
-      },
-      "fa9bd10812b4d968052f2310dec211acf77512fcef873a432c87138373b5ff1e": {
-        "title": "500万人在线围观，Claude Code创建者的13条独家实战秘籍爆火",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-04-9",
-        "published_date": "Sun, 04 Jan 2026 14:35:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.056012"
-      },
-      "c03ac6ccad7b231cca70c2adb55ef69cf5e5e4644b7c0530da56d105402a466f": {
-        "title": "AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-04-8",
-        "published_date": "Sun, 04 Jan 2026 14:29:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.056258"
-      },
-      "fa21c0e92e4063a2df21d267c6f1f536834999596b3e1736a9fccd9392ee20eb": {
-        "title": "统一结构与上下文信息的计算平台，德国慕尼黑大学等提出端到端的单细胞扰动分析框架",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-04-7",
-        "published_date": "Sun, 04 Jan 2026 14:06:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.056498"
-      },
-      "bac96a7d14ed7fe08b6f007ff054f28b199a0ee3a7f5df723cc9c01bdb94fa31": {
-        "title": "樱智α·医疗可信平台全新发布，北电数智与中日友好医院联合打造",
-        "link": "https://www.qbitai.com/2026/01/366524.html",
-        "published_date": "Sun, 04 Jan 2026 06:02:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.056777"
-      },
-      "a800e16674d3a65fc690a0a5414b0c197d51c91ab66f7698961499788f1279d9": {
-        "title": "LeCun曝Meta作弊刷榜，田渊栋：我没想到这个结局",
-        "link": "https://www.qbitai.com/2026/01/366511.html",
-        "published_date": "Sun, 04 Jan 2026 05:44:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.057125"
-      },
       "a5273b090b9bea22266f134b600f29bf3cd1fc140f3fe42a12b0b7f9b49392db": {
         "title": "田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创",
         "link": "https://www.jiqizhixin.com/articles/2026-01-04-12",
@@ -2670,81 +2634,33 @@
         "link": "https://www.qbitai.com/2026/02/375614.html",
         "published_date": "Tue, 03 Feb 2026 00:44:00 GMT",
         "first_seen": "2026-02-03T05:45:18.910574"
+      },
+      "25d15e730aebd42e37333228c466a779e77478e0e00a89021c42239f1bfe0d00": {
+        "title": "将高质量内容融入AI生态，威立以科研智能塑造出版行业未来",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-03-5",
+        "published_date": "Tue, 03 Feb 2026 14:26:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.006997"
+      },
+      "cbcdb3cbba19b9b6d71b04f27604e5dcecf5249183bfcca172f9e20222a48590": {
+        "title": "千问APP春节攻势继续，独家冠名“四大卫视”春晚",
+        "link": "https://www.qbitai.com/2026/02/375820.html",
+        "published_date": "Tue, 03 Feb 2026 06:33:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.007170"
+      },
+      "a3d2c7e4baf4da943203bcfbd5fcd58f501d6ab9ee6ce0fc9d761eb0fe98e1a2": {
+        "title": "Moltbook反转：热帖被曝自导自演，数据库裸奔，所有Agent API也都无保护",
+        "link": "https://www.qbitai.com/2026/02/375649.html",
+        "published_date": "Tue, 03 Feb 2026 06:26:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.007354"
+      },
+      "e9dea3ef165c5627646b13d2ba2df954086a195a3e716f8e9337d61bdb203f15": {
+        "title": "百度智能云推出OpenClaw限时免费一键部署服务，开发者零成本体验AI数字员工",
+        "link": "https://www.qbitai.com/2026/02/375646.html",
+        "published_date": "Tue, 03 Feb 2026 06:12:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.007611"
       }
     },
     "Technology": {
-      "492fd9e3c72bbadd66632bbea93564736e246e732f236d1b4bc8b7106508ec70": {
-        "title": "HDD，为何再成焦点",
-        "link": "https://www.tmtpost.com/7829835.html",
-        "published_date": "Sun, 04 Jan 2026 15:48:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450110"
-      },
-      "a3c944e839b5d83861d7c68593c8bf14c13fe40f100b084075e3403ca53bf804": {
-        "title": "2025电影票房破518亿，但观众还信不信电影？",
-        "link": "https://www.tmtpost.com/7829697.html",
-        "published_date": "Sun, 04 Jan 2026 15:48:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450125"
-      },
-      "1a053e845c1afe755f629387d563614a242497ebb8fe11ad5de08738007ee254": {
-        "title": "大宗盘点：碳酸锂翻倍的这一年",
-        "link": "https://www.tmtpost.com/7829772.html",
-        "published_date": "Sun, 04 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450135"
-      },
-      "85c881e0f7622b4c1939ab759fab68a5842c722201fc3fb89a886774da25d31a": {
-        "title": "2026伊始，用21个趋势关键词开启文娱行业新一年",
-        "link": "https://www.tmtpost.com/7829691.html",
-        "published_date": "Sun, 04 Jan 2026 14:41:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450146"
-      },
-      "a21145e6c77cecb461ee8b5ca08638b8a0dff4a0eab806e7f7ca7224854c29b2": {
-        "title": "回望2025：中国音乐产业的十个关键词",
-        "link": "https://www.tmtpost.com/7829700.html",
-        "published_date": "Sun, 04 Jan 2026 14:12:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450155"
-      },
-      "8eead410a0d81fff1ccad343aaff7a0f21445d77bd38e17b787410cd3186a81c": {
-        "title": "DeepSeek上新mHC，R2还远吗？",
-        "link": "https://www.tmtpost.com/7829944.html",
-        "published_date": "Sun, 04 Jan 2026 13:48:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450164"
-      },
-      "a9c50d272e7b0cd2a16eab9e8898869614c51db861aa209605f0c300e22d5ee9": {
-        "title": "创新药2026：迎接美好新时代",
-        "link": "https://www.tmtpost.com/7829825.html",
-        "published_date": "Sun, 04 Jan 2026 13:34:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450034"
-      },
-      "8052ff809f3f2da69950a84e6e624f63f82991e954371440d0f7c554c320604f": {
-        "title": "亚马逊云科技宣布推出新的Amazon EKS Capabilities，以简化工作负载编排",
-        "link": "https://www.infoq.cn/article/ssGkMmJCUTZMdJOphMJy?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 04 Jan 2026 15:16:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450096"
-      },
-      "4f232b717c1b9b1b521bdfef6cbc6cf360e58b4b59c052196a58f9f7ad87f62d": {
-        "title": "从 SQL 到自然语言，下一代 Lakehouse 为何必须「AI 优先」",
-        "link": "https://www.infoq.cn/article/czQMOPvukyw3cVREDrKL?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 04 Jan 2026 14:45:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450178"
-      },
-      "cfea199bdea05010ab4ec28f67139fab8dda0777862f6ea41b0710d4e37f5e6e": {
-        "title": "东南亚和印度的开发者在2025年是如何使用AI的",
-        "link": "https://www.infoq.cn/article/5lKZurpwRFlUo3tdLxuU?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 04 Jan 2026 14:05:00 GMT",
-        "first_seen": "2026-01-04T08:20:20.450188"
-      },
-      "a69cab42879e5652d32ffe17b0c493299405039b5161e5c151fa724789269af3": {
-        "title": "雷军新年首播：确认汽车业务降速",
-        "link": "http://www.huxiu.com/article/4823188.html?f=wangzhan",
-        "published_date": "Sun, 04 Jan 2026 15:14:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.144551"
-      },
-      "ed8d0f03257cab93aea5ee1c10da07f402d5c6f2d40199f80c78526bef542520": {
-        "title": "空调业陷入“铝铜之争”，海尔美的抱团，格力为何缺席？",
-        "link": "http://www.huxiu.com/article/4822674.html?f=wangzhan",
-        "published_date": "Sun, 04 Jan 2026 14:00:00 GMT",
-        "first_seen": "2026-01-04T08:20:11.145067"
-      },
       "bff33b122492fc8cb2c2672cba811279d2addd2d749ab038e2c1501c8f1c0579": {
         "title": "宇树科技上市绿色通道被叫停？王兴兴回应：“乱编的消息”",
         "link": "https://www.tmtpost.com/7830364.html",
@@ -12890,13 +12806,91 @@
         "link": "https://www.infoq.cn/article/8vLV6AuAhxE6VNP7aFv7?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 03 Feb 2026 09:50:00 GMT",
         "first_seen": "2026-02-03T05:45:19.021779"
+      },
+      "f101233f63fa65a990378385592427405e7cc2ec985252a0b1507fbb4bcb5e25": {
+        "title": "“我让AI在我的电脑上为所欲为！”OpenClaw创始人：爆火的MoltBook社交网络，技术其实简单到离谱",
+        "link": "https://www.infoq.cn/article/GcgASrAjRRRDDqlHsPSY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 16:12:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390600"
+      },
+      "dc6e281dc0726aea0cddeab113987fde0668405f876a706d43bd1451836ae845": {
+        "title": "极客邦科技创始人霍太稳对谈前腾讯高级工程师、WorkAny 开发者艾逗笔",
+        "link": "https://www.infoq.cn/article/fkhqyd4CqzHSVaKYCvVe?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 16:04:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390628"
+      },
+      "84913b6eb46aba95e720915a2e6976fd6f43109984e116d0b7568c2ab6326aaf": {
+        "title": "中国软件技术发展洞察和趋势预测研究报告 2026",
+        "link": "https://www.infoq.cn/minibook/p1vg8jZCDe63u4WFq9NL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390641"
+      },
+      "1e8f3f9e8e3146bd963da4ab823958c36a19b3ba9e7dbcb7e2f2831783f27ed0": {
+        "title": "容器可观测新视角： SysOM 延时抖动监控助力定位业务抖动原因",
+        "link": "https://www.infoq.cn/article/c5kK0GolN7EyHu1uB8VV?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 15:58:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390664"
+      },
+      "c189503f4a87e24fd2c8425ab3aeb4c9bca13edcba87b8e491ea5c7c0207ccb0": {
+        "title": "xAI员工赢麻了！全员换股SpaceX，AI月烧10亿美元终于有人兜底了",
+        "link": "https://www.infoq.cn/article/R77uD5jABlSraSPLX2Oo?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 15:50:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390676"
+      },
+      "30f479ce6c0985a291e37c18c579dbc0f92f06ef4a8082ba9540da547502da70": {
+        "title": "新瓶旧酒or涅槃重生？操作系统的 AI 进化终将走向何方？",
+        "link": "https://www.infoq.cn/article/aCC7cKjuOwywkM4yN96E?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 14:49:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390653"
+      },
+      "7abb9cd18d3a7aca5800024c9e3de23ac631e19d9769be01a33b2dafbdcc4f84": {
+        "title": "Kimi们，活在BAT的阴影下",
+        "link": "https://www.tmtpost.com/7865095.html",
+        "published_date": "Tue, 03 Feb 2026 15:47:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390686"
+      },
+      "29e3030c32f94e4d1ab69ca2cdd920122edb708ca24c872f3efa2044ad60ecb4": {
+        "title": "卡奥斯：赴港IPO，“走出海尔”的关键一步",
+        "link": "https://www.tmtpost.com/7864806.html",
+        "published_date": "Tue, 03 Feb 2026 14:57:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390697"
+      },
+      "725a4a46ca257031407660574fd6951747b348e0ed8a5b3e05132cde224dbada": {
+        "title": "金价狂飙又下跌，国内矿企已投入660亿元买海外金矿",
+        "link": "https://www.tmtpost.com/7864913.html",
+        "published_date": "Tue, 03 Feb 2026 14:49:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390707"
+      },
+      "d33244b529ffd55a406841b02e810a3aae3d8c61f3b35dcd4626ecc5d5cbc4d8": {
+        "title": "新东方慢增长、好未来高弹性，教培巨头的下一场较量是什么？",
+        "link": "https://www.tmtpost.com/7865021.html",
+        "published_date": "Tue, 03 Feb 2026 14:37:00 GMT",
+        "first_seen": "2026-02-03T08:29:31.390717"
+      },
+      "1a6044c8ff727e98fb2c1db3c03131a6240660747ade8816db5aa0eb569f8230": {
+        "title": "AI“外包”谷歌之后，华人天才抛弃苹果？",
+        "link": "https://www.tmtpost.com/7865111.html",
+        "published_date": "Tue, 03 Feb 2026 14:08:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.090172"
+      },
+      "55e389a07b499f99dcbc436d902c686d0c3be2105dda258c7228082724006594": {
+        "title": "当勒索解密成功率跌破30%，stefen和他数字镖局的效率竞赛",
+        "link": "https://www.tmtpost.com/7864971.html",
+        "published_date": "Tue, 03 Feb 2026 13:45:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.090731"
+      },
+      "bedeab9ed45524dd863836c7fbb6b3496410e0c0ee0de555d2adf6e8c2d21079": {
+        "title": "不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验",
+        "link": "https://sspai.com/post/105893",
+        "published_date": "Tue, 03 Feb 2026 15:20:00 GMT",
+        "first_seen": "2026-02-03T08:29:22.091450"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-03T05:45:18.960571",
-    "Technology": "2026-02-03T05:45:28.293025",
-    "Finance": "2026-02-03T05:45:18.762205"
+    "AI": "2026-02-03T08:29:22.040730",
+    "Technology": "2026-02-03T08:29:31.392279",
+    "Finance": "2026-02-03T08:29:21.866296"
   }
 }

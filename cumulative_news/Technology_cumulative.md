@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 05:45
+**最后更新时间**: 2026-02-03 08:29
+
+---
+
+## 🆕 最新更新 (2026-02-03 08:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“我让AI在我的电脑上为所欲为！”OpenClaw创始人：爆火的MoltBook社交网络，技术其实简单到离谱](https://www.infoq.cn/article/GcgASrAjRRRDDqlHsPSY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 16:12
+
+#### [极客邦科技创始人霍太稳对谈前腾讯高级工程师、WorkAny 开发者艾逗笔](https://www.infoq.cn/article/fkhqyd4CqzHSVaKYCvVe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 16:04
+
+#### [中国软件技术发展洞察和趋势预测研究报告 2026](https://www.infoq.cn/minibook/p1vg8jZCDe63u4WFq9NL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 16:00
+
+#### [容器可观测新视角： SysOM 延时抖动监控助力定位业务抖动原因](https://www.infoq.cn/article/c5kK0GolN7EyHu1uB8VV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 15:58
+
+#### [xAI员工赢麻了！全员换股SpaceX，AI月烧10亿美元终于有人兜底了](https://www.infoq.cn/article/R77uD5jABlSraSPLX2Oo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 15:50
+
+#### [新瓶旧酒or涅槃重生？操作系统的 AI 进化终将走向何方？](https://www.infoq.cn/article/aCC7cKjuOwywkM4yN96E?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 14:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Kimi们，活在BAT的阴影下](https://www.tmtpost.com/7865095.html)
+**发布时间**: 2026-02-03 15:47
+
+#### [卡奥斯：赴港IPO，“走出海尔”的关键一步](https://www.tmtpost.com/7864806.html)
+**发布时间**: 2026-02-03 14:57
+
+#### [金价狂飙又下跌，国内矿企已投入660亿元买海外金矿](https://www.tmtpost.com/7864913.html)
+**发布时间**: 2026-02-03 14:49
+
+#### [新东方慢增长、好未来高弹性，教培巨头的下一场较量是什么？](https://www.tmtpost.com/7865021.html)
+**发布时间**: 2026-02-03 14:37
+
+#### [AI“外包”谷歌之后，华人天才抛弃苹果？](https://www.tmtpost.com/7865111.html)
+**发布时间**: 2026-02-03 14:08
+
+#### [当勒索解密成功率跌破30%，stefen和他数字镖局的效率竞赛](https://www.tmtpost.com/7864971.html)
+**发布时间**: 2026-02-03 13:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验](https://sspai.com/post/105893)
+**发布时间**: 2026-02-03 15:20
 
 ---
 

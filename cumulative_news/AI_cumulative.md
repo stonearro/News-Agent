@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-03 08:29
+**最后更新时间**: 2026-02-03 23:22
+
+---
+
+## 🆕 最新更新 (2026-02-03 23:22)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [大道至简，何恺明团队新作pMF开启像素级「无潜、单步」生成范式](https://www.jiqizhixin.com/articles/2026-02-03-10)
+**发布时间**: 2026-02-03 23:29
+
+#### [谷歌给「AI解数学题」神话降温：能摘低垂果实，但过程依然痛苦](https://www.jiqizhixin.com/articles/2026-02-03-9)
+**发布时间**: 2026-02-03 23:25
+
+#### [ICLR 2026 | Rebuttal 是一场「带着镣铐的舞蹈」？港科 RebuttalAgent 用心智理论「读懂」审稿人](https://www.jiqizhixin.com/articles/2026-02-03-8)
+**发布时间**: 2026-02-03 23:21
+
+#### [刚刚，腾讯姚顺雨署名首篇论文发布，「下半场」先搞上下文学习](https://www.jiqizhixin.com/articles/2026-02-03-7)
+**发布时间**: 2026-02-03 19:01
+
+#### [致敬Kimi K2：基于slime的全流程INT4量化感知RL训练](https://www.jiqizhixin.com/articles/2026-02-03-6)
+**发布时间**: 2026-02-03 18:54
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Collaborating on a nationwide randomized study of AI in real-world virtual care](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/)
+**发布时间**: 2026-02-03 18:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [业界最高！商汤大装置SenseCore原生AI云平台获信通院5A卓越级认证](https://www.qbitai.com/2026/02/376224.html)
+**发布时间**: 2026-02-03 13:14
+
+#### [马斯克盛赞4680电池起死回生！攻克瓶颈打脸宁德时代，已上车Model Y](https://www.qbitai.com/2026/02/376209.html)
+**发布时间**: 2026-02-03 09:29
+
+#### [阶跃新模型快到“没推理”！印奇上任，果然气势一新](https://www.qbitai.com/2026/02/375827.html)
+**发布时间**: 2026-02-03 08:04
+
+#### [AI的春天在哪里？在央视频《中关村对话·AI迎春夜》！](https://www.qbitai.com/2026/02/376029.html)
+**发布时间**: 2026-02-03 07:54
+
+#### [猝不及防，Adobe关停2D动画软件Animate拥抱AI！最惨学生：一学期的课白上了](https://www.qbitai.com/2026/02/375825.html)
+**发布时间**: 2026-02-03 07:53
 
 ---
 

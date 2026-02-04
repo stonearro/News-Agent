@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 05:43
+**最后更新时间**: 2026-02-04 08:32
+
+---
+
+## 🆕 最新更新 (2026-02-04 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Transsion's Profits Halved due to Price Hikes in Memory Chips and Stiff Competition](https://www.tmtpost.com/7866599.html)
+**发布时间**: 2026-02-04 16:17
+
+#### [2025风险投资们的AI圈地运动](https://www.tmtpost.com/7866546.html)
+**发布时间**: 2026-02-04 15:47
+
+#### [泰瑞达股票大涨20%，公司时隔多年迎来首个十亿美元级季度营收](https://www.tmtpost.com/7866504.html)
+**发布时间**: 2026-02-04 15:15
+
+#### [软件与法律服务板块遭到重挫，AI恐慌冲击市场](https://www.tmtpost.com/7866495.html)
+**发布时间**: 2026-02-04 15:08
+
+#### [伊顿公司盈利超出华尔街预期，但股价下跌](https://www.tmtpost.com/7866483.html)
+**发布时间**: 2026-02-04 14:57
+
+#### [汉堡王找到中国“操盘手”，2035年计划扩张至4000店](https://www.tmtpost.com/7866486.html)
+**发布时间**: 2026-02-04 14:57
+
+#### [韩建河山并购兴福新材：一封问询函戳破的仓促跨界与双亏困局丨并购一线](https://www.tmtpost.com/7866423.html)
+**发布时间**: 2026-02-04 14:56
+
+#### [摩根士丹利认为这只股票是“最佳金融科技标的”](https://www.tmtpost.com/7866322.html)
+**发布时间**: 2026-02-04 11:59
+
+#### [Galaxy Digital股价因业绩未达预期而大跌，其业务呈现冰火两重天的格局](https://www.tmtpost.com/7866320.html)
+**发布时间**: 2026-02-04 11:59
+
+#### [8只值得买入的软件股：业绩盈利且估值低廉](https://www.tmtpost.com/7866317.html)
+**发布时间**: 2026-02-04 11:58
+
+#### [沃尔玛市值突破1万亿美元，为何部分分析师选择获利了结](https://www.tmtpost.com/7866314.html)
+**发布时间**: 2026-02-04 11:56
+
+#### [Chipotle发布业绩报告，投资者关注消费者回流信号](https://www.tmtpost.com/7866312.html)
+**发布时间**: 2026-02-04 11:55
+
+#### [房地产行业表现惨淡，颓势或很快有所缓解](https://www.tmtpost.com/7866310.html)
+**发布时间**: 2026-02-04 11:54
+
+#### [Palantir成美股市场最贵股，投资者正逐渐明白背后缘由](https://www.tmtpost.com/7866308.html)
+**发布时间**: 2026-02-04 11:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [为什么大多数机器学习项目无法投入生产](https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:42
+
+#### [优步通过云原生改造，为人工智能在网络可观测性中的应用做好了准备](https://www.infoq.cn/article/fbBg7f0GdfH6mMrrrko6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:39
+
+#### [Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中](https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:36
+
+#### [Claude Sonnet 5 泄漏，因 API 故障延迟发布？](https://www.infoq.cn/article/5qPKMW7L9fZrl4Ybmrgt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:03
+
+#### [亚马逊云科技倪殿令：企业数据资产是价值创造的关键差异化要素](https://www.infoq.cn/article/gywukqGldN8Xl9XAOw1z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 14:59
+
+#### [Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布](https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 14:13
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [上帝视角体验地球Online，鸟瞰世界第一集](http://www.huxiu.com/article/4832074.html?f=wangzhan)
+**发布时间**: 2026-02-04 15:00
+
+#### [六元板面店，悄悄占领北京](http://www.huxiu.com/article/4832047.html?f=wangzhan)
+**发布时间**: 2026-02-04 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南：软件名城，泉城济南](https://sspai.com/post/105859)
+**发布时间**: 2026-02-04 15:00
 
 ---
 

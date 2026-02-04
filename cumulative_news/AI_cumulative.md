@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-03 23:22
+**最后更新时间**: 2026-02-04 05:43
+
+---
+
+## 🆕 最新更新 (2026-02-04 05:43)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [倒反天罡：「租个人」网站爆火，AI开始雇人「跑腿」了](https://www.jiqizhixin.com/articles/2026-02-04-8)
+**发布时间**: 2026-02-04 12:50
+
+#### [从斑马鱼到机器鱼：机器人实验重塑神经行为研究](https://www.jiqizhixin.com/articles/2026-02-04-7)
+**发布时间**: 2026-02-04 12:47
+
+#### [CVPR 2026 Workshop 征稿｜AdvML@CV 2026：Safety of Vision-Language Agents](https://www.jiqizhixin.com/articles/2026-02-04-6)
+**发布时间**: 2026-02-04 12:06
+
+#### [当运维遇上“春运时刻”，Chaterm破解移动远程运维操作难题](https://www.jiqizhixin.com/articles/2026-02-04-5)
+**发布时间**: 2026-02-04 11:47
+
+#### [ICLR 2026 | 腾讯混元团队联合 KCL 提出 WildToolBench，评估 Wild 场景下 LLM 的 Agentic 能力](https://www.jiqizhixin.com/articles/2026-02-04-4)
+**发布时间**: 2026-02-04 11:19
+
+#### [钉钉北京峰会展示AI落地多行业样本，一批企业集中签约](https://www.jiqizhixin.com/articles/2026-02-04-3)
+**发布时间**: 2026-02-04 10:58
+
+#### [刚刚，真正好用的Windows版「Cowork」上线了](https://www.jiqizhixin.com/articles/2026-02-04-2)
+**发布时间**: 2026-02-04 10:31
+
+#### [Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题](https://www.jiqizhixin.com/articles/2026-02-04)
+**发布时间**: 2026-02-04 10:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里开源智能体编程模型Qwen3-Coder-Next ，推理成本大降](https://www.qbitai.com/2026/02/376298.html)
+**发布时间**: 2026-02-04 03:03
+
+#### [天选Windows打工AI来了！实测完Claude Cowork国产版：超顶](https://www.qbitai.com/2026/02/376227.html)
+**发布时间**: 2026-02-04 01:46
+
+#### [黄仁勋2026大模型座上宾：杨植麟](https://www.qbitai.com/2026/02/376314.html)
+**发布时间**: 2026-02-03 10:16
 
 ---
 

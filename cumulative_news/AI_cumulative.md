@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-05 08:34
+**最后更新时间**: 2026-02-05 23:18
+
+---
+
+## 🆕 最新更新 (2026-02-05 23:18)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生](https://www.jiqizhixin.com/articles/2026-02-05-12)
+**发布时间**: 2026-02-05 21:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [邓明扬一作论文改写生成范式！何恺明也署名了](https://www.qbitai.com/2026/02/376752.html)
+**发布时间**: 2026-02-05 15:26
+
+#### [英伟达Jim Fan：「世界建模」是新一代预训练范式](https://www.qbitai.com/2026/02/376731.html)
+**发布时间**: 2026-02-05 15:23
+
+#### [面壁智能开源全模态模型MiniCPM-o4.5，边看边听还能主动抢答](https://www.qbitai.com/2026/02/376714.html)
+**发布时间**: 2026-02-05 15:19
+
+#### [陈天桥邓亚峰联手破解大模型记忆难题！4个月打造SOTA系统，悬赏8万美元发起全球记忆挑战赛](https://www.qbitai.com/2026/02/376636.html)
+**发布时间**: 2026-02-05 14:48
+
+#### [Claude一个插件吓哭华尔街，软件公司集体暴跌，2万亿元一日蒸发](https://www.qbitai.com/2026/02/376576.html)
+**发布时间**: 2026-02-05 12:04
+
+#### [段鹏飞获马斯克晋升！特斯拉自动驾驶工程总监，武汉理工校友](https://www.qbitai.com/2026/02/376522.html)
+**发布时间**: 2026-02-05 08:27
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI agents can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/)
+**发布时间**: 2026-02-05 08:28
 
 ---
 

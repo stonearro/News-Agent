@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 05:51
+**最后更新时间**: 2026-02-05 08:34
+
+---
+
+## 🆕 最新更新 (2026-02-05 08:34)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 驱动的大数据自治：TCInsight 智能应对复杂运维挑战](https://www.infoq.cn/article/F48Of5dWYPgMNqeVIwY0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 16:23
+
+#### [奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化](https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 16:22
+
+#### [OpenViking：面向 Agent 的上下文数据库](https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 15:45
+
+#### [Cursor 浏览器翻车后，这个团队做出AI规模化高可靠软件工厂](https://www.infoq.cn/article/KAvjp4x5XULUL6ooEa8Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 14:37
+
+#### [配置一改就要重启的时代结束了：Dev Proxy 2.1 正式上线](https://www.infoq.cn/article/DhyfQVuh5lMeULuXNPIY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 14:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [EverMind Launches a Memory Platform and an $80,000 Global Competition With the Aim to End Agentic Amnesia](https://www.tmtpost.com/7867773.html)
+**发布时间**: 2026-02-05 15:57
+
+#### [马斯克带飞“太空光伏”，中国企业杀入星辰大海](https://www.tmtpost.com/7867187.html)
+**发布时间**: 2026-02-05 15:47
+
+#### [“GEO”到底是不是AI版的竞价排名？](https://www.tmtpost.com/7867502.html)
+**发布时间**: 2026-02-05 15:00
+
+#### [财务造假、退税疑云、账户冻结，清越科技滑向退市边缘](https://www.tmtpost.com/7867667.html)
+**发布时间**: 2026-02-05 14:50
+
+#### [00后疯抢“回旋镖机票”，先旅游再返乡过年……](https://www.tmtpost.com/7867484.html)
+**发布时间**: 2026-02-05 14:34
+
+#### [对话南山资本何佳：从“文娱捕手”到“AI猎手”，一场迟到了十年的回归](https://www.tmtpost.com/7867680.html)
+**发布时间**: 2026-02-05 14:27
+
+#### [阿福的商业化猜想与未来拷问](https://www.tmtpost.com/7867348.html)
+**发布时间**: 2026-02-05 13:58
+
+#### [悬崖上的永辉](https://www.tmtpost.com/7867434.html)
+**发布时间**: 2026-02-05 13:40
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [在星际航行时代，中国这波布局buff叠满了](http://www.huxiu.com/article/4832584.html?f=wangzhan)
+**发布时间**: 2026-02-05 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [满分五分，你给 Apple 的 2025 年打几分？](https://sspai.com/post/106060)
+**发布时间**: 2026-02-05 14:56
 
 ---
 

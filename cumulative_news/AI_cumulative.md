@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-05 23:18
+**最后更新时间**: 2026-02-06 05:48
+
+---
+
+## 🆕 最新更新 (2026-02-06 05:48)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了](https://www.jiqizhixin.com/articles/2026-02-06-7)
+**发布时间**: 2026-02-06 13:09
+
+#### [AI卖广告，吵到了超级碗：全球网友围观奥特曼破防](https://www.jiqizhixin.com/articles/2026-02-06-6)
+**发布时间**: 2026-02-06 13:04
+
+#### [AgentDoG：为AI智能体戴上「诊断项圈」](https://www.jiqizhixin.com/articles/2026-02-06-5)
+**发布时间**: 2026-02-06 12:58
+
+#### [千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代](https://www.jiqizhixin.com/articles/2026-02-06-4)
+**发布时间**: 2026-02-06 10:39
+
+#### [Agentic Memory开年就卷起来了？刚刚，华人团队MemBrain拿下多项SOTA！](https://www.jiqizhixin.com/articles/2026-02-06-3)
+**发布时间**: 2026-02-06 10:29
+
+#### [Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破](https://www.jiqizhixin.com/articles/2026-02-06-2)
+**发布时间**: 2026-02-06 10:16
+
+#### [硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布](https://www.jiqizhixin.com/articles/2026-02-06)
+**发布时间**: 2026-02-06 09:39
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-5.3上线Codex！OpenAI回应Claude新模型只用了15分钟](https://www.qbitai.com/2026/02/377292.html)
+**发布时间**: 2026-02-06 02:43
+
+#### [10万Agent在Moltbook娱乐空谈，小冰之父出手造了个生产力实干版](https://www.qbitai.com/2026/02/376802.html)
+**发布时间**: 2026-02-06 02:39
+
+#### [春节AI大战杀疯了！千问APP发起奶茶攻势，每人可领525元免单卡](https://www.qbitai.com/2026/02/377267.html)
+**发布时间**: 2026-02-06 01:54
+
+#### [Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守](https://www.qbitai.com/2026/02/376774.html)
+**发布时间**: 2026-02-06 00:20
 
 ---
 

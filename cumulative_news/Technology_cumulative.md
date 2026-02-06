@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-06 05:48
+**最后更新时间**: 2026-02-06 08:33
+
+---
+
+## 🆕 最新更新 (2026-02-06 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent](https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 16:23
+
+#### [奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单](https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 15:45
+
+#### [Cloudera发布2026 AI与数据技术趋势预测：标准化、可控化趋势成企业主流选择](https://www.infoq.cn/article/RGiNVO8YPDgTfZtOBHxN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 14:50
+
+#### [Cloudflare自动化Salt配置管理调试，减少发布延迟](https://www.infoq.cn/article/NQxcDYglyKW4rwv876wE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 14:02
+
+#### [Astro发布了版本6 Beta版，重新设计了开发服务器和一流的Cloudflare Workers](https://www.infoq.cn/article/ZzvIZlrHj7PqMKQSuaqT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿童木冲击“工业机器人第一股”，瓜子老板大赚3300%](https://www.tmtpost.com/7868693.html)
+**发布时间**: 2026-02-06 16:00
+
+#### [竞速芯片IPO，阿里百度都不想藏了](https://www.tmtpost.com/7868779.html)
+**发布时间**: 2026-02-06 16:00
+
+#### [2000 亿军备赛！亚马逊为 AI 颠出新高度](https://www.tmtpost.com/7868781.html)
+**发布时间**: 2026-02-06 16:00
+
+#### [度普利尤单抗小心点，外面全是国产创新药](https://www.tmtpost.com/7868875.html)
+**发布时间**: 2026-02-06 16:00
+
+#### [Google 赢麻了，但也害怕极了](https://www.tmtpost.com/7869235.html)
+**发布时间**: 2026-02-06 16:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史](https://sspai.com/post/105976)
+**发布时间**: 2026-02-06 14:59
 
 ---
 

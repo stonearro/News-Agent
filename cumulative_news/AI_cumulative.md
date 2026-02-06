@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-06 08:33
+**最后更新时间**: 2026-02-06 23:19
+
+---
+
+## 🆕 最新更新 (2026-02-06 23:19)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全国最大国产AI算力池来了：部署超3万卡，上千款应用接入](https://www.qbitai.com/2026/02/377523.html)
+**发布时间**: 2026-02-06 10:14
+
+#### [中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资](https://www.qbitai.com/2026/02/377518.html)
+**发布时间**: 2026-02-06 08:49
+
+#### [钉钉AI群聊全面升级：每个群聊配备专属助理“AI小钉”](https://www.qbitai.com/2026/02/377514.html)
+**发布时间**: 2026-02-06 08:36
+
+#### [中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录](https://www.qbitai.com/2026/02/377509.html)
+**发布时间**: 2026-02-06 07:58
+
+#### [30亿免单火爆，阿里千问APP登顶App Store榜首！](https://www.qbitai.com/2026/02/377505.html)
+**发布时间**: 2026-02-06 07:50
+
+#### [商汤开源SenseNova-SI-1.3，八大空间智能榜单综合评分登顶](https://www.qbitai.com/2026/02/377494.html)
+**发布时间**: 2026-02-06 07:41
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI tools can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/)
+**发布时间**: 2026-02-05 08:28
 
 ---
 

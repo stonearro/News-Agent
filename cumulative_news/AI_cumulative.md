@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-09 08:42
+**最后更新时间**: 2026-02-09 23:30
+
+---
+
+## 🆕 最新更新 (2026-02-09 23:30)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI trained on birds is surfacing underwater mysteries](https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/)
+**发布时间**: 2026-02-09 18:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [1分钱部署OpenClaw！不挑设备4步搞定，全图形界面10分钟跑通专属AI助理](https://www.qbitai.com/2026/02/378183.html)
+**发布时间**: 2026-02-09 12:31
+
+#### [怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾](https://www.qbitai.com/2026/02/378172.html)
+**发布时间**: 2026-02-09 09:06
+
+#### [神秘模型「Pony Alpha」火了，被曝是GLM-5](https://www.qbitai.com/2026/02/378068.html)
+**发布时间**: 2026-02-09 08:39
+
+#### [硅谷不相信忠诚！AI行业玩成NBA，科学家爽拿“转会费”](https://www.qbitai.com/2026/02/377976.html)
+**发布时间**: 2026-02-09 08:20
 
 ---
 

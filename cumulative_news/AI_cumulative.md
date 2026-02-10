@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-10 06:08
+**最后更新时间**: 2026-02-10 08:42
+
+---
+
+## 🆕 最新更新 (2026-02-10 08:42)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首](https://www.jiqizhixin.com/articles/2026-02-10-7)
+**发布时间**: 2026-02-10 15:06
+
+#### [用千万级 MPRA 数据训练深度模型，首次系统性解码人类启动子的调控语法](https://www.jiqizhixin.com/articles/2026-02-10-6)
+**发布时间**: 2026-02-10 14:19
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [华为发布业界首个扩散语言模型Agent，部分场景提速8倍！](https://www.qbitai.com/2026/02/378286.html)
+**发布时间**: 2026-02-10 07:18
+
+#### [1700个OpenClaw Skills，我用多邻国的方式学会的！](https://www.qbitai.com/2026/02/378265.html)
+**发布时间**: 2026-02-10 05:25
 
 ---
 

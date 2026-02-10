@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-10 08:42
+**最后更新时间**: 2026-02-10 23:32
+
+---
+
+## 🆕 最新更新 (2026-02-10 23:32)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！](https://www.jiqizhixin.com/articles/2026-02-10-11)
+**发布时间**: 2026-02-10 18:59
+
+#### [清华联手千问重塑归一化范式，让 Transformer 回归「深度」学习](https://www.jiqizhixin.com/articles/2026-02-10-10)
+**发布时间**: 2026-02-10 18:54
+
+#### [「具身原生」元年！专访原力灵机汪天才，解析具身智能的「PyTorch时刻」](https://www.jiqizhixin.com/articles/2026-02-10-9)
+**发布时间**: 2026-02-10 17:18
+
+#### [首个测试时共进化合成框架TTCS：在「左右互搏」中突破推理瓶颈](https://www.jiqizhixin.com/articles/2026-02-10-8)
+**发布时间**: 2026-02-10 17:04
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations](https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/)
+**发布时间**: 2026-02-10 18:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [人类画了100年的脑图，AI仅用几小时！还绘制出新脑区](https://www.qbitai.com/2026/02/378423.html)
+**发布时间**: 2026-02-10 12:42
+
+#### [中文版Nano Banana来了？Qwen-Image-2.0炸场：1K长文本硬吃，中文生图彻底不拧巴了](https://www.qbitai.com/2026/02/378338.html)
+**发布时间**: 2026-02-10 12:18
+
+#### [GLM-5架构曝光，智谱两日涨近60%：采用DeepSeek同款稀疏注意力](https://www.qbitai.com/2026/02/378315.html)
+**发布时间**: 2026-02-10 07:59
+
+#### [蚂蚁投了一家上海具身智能公司](https://www.qbitai.com/2026/02/378305.html)
+**发布时间**: 2026-02-10 07:27
 
 ---
 

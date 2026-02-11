@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "bef64b9031a6aaff0c4115496f30e47cb2ae6f7438a39d70ea0589d50206471f": {
-        "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
-        "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
-        "first_seen": "2026-01-12T08:24:18.753658"
-      },
-      "34879fd9577d23728fc7f2a65ecb2a0b2fca6838c5289ca07d2289f42b95c3ea": {
-        "title": "引入几何约束后，VLM跨越了「空间推理」的认知鸿沟",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-6",
-        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-12T08:24:18.753835"
-      },
-      "cde740630be1cf4d2d869f34bbdd48e4c97fef242c44cc1a0a8a0f79786cc901": {
-        "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
-        "published_date": "Mon, 12 Jan 2026 14:11:00 GMT",
-        "first_seen": "2026-01-12T08:24:18.754024"
-      },
-      "af9c25a4668d117e095407b7a5e79d03bebd2815329a30f04588144dd75fca8d": {
-        "title": "具身智能开年最大融资，字节红杉领投10亿",
-        "link": "https://www.qbitai.com/2026/01/369147.html",
-        "published_date": "Mon, 12 Jan 2026 06:51:00 GMT",
-        "first_seen": "2026-01-12T08:24:18.754213"
-      },
-      "65f419ff7a4f035ef8d872cf42f0dfd24cca31e2151503648a0f324a247662da": {
-        "title": "KAN一作刘子鸣回国任教，清华官网盖章认证了",
-        "link": "https://www.qbitai.com/2026/01/369119.html",
-        "published_date": "Mon, 12 Jan 2026 06:37:00 GMT",
-        "first_seen": "2026-01-12T08:24:18.754431"
-      },
       "2e710b38717164496220e2c1c62b9e1e0fd3288a22a34859fd4c903b4820a751": {
         "title": "NeuralGCM harnesses AI to better simulate long-range global precipitation",
         "link": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/",
@@ -2790,75 +2760,33 @@
         "link": "https://www.qbitai.com/2026/02/378442.html",
         "published_date": "Wed, 11 Feb 2026 02:06:00 GMT",
         "first_seen": "2026-02-11T06:05:06.914841"
+      },
+      "bb097b7d1f430e969e4d4851a4d2e327f4890f16b393105a89f7dc932d6f9a53": {
+        "title": "华为云大动作！马年春节前夕，码道开启万人公测",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-8",
+        "published_date": "Wed, 11 Feb 2026 15:37:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.030215"
+      },
+      "7aadaa4a4eb75d0506f69c651703232b1b77bb194368d5aff4dc91d5d10b1372": {
+        "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-7",
+        "published_date": "Wed, 11 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.030390"
+      },
+      "cf764c5b2836d5b7b3e74457c96c5fb322db91be1219d15ccdd1bb6b5e8bfe17": {
+        "title": "Protenix-v1发布：首个超越AlphaFold 3性能的开源结构预测模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-6",
+        "published_date": "Wed, 11 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.030607"
+      },
+      "3e5addb04676cfaa44aac5ae572c7f8b83c6ba36006ea6c9d4a0575cb4af4a30": {
+        "title": "特斯拉腾讯首次合作，新老Model 3/Y车主爽到了",
+        "link": "https://www.qbitai.com/2026/02/378503.html",
+        "published_date": "Wed, 11 Feb 2026 06:34:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.030822"
       }
     },
     "Technology": {
-      "a4e4fa8a71d664c4323ce7ffde79f3ee787f38d426fb210214d9d052f692fe77": {
-        "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
-        "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 16:23:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162164"
-      },
-      "2be8c69f2b53f7e7750d7230d7b54def10f0578c5bcbfd52ee37881bffeaccd5": {
-        "title": "亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦",
-        "link": "https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:44:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162136"
-      },
-      "1160b0ec4f252159d5f3e1a649f2c4e3ca18e2c407413efe93e749bd006ad5c5": {
-        "title": "抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！",
-        "link": "https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:02:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162188"
-      },
-      "ca7eece8df9475e36b7032fc8fc729c0b6a9ae0ab68ba2adb8ffe81f20f59dc9": {
-        "title": "“死了么”APP爆火，3人开发成本1500元：不改名；姚顺雨入职腾讯后首发声；微软本月大裁员，至少涉1.1 万人；字节实习生全面涨薪 | AI周报",
-        "link": "https://www.infoq.cn/article/OVgxgVu4Tph8UfgKshIv?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162206"
-      },
-      "ead2719b867ef72d5a2d60b50fdb4b77d96b3bcd429153565241da62e6d148d6": {
-        "title": "测试人员可以做些什么来确保软件安全",
-        "link": "https://www.infoq.cn/article/aWcsjzxXhQcwf3hgWkz2?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162216"
-      },
-      "c9c1f684e31bd4a3afe9d76f44142855642eccaac271749a33c75e6552631937": {
-        "title": "代理式终端——如何使用CLI智能体激活你的终端",
-        "link": "https://www.infoq.cn/article/t712SX2KtxLUAF9rZZ6y?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 14:09:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162226"
-      },
-      "1e2ffc9e4721ecde62f8b679e74cfa23859edb21f05f3ffb7b74efefbb19af97": {
-        "title": "二手高奢与本土新锐夹击，轻奢品牌如何反攻？",
-        "link": "https://www.tmtpost.com/7839010.html",
-        "published_date": "Mon, 12 Jan 2026 15:21:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162237"
-      },
-      "7cd89c2645c2f4e926e6d1a740622612580ab39d3dd6e9747e4f63124665eb86": {
-        "title": "这个春节，海南酒店市场稳了",
-        "link": "https://www.tmtpost.com/7838994.html",
-        "published_date": "Mon, 12 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162247"
-      },
-      "73934a95a45e239992a9d30cb22f9a2b668d6ecaa474d81c2e5046e6052b91f6": {
-        "title": "2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察",
-        "link": "https://www.tmtpost.com/7838702.html",
-        "published_date": "Mon, 12 Jan 2026 13:31:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162260"
-      },
-      "5c503ebe9a83437d2eea8069a0f9d8ebb1dac5ab61160148bbe8dbb5edaa4438": {
-        "title": "Physical AI Should Start Small to Earn Trust, Says Sentigent Technology CEO",
-        "link": "https://www.tmtpost.com/7839116.html",
-        "published_date": "Mon, 12 Jan 2026 13:28:00 GMT",
-        "first_seen": "2026-01-12T08:24:28.162273"
-      },
-      "c8a216ea8860057607ad5cc403620bbbdac4e6a5aae25763b352cb38f8d2d790": {
-        "title": "冬天，在济州岛跨年",
-        "link": "https://sspai.com/post/105267",
-        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-12T08:24:18.860565"
-      },
       "57fb4dae2c1e327366d452bac58e6965250b94ab142fee174bdcb9f49372423b": {
         "title": "鲍威尔被调查：美联储独立性的下降与全球资产定价的波动",
         "link": "https://www.tmtpost.com/7839344.html",
@@ -12878,13 +12806,109 @@
         "link": "https://www.infoq.cn/article/b8LJJIs08XT0h9dRflsH?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 11 Feb 2026 10:09:00 GMT",
         "first_seen": "2026-02-11T06:05:16.224636"
+      },
+      "3d119fe277cd7dfafff755663013f2841f5c53065b30a553c5a6bce8368e5dcc": {
+        "title": "上市公司TOP5济安评估 （2月2日至2月6日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/7876177.html",
+        "published_date": "Wed, 11 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530112"
+      },
+      "106c043e6cc6b9af42a896fc18442407b8f8ab369cf1578b6363152cce9828a9": {
+        "title": "价值判断：涨停板的投资机会和风险提示（2月10日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7876170.html",
+        "published_date": "Wed, 11 Feb 2026 16:22:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530121"
+      },
+      "e4e2b193e3f9194316c6f37af5e13c17ca56ed162eb93ca39a2df66ffaaa5073": {
+        "title": "ESG搞了这么多年，为什么还是没法用来赚钱？｜济安学派",
+        "link": "https://www.tmtpost.com/7876122.html",
+        "published_date": "Wed, 11 Feb 2026 15:59:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530130"
+      },
+      "6e7f2f6d64bad86254afac5ccd56294918662639a95e4591e97d548111a6613a": {
+        "title": "上海小南国春节前大面积闭店 中高档餐饮行业迎生存大考",
+        "link": "https://www.tmtpost.com/7876113.html",
+        "published_date": "Wed, 11 Feb 2026 15:53:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530138"
+      },
+      "ee13c26c569eaccffc1c31b8c770d8f1e63c2b79ba1699056150f70739ba9af1": {
+        "title": "Seedance 2.0 来了，AI 会颠覆影视工业吗？",
+        "link": "https://www.tmtpost.com/7874848.html",
+        "published_date": "Wed, 11 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530148"
+      },
+      "70142f90e733f52cd3e71ae3297e8af91b0bca63d4b9ac5090bebbdad9932a69": {
+        "title": "刘慈欣监制，AI科幻短剧《神·笔》来了，AI“演技”好到能拿奖？",
+        "link": "https://www.tmtpost.com/7876025.html",
+        "published_date": "Wed, 11 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530160"
+      },
+      "3828b87fb428b925253860128ea17016e5e5874516d9d31c75c697c5891ca027": {
+        "title": "Robinhood：爆炒之后，美股散户王还剩什么？",
+        "link": "https://www.tmtpost.com/7875973.html",
+        "published_date": "Wed, 11 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530168"
+      },
+      "d5de5bbf82d90e8cd83ae126427c009583907b4478be1f3273c1c3e550721e92": {
+        "title": "Alibaba, ByteDance Unveil New AI Products on the Same Day in Race for Supremacy",
+        "link": "https://www.tmtpost.com/7876060.html",
+        "published_date": "Wed, 11 Feb 2026 15:43:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.102057"
+      },
+      "e9e7e9aef7b86a04cb226ba751f8d22d0d2b11bb21e895fec34c836764d3cf17": {
+        "title": "对话酷哇科技CTO 廖文龙：利润指标转正，AI服务机器人市场将在未来3-5年爆发",
+        "link": "https://www.tmtpost.com/7875789.html",
+        "published_date": "Wed, 11 Feb 2026 14:03:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530059"
+      },
+      "ea36614cc714a209480bd4747f61efc0989c7ba9a21be7a7daad1d32120cb759": {
+        "title": "承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化",
+        "link": "https://www.tmtpost.com/7875885.html",
+        "published_date": "Wed, 11 Feb 2026 14:02:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.103133"
+      },
+      "b84d2c280eff78eefdbe7cbc254494d59ad25d62bf5d5e00c005bbea665c4e76": {
+        "title": "离开半年，48 岁前 GitHub CEO 携开源 AI 开发者平台和老东家打擂",
+        "link": "https://www.infoq.cn/article/fcjA0034GUQVp20cjHZU?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:16:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530087"
+      },
+      "d7a52734226bfef00b8cd20e12fae1036c0b41e2b2b18999de3c1947ddc15eb4": {
+        "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+        "link": "https://www.infoq.cn/article/fuib2PTStVR1lfgjZUMc?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:15:00 GMT",
+        "first_seen": "2026-02-11T08:40:17.530100"
+      },
+      "5c33e1f613fe0b5504dc17d605022fca28d9b40bc403c208a4b059357911a1a8": {
+        "title": "谷歌推动模型上下文协议支持gRPC",
+        "link": "https://www.infoq.cn/article/IvpIeymHIWETqu4X7qo7?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.104959"
+      },
+      "fb43dbc8414e642c5de299e8f861be34586fb7914df13457899c760f5e47560e": {
+        "title": "Datadog 在其 LLM 可观测性工具中集成 Google ADK",
+        "link": "https://www.infoq.cn/article/ybR4DQTz6udDxBmKZpOi?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.105793"
+      },
+      "639cbf2d39da7c0ed5b5ff07795f995386abe786652cf78f47eb8b4ba2abe616": {
+        "title": "索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW",
+        "link": "https://sspai.com/post/106175",
+        "published_date": "Wed, 11 Feb 2026 15:31:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.106769"
+      },
+      "f7cac7cc1fac191ca6f189988cd2e38291cdd67f311ecc92e6b1b3c0fddc3c17": {
+        "title": "大三学生靠AI月赚9万元？",
+        "link": "http://www.huxiu.com/article/4834178.html?f=wangzhan",
+        "published_date": "Wed, 11 Feb 2026 14:24:00 GMT",
+        "first_seen": "2026-02-11T08:40:08.107177"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-11T06:05:06.933848",
-    "Technology": "2026-02-11T06:05:16.226338",
-    "Finance": "2026-02-11T06:05:06.772886"
+    "AI": "2026-02-11T08:40:08.050512",
+    "Technology": "2026-02-11T08:40:17.531786",
+    "Finance": "2026-02-11T08:40:07.886424"
   }
 }

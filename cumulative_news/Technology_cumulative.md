@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-11 06:05
+**最后更新时间**: 2026-02-11 08:40
+
+---
+
+## 🆕 最新更新 (2026-02-11 08:40)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [上市公司TOP5济安评估 （2月2日至2月6日）｜上市公司观察](https://www.tmtpost.com/7876177.html)
+**发布时间**: 2026-02-11 16:23
+
+#### [价值判断：涨停板的投资机会和风险提示（2月10日）｜证券市场观察](https://www.tmtpost.com/7876170.html)
+**发布时间**: 2026-02-11 16:22
+
+#### [ESG搞了这么多年，为什么还是没法用来赚钱？｜济安学派](https://www.tmtpost.com/7876122.html)
+**发布时间**: 2026-02-11 15:59
+
+#### [上海小南国春节前大面积闭店 中高档餐饮行业迎生存大考](https://www.tmtpost.com/7876113.html)
+**发布时间**: 2026-02-11 15:53
+
+#### [Seedance 2.0 来了，AI 会颠覆影视工业吗？](https://www.tmtpost.com/7874848.html)
+**发布时间**: 2026-02-11 15:48
+
+#### [刘慈欣监制，AI科幻短剧《神·笔》来了，AI“演技”好到能拿奖？](https://www.tmtpost.com/7876025.html)
+**发布时间**: 2026-02-11 15:48
+
+#### [Robinhood：爆炒之后，美股散户王还剩什么？](https://www.tmtpost.com/7875973.html)
+**发布时间**: 2026-02-11 15:48
+
+#### [Alibaba, ByteDance Unveil New AI Products on the Same Day in Race for Supremacy](https://www.tmtpost.com/7876060.html)
+**发布时间**: 2026-02-11 15:43
+
+#### [对话酷哇科技CTO 廖文龙：利润指标转正，AI服务机器人市场将在未来3-5年爆发](https://www.tmtpost.com/7875789.html)
+**发布时间**: 2026-02-11 14:03
+
+#### [承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化](https://www.tmtpost.com/7875885.html)
+**发布时间**: 2026-02-11 14:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [离开半年，48 岁前 GitHub CEO 携开源 AI 开发者平台和老东家打擂](https://www.infoq.cn/article/fcjA0034GUQVp20cjHZU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 16:16
+
+#### [网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”](https://www.infoq.cn/article/fuib2PTStVR1lfgjZUMc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 16:15
+
+#### [谷歌推动模型上下文协议支持gRPC](https://www.infoq.cn/article/IvpIeymHIWETqu4X7qo7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 16:00
+
+#### [Datadog 在其 LLM 可观测性工具中集成 Google ADK](https://www.infoq.cn/article/ybR4DQTz6udDxBmKZpOi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW](https://sspai.com/post/106175)
+**发布时间**: 2026-02-11 15:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [大三学生靠AI月赚9万元？](http://www.huxiu.com/article/4834178.html?f=wangzhan)
+**发布时间**: 2026-02-11 14:24
 
 ---
 

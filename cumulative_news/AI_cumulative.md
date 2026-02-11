@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-11 08:39
+**最后更新时间**: 2026-02-11 23:25
+
+---
+
+## 🆕 最新更新 (2026-02-11 23:25)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [大晓机器人完成天使轮融资](https://www.jiqizhixin.com/articles/2026-02-11-12)
+**发布时间**: 2026-02-11 18:36
+
+#### [决定了：过年攻略全都不过脑子，让AI去想](https://www.jiqizhixin.com/articles/2026-02-11-11)
+**发布时间**: 2026-02-11 17:22
+
+#### [马斯克xAI再失联合创始人，12人创始团队已有6人离场](https://www.jiqizhixin.com/articles/2026-02-11-10)
+**发布时间**: 2026-02-11 17:16
+
+#### [复刻、长语音、对话、指令、音效全覆盖！模思智能推出MOSS-TTS Family！](https://www.jiqizhixin.com/articles/2026-02-11-9)
+**发布时间**: 2026-02-11 17:13
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级](https://www.qbitai.com/2026/02/378796.html)
+**发布时间**: 2026-02-11 15:46
+
+#### [2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告](https://www.qbitai.com/2026/02/378674.html)
+**发布时间**: 2026-02-11 13:34
+
+#### [9B端侧开源模型跑通百万上下文，面壁全新稀疏-线性混合注意力架构SALA立功了！](https://www.qbitai.com/2026/02/378512.html)
+**发布时间**: 2026-02-11 13:06
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Scheduling in a changing world: Maximizing throughput with time-varying capacity](https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/)
+**发布时间**: 2026-02-11 10:34
 
 ---
 

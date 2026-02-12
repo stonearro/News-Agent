@@ -2778,99 +2778,75 @@
         "link": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/",
         "published_date": "Wed, 11 Feb 2026 10:34:00 GMT",
         "first_seen": "2026-02-11T23:25:58.173599"
+      },
+      "a6022a83e71da865c3e68514b05f149f15e65b6f57252b4b911f870e7ace7561": {
+        "title": "小红书，再造一个更有「声」命力的社区",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-9",
+        "published_date": "Thu, 12 Feb 2026 15:58:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578717"
+      },
+      "108f1e523326f1a651f6f659b85ace746b90ffc3970a15ccd961d444229292d7": {
+        "title": "DeepAgent与DeepSearch双双霸榜！答案指向openJiuwen这一新兴开源项目",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-8",
+        "published_date": "Thu, 12 Feb 2026 15:37:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578729"
+      },
+      "f0196453e742f585f0195a7902caf7d8ca6ed40589035489a5bf8ccd203249d0": {
+        "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-7",
+        "published_date": "Thu, 12 Feb 2026 15:08:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578635"
+      },
+      "c388700e117592a7b7e8693950727a704e07b3e88dfc390cc306bbe904803b04": {
+        "title": "刚刚，MOSS孙天祥创业，直播AI4AI大规模科研",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-6",
+        "published_date": "Thu, 12 Feb 2026 15:02:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578665"
+      },
+      "edbf4c9db6fcb69a9b60250bba5e2285289dbd867021ec0d20453ae84c4840e3": {
+        "title": "速度提升，能力却暴跌？扩散模型做智能体的残酷真相",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-5",
+        "published_date": "Thu, 12 Feb 2026 14:52:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578740"
+      },
+      "c2eb764bf3c1b34030fe1fee8b685f00f6a91abb64600831eb8a1c490ad0f774": {
+        "title": "走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-4",
+        "published_date": "Thu, 12 Feb 2026 14:46:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578681"
+      },
+      "22ded42651f6a3e0e92d06e0de36a3c4a00df048e97ddda6550c682dda554a6b": {
+        "title": "当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-3",
+        "published_date": "Thu, 12 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578694"
+      },
+      "b2b590ea48a675073973d4e2efad61b5793ecf25ce8bf154f54abf3feff2d09b": {
+        "title": "让机器人「秒懂人话」！中国电信TeleAI发布首个实时文本驱动人形机器人控制框架TextOp",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-2",
+        "published_date": "Thu, 12 Feb 2026 14:09:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578706"
+      },
+      "90a62f6440303748b6c3bf5a83608f96d61ca6c53d1c7c1758e66eef97f14070": {
+        "title": "字节发布Seedance 2.0，豆包、即梦官宣接入",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12",
+        "published_date": "Thu, 12 Feb 2026 14:03:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578751"
+      },
+      "3a7bc5f907f8e14990e4df0456e40c76351d9037c8f9a53c796ad49f6e7b3c50": {
+        "title": "Robotaxi首次开进阿布扎比市中心！文远知行携手Uber再拓商业运营版图",
+        "link": "https://www.qbitai.com/2026/02/378854.html",
+        "published_date": "Thu, 12 Feb 2026 07:45:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.578762"
+      },
+      "2033324aa66f2bd95b3bcfe615a8d72fa7d7ae4a9f2e11eff88fd6636fd72a38": {
+        "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”",
+        "link": "https://www.qbitai.com/2026/02/378843.html",
+        "published_date": "Thu, 12 Feb 2026 07:23:00 GMT",
+        "first_seen": "2026-02-12T08:38:05.280096"
       }
     },
     "Technology": {
-      "3e61dafbd3fb66a3f5927e386b9215c5341ccbe5301f8fc68514a14666381c80": {
-        "title": "黄仁勋的Agentic AI，闯入全球市值最高药厂",
-        "link": "https://www.tmtpost.com/7840454.html",
-        "published_date": "Tue, 13 Jan 2026 15:42:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857556"
-      },
-      "80597f46ed5fc717f3b7eeba87677f7df9d972c76b440c36ab3af5d92b5a25fa": {
-        "title": "星空计划亮相 2026 CES，试图押注超豪华新能源赛道",
-        "link": "https://www.tmtpost.com/7840692.html",
-        "published_date": "Tue, 13 Jan 2026 15:40:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857568"
-      },
-      "2730c2608c00f94790a6cbcd02ef4fd587e4bd5b1c37882ee4fc40f44051e2c9": {
-        "title": "联讯仪器：盈利质量不佳叠加股权乱象，高募资合理性遭拷问｜IPO观察",
-        "link": "https://www.tmtpost.com/7839370.html",
-        "published_date": "Tue, 13 Jan 2026 15:15:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857579"
-      },
-      "7b0d027fa2542cc6b509b00b55da2d0d356793e1939f79a1fde1de62a9462bdb": {
-        "title": "年入40亿、复购率70%，中国“平替王”悄悄席卷全国",
-        "link": "https://www.tmtpost.com/7840719.html",
-        "published_date": "Tue, 13 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857591"
-      },
-      "7cfd01d9acafa55d6546e88d0656e7aa58976c5cd4afa60502f93c3e5f6c6e05": {
-        "title": "Matrix Robotics Unveils MATRIX-3, Next-Generation Humanoid Robot with Advanced Physical AI",
-        "link": "https://www.tmtpost.com/7840778.html",
-        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857604"
-      },
-      "9215fc7b6c85ffca2c4cc1b4e65289717c797390a986e1baee76e6b37cb1ec9d": {
-        "title": "蔡浩宇赴硅谷二次创业：打造下一个400亿平台？",
-        "link": "https://www.tmtpost.com/7832642.html",
-        "published_date": "Tue, 13 Jan 2026 15:02:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857511"
-      },
-      "fba2ab33d2581b539d780a7ba481a2321af57fce987f4697ccd7f3136ebb551e": {
-        "title": "00后天才辍学创业，AI宠物有人买单吗？",
-        "link": "https://www.tmtpost.com/7839034.html",
-        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857615"
-      },
-      "202aaf9310749bbfeea78faaf6b60d432509d062385929e3cefa85016500ca2d": {
-        "title": "吴恩达最新研判：算力封锁？中国模型抢占17%份额，开源AI完成“反向突围”？",
-        "link": "https://www.tmtpost.com/7840637.html",
-        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857626"
-      },
-      "30b2e1f5b065eecb895bf161062fd79f9bad5f60f0fb83fb66fec86a4b45396e": {
-        "title": "苹果与谷歌驶入AI深水区",
-        "link": "https://www.tmtpost.com/7840674.html",
-        "published_date": "Tue, 13 Jan 2026 14:56:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857636"
-      },
-      "f7ae6ffdbe58b05abe933191f482a86f6391bb373cc7e16e1b2a115c1a3119b9": {
-        "title": "2026，大家都是木头姐",
-        "link": "https://www.tmtpost.com/7840629.html",
-        "published_date": "Tue, 13 Jan 2026 14:53:00 GMT",
-        "first_seen": "2026-01-13T08:22:21.535559"
-      },
-      "1b6bcc071249aa7b7b687979d73bfdb43d6fe58b10b5458b9ae3c13e3a60a5f1": {
-        "title": "Anthropic筑墙，DeepSeek修路",
-        "link": "https://www.tmtpost.com/7840693.html",
-        "published_date": "Tue, 13 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-13T08:22:21.536031"
-      },
-      "52e2233fd57083b22636845401b6162f23fd09797c43e62731417f6b29711566": {
-        "title": "牛市来了，AI或可当你的理财搭子",
-        "link": "https://www.tmtpost.com/7840677.html",
-        "published_date": "Tue, 13 Jan 2026 14:07:00 GMT",
-        "first_seen": "2026-01-13T08:22:21.536449"
-      },
-      "ef5ac94f895ba0368207c5b9d2660ad918033a3d7c324615b20d1a0c5d4302b1": {
-        "title": "文库“换脸”，搜索“换命”，百度的AI重构",
-        "link": "https://www.tmtpost.com/7840422.html",
-        "published_date": "Tue, 13 Jan 2026 13:19:00 GMT",
-        "first_seen": "2026-01-13T08:22:21.537054"
-      },
-      "b36896e74c0a4355a9a6e430e5ab6757335d316f197924b36e68a2ef51df551f": {
-        "title": "Claude Code创建者的开发工作流程",
-        "link": "https://www.infoq.cn/article/4VI90fSOKGG8DrpQrD37?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
-        "first_seen": "2026-01-13T08:22:21.537663"
-      },
-      "cc868bce3c7471cf44eee3abd1ef209f6054fb1878e1d361d03c4254f8155426": {
-        "title": "亚马逊云科技推出VPC加密控制，在传输过程中实施强制加密",
-        "link": "https://www.infoq.cn/article/Wrhj4dCb7ARmzcKkdgcM?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Jan 2026 14:11:00 GMT",
-        "first_seen": "2026-01-13T08:22:30.857541"
-      },
       "5fcf399527ea0d781ee23c3faf418bfdd6123c6a271e2d0f822b4238a8138f6f": {
         "title": "追觅“豪横”、影石“耀眼”、AI场景“繁荣”，从CES看中国品牌出海的新叙事 ｜ 出海参考",
         "link": "https://www.tmtpost.com/7840889.html",
@@ -12896,13 +12872,73 @@
         "link": "https://sspai.com/post/106310",
         "published_date": "Thu, 12 Feb 2026 08:32:00 GMT",
         "first_seen": "2026-02-12T06:01:49.345288"
+      },
+      "320cb9db33c1f894f20273d48e622f33e2abcf13f5be5664aa2f740688df4eba": {
+        "title": "百草味的坚果礼盒，你可能也需要仔细看看小字",
+        "link": "https://www.tmtpost.com/7877407.html",
+        "published_date": "Thu, 12 Feb 2026 16:28:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.645588"
+      },
+      "47d795e5648230b04b16be730e66cd6dc878a52978b2454e59db628d1e51dc7d": {
+        "title": "炒起来的情绪刚需，AI宠物孤独解药还是致幻剂？",
+        "link": "https://www.tmtpost.com/7877570.html",
+        "published_date": "Thu, 12 Feb 2026 16:18:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.645712"
+      },
+      "74819292ab58bc1f09a8c6cb9975109efa5a4bdd0fb236b20b2fb0b15ed72068": {
+        "title": "OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等",
+        "link": "https://www.tmtpost.com/7877920.html",
+        "published_date": "Thu, 12 Feb 2026 15:56:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.645862"
+      },
+      "2fd7f7184153edc4898090ee8d31161e4d2537559d7da0f676097cf341ca01d5": {
+        "title": "这届情人节，告别爱情KPI",
+        "link": "https://www.tmtpost.com/7877491.html",
+        "published_date": "Thu, 12 Feb 2026 15:45:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.646022"
+      },
+      "6a96ef24430d09d09d545a7eca5ed4460c877d29b3eac98edd4e97d2e1fc8528": {
+        "title": "当美图开始押注HBN，国货功效护肤的资本幻觉还能讲多久？",
+        "link": "https://www.tmtpost.com/7877770.html",
+        "published_date": "Thu, 12 Feb 2026 15:15:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.646259"
+      },
+      "4c72363185cd0616a055081f7fbb7fda32056b6af17cd6c9a58dfc0e178393fe": {
+        "title": "这届酒店年终奖，有人吃肉喝汤，有人碗都没了",
+        "link": "https://www.tmtpost.com/7877470.html",
+        "published_date": "Thu, 12 Feb 2026 14:51:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.646510"
+      },
+      "e685a50e8d943cd5426e7e78c5a8f5d5a0aa630414904f28561b4c92cd097175": {
+        "title": "Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？",
+        "link": "https://www.tmtpost.com/7877364.html",
+        "published_date": "Thu, 12 Feb 2026 14:14:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.646870"
+      },
+      "57434779526bb06e9e5265b5cfb917ef5d6131226c68335ca83587229b41d726": {
+        "title": "Seedance 2.0，凭什么刷屏？",
+        "link": "https://www.tmtpost.com/7876646.html",
+        "published_date": "Thu, 12 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.647206"
+      },
+      "f4f3e48e463ce9cec2ef90b95966f0a6ec46da390115cb0fd193f899d29c61e8": {
+        "title": "iOS 26.3 值得关注的新特性",
+        "link": "https://sspai.com/post/106202",
+        "published_date": "Thu, 12 Feb 2026 15:31:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.647593"
+      },
+      "f53be92985d00a970a715d4c8a891a55acdef40a933de41c8340c9cb4e447a53": {
+        "title": "盘点十个最可能被Seedance 2.0颠覆的行业",
+        "link": "http://www.huxiu.com/article/4834237.html?f=wangzhan",
+        "published_date": "Thu, 12 Feb 2026 07:00:00 GMT",
+        "first_seen": "2026-02-12T08:38:14.648030"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-12T06:01:49.279253",
-    "Technology": "2026-02-12T06:01:58.703244",
-    "Finance": "2026-02-12T06:01:49.137927"
+    "AI": "2026-02-12T08:38:14.593457",
+    "Technology": "2026-02-12T08:38:14.656042",
+    "Finance": "2026-02-12T08:38:05.130732"
   }
 }

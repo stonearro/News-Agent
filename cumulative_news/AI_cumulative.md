@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-11 23:25
+**最后更新时间**: 2026-02-12 08:37
+
+---
+
+## 🆕 最新更新 (2026-02-12 08:37)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [小红书，再造一个更有「声」命力的社区](https://www.jiqizhixin.com/articles/2026-02-12-9)
+**发布时间**: 2026-02-12 15:58
+
+#### [DeepAgent与DeepSearch双双霸榜！答案指向openJiuwen这一新兴开源项目](https://www.jiqizhixin.com/articles/2026-02-12-8)
+**发布时间**: 2026-02-12 15:37
+
+#### [ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」](https://www.jiqizhixin.com/articles/2026-02-12-7)
+**发布时间**: 2026-02-12 15:08
+
+#### [刚刚，MOSS孙天祥创业，直播AI4AI大规模科研](https://www.jiqizhixin.com/articles/2026-02-12-6)
+**发布时间**: 2026-02-12 15:02
+
+#### [速度提升，能力却暴跌？扩散模型做智能体的残酷真相](https://www.jiqizhixin.com/articles/2026-02-12-5)
+**发布时间**: 2026-02-12 14:52
+
+#### [走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则](https://www.jiqizhixin.com/articles/2026-02-12-4)
+**发布时间**: 2026-02-12 14:46
+
+#### [当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？](https://www.jiqizhixin.com/articles/2026-02-12-3)
+**发布时间**: 2026-02-12 14:12
+
+#### [让机器人「秒懂人话」！中国电信TeleAI发布首个实时文本驱动人形机器人控制框架TextOp](https://www.jiqizhixin.com/articles/2026-02-12-2)
+**发布时间**: 2026-02-12 14:09
+
+#### [字节发布Seedance 2.0，豆包、即梦官宣接入](https://www.jiqizhixin.com/articles/2026-02-12)
+**发布时间**: 2026-02-12 14:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Robotaxi首次开进阿布扎比市中心！文远知行携手Uber再拓商业运营版图](https://www.qbitai.com/2026/02/378854.html)
+**发布时间**: 2026-02-12 07:45
+
+#### [高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”](https://www.qbitai.com/2026/02/378843.html)
+**发布时间**: 2026-02-12 07:23
 
 ---
 

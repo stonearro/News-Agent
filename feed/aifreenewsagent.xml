@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 05:55:21 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 08:35:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆</title>
-      <link>https://www.qbitai.com/2026/02/379431.html</link>
-      <description>&lt;![CDATA[蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 05:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379431.html</guid>
+      <title>开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-6</link>
+      <description>&lt;![CDATA[开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-6</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负</title>
-      <link>https://www.qbitai.com/2026/02/379411.html</link>
-      <description>&lt;![CDATA[一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379411.html</guid>
+      <title>1美元时薪？这才是打工人的「梦中情模」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-5</link>
+      <description>&lt;![CDATA[1美元时薪？这才是打工人的「梦中情模」]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉</title>
-      <link>https://www.qbitai.com/2026/02/379344.html</link>
-      <description>&lt;![CDATA[1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 03:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379344.html</guid>
+      <title>CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-3</link>
+      <description>&lt;![CDATA[CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-2</link>
+      <description>&lt;![CDATA[刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13</link>
+      <description>&lt;![CDATA[我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-4</link>
+      <description>&lt;![CDATA[上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>姚顺宇谷歌首秀，Gemini新模型刷爆SOTA：人类仅剩7人捍卫碳基编程</title>
+      <link>https://www.qbitai.com/2026/02/379596.html</link>
+      <description>&lt;![CDATA[姚顺宇谷歌首秀，Gemini新模型刷爆SOTA：人类仅剩7人捍卫碳基编程]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379596.html</guid>
       <category>AI</category>
     </item>
   </channel>

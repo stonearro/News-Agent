@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "7d0dd881adc28424c0438bb0ffd487c3eaff50d3d73e395371f188cc4dc2da3e": {
-        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
-        "link": "https://www.qbitai.com/2026/01/370069.html",
-        "published_date": "Fri, 16 Jan 2026 10:06:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.039882"
-      },
-      "7235d3c7a232ce047abbc8ce7f165bef0e4539faf2f03cc009fb309838c360df": {
-        "title": "福特战略掉头！拥抱中国比亚迪，弃用韩国LG",
-        "link": "https://www.qbitai.com/2026/01/370034.html",
-        "published_date": "Fri, 16 Jan 2026 09:12:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.040035"
-      },
-      "1ef78fff5516654f3f1f1ce228bc26b4631b386a4cd8633a350f5bc80c17b8d2": {
-        "title": "微软谷歌正在大力招「电工」",
-        "link": "https://www.qbitai.com/2026/01/370026.html",
-        "published_date": "Fri, 16 Jan 2026 08:29:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.040152"
-      },
-      "3451bcc6d8074e5cb94bd246ad40824b05dedb1fc179f2a927c9be2fc1873518": {
-        "title": "北大数院新院长：80后院士刘若川",
-        "link": "https://www.qbitai.com/2026/01/370020.html",
-        "published_date": "Fri, 16 Jan 2026 08:27:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.040288"
-      },
       "8811ff92165aeb12c57e663f7d56bf733e3a40bba581bdb347b8fe6c3fa024af": {
         "title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
         "link": "https://www.jiqizhixin.com/articles/2026-01-17-3",
@@ -2736,117 +2712,63 @@
         "link": "https://www.qbitai.com/2026/02/380235.html",
         "published_date": "Sat, 14 Feb 2026 08:37:00 GMT",
         "first_seen": "2026-02-14T23:17:51.455641"
+      },
+      "0df365eabe62020a6f809bc4a65dce78eb6557a6d2bedc2dd502bfe8b2112b47": {
+        "title": "千问第二波免单恰逢情人节，县城钟点房帮订量暴增约300%",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-7",
+        "published_date": "Sun, 15 Feb 2026 19:44:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.611872"
+      },
+      "8e70f1f6d46ef5c784cbf5f8cf3cde11c1a76e9c777ab18975f7534055e0158a": {
+        "title": "还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-6",
+        "published_date": "Sun, 15 Feb 2026 19:15:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.612021"
+      },
+      "b9fa93586ca97d56ab01b35ea06232433d71fe6d87d7102f32fea3dacbeb1f41": {
+        "title": "AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-5",
+        "published_date": "Sun, 15 Feb 2026 19:10:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.612194"
+      },
+      "4b1c636d1d6a4a3394faa5dd81252afd346e3d05f9fd2b5fc439d7bceb43e4b4": {
+        "title": "ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-4",
+        "published_date": "Sun, 15 Feb 2026 19:06:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.612574"
+      },
+      "392260183c027096ef884739949210ebf11aadbca74870bb6a2c621d4ec11921": {
+        "title": "离谱：Claude Code让地铁变工位，早高峰发版，打工人还笑得出来？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-3",
+        "published_date": "Sun, 15 Feb 2026 18:54:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.612941"
+      },
+      "673e8d6a6788774a42d537113592837ab60f6ab23e5096e615ce6ae5a8064150": {
+        "title": "「我是Agent#847291」Moltbook迎来人类自首",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-2",
+        "published_date": "Sun, 15 Feb 2026 18:50:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.613320"
+      },
+      "304fe9864e4ca868373b65cff3ad20e8cb7ef769c69d899d7794fe58a84e4522": {
+        "title": "ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15",
+        "published_date": "Sun, 15 Feb 2026 18:32:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.613926"
+      },
+      "1063a5dc944b76b000d730719b65ca93e1612d8d7586af8dcf298509353cf514": {
+        "title": "从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——",
+        "link": "https://www.qbitai.com/2026/02/380405.html",
+        "published_date": "Sun, 15 Feb 2026 11:58:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.614484"
+      },
+      "aeb23b2f4c3c2d528c484f0c67c31adb2bd1afebd6ac818f1bd6677935e5aa89": {
+        "title": "“产业出题·科技答题” 2026全球开发者先锋大会正式启动",
+        "link": "https://www.qbitai.com/2026/02/380406.html",
+        "published_date": "Sun, 15 Feb 2026 11:56:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.614918"
       }
     },
     "Technology": {
-      "076d330b5df3edd9a82beac5bffd90bfa6f3ff40ae418da35a8ae70667ef51d3": {
-        "title": "4600亿元新车消费被激活：汽车以旧换新走向常态化",
-        "link": "https://www.tmtpost.com/7846077.html",
-        "published_date": "Fri, 16 Jan 2026 21:39:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415364"
-      },
-      "fc6d90cd1953f7d75423bd3ce19a86774d3a0e97266a695941298609c159120b": {
-        "title": "创新、跨界、融合 2025年度北京十大商业品牌揭晓",
-        "link": "https://www.tmtpost.com/7845940.html",
-        "published_date": "Fri, 16 Jan 2026 20:05:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415321"
-      },
-      "81c43f01570aa8792aff138f898628b1cb141a04ff4f940efcb489291d96c500": {
-        "title": "三倍牛股，三年连亏，科森科技没能讲出市场爱听的故事",
-        "link": "https://www.tmtpost.com/7845976.html",
-        "published_date": "Fri, 16 Jan 2026 19:51:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415333"
-      },
-      "fbc6839f7621970ff257d82f3bf734b3ef4039fdc9954685a8c8714c62f2980a": {
-        "title": "COMMUNE幻师、袁记食品递表港交所；Alo将在上海、北京开出首批中国门店；迪桑特中国区董事长丁少翔接管MAIA ACTIVE｜消研所周报",
-        "link": "https://www.tmtpost.com/7845868.html",
-        "published_date": "Fri, 16 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415377"
-      },
-      "59a68e86653022962bb3e7fe2fe5e71db6afb59b46418efb40be3562160ee0ab": {
-        "title": "字节把云推上“火山口”",
-        "link": "https://www.tmtpost.com/7845791.html",
-        "published_date": "Fri, 16 Jan 2026 19:24:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415387"
-      },
-      "e340dd21863dc49b21e3310f53e6795af6f03b5d976f5cc73ec2804249efc4c6": {
-        "title": "天下苦航空公司久矣",
-        "link": "https://www.tmtpost.com/7845724.html",
-        "published_date": "Fri, 16 Jan 2026 19:24:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.156786"
-      },
-      "9a6021e8fb40ef5119ee58c9f52207edbcd9243b4d09e2706e6c23cbe28e67ba": {
-        "title": "天际股份的“冰与火”：四季度业绩V型反转，却因三重违规遭监管问责",
-        "link": "https://www.tmtpost.com/7845792.html",
-        "published_date": "Fri, 16 Jan 2026 18:15:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415397"
-      },
-      "70b43ca99429acd3cfb5ef4b30a45c201017d350eadf14485ae20f2ea8ad5e83": {
-        "title": "价值700亿美元的AI+医疗仍有很长的路要走丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7845150.html",
-        "published_date": "Fri, 16 Jan 2026 17:33:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415406"
-      },
-      "1149393637e43ef3674825ccaae12145079d7d1de4dbf7a66ff82d5cbe484927": {
-        "title": "一盒内存条价值上海一套房，2026年将成消费电子“最贵之年”？",
-        "link": "https://www.tmtpost.com/7845705.html",
-        "published_date": "Fri, 16 Jan 2026 17:16:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.157817"
-      },
-      "e9f008e98d32dce56bdfd4b045f603e01dde7dde1c966f7152ac6f0ab2071c0d": {
-        "title": "豆包和OpenAI，都在押注同一个未来 | 「钛度号」作品月榜第134期",
-        "link": "https://www.tmtpost.com/7844641.html",
-        "published_date": "Fri, 16 Jan 2026 17:13:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.158268"
-      },
-      "8bb9f0e7d58ec2c0599198e7e21c797b712ac46644450ec378cf66ec1ad92c4f": {
-        "title": "光伏组件涨价了，然后呢？",
-        "link": "https://www.tmtpost.com/7845616.html",
-        "published_date": "Fri, 16 Jan 2026 17:13:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.158570"
-      },
-      "aa0a51d0b1d4f0eedc9f9f482c56b66a744e52ccf2f05184869ea312a25f301f": {
-        "title": "奥特曼要给你的脑子装上GPT",
-        "link": "https://www.tmtpost.com/7845493.html",
-        "published_date": "Fri, 16 Jan 2026 16:42:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.158867"
-      },
-      "3957448e9da9972e77de312709dba85dcd911dd3917f39056e5c069dd609be5b": {
-        "title": "AI 的下一个十年：从技术拐点到工程落地的路线图",
-        "link": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 20:02:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415343"
-      },
-      "7b3af7b8464e7ef3f2b6fc1fa68247d4d6fb8188241642e87c4ccbccb2bb2fb4": {
-        "title": "受够了Copilot的“霸王条款”？GitHub全球宕机遭怒骂，引爆开发者“大逃离”！",
-        "link": "https://www.infoq.cn/article/H16Z6V1Cz3Sf1qeb4fwr?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 18:00:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.160077"
-      },
-      "d9e2b4bd083f32e6003851f1089aaf2b3fb9b2ab6beaa096cfd91cc0372caa42": {
-        "title": "拒绝传统Router“瞎指挥”，多智能体如何实现智能任务分配？",
-        "link": "https://www.infoq.cn/article/cYlRMETcNGxhDvBqCDII?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 17:20:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.160705"
-      },
-      "c9b8262125baab9c5c666fa8969bb3dfe408f4eefebe2614aa9656d3472c8f56": {
-        "title": "聚焦 AI Agent 系统诊断，智能运维助手 SysOM MCP 正式开源",
-        "link": "https://www.infoq.cn/article/285HkzS0EM8tpHg9mBgY?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 16:46:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415354"
-      },
-      "effcacd277b592ed017433bf43086cd69451e0cd0c91f378ce347235f88016a5": {
-        "title": "亚马逊云科技发布第五代 Graviton 处理器，M9g 实例同步登场",
-        "link": "https://www.infoq.cn/article/xtXzsEPA5rVb6ZGfpUyh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 16:23:00 GMT",
-        "first_seen": "2026-01-16T23:15:07.415295"
-      },
-      "f14f3835738bd5a84b453bc4d7276d4da8cf527d4cb37d699508de252fcd0146": {
-        "title": "本周看什么 | 最近值得一看的 11 部作品",
-        "link": "https://sspai.com/post/105504",
-        "published_date": "Fri, 16 Jan 2026 17:45:00 GMT",
-        "first_seen": "2026-01-16T23:14:58.162988"
-      },
       "2d3752b6590422d8e4b403c3da43d01963c6f6bf4b5e622031d900290d22b34a": {
         "title": "死磕8年，烧光400亿，中国芯片迎来最大IPO",
         "link": "https://www.tmtpost.com/7846009.html",
@@ -12380,13 +12302,79 @@
         "link": "https://www.tmtpost.com/7880570.html",
         "published_date": "Sun, 15 Feb 2026 14:00:00 GMT",
         "first_seen": "2026-02-15T08:25:41.011583"
+      },
+      "e34b866d3fff8fcbd689d489987492c2f48cc9d04d1ff6d1587f71b545c2b5e5": {
+        "title": "CryptoQuant 2026加密量化大赛在港发布，机构交易者分享市场预测与AI交易趋势",
+        "link": "https://www.tmtpost.com/7881723.html",
+        "published_date": "Sun, 15 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428330"
+      },
+      "80e4e5303d9a831e7f19f95882583131a8875d0f17c2e10a15820f1233f89e47": {
+        "title": "他们，与故乡不在同一个时区过年",
+        "link": "https://www.tmtpost.com/7881436.html",
+        "published_date": "Sun, 15 Feb 2026 19:34:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428381"
+      },
+      "246d71022d718374589544e2b151930f2d083381b754f7f38acbc52942c1df9f": {
+        "title": "“村漂”的年轻人，利用自媒体悄悄赚钱",
+        "link": "https://www.tmtpost.com/7881563.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428392"
+      },
+      "8e759d3b26a3eb6d8925e593ed7ad4cca7eb2d18bf1f721b49d26b38a5ec4221": {
+        "title": "晶圆厂疯建，光刻机却卖不动了",
+        "link": "https://www.tmtpost.com/7881445.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428401"
+      },
+      "97a386bf497ee1ac21267fe0c0c0a67a754ecc4229d6575fa899deec97c99548": {
+        "title": "SaaS业数千亿市值蒸发：AI如何变革组织架构？",
+        "link": "https://www.tmtpost.com/7880673.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428411"
+      },
+      "547d77b17d70bee04faa9f7a10f0eda2b8c4286130ee035ebecf040ebdc05ded": {
+        "title": "机器人春晚大乱斗",
+        "link": "https://www.tmtpost.com/7881262.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:19:33.001221"
+      },
+      "02f9f5b11bca5d85096bdc8f9b977688425db848635616b55a7855ba60d8ac81": {
+        "title": "芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图",
+        "link": "https://www.tmtpost.com/7881567.html",
+        "published_date": "Sun, 15 Feb 2026 17:49:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428361"
+      },
+      "8233ef74eae6b5c1f510496c3c6d2190ebd605c85f27f2305c9c9fffc87933bd": {
+        "title": "最近，我们请六个小生意人讲了讲他们这一年",
+        "link": "https://www.tmtpost.com/7881473.html",
+        "published_date": "Sun, 15 Feb 2026 17:42:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428421"
+      },
+      "add507258afc19353c6480ca784687a01d062be51059481a9ad931a003e570f1": {
+        "title": "最长春节，年轻人把年过到海外",
+        "link": "https://www.tmtpost.com/7881379.html",
+        "published_date": "Sun, 15 Feb 2026 17:42:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428429"
+      },
+      "da6c5cd7959d36c6353b32b39a061cdf3fb664313b5069c4adbf3c6724abbe4c": {
+        "title": "37万人把自己租给AI、迪士尼向字节“开战”",
+        "link": "https://www.tmtpost.com/7881503.html",
+        "published_date": "Sun, 15 Feb 2026 16:31:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428439"
+      },
+      "4724a94c2224969d0ea445ba7189ec015e765e1368cfbb34d6ec058dbe240231": {
+        "title": "那些零负债人群，为什么也不花钱消费呢？",
+        "link": "http://www.huxiu.com/article/4834410.html?f=wangzhan",
+        "published_date": "Sun, 15 Feb 2026 17:00:00 GMT",
+        "first_seen": "2026-02-15T23:19:42.428450"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-15T08:25:41.212059",
-    "Technology": "2026-02-15T08:25:41.052160",
-    "Finance": "2026-02-15T08:25:41.071986"
+    "AI": "2026-02-15T23:19:42.622307",
+    "Technology": "2026-02-15T23:19:42.447250",
+    "Finance": "2026-02-15T23:19:42.467794"
   }
 }

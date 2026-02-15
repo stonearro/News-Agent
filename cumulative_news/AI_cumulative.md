@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-15 08:25
+**最后更新时间**: 2026-02-15 23:19
+
+---
+
+## 🆕 最新更新 (2026-02-15 23:19)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [千问第二波免单恰逢情人节，县城钟点房帮订量暴增约300%](https://www.jiqizhixin.com/articles/2026-02-15-7)
+**发布时间**: 2026-02-15 19:44
+
+#### [还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物](https://www.jiqizhixin.com/articles/2026-02-15-6)
+**发布时间**: 2026-02-15 19:15
+
+#### [AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI](https://www.jiqizhixin.com/articles/2026-02-15-5)
+**发布时间**: 2026-02-15 19:10
+
+#### [ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」](https://www.jiqizhixin.com/articles/2026-02-15-4)
+**发布时间**: 2026-02-15 19:06
+
+#### [离谱：Claude Code让地铁变工位，早高峰发版，打工人还笑得出来？](https://www.jiqizhixin.com/articles/2026-02-15-3)
+**发布时间**: 2026-02-15 18:54
+
+#### [「我是Agent#847291」Moltbook迎来人类自首](https://www.jiqizhixin.com/articles/2026-02-15-2)
+**发布时间**: 2026-02-15 18:50
+
+#### [ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒](https://www.jiqizhixin.com/articles/2026-02-15)
+**发布时间**: 2026-02-15 18:32
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——](https://www.qbitai.com/2026/02/380405.html)
+**发布时间**: 2026-02-15 11:58
+
+#### [“产业出题·科技答题” 2026全球开发者先锋大会正式启动](https://www.qbitai.com/2026/02/380406.html)
+**发布时间**: 2026-02-15 11:56
 
 ---
 

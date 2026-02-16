@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8811ff92165aeb12c57e663f7d56bf733e3a40bba581bdb347b8fe6c3fa024af": {
-        "title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-17-3",
-        "published_date": "Sat, 17 Jan 2026 13:32:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.325350"
-      },
-      "70aa1182e33096d8f60433e012db7ee7a0d5da3741dd55f6958485abcf63ef1e": {
-        "title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-17-2",
-        "published_date": "Sat, 17 Jan 2026 13:29:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.325514"
-      },
-      "330c9dfa35eebc3b6270b62ab2e131864fb5789e3813755d4888dc271238ad32": {
-        "title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-17",
-        "published_date": "Sat, 17 Jan 2026 13:25:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.325666"
-      },
       "c469d981cbbfc445f0cd626fa467124f7111ee7ea1f6963b574fbd6f84576c21": {
         "title": "AI 视频生成时代，留给人类的只有演技？",
         "link": "https://www.jiqizhixin.com/articles/2026-01-17-4",
@@ -2781,30 +2763,6 @@
       }
     },
     "Technology": {
-      "86d96a2fa8e022438cd31c4ccca1bcdf690776e43e9b37d683b25ae325c4b595": {
-        "title": "Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑",
-        "link": "https://sspai.com/post/105413",
-        "published_date": "Sat, 17 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.432644"
-      },
-      "4f633c2ec7197c51832c5402bd7b0699d5084668ae4356ec635f25905d35b78b": {
-        "title": "曾经遥遥领先的德国制造，为何骤然“跌落神坛”？",
-        "link": "https://www.tmtpost.com/7845975.html",
-        "published_date": "Sat, 17 Jan 2026 14:05:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.432798"
-      },
-      "5657405becac628f830f929d312965e45c1b02907731830943393e2024e7beff": {
-        "title": "IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理",
-        "link": "https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 17 Jan 2026 13:42:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.433078"
-      },
-      "b9869fb649e4a13c8b1bec7349e041fd08ccf7a9aa0e98bab5d110de6546fcd3": {
-        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
-        "link": "https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 17 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-17T08:19:48.433388"
-      },
       "986689dc8268245c1ba189dd082f0301484c6f1ad9686cead6a193f2277b97fc": {
         "title": "烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？",
         "link": "https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article",
@@ -12440,13 +12398,49 @@
         "link": "https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 16 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-16T06:02:44.832137"
+      },
+      "f207d8b46c33d8dd2f22a858928e9727b88d945aa9d55b15b4024d8d5952ec64": {
+        "title": "东鹏特饮的“资本盛宴”：港股IPO募资超100亿后的机遇与挑战",
+        "link": "https://www.tmtpost.com/7882116.html",
+        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
+        "first_seen": "2026-02-16T08:38:37.466013"
+      },
+      "02bff65c4b456ba49d8238c899e59aeb3d61da3289293e6eb0ce80faa3bd6754": {
+        "title": "一周就告吹，宁德时代最后宣布不入股永太科技",
+        "link": "https://www.tmtpost.com/7881777.html",
+        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
+        "first_seen": "2026-02-16T08:38:37.466172"
+      },
+      "56b3be641dc21cc56ddbcd6aab9ac17e2b0a93a9c6d383fe3f0f4d3f5d034764": {
+        "title": "前荣耀CEO赵明「复出」，搭档印奇再造一个自动驾驶巨头？",
+        "link": "https://www.tmtpost.com/7882141.html",
+        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
+        "first_seen": "2026-02-16T08:38:37.466319"
+      },
+      "316194830258d72fcde1c40cbfbd75d2b31abd277309b6a697b5cd7b8ff3881a": {
+        "title": "OpenClaw背后的男人，被奥特曼“招安了”",
+        "link": "https://www.tmtpost.com/7882178.html",
+        "published_date": "Mon, 16 Feb 2026 15:26:00 GMT",
+        "first_seen": "2026-02-16T08:38:37.466504"
+      },
+      "87d0300533a83faa4959a09bfa51116a2c80669dc3e7ceed72263a1c218b7588": {
+        "title": "全球最大镍矿断供式大减产，“镍荒”蔓延谁会率先顶不住？",
+        "link": "https://www.tmtpost.com/7882128.html",
+        "published_date": "Mon, 16 Feb 2026 15:26:00 GMT",
+        "first_seen": "2026-02-16T08:38:37.466739"
+      },
+      "563962723c4d565476bdcf9c6c4623f5b7b9bb8d7f3c13ded66c5d758b06f2ed": {
+        "title": "港股开年新股的启示与反思",
+        "link": "https://www.tmtpost.com/7882168.html",
+        "published_date": "Mon, 16 Feb 2026 15:26:00 GMT",
+        "first_seen": "2026-02-16T08:38:37.466948"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-16T06:02:54.352336",
-    "Technology": "2026-02-16T06:02:54.206920",
-    "Finance": "2026-02-16T06:02:54.224937"
+    "AI": "2026-02-16T08:38:37.668196",
+    "Technology": "2026-02-16T08:38:37.509049",
+    "Finance": "2026-02-16T08:38:37.528659"
   }
 }

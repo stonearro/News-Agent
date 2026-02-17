@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-17 05:54
+**最后更新时间**: 2026-02-17 23:22
+
+---
+
+## 🆕 最新更新 (2026-02-17 23:22)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Teaching AI to read a map](https://research.google/blog/teaching-ai-to-read-a-map/)
+**发布时间**: 2026-02-17 21:37
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [沈腾：春晚谁家机器人？除夕夜就扒拉活来了](https://www.jiqizhixin.com/articles/2026-02-17-4)
+**发布时间**: 2026-02-17 20:52
+
+#### [ICLR 2026 | SEINT：高效的跨空间刚体不变度量](https://www.jiqizhixin.com/articles/2026-02-17-3)
+**发布时间**: 2026-02-17 20:45
+
+#### [ICLR 2026 | PIL：基于线性代理的不可学习样本生成方法](https://www.jiqizhixin.com/articles/2026-02-17-2)
+**发布时间**: 2026-02-17 20:34
+
+#### [豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持](https://www.jiqizhixin.com/articles/2026-02-17)
+**发布时间**: 2026-02-17 18:52
 
 ---
 

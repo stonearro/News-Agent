@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3105c27c5ae7c5157dcd0d08cb7ebacdd1aeeab71686ca731018092970f8332c": {
-        "title": "咖啡机变聪明后，我连咖啡都喝不上了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
-        "published_date": "Sun, 18 Jan 2026 20:50:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.660719"
-      },
-      "5bb37305572b7ab5348cab5a45a4f2c8a78b737ef82827de24e754f5de7d0ca0": {
-        "title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-4",
-        "published_date": "Sun, 18 Jan 2026 20:45:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.660877"
-      },
-      "e4e8181b7e327c92aa2fb86bc487e8c16662d8131df5aead4ed86810e7ba2068": {
-        "title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-3",
-        "published_date": "Sun, 18 Jan 2026 20:42:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.661025"
-      },
-      "0da94459c99529e959abd047525bf5badc6143171906ec77e39a8a9fdecd79ab": {
-        "title": "红杉合伙人：2026，AGI已经来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-2",
-        "published_date": "Sun, 18 Jan 2026 20:39:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.661207"
-      },
-      "d1e9443ad48a523a3aaf0b2324218596e1465ff5dad0d89d739c2188ac6c9a53": {
-        "title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18",
-        "published_date": "Sun, 18 Jan 2026 20:35:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.661456"
-      },
       "2da50bc92dbc37c6e1111aa8b069f8af70d58535e683540a0cd04837e52d72e6": {
         "title": "你的论文有novelty吗？复旦搞了个顶会论文查新系统",
         "link": "https://www.jiqizhixin.com/articles/2026-01-19-4",
@@ -2790,39 +2760,39 @@
         "link": "https://www.qbitai.com/2026/02/380771.html",
         "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
         "first_seen": "2026-02-17T05:54:28.556813"
+      },
+      "2941ad1c14a4a97160e6aad8a79c76ef4e0de2a97b068b544fe435527105e991": {
+        "title": "Teaching AI to read a map",
+        "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
+        "published_date": "Tue, 17 Feb 2026 21:37:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.284073"
+      },
+      "8df94b88ab0cf047152562e8d439daf052ca565ba4d7cf2859b276538f2cda6a": {
+        "title": "沈腾：春晚谁家机器人？除夕夜就扒拉活来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-4",
+        "published_date": "Tue, 17 Feb 2026 20:52:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.284206"
+      },
+      "e1b4a655e70abc913cec91e7f4275ebd1556623749abe8b2c28e67b53db0eb5a": {
+        "title": "ICLR 2026 | SEINT：高效的跨空间刚体不变度量",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-3",
+        "published_date": "Tue, 17 Feb 2026 20:45:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.284367"
+      },
+      "fb42d119c115580ceda024083a44bae6a898feff1e79b3f7177ff669fc0caf86": {
+        "title": "ICLR 2026 | PIL：基于线性代理的不可学习样本生成方法",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-2",
+        "published_date": "Tue, 17 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.284596"
+      },
+      "02348ed7e8d74c38392df93ef6666afca2561977b06f22c73547f63a5abdc2ff": {
+        "title": "豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17",
+        "published_date": "Tue, 17 Feb 2026 18:52:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.284874"
       }
     },
     "Technology": {
-      "a4bd75e5d6762f20c4fbf26bd9492d70d0c01815ee634823661668b9090137f2": {
-        "title": "不学抖音学INS，OpenAI想站着把钱挣了",
-        "link": "https://www.tmtpost.com/7846722.html",
-        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.752404"
-      },
-      "cfd65552e91c7ec499428270edb09b7492ae26ef53d1cf14a2af792ccfd1da88": {
-        "title": "AI应用爆发前夜，大模型等待黎明",
-        "link": "https://www.tmtpost.com/7846728.html",
-        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.752511"
-      },
-      "455cc95c0ab482b2ca906374a5b6e98baadb5a065ee9d06cdacdf0e7c8ece238": {
-        "title": "2026，广西菜元年？",
-        "link": "https://www.tmtpost.com/7838127.html",
-        "published_date": "Sun, 18 Jan 2026 17:54:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.752645"
-      },
-      "136a551c71dbaae79180da870484780d48a44cb8a86361ec676d1c4c64fe547f": {
-        "title": "宏大叙事的创业的时代，互联网需要更多Demumu",
-        "link": "https://www.tmtpost.com/7846725.html",
-        "published_date": "Sun, 18 Jan 2026 17:50:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.752810"
-      },
-      "3637f98d5b365a8140d76bf6c3179c11cb2905097b752945b3e74fb35fd59eee": {
-        "title": "打造医生“智能外脑”，医疗级AI在多家医院加速应用",
-        "link": "https://www.tmtpost.com/7846793.html",
-        "published_date": "Sun, 18 Jan 2026 09:46:00 GMT",
-        "first_seen": "2026-01-18T23:14:36.753016"
-      },
       "48e50e164666c5fb0e59367bc9f5f21b33da62b78a450e4bc0a71e30bac779f2": {
         "title": "AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？",
         "link": "https://www.tmtpost.com/7847558.html",
@@ -12410,13 +12380,37 @@
         "link": "https://www.tmtpost.com/7882950.html",
         "published_date": "Tue, 17 Feb 2026 15:58:00 GMT",
         "first_seen": "2026-02-17T08:42:14.449971"
+      },
+      "2c8467e5df4f687a964c1dac26f94dbe4ce3ed328a1fb6ebb17c5206062f0def": {
+        "title": "“老外”集体来华过春节，对中国“真香”了？",
+        "link": "https://www.tmtpost.com/7882815.html",
+        "published_date": "Tue, 17 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.045456"
+      },
+      "176f5bd8c573756e8094e5b925cc897a01715310fc798f2ac532bc37561d4ada": {
+        "title": "春晚机器人，谁赢麻了？",
+        "link": "https://www.tmtpost.com/7882863.html",
+        "published_date": "Tue, 17 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.045608"
+      },
+      "faa77fc503fe09a1d26a05c9d643bcc5e626d8562583d8a21ac1a0f0a77a000f": {
+        "title": "千问3.5以小胜大，阿里巴巴的阳谋藏不住了",
+        "link": "https://www.tmtpost.com/7882917.html",
+        "published_date": "Tue, 17 Feb 2026 17:12:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.045773"
+      },
+      "d9888fecc190dc27754e6f286fe1c9391222c4b5c1d398e22d393a1bf7cbdfb6": {
+        "title": "春晚“路演”大获成功，机器人距离上市更近了",
+        "link": "https://www.tmtpost.com/7882826.html",
+        "published_date": "Tue, 17 Feb 2026 16:35:00 GMT",
+        "first_seen": "2026-02-17T23:22:49.045962"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-17T08:42:14.692515",
-    "Technology": "2026-02-17T08:42:14.496751",
-    "Finance": "2026-02-17T08:42:14.516580"
+    "AI": "2026-02-17T23:22:49.291830",
+    "Technology": "2026-02-17T23:22:49.116860",
+    "Finance": "2026-02-17T23:22:49.136188"
   }
 }

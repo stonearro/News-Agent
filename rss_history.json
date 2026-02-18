@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "133d37bcd9c774086d6cc1715b2372d8e8f0db7d15fd869c405b9bbd768dce0e": {
-        "title": "迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19-5",
-        "published_date": "Mon, 19 Jan 2026 14:06:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.035525"
-      },
       "9f000ad29581507d3053afcf604179008f65c30173e2a3e0e1d7e38cfd1078dc": {
         "title": "最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程",
         "link": "https://www.jiqizhixin.com/articles/2026-01-19-9",
@@ -2757,120 +2751,6 @@
       }
     },
     "Technology": {
-      "5b0e1f1e4444ead485b48fb74b472e385cf3c45a3d83c0cd2b11f5ad298d7f81": {
-        "title": "二十年，重新出发！第 20 届 D2 技术大会「AI 新」议题全球征集正式开启",
-        "link": "https://www.infoq.cn/article/RJ1OxNTaCwuh6Y12O8dc?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 16:12:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424511"
-      },
-      "0b89d81bf36da91feab522049f9551d823968ce6f1d9dd0d94d64bf86e36e3f5": {
-        "title": "Cursor推出动态上下文发现功能，提升了Token的使用效率",
-        "link": "https://www.infoq.cn/article/WJL8IKHd99G4zrEyTO99?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 16:00:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424549"
-      },
-      "f5f140fec47611b24d9debb9f47fcd35a3a578d7a660ed09b4185c33949dda5b": {
-        "title": "Agoda是如何将多个数据管道统一为单一事实来源的",
-        "link": "https://www.infoq.cn/article/FCovAhOpFvEryKZFFxy9?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 15:26:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424559"
-      },
-      "0f64f44b30fb34d64f8790bc1892092fcb7e81cb4290e5f8453d5188c95ce124": {
-        "title": "从 Greenplum 到 Doris：集群缩减 2/3、年省数百万，度小满构建超大规模数据分析平台技术实践",
-        "link": "https://www.infoq.cn/article/kflvtWGPeXN40M3OPzff?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424481"
-      },
-      "24a0341fcf833d2f6968ab29da6b6013f7568583f95d533d4b31d938453a7e5c": {
-        "title": "解决移动分析碎片化困局：Uber的平台引领之道",
-        "link": "https://www.infoq.cn/article/AIuL3zoje0zRZX7CgB2r?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 14:02:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424525"
-      },
-      "3f05c1bf535d5b8967a2453540e037b8fd4a6914967f52544d0ad64a1e81d48f": {
-        "title": "Windows 视觉史 04（下）｜Vista：余烬散去，余晖依旧",
-        "link": "https://sspai.com/post/101074",
-        "published_date": "Mon, 19 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424572"
-      },
-      "feb7fe18c343a73609ac4148660e101456f3370f47fb19de2f8a5e0885a5de8f": {
-        "title": "二十而励，向新而行：深商盛典勾勒中国企业未来突围路径",
-        "link": "https://www.tmtpost.com/7847699.html",
-        "published_date": "Mon, 19 Jan 2026 14:59:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424583"
-      },
-      "57b57ee8f02e7006f37c87f5a5205d0e71c067bbbd2d0233bd70fcb53a3192d4": {
-        "title": "张勇能开启海底捞的“第二增长曲线”吗？",
-        "link": "https://www.tmtpost.com/7847821.html",
-        "published_date": "Mon, 19 Jan 2026 14:59:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424593"
-      },
-      "140e8076a4f827fd417bb6f00d22b4505eb4ff88dc995aa6d559c11a51c3747c": {
-        "title": "苹果谷歌握手AI背后：国产手机为何不敢革自己的命？",
-        "link": "https://www.tmtpost.com/7847723.html",
-        "published_date": "Mon, 19 Jan 2026 14:56:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424603"
-      },
-      "d76ed0c752320f5fb240e59f86630cfdeb9ecc33b4f0e66658897799bd90ea60": {
-        "title": "2026年，AI由“狂热”转向“务实”",
-        "link": "https://www.tmtpost.com/7847522.html",
-        "published_date": "Mon, 19 Jan 2026 14:56:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.126617"
-      },
-      "c460092bf6e7ab9dae3240e23541c8c590d0f74245c811a9e02fe3125192ce49": {
-        "title": "券商扶植的AI炒股，是新机遇还是“新陷阱”？",
-        "link": "https://www.tmtpost.com/7847632.html",
-        "published_date": "Mon, 19 Jan 2026 14:55:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.127084"
-      },
-      "b973087dbbfdf77491c0f8335f27c6375e91e36c8baf04ae0e99391ed8510c6a": {
-        "title": "四年血亏18亿、两大工厂停产，50亿巨头为何“一夜崩塌”？",
-        "link": "https://www.tmtpost.com/7847753.html",
-        "published_date": "Mon, 19 Jan 2026 14:55:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.127758"
-      },
-      "27a83f3546e30de851029add5a201b828a536e3eb031b22c697eb243ab45da32": {
-        "title": "沪上阿姨净利狂增五成，中价下沉赛道能撑起长期增长吗？",
-        "link": "https://www.tmtpost.com/7847708.html",
-        "published_date": "Mon, 19 Jan 2026 14:54:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.128290"
-      },
-      "b93704fbc438b2be0868a431b46120f75b1e3c32928fcb6d7cc642aeef6a7b1e": {
-        "title": "电力圈空降，许涛最新任职保变电气党委书记， 保变这次要玩把大的",
-        "link": "https://www.tmtpost.com/7847717.html",
-        "published_date": "Mon, 19 Jan 2026 14:53:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.129008"
-      },
-      "5f1597938c2397c870c6f070e658746ecffebd1764e76966069ca7a58b15f7e0": {
-        "title": "告别拼补贴，重估“外卖大战”受益者顺丰同城",
-        "link": "https://www.tmtpost.com/7847107.html",
-        "published_date": "Mon, 19 Jan 2026 14:52:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.129679"
-      },
-      "7d8c400ef4320cbfa12e7137e15fae2a43a27fa1269e0801cc146b3872b5dc17": {
-        "title": "详解“千问们”的营销长跑：从流量之争到心智之战",
-        "link": "https://www.tmtpost.com/7847629.html",
-        "published_date": "Mon, 19 Jan 2026 14:50:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.130465"
-      },
-      "829bd01fd5a9539c66bf0eed6aaaf6a5495813276d632e2266c4fad992a3b2dc": {
-        "title": "又一家中医馆冲刺IPO：靠“一勺膏方”年入近3亿，毛利比肩医美",
-        "link": "https://www.tmtpost.com/7847642.html",
-        "published_date": "Mon, 19 Jan 2026 14:49:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.131409"
-      },
-      "907dfb4225bbde62cb9d324033a286350f29ded2ce6fe0bb7803263bb52ad0b5": {
-        "title": "县城零食店，勇闯北上广",
-        "link": "https://www.tmtpost.com/7847704.html",
-        "published_date": "Mon, 19 Jan 2026 14:46:00 GMT",
-        "first_seen": "2026-01-19T08:24:13.131928"
-      },
-      "98def6f10529d415ba67da6a7739521beb81075f874c06adb99f083307398563": {
-        "title": "壁仞科技崛起背后：“第一猎头”全球挖人",
-        "link": "https://www.tmtpost.com/7847610.html",
-        "published_date": "Mon, 19 Jan 2026 14:42:00 GMT",
-        "first_seen": "2026-01-19T08:24:22.424537"
-      },
       "8cff3eed40bd2cfcd0dd6d511a074d7d2a4411b667b97efa1170873fe3062067": {
         "title": "出海也有 “斩杀线”：哪吒汽车陷20亿泰债困局",
         "link": "http://www.huxiu.com/article/4827812.html?f=wangzhan",
@@ -12265,8 +12145,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-18T05:58:59.701501",
-    "Technology": "2026-02-18T05:58:59.541694",
-    "Finance": "2026-02-18T05:58:59.561074"
+    "AI": "2026-02-18T08:37:25.253680",
+    "Technology": "2026-02-18T08:37:25.081440",
+    "Finance": "2026-02-18T08:37:25.100809"
   }
 }

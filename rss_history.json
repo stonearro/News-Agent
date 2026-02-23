@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f9672dccec68cfa5cc9f52244b1df08a4df9f9445cec86d8386ed540f8d74ab4": {
-        "title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
-        "link": "https://www.qbitai.com/2026/01/372307.html",
-        "published_date": "Sat, 24 Jan 2026 05:18:00 GMT",
-        "first_seen": "2026-01-24T08:19:19.991540"
-      },
       "3dd3bad9902370ad80aa3717573f6de3a079cb2d928d04f4d1c327ef4ca2d1e5": {
         "title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
         "link": "https://www.jiqizhixin.com/articles/2026-01-24-6",
@@ -2517,42 +2511,6 @@
       }
     },
     "Technology": {
-      "109663de3ca65169b423baf69c888dc569f784d9febd466af6dc2b4a63697358": {
-        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
-        "link": "https://sspai.com/post/105679",
-        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-24T08:19:20.094733"
-      },
-      "b39e0d7d699b75635dd5cc5cba75d46ccb8d1b18854243183a0b64145a05f974": {
-        "title": "Fortinet股价因评级上调大涨， “AI正在吞噬软件行业” 不可信",
-        "link": "https://www.tmtpost.com/7854237.html",
-        "published_date": "Sat, 24 Jan 2026 09:54:00 GMT",
-        "first_seen": "2026-01-24T08:19:20.094883"
-      },
-      "a7c1c15ed4a2479681b54ca20de5dce585f03ce033fdd9326a371c0b92087371": {
-        "title": "这位专家对黄金“越来越看好”，他是如何布局的",
-        "link": "https://www.tmtpost.com/7854232.html",
-        "published_date": "Sat, 24 Jan 2026 09:52:00 GMT",
-        "first_seen": "2026-01-24T08:19:20.095025"
-      },
-      "e1d152d6e103bc08e347b91ad3271764c420d28168c49898ad42de4113f72ea6": {
-        "title": "Staar Surgical、Dynatrace等多只股票受到激进投资者关注",
-        "link": "https://www.tmtpost.com/7854223.html",
-        "published_date": "Sat, 24 Jan 2026 09:49:00 GMT",
-        "first_seen": "2026-01-24T08:19:20.095237"
-      },
-      "7bf48ccf6d5fa68da36867442a623fda82f2ec51af9cade5999ddea18ddeeec1": {
-        "title": "随着特朗普推动“金色穹顶”计划，这只国防类股票正在飙升",
-        "link": "https://www.tmtpost.com/7854221.html",
-        "published_date": "Sat, 24 Jan 2026 09:49:00 GMT",
-        "first_seen": "2026-01-24T08:19:20.095485"
-      },
-      "5085bb038f2db82f83a28294d6143c4ff91bd05988821c6a8f3113512d4c6948": {
-        "title": "自巴伦推荐以来，英诺达股价已上涨 65%，我们仍持看涨态度",
-        "link": "https://www.tmtpost.com/7854219.html",
-        "published_date": "Sat, 24 Jan 2026 09:48:00 GMT",
-        "first_seen": "2026-01-24T08:19:20.095781"
-      },
       "6af46a6a0d3df4a9478ba2bc82b54eb8100a6232411c3be87dc1b84f26e43116": {
         "title": "变脸比翻书还快？前脚刚派人过去“军演”，后脚就把格陵兰卖了",
         "link": "http://www.huxiu.com/article/4828918.html?f=wangzhan",
@@ -10724,13 +10682,25 @@
         "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
         "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-23T06:04:07.008546"
+      },
+      "696535298186770687b5422bf9adb98371f91594c4ac4637baaa354e6d1892cd": {
+        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-23T08:40:42.104138"
+      },
+      "9c649398d02c052d96a350cb40c0153a3e460a86a37698101535ffd727dfc9cd": {
+        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
+        "link": "https://www.tmtpost.com/7887138.html",
+        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-23T08:40:42.104325"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-23T06:04:06.959575",
-    "Technology": "2026-02-23T06:04:07.015990",
-    "Finance": "2026-02-23T06:04:06.794126"
+    "AI": "2026-02-23T08:40:42.056700",
+    "Technology": "2026-02-23T08:40:42.123556",
+    "Finance": "2026-02-23T08:40:41.907049"
   }
 }

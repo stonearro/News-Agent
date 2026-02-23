@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Feb 2026 06:01:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 06:04:06 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 23:29:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026</title>
-      <link>https://www.qbitai.com/2026/02/381689.html</link>
-      <description>&lt;![CDATA[32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 04:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381689.html</guid>
+      <title>AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-7</link>
+      <description>&lt;![CDATA[AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工</title>
-      <link>https://www.qbitai.com/2026/02/381672.html</link>
-      <description>&lt;![CDATA[三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 04:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381672.html</guid>
+      <title>项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-6</link>
+      <description>&lt;![CDATA[项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>热度第一、Tokens周调用破3T，MiniMax这个春节杀疯了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-5</link>
+      <description>&lt;![CDATA[热度第一、Tokens周调用破3T，MiniMax这个春节杀疯了]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-5</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-4</link>
+      <description>&lt;![CDATA[Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-4</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-3</link>
+      <description>&lt;![CDATA[揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-3</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-2</link>
+      <description>&lt;![CDATA[ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>“最像特斯拉”智平方在7轮融资后，又完成5轮B轮系列融资，融资规模超10亿，估值超百亿</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23</link>
+      <description>&lt;![CDATA[“最像特斯拉”智平方在7轮融资后，又完成5轮B轮系列融资，融资规模超10亿，估值超百亿]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>“千问帮我”成春节新年俗：一句话下单更便捷 超400万60岁+用户体验AI下单</title>
+      <link>https://www.qbitai.com/2026/02/381758.html</link>
+      <description>&lt;![CDATA[“千问帮我”成春节新年俗：一句话下单更便捷 超400万60岁+用户体验AI下单]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381758.html</guid>
       <category>AI</category>
     </item>
   </channel>

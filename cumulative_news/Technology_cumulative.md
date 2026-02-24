@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-24 08:38
+**最后更新时间**: 2026-02-24 23:24
+
+---
+
+## 🆕 最新更新 (2026-02-24 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI代理正掏空白领市场！Citrini Research 发出失控预警：或在2028年引发经济崩溃](https://www.tmtpost.com/7887701.html)
+**发布时间**: 2026-02-24 22:04
+
+#### [顶级的算力，失效的模型：西方“最佳实践”如何落地中国](https://www.tmtpost.com/7888144.html)
+**发布时间**: 2026-02-24 18:56
+
+#### [全球美妆品牌大洗牌](https://www.tmtpost.com/7888359.html)
+**发布时间**: 2026-02-24 18:56
+
+#### [百亿机器人龙头进军光伏，“跨界高手”许礼进这次胜算几何？](https://www.tmtpost.com/7888636.html)
+**发布时间**: 2026-02-24 18:48
+
+#### [总理座谈会上的年轻人，春节暴涨超千亿](https://www.tmtpost.com/7888059.html)
+**发布时间**: 2026-02-24 18:48
+
+#### [外资四巨头齐聚，星德胜“凤凰涅槃”的时与势](https://www.tmtpost.com/7888490.html)
+**发布时间**: 2026-02-24 18:48
+
+#### [前作流水破亿后，这家深圳厂商又出霸榜爆款](https://www.tmtpost.com/7887817.html)
+**发布时间**: 2026-02-24 18:43
+
+#### [知名台商拟定增入主，*ST高斯保壳要过审计关](https://www.tmtpost.com/7887867.html)
+**发布时间**: 2026-02-24 18:43
+
+#### [具身智能集体“西进”，硅基独角兽重仓8D魔幻场](https://www.tmtpost.com/7888467.html)
+**发布时间**: 2026-02-24 18:31
+
+#### [热锅里的炒货品牌，在“煎熬”中等待变化](https://www.tmtpost.com/7888478.html)
+**发布时间**: 2026-02-24 18:29
+
+#### [中国版Kindle想上市，靠的是什么故事？](https://www.tmtpost.com/7888513.html)
+**发布时间**: 2026-02-24 18:29
+
+#### [春晚机器人很能打，也要让车间主任买账](https://www.tmtpost.com/7888499.html)
+**发布时间**: 2026-02-24 18:28
+
+#### [抢客户、战表格、押AI：钉钉和飞书继续贴身肉搏](https://www.tmtpost.com/7888431.html)
+**发布时间**: 2026-02-24 18:21
+
+#### [焦虑的县城中年人，等待被AI解救](https://www.tmtpost.com/7888327.html)
+**发布时间**: 2026-02-24 16:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TSSLint 3.0 发布，可能是最后一次大更新](https://www.infoq.cn/article/d7aCEhQudlIvP1pPJQPJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 21:05
+
+#### [微服务之后，大厂正在回到“中心化”，Amazon 重做服务接入体系](https://www.infoq.cn/article/wQttHVte5HMIzEJG2UAo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 20:09
+
+#### [最卷春节档，改写模型“地板”的只有 TA](https://www.infoq.cn/article/PKx7bKmggh78MLpPqChK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 18:59
+
+#### [SaaS的丧钟？OpenAI高管意外“唱衰”同行：模型公司终将“吞噬”一切，但这两类公司除外](https://www.infoq.cn/article/zjLoW9JqWskdcgESGNuo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 18:00
+
+#### [现代化 ML 技术栈：智能体、多模态与实时工作流正式发布 ｜ 技术趋势](https://www.infoq.cn/article/EmfUeqkx12vtQk1G46gm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 17:58
+
+#### [虾宝给⾃⼰找了份⼯作——当AI真的按照“出⼚设置”活了起来](https://www.infoq.cn/article/SqMSDfC0qApVKQZPNtVa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 16:59
+
+#### [当AI开始学做⼈：逐句解读OpenClaw的AgentS.md ——SOUL.md定义了灵魂，AgentS.md教会它怎么活](https://www.infoq.cn/article/6DDhlbmtGRomwDCHh4Ts?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 16:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」](https://sspai.com/post/106547)
+**发布时间**: 2026-02-24 17:00
 
 ---
 

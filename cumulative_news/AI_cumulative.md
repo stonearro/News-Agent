@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-24 23:24
+**最后更新时间**: 2026-02-25 05:56
+
+---
+
+## 🆕 最新更新 (2026-02-25 05:56)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型](https://www.jiqizhixin.com/articles/2026-02-25-5)
+**发布时间**: 2026-02-25 13:17
+
+#### [DeepMind药物衍生公司的独家新AI，堪称AlphaFold 4的专有药物设计引擎](https://www.jiqizhixin.com/articles/2026-02-25-4)
+**发布时间**: 2026-02-25 13:09
+
+#### [AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录](https://www.jiqizhixin.com/articles/2026-02-25-3)
+**发布时间**: 2026-02-25 12:09
+
+#### [刚上完春晚，宇树新品机器狗就亮相了](https://www.jiqizhixin.com/articles/2026-02-25-2)
+**发布时间**: 2026-02-25 12:06
+
+#### [ICLR2026 Oral | 当情感识别不再是分类题：EmotionThinker 让 SpeechLLM 学会“解释情绪”](https://www.jiqizhixin.com/articles/2026-02-25)
+**发布时间**: 2026-02-25 12:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [清华数学系大神跳槽OpenAI！曾主导SAM与Llama开发，Sora负责人：欢迎加入](https://www.qbitai.com/2026/02/382015.html)
+**发布时间**: 2026-02-25 05:01
+
+#### [最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型](https://www.qbitai.com/2026/02/382010.html)
+**发布时间**: 2026-02-25 04:21
 
 ---
 

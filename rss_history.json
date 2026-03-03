@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "9c224c254478c44cd51d9bf353799c610f2e0694b234622ec144fba4242ac032": {
-        "title": "moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01-4",
-        "published_date": "Sun, 01 Feb 2026 18:06:00 GMT",
-        "first_seen": "2026-02-01T23:18:56.537747"
-      },
-      "8aa31552b273d2c40dc1f0ed4c70c81ac7d1d2a7404cc81ea28e7de2181a1488": {
-        "title": "马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01-3",
-        "published_date": "Sun, 01 Feb 2026 18:02:00 GMT",
-        "first_seen": "2026-02-01T23:18:56.537920"
-      },
-      "ee3f720343e5243f69ff666124e63d267258bb3bb2bbf0346479b840a49b3c5f": {
-        "title": "o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01-2",
-        "published_date": "Sun, 01 Feb 2026 17:56:00 GMT",
-        "first_seen": "2026-02-01T23:18:56.538108"
-      },
-      "3e6fad9fa1fd94a34b09a910972bc84400ca779eb2e23fdd137d5daedd7df5af": {
-        "title": "华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01",
-        "published_date": "Sun, 01 Feb 2026 16:35:00 GMT",
-        "first_seen": "2026-02-01T23:18:56.538317"
-      },
       "d28abff7fa2895182ab373f1d0082710e25ac153693c9e67482f916cd15e731b": {
         "title": "大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备",
         "link": "https://www.qbitai.com/2026/02/375355.html",
@@ -2076,21 +2052,45 @@
         "link": "https://www.qbitai.com/2026/03/383329.html",
         "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
         "first_seen": "2026-03-03T08:34:08.684429"
+      },
+      "f457c24c053afea133521d1b1f53f2ecf48f0b392ab577c29d8312acecede5c9": {
+        "title": "@所有人，2026真的需要自己上手用AI了丨年度AI盛会",
+        "link": "https://www.qbitai.com/2026/03/383796.html",
+        "published_date": "Tue, 03 Mar 2026 11:16:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.217405"
+      },
+      "ecb47fdf347b0bb785f5f85801070ab6103329f9e49fc9d40f497657c13cc79f": {
+        "title": "大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化",
+        "link": "https://www.qbitai.com/2026/03/383629.html",
+        "published_date": "Tue, 03 Mar 2026 11:13:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.217542"
+      },
+      "59fe50f9207aa7dad9f9f24a75dce024b2f976118484e05352b4b2d2a0cde5ba": {
+        "title": "龙虾再进化！强化飞书表格技能，25.2万星登顶超越React/Linux",
+        "link": "https://www.qbitai.com/2026/03/383367.html",
+        "published_date": "Tue, 03 Mar 2026 10:57:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.217712"
+      },
+      "e4194405b0ecb6d3cfe893988327b752627cc7acbd1d1441f297403b9107ab2a": {
+        "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+        "link": "https://www.qbitai.com/2026/03/383592.html",
+        "published_date": "Tue, 03 Mar 2026 10:55:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.217924"
+      },
+      "d47a24b806f9deed3b950ee96e73c428a199974817524e546f202051bfbafc8f": {
+        "title": "今年最值得关注的AI榜单来啦！申报即日启动",
+        "link": "https://www.qbitai.com/2026/03/383565.html",
+        "published_date": "Tue, 03 Mar 2026 10:42:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.218128"
+      },
+      "16e615a1798769720f0622b3bff5e48fcfe943c6397a28e423a918b56200e9e7": {
+        "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
+        "link": "https://www.qbitai.com/2026/03/383368.html",
+        "published_date": "Tue, 03 Mar 2026 10:28:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.218514"
       }
     },
     "Technology": {
-      "92e67f2c9bb0b8433ecd442470948278d55bd4d48377c4a599ae851f0fd9369a": {
-        "title": "中国的人工智能蓬勃发展，正在幕后迎来回报",
-        "link": "https://www.tmtpost.com/7863462.html",
-        "published_date": "Sun, 01 Feb 2026 20:35:00 GMT",
-        "first_seen": "2026-02-01T23:18:56.602576"
-      },
-      "1ece4f71aa62fff24614eaa1ddc1aa8b434536fe84987f1d2062adfa5733423c": {
-        "title": "彩讯股份携手稳准智能发布垂直行业数据大模型“数擎”大模型",
-        "link": "https://www.infoq.cn/article/gbW5LmM3U3dXoQhTXY31?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 01 Feb 2026 17:19:00 GMT",
-        "first_seen": "2026-02-01T23:18:56.602718"
-      },
       "8f7b7d1ce921e415a67c71833489310c3e5ca0cf5d72b6659a7dea9a901928a4": {
         "title": "阿里的AI战略，“通云哥”既是谜面，也是谜底",
         "link": "https://www.tmtpost.com/7863208.html",
@@ -10442,13 +10442,133 @@
         "link": "https://sspai.com/post/106372",
         "published_date": "Tue, 03 Mar 2026 15:00:00 GMT",
         "first_seen": "2026-03-03T08:33:59.214147"
+      },
+      "3ad8042f8a0890962ddd5d94390a9c0f9f7a23aa93b743d82d9ccfd45b35d92b": {
+        "title": "有人担心美国在伊朗可能会把导弹用光，美国正转而求助的就是这些承包商",
+        "link": "https://www.tmtpost.com/7898772.html",
+        "published_date": "Tue, 03 Mar 2026 23:08:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029781"
+      },
+      "79629cbcbe6894643a1385be684bc4b9dee83eb13b84adc12e74168f569bb7ea": {
+        "title": "亚马逊数据中心遭无人机袭击：科技行业如何暴露在战争之中",
+        "link": "https://www.tmtpost.com/7898770.html",
+        "published_date": "Tue, 03 Mar 2026 23:07:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029754"
+      },
+      "3fe7b09f773341ae5cf3d5e247674e1e552d1cfe9b26c7367d874e393d387de4": {
+        "title": "7.27亿元落槌！动保龙头拟收购中核铀业旗下两公司股权；全球偏光片龙头易主在即，已提交重整计划草案；【并购一线】",
+        "link": "https://www.tmtpost.com/7898746.html",
+        "published_date": "Tue, 03 Mar 2026 22:38:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029799"
+      },
+      "307c6c6caf3b3e66bb6c865fe0d17bc4b68a18dbfa11736fe6c5e77390e7f4c0": {
+        "title": "五连亏、补税2000万、高负债夹击：艾迪药业12.77亿的破局豪赌",
+        "link": "https://www.tmtpost.com/7891224.html",
+        "published_date": "Tue, 03 Mar 2026 22:08:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029811"
+      },
+      "52cc474a6f0604acf9cc3e13ea6fbc32b8c590d7916de8ef71fca0263e2c55fc": {
+        "title": "平价易主+宽松对赌+借壳幻灭，法兰泰克复牌跌5.6% ｜并购一线",
+        "link": "https://www.tmtpost.com/7898483.html",
+        "published_date": "Tue, 03 Mar 2026 19:23:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029824"
+      },
+      "1787aa556ad10739577169a14b54cc4078cc91c51a2fd8b268d20a914d78ff27": {
+        "title": "中东光伏项目短期内交付受阻；欧盟将废除小额包裹免税政策；Lazada子公司在新加坡推出前置仓即时零售 ｜一周出海参考",
+        "link": "https://www.tmtpost.com/7897523.html",
+        "published_date": "Tue, 03 Mar 2026 19:17:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029837"
+      },
+      "e12bd8d986ef76e42d4cb67d204b635ea13d4766748b74d9d3344132c9e457c9": {
+        "title": "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？",
+        "link": "https://www.tmtpost.com/7898487.html",
+        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029848"
+      },
+      "c71ff909c68c834e2a82006cfd5fe84e2c3c1f975ace1fa0c84b8f1b8cae608f": {
+        "title": "字节领航、Kimi 爆发：红包大战落幕，AI行业变天",
+        "link": "https://www.tmtpost.com/7898418.html",
+        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029861"
+      },
+      "e3e9d67f035523a70dbeff0d26f832b0291b985a208f7baa1a24394d7c3ea4eb": {
+        "title": "从夸克到千问：阿里AI“重修族谱”",
+        "link": "https://www.tmtpost.com/7898028.html",
+        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029871"
+      },
+      "ce364f5d1e67323bca248e99da03f6e42121c9cb06602e4c4aa1e68b29d41db4": {
+        "title": "Bigger than bigger，汽车公司开启SUV之战",
+        "link": "https://www.tmtpost.com/7898344.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:20:27.029882"
+      },
+      "94bf9a6e207a642e392b032f028df9c8c857ae2b9c05554244d49ca38b773a53": {
+        "title": "姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱",
+        "link": "https://www.tmtpost.com/7898398.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.735282"
+      },
+      "0c67675980835faabc1e0a57858dd07365ce728174b7c64aef464c0ce2a2a2f8": {
+        "title": "AI手机路上，荣耀“背叛”豆包",
+        "link": "https://www.tmtpost.com/7898350.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.735811"
+      },
+      "c104bf3f9ab77e944e639f6d941bd61998bf98cb83d1ac48155b7ec6c1809391": {
+        "title": "OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”",
+        "link": "https://www.tmtpost.com/7898346.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.736550"
+      },
+      "d90f5ded9e3e42fa679c2acc01c22fa25223317e06bc1058a9868f6805087063": {
+        "title": "OpenClaw 越红火，MiniMax 们越开心",
+        "link": "https://www.tmtpost.com/7898277.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.737241"
+      },
+      "34189f83fa088e99d99340f9b2da6c7bd890b2e2e874dbc7efe7bd27dbedc583": {
+        "title": "春晚之后，机器人忙着“走穴”接活",
+        "link": "https://www.tmtpost.com/7898263.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.737897"
+      },
+      "86343ec0a8366e39f2d06864381099001c07c7ce4d68c249baf50d2649d608ac": {
+        "title": "大模型开始偏爱引用YouTube了？",
+        "link": "https://www.tmtpost.com/7896355.html",
+        "published_date": "Tue, 03 Mar 2026 18:42:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.738368"
+      },
+      "5d80075e8c902a45db8583a1f63998afa59cf91a1bf3678e464f311f8209038f": {
+        "title": "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock",
+        "link": "https://www.tmtpost.com/7898278.html",
+        "published_date": "Tue, 03 Mar 2026 17:56:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.740120"
+      },
+      "c4a98f270fa2d96804cc14b81238feff51683cd50014c94363f1f50d1e8f2f98": {
+        "title": "成为主角的百度 AI，能支棱起来吗？",
+        "link": "https://www.tmtpost.com/7898191.html",
+        "published_date": "Tue, 03 Mar 2026 17:35:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.740861"
+      },
+      "14610688ef5e5fefeb8e9504e13fc6253c73f91750778697eef9b52205c42685": {
+        "title": "模力工场 033 周 AI 应用榜：从评论区互动到游戏陪玩，AI 已悄悄加载完成",
+        "link": "https://www.infoq.cn/article/3AV33wXig2vBy4s5hkIP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Mar 2026 20:00:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.742248"
+      },
+      "22963731908b9da719fdb8f584262da0de5d8064407c32a2ef9465f7d9a1bf35": {
+        "title": "社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」",
+        "link": "https://sspai.com/post/106782",
+        "published_date": "Tue, 03 Mar 2026 16:51:00 GMT",
+        "first_seen": "2026-03-03T23:20:17.743453"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-03T08:34:08.691468",
-    "Technology": "2026-03-03T08:34:08.530364",
-    "Finance": "2026-03-03T08:34:08.550424"
+    "AI": "2026-03-03T23:20:27.225642",
+    "Technology": "2026-03-03T23:20:27.061159",
+    "Finance": "2026-03-03T23:20:27.080510"
   }
 }

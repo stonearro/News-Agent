@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 23:20
+**最后更新时间**: 2026-03-04 05:39
+
+---
+
+## 🆕 最新更新 (2026-03-04 05:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [我们与千问AI硬件负责人宋刚聊了聊，“一句话办事”何以重构硬件战场？｜AGI对话](https://www.tmtpost.com/7899308.html)
+**发布时间**: 2026-03-04 12:55
+
+#### [宫颈癌防治，历史性的一夜](https://www.tmtpost.com/7899008.html)
+**发布时间**: 2026-03-04 11:49
+
+#### [Manus肖弘：理想主义的填缝人](https://www.tmtpost.com/7898614.html)
+**发布时间**: 2026-03-04 11:49
+
+#### [第一次，战争的底牌攥在AI手里](https://www.tmtpost.com/7898584.html)
+**发布时间**: 2026-03-04 11:35
+
+#### [从工业牙齿到大国棋子：钨价1年涨5倍背后的全球定价权之争](https://www.tmtpost.com/7898631.html)
+**发布时间**: 2026-03-04 11:35
+
+#### [津巴布韦关上门，格林美打开了锂资源的另一扇窗](https://www.tmtpost.com/7898625.html)
+**发布时间**: 2026-03-04 11:35
+
+#### [MiniMax交卷！从烧钱到赚钱还有多久？](https://www.tmtpost.com/7898633.html)
+**发布时间**: 2026-03-04 11:35
+
+#### [美伊冲突给无人配送车企上一课：技术不是唯一护城河！](https://www.tmtpost.com/7899014.html)
+**发布时间**: 2026-03-04 11:35
+
+#### [当油价飙升、市场下跌时，如何做好防守](https://www.tmtpost.com/7899264.html)
+**发布时间**: 2026-03-04 11:33
+
+#### [这只嘉信红利ETF堪称超级明星，防御板块和能源板块是关键](https://www.tmtpost.com/7899256.html)
+**发布时间**: 2026-03-04 11:31
+
+#### [公募基金市场近期关注](https://www.tmtpost.com/7899251.html)
+**发布时间**: 2026-03-04 11:28
+
+#### [上市公司TOP5济安评估（2月24日至2月27日）｜上市公司观察](https://www.tmtpost.com/7899243.html)
+**发布时间**: 2026-03-04 11:28
+
+#### [价值判断：涨停板的投资机会和风险提示（3月3日）｜证券市场观察](https://www.tmtpost.com/7899236.html)
+**发布时间**: 2026-03-04 11:28
+
+#### [价值判断：跌停板的投资机会和风险提示（3月3日）｜证券市场观察](https://www.tmtpost.com/7899228.html)
+**发布时间**: 2026-03-04 11:28
+
+#### [阿里千问“换帅”风暴：林俊旸转身，大模型赛道告别英雄时代](https://www.tmtpost.com/7899168.html)
+**发布时间**: 2026-03-04 10:53
+
+#### [MongoDB股价暴跌21%，为何分析师仍然建议买入](https://www.tmtpost.com/7899178.html)
+**发布时间**: 2026-03-04 10:48
+
+#### [两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深](https://www.tmtpost.com/7898990.html)
+**发布时间**: 2026-03-04 10:35
+
+#### [蚂蚁阿福用户破亿：AI医疗的狂欢，还是虚火？](https://www.tmtpost.com/7898504.html)
+**发布时间**: 2026-03-04 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜将 Obsidian 剪藏文章自动添加至当天日记](https://sspai.com/post/106660)
+**发布时间**: 2026-03-04 11:31
+
+#### [派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品](https://sspai.com/post/106811)
+**发布时间**: 2026-03-04 07:57
+
+#### [给 Lumia 1020 用户的 Windows Phone 8.1 漫游指南（2026）](https://sspai.com/post/106467)
+**发布时间**: 2026-03-02 15:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon北京](https://www.infoq.cn/article/qAd3vVp3IdXx7dNw3vvH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 11:07
+
+#### [平台工程实验室扩展了formae的多云支持](https://www.infoq.cn/article/RcBF9xRZMeX3uLhwT5sj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 11:05
+
+#### [OpenClaw能“边用边训”了：智能体强化学习训练框架AReaL v1.0稳定版发布](https://www.infoq.cn/article/NDDJfG3lJCHjSI43k1I4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:52
+
+#### [覆盖 35 万开发者的应用风险数据库发布，聚焦儿童隐私与广告链路数据暴露](https://www.infoq.cn/article/fuqDscvvQ8CoeeG4Xbf0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:35
+
+#### [Java近期资讯：JDK26-RC2、Payara平台、Hibernate、Quarkus、Apache Camel、Jakarta EE 12](https://www.infoq.cn/article/WatXh6eUqiCCPFHYscqF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:26
+
+#### [AI“氛围编程”威胁开源，维护者面临危机](https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:10
+
+#### [股东变对手？OpenAI被爆砸钱研发GitHub替代方案，硬刚微软](https://www.infoq.cn/article/23s4CDCMmMiFvR7CcRXK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 09:39
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [史上最忙AI春节档：海量新品，如何才能不焦虑？](http://www.huxiu.com/article/4837484.html?f=wangzhan)
+**发布时间**: 2026-03-03 18:30
+
+#### [全网狂吹，永久投资组合，能持续赚吗?](http://www.huxiu.com/article/4837439.html?f=wangzhan)
+**发布时间**: 2026-03-03 18:00
+
+#### [让财务官当CEO，利润全球第一的丰田也缺钱了？](http://www.huxiu.com/article/4838597.html?f=wangzhan)
+**发布时间**: 2026-03-03 17:15
+
+#### [一年千亿，短剧生意比电影都大了？](http://www.huxiu.com/article/4838156.html?f=wangzhan)
+**发布时间**: 2026-03-03 17:00
+
+#### [百年松下集团，把彩电业务交给了中国](http://www.huxiu.com/article/4837825.html?f=wangzhan)
+**发布时间**: 2026-03-03 09:53
+
+#### [遗忘，就是对暴力的重复](http://www.huxiu.com/article/4837962.html?f=wangzhan)
+**发布时间**: 2026-03-02 20:00
+
+#### [除夕夜与王兴兴的访谈：揭秘春晚幕后，与宇树这一年](http://www.huxiu.com/article/4837789.html?f=wangzhan)
+**发布时间**: 2026-03-02 19:00
+
+#### [投资也有性价比？认识夏普比](http://www.huxiu.com/article/4837958.html?f=wangzhan)
+**发布时间**: 2026-03-02 17:06
+
+#### [伊朗战争：美国的终极野心将如何影响资本市场？](http://www.huxiu.com/article/4838211.html?f=wangzhan)
+**发布时间**: 2026-03-02 16:28
+
+#### [小米舞超跑，意在“欧公子”？](http://www.huxiu.com/article/4838234.html?f=wangzhan)
+**发布时间**: 2026-03-02 15:29
 
 ---
 

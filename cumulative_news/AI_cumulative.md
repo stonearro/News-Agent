@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-04 05:38
+**最后更新时间**: 2026-03-04 23:23
+
+---
+
+## 🆕 最新更新 (2026-03-04 23:23)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Teaching LLMs to reason like Bayesians](https://research.google/blog/teaching-llms-to-reason-like-bayesians/)
+**发布时间**: 2026-03-04 20:29
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起](https://www.qbitai.com/2026/03/383902.html)
+**发布时间**: 2026-03-04 07:50
 
 ---
 

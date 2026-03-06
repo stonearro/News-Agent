@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-06 05:40
+**最后更新时间**: 2026-03-06 08:30
+
+---
+
+## 🆕 最新更新 (2026-03-06 08:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [海尔智家发布制造行业首份AI+细分岗位能力模型，引领领域人才标准演进](https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 16:18
+
+#### [微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop](https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 15:00
+
+#### [Kubernetes引入节点就绪控制器来提高Pod调度可靠性](https://www.infoq.cn/article/L8Ozfyk1Epmm2SpwWqDT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄金、港股与美元：地缘冲突下的资产价格逻辑](https://www.tmtpost.com/7901686.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [全村人都在等着DeepSeek上桌吃饭了](https://www.tmtpost.com/7902250.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [我对林俊旸离职的看法：阿里AI的大方向没有变](https://www.tmtpost.com/7902263.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [创新药的“第四条路”](https://www.tmtpost.com/7902299.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！](https://www.tmtpost.com/7902324.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [酒店频繁涨价，不能全怪华住亚朵](https://www.tmtpost.com/7902495.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [他，28岁，清华辍学3年，从生活费2000元到身价数亿](https://www.tmtpost.com/7902337.html)
+**发布时间**: 2026-03-06 15:28
+
+#### [她们一直在工作，只是历史很少看见她们](https://www.tmtpost.com/7902152.html)
+**发布时间**: 2026-03-06 14:51
+
+#### [MWC 2026：当AI拥有“身体”，中国掌握"造物权"](https://www.tmtpost.com/7902280.html)
+**发布时间**: 2026-03-06 13:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜给 NPC 接上 AI：重生爽文看不够？我直接做了个能骂反派的游戏](https://sspai.com/post/106789)
+**发布时间**: 2026-03-06 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [阿里不希望任何人上“神坛”？](http://www.huxiu.com/article/4839506.html?f=wangzhan)
+**发布时间**: 2026-03-06 14:41
 
 ---
 

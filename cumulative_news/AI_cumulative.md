@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-06 08:30
+**最后更新时间**: 2026-03-06 23:22
+
+---
+
+## 🆕 最新更新 (2026-03-06 23:22)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [WAXAL: A large-scale open resource for African language speech technology](https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/)
+**发布时间**: 2026-03-06 20:06
+
+#### [Where wild things roam: Identifying wildlife with SpeciesNet](https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/)
+**发布时间**: 2026-03-06 17:59
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队](https://www.qbitai.com/2026/03/384578.html)
+**发布时间**: 2026-03-06 14:39
+
+#### [技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式](https://www.qbitai.com/2026/03/384573.html)
+**发布时间**: 2026-03-06 12:04
+
+#### [超智算智能算力中心揭牌暨AI算力设备点亮仪式成功举行](https://www.qbitai.com/2026/03/384561.html)
+**发布时间**: 2026-03-06 11:46
+
+#### [高德发布全球首个由大模型驱动的视觉认知步行导引系统](https://www.qbitai.com/2026/03/384557.html)
+**发布时间**: 2026-03-06 11:10
+
+#### [2026年，AI初创全球化的「变与不变」｜沙龙招募](https://www.qbitai.com/2026/03/384517.html)
+**发布时间**: 2026-03-06 10:11
+
+#### [Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔](https://www.qbitai.com/2026/03/384519.html)
+**发布时间**: 2026-03-06 09:56
 
 ---
 

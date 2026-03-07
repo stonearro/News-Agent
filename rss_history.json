@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3c4bdfdfd3cee67d313149676df5c97d1ce27869cf89764c00eb9f613b9c06e4": {
-        "title": "强化学习远不是最优，CMU刚刚提出最大似然强化学习",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-11",
-        "published_date": "Thu, 05 Feb 2026 16:05:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.404404"
-      },
-      "69c7396b3c52ccf73b9e907c61273100b23cc1724882bb52418687286588a20a": {
-        "title": "ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-10",
-        "published_date": "Thu, 05 Feb 2026 15:59:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.404578"
-      },
-      "8d15a9019fba8a001803ce3826bde6b395cb6d3d8ca652c1c72e2b0427f295fa": {
-        "title": "中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-8",
-        "published_date": "Thu, 05 Feb 2026 14:09:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.404779"
-      },
-      "9be2282f14a0c7862ceccff1825c4bb9d1e756324c118333d7e72487b6e8635c": {
-        "title": "首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代",
-        "link": "https://www.qbitai.com/2026/02/376502.html",
-        "published_date": "Thu, 05 Feb 2026 07:28:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.405076"
-      },
-      "2aded2ce234c8cdf14cad70ada3b1de094b2268e652c4f7520bc416bfd4517a1": {
-        "title": "谷歌北大联手学术版Banana爆火，论文图表100%精确生成",
-        "link": "https://www.qbitai.com/2026/02/376451.html",
-        "published_date": "Thu, 05 Feb 2026 06:15:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.405395"
-      },
       "350292e1c0fd110ae54a6c1ed66b9e202db7774a25e998730a014a299a080a16": {
         "title": "众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生",
         "link": "https://www.jiqizhixin.com/articles/2026-02-05-12",
@@ -1812,99 +1782,15 @@
         "link": "https://www.qbitai.com/2026/03/384595.html",
         "published_date": "Sat, 07 Mar 2026 02:32:00 GMT",
         "first_seen": "2026-03-07T05:34:34.295060"
+      },
+      "af3e505f484b2183b9276ab63fda0bafaa5d73740c834f1ee59812936e6579de": {
+        "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+        "link": "https://www.qbitai.com/2026/03/384637.html",
+        "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.290794"
       }
     },
     "Technology": {
-      "6492d190a9191ec7ff01246ba97c31554c765dbf7be2eada5bc2efe703e32810": {
-        "title": "AI 驱动的大数据自治：TCInsight 智能应对复杂运维挑战",
-        "link": "https://www.infoq.cn/article/F48Of5dWYPgMNqeVIwY0?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 16:23:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796606"
-      },
-      "a3464e2bfc6ff11c0ae9bca81c86e3c1c23187384e56f134547cb0c7f95e3f85": {
-        "title": "奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化",
-        "link": "https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 16:22:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796622"
-      },
-      "ced5dcb58ec148544011d8b4b423d7ed182720802e4e896f707b65658403665c": {
-        "title": "OpenViking：面向 Agent 的上下文数据库",
-        "link": "https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 15:45:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796636"
-      },
-      "2ede68293f8732f04e4089af63f7d608a8c305572353518c76ba78f064e772e8": {
-        "title": "Cursor 浏览器翻车后，这个团队做出AI规模化高可靠软件工厂",
-        "link": "https://www.infoq.cn/article/KAvjp4x5XULUL6ooEa8Y?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 14:37:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796648"
-      },
-      "3e1036d07754c78afa33ce051b9abf2c35d18fc175209ca5954fd45cd3f5c0e5": {
-        "title": "配置一改就要重启的时代结束了：Dev Proxy 2.1 正式上线",
-        "link": "https://www.infoq.cn/article/DhyfQVuh5lMeULuXNPIY?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 14:13:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796661"
-      },
-      "d86bc5e5f7cbadd5ff55580970c0d9d6d9c29e3a1fe7e037bcacfe22824dab58": {
-        "title": "EverMind Launches a Memory Platform and an $80,000 Global Competition With the Aim to End Agentic Amnesia",
-        "link": "https://www.tmtpost.com/7867773.html",
-        "published_date": "Thu, 05 Feb 2026 15:57:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.472815"
-      },
-      "0e158087b90b7b455e391f302afd99bd0806c59e4f0191a7baab827cea5fab1f": {
-        "title": "马斯克带飞“太空光伏”，中国企业杀入星辰大海",
-        "link": "https://www.tmtpost.com/7867187.html",
-        "published_date": "Thu, 05 Feb 2026 15:47:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796675"
-      },
-      "dcb2d249b54dfdade1749fcac2b209fcc004c60154f903146713bd19bcac3c47": {
-        "title": "“GEO”到底是不是AI版的竞价排名？",
-        "link": "https://www.tmtpost.com/7867502.html",
-        "published_date": "Thu, 05 Feb 2026 15:00:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796686"
-      },
-      "613a696bd7222ca02f17aa4ee475dda4a7891c9c98497ddb64c0aaf6975b0fb5": {
-        "title": "财务造假、退税疑云、账户冻结，清越科技滑向退市边缘",
-        "link": "https://www.tmtpost.com/7867667.html",
-        "published_date": "Thu, 05 Feb 2026 14:50:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796577"
-      },
-      "c78981e3fbc66c754d6322fcf19ac02b46da6dd1f94745194abbf4a1bb4d555a": {
-        "title": "00后疯抢“回旋镖机票”，先旅游再返乡过年……",
-        "link": "https://www.tmtpost.com/7867484.html",
-        "published_date": "Thu, 05 Feb 2026 14:34:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796699"
-      },
-      "afd8d6f9687fad9317c94eebe8660958d620948256a73c2457adbfd05d377758": {
-        "title": "对话南山资本何佳：从“文娱捕手”到“AI猎手”，一场迟到了十年的回归",
-        "link": "https://www.tmtpost.com/7867680.html",
-        "published_date": "Thu, 05 Feb 2026 14:27:00 GMT",
-        "first_seen": "2026-02-05T08:34:58.796711"
-      },
-      "ab14aa57fd6b9b39bb8be2b23ef8ddda03226fb858b5f4b6bb9509bbbad553c1": {
-        "title": "阿福的商业化猜想与未来拷问",
-        "link": "https://www.tmtpost.com/7867348.html",
-        "published_date": "Thu, 05 Feb 2026 13:58:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.475527"
-      },
-      "add1a68b63de2a512a6a09df5fd4f8515602991b8e6c6d8068d71f1a04b9889a": {
-        "title": "悬崖上的永辉",
-        "link": "https://www.tmtpost.com/7867434.html",
-        "published_date": "Thu, 05 Feb 2026 13:40:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.475841"
-      },
-      "a4d96017f651d7ab608f0fa5c83be49bd110ec6319df55644dec0413a1558d6e": {
-        "title": "在星际航行时代，中国这波布局buff叠满了",
-        "link": "http://www.huxiu.com/article/4832584.html?f=wangzhan",
-        "published_date": "Thu, 05 Feb 2026 15:00:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.476367"
-      },
-      "d3d29e3237ce12c61f266dd9834cb3282878f3017d016b01b10e90fa512d7f16": {
-        "title": "满分五分，你给 Apple 的 2025 年打几分？",
-        "link": "https://sspai.com/post/106060",
-        "published_date": "Thu, 05 Feb 2026 14:56:00 GMT",
-        "first_seen": "2026-02-05T08:34:49.477189"
-      },
       "c3117fa2ca88b857322a0e0922b22d095191350fb2fb5f60d5fe13bceb4a46d5": {
         "title": "一边亏损一边溢价囤矿，盛新锂能终全资拿下木绒锂矿｜并购一线",
         "link": "https://www.tmtpost.com/7868275.html",
@@ -10280,13 +10166,55 @@
         "link": "https://www.tmtpost.com/7903611.html",
         "published_date": "Sat, 07 Mar 2026 13:44:00 GMT",
         "first_seen": "2026-03-07T08:25:43.367511"
+      },
+      "60eb589fd2da8611a4e34a628f03ef4e70799ceb4d11d170259fc110cc8c916f": {
+        "title": "三位女性操盘手，正在重塑中国零售业",
+        "link": "https://www.tmtpost.com/7904187.html",
+        "published_date": "Sat, 07 Mar 2026 23:21:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.117477"
+      },
+      "197ebee79108114cb337398748976c45e7b3e308ebe1a04c8f939c9e5b0be6c9": {
+        "title": "Airwallex 空中云汇举办“她造浪潮 共振未来”论坛，成立女性出海者联盟",
+        "link": "https://www.tmtpost.com/7904147.html",
+        "published_date": "Sat, 07 Mar 2026 21:54:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.117633"
+      },
+      "d327100a3a673f0a6edd05a11140ba6641b3357b43736937ce114267065e3bb2": {
+        "title": "对话以心医疗王莉：全球医疗Top 20里应有中企一席之地",
+        "link": "https://www.tmtpost.com/7904137.html",
+        "published_date": "Sat, 07 Mar 2026 21:40:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.117815"
+      },
+      "2cb1c95e0e2f30fcafeb3b673cceeb1f318645bd354abd4d71ee2fb7a615e954": {
+        "title": "魔法原子创始人离职后火速补全高管阵容，落地与盈利仍存多重挑战",
+        "link": "https://www.tmtpost.com/7903801.html",
+        "published_date": "Sat, 07 Mar 2026 19:15:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.118028"
+      },
+      "c249dc15093996ab4d7c34df4f59762a9ab7f882af01349d9d3654f624df0883": {
+        "title": "林俊旸：阿里千问的“吹哨人”？",
+        "link": "https://www.tmtpost.com/7903836.html",
+        "published_date": "Sat, 07 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.118234"
+      },
+      "8f143f6fae5824b40e43d4207c3a3d6678e09493167ba41cebdf8ef03a503a80": {
+        "title": "OpenClaw“龙虾”风暴60天后，谁在吃虾，谁在被吃？",
+        "link": "https://www.tmtpost.com/7903901.html",
+        "published_date": "Sat, 07 Mar 2026 19:10:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.118558"
+      },
+      "c07f96775ac60c7c8f72a49359f976bf48c437040f2b7b8553a1e9875eaa0a8f": {
+        "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
+        "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Mar 2026 17:48:00 GMT",
+        "first_seen": "2026-03-07T23:17:46.118967"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-07T08:25:52.811679",
-    "Technology": "2026-03-07T08:25:52.643814",
-    "Finance": "2026-03-07T08:25:52.664570"
+    "AI": "2026-03-07T23:17:46.297707",
+    "Technology": "2026-03-07T23:17:46.139045",
+    "Finance": "2026-03-07T23:17:46.158301"
   }
 }

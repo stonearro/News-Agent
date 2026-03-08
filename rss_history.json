@@ -1,72 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "2e70eb38b4637ffbbef5de7434e57c094d1fe4292dea98c0dffac64e3eb5269f": {
-        "title": "OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-7",
-        "published_date": "Fri, 06 Feb 2026 13:09:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258903"
-      },
-      "3298055db5d3e2a5d6ff696c8ce3e48b12ceaf10c2da50443b323de6aee23ee9": {
-        "title": "AI卖广告，吵到了超级碗：全球网友围观奥特曼破防",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-6",
-        "published_date": "Fri, 06 Feb 2026 13:04:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258892"
-      },
-      "e3f5d44156a56b9d6c3f8185effbd8573630511ba9c671ebb7f3b45e8192b428": {
-        "title": "AgentDoG：为AI智能体戴上「诊断项圈」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-5",
-        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258831"
-      },
-      "c25f767929b736c248c154261e441c5204a6ede7f469957866d2d28358ff9c81": {
-        "title": "千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-4",
-        "published_date": "Fri, 06 Feb 2026 10:39:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258844"
-      },
-      "41877d84f9d35ddb6f8e49882a7acc4a61a0ec24722acc1c0b36a38bf3b8a56a": {
-        "title": "Agentic Memory开年就卷起来了？刚刚，华人团队MemBrain拿下多项SOTA！",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-3",
-        "published_date": "Fri, 06 Feb 2026 10:29:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258857"
-      },
-      "4b6a88aea51ece6f01a534e40971ba9965291d63ba6c56bee1bfb3023ae0f479": {
-        "title": "Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-2",
-        "published_date": "Fri, 06 Feb 2026 10:16:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258915"
-      },
-      "ea7281c8bb792a228296bdd9f62ff7683c25c274c8bdde66dec01b4eefdbe12a": {
-        "title": "硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06",
-        "published_date": "Fri, 06 Feb 2026 09:39:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258871"
-      },
-      "8d72905e0314385ffd0df9cc82c567a705db30330102e1127cfb061753a21d47": {
-        "title": "GPT-5.3上线Codex！OpenAI回应Claude新模型只用了15分钟",
-        "link": "https://www.qbitai.com/2026/02/377292.html",
-        "published_date": "Fri, 06 Feb 2026 02:43:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258801"
-      },
-      "a3f3884558f110303bd4a88a8e50a72be220cb05095c582c0d378130a55f1071": {
-        "title": "10万Agent在Moltbook娱乐空谈，小冰之父出手造了个生产力实干版",
-        "link": "https://www.qbitai.com/2026/02/376802.html",
-        "published_date": "Fri, 06 Feb 2026 02:39:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258925"
-      },
-      "19426ef73d33748fd04c5de69fa063e90ac031a25eec722992d7b60626786b63": {
-        "title": "春节AI大战杀疯了！千问APP发起奶茶攻势，每人可领525元免单卡",
-        "link": "https://www.qbitai.com/2026/02/377267.html",
-        "published_date": "Fri, 06 Feb 2026 01:54:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.258882"
-      },
-      "a40d12ce55f21a8876439db76fdb54421839962b49dbc37fb9fae3d34cfa0372": {
-        "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
-        "link": "https://www.qbitai.com/2026/02/376774.html",
-        "published_date": "Fri, 06 Feb 2026 00:20:00 GMT",
-        "first_seen": "2026-02-06T05:48:23.933114"
-      },
       "f7368cbd3bb1a190b57278abf3d78920817e105b9192f92ebaf8535a45f34cfa": {
         "title": "春节30亿免单火爆登场，千问APP冲到App Store第一名",
         "link": "https://www.jiqizhixin.com/articles/2026-02-06-9",
@@ -1752,165 +1686,21 @@
         "link": "https://www.qbitai.com/2026/03/384637.html",
         "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
         "first_seen": "2026-03-07T23:17:46.290794"
+      },
+      "acb3318fd605ee14f17a62df4f31e5a9f326fb1aa15bd8eb1b0198adf64a96d9": {
+        "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
+        "link": "https://www.qbitai.com/2026/03/384705.html",
+        "published_date": "Sun, 08 Mar 2026 06:50:00 GMT",
+        "first_seen": "2026-03-08T08:26:37.102571"
+      },
+      "a5b4f5e33e5b8036f9f9bf08897e060b3645673f994646fa3e283a98d807cc64": {
+        "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
+        "link": "https://www.qbitai.com/2026/03/384646.html",
+        "published_date": "Sun, 08 Mar 2026 06:45:00 GMT",
+        "first_seen": "2026-03-08T08:26:37.102727"
       }
     },
     "Technology": {
-      "9e100b0bdfdfa17463fff30bacba39652479d7f93d054ebddccf921dcb724f1d": {
-        "title": "别再手动拼凑 Data Pipeline 了！这个新平台想让你彻底告别 Iceberg 运维噩梦",
-        "link": "https://www.infoq.cn/article/io7H7PDc3ka8dTKOEfQk?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 13:02:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603220"
-      },
-      "2f71ea6ef9ab524cdf3bcfde107a699ff29473e8dc6e7407f929b2a4c2abb7ea": {
-        "title": "Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！",
-        "link": "https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 10:19:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603289"
-      },
-      "7ec8247f3ac09abab4716616f8d5e9602098684518bdb43fd3dd3e32ef88a6cd": {
-        "title": "“英伟达AI项目数量已失控！”黄仁勋五杯酒下肚，把压箱底的都掏出来了",
-        "link": "https://www.infoq.cn/article/kEw369Jf7CKHGOMfocdE?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 10:11:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603301"
-      },
-      "ad1f27554b3817accc5c93993f73b7975f95b38a5ebe77dd32ae1ecc2212fd69": {
-        "title": "当 AI 开始写 80% 的代码，架构才是真正的护城河",
-        "link": "https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 09:44:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603313"
-      },
-      "49c7bfab7e4744755df5017cb0cab5ed772ecaaa96219e8c79435ba6d5a2a41f": {
-        "title": "OpenAI开始发布关于Codex CLI内部机制的系列文章",
-        "link": "https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 09:06:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603245"
-      },
-      "2a9db984a0f930dfe0aef81c3ab5229448b76834c4ce31235b7d4c48c94af2f4": {
-        "title": "科技世界中，被遗忘的班加罗尔",
-        "link": "https://www.tmtpost.com/7868302.html",
-        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603259"
-      },
-      "b93ab84c209a8d117ad037b2bf3ee2c636dd59fcd62c5ba10fa53788087133bc": {
-        "title": "光伏得道，ST升天",
-        "link": "https://www.tmtpost.com/7867926.html",
-        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.342180"
-      },
-      "b1a9fc21f01d4efa1819a142f83033a3f215fa8c8112d6f598cde97b3149a53a": {
-        "title": "10亿美元暗度陈仓，王兴真着急了",
-        "link": "https://www.tmtpost.com/7868433.html",
-        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603322"
-      },
-      "0c461fab0814fe8144ba81237157a83cadb2a64817a303a3fd0dcbef344f704d": {
-        "title": "正面对决lululemon，安踏“少帅”丁少翔的最难一役",
-        "link": "https://www.tmtpost.com/7868256.html",
-        "published_date": "Fri, 06 Feb 2026 12:23:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603333"
-      },
-      "dc1c279ddcb2f05e596e51cccb7253652678693f0ddb664a52312abcf6741eab": {
-        "title": "CEO上任两月失联，百亿商超被“打脸”？",
-        "link": "https://www.tmtpost.com/7868308.html",
-        "published_date": "Fri, 06 Feb 2026 12:23:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603344"
-      },
-      "84d9a81f67e46148a73c99ba2187fcd35b3a39f6e8fd01b3d08f336423ebdd49": {
-        "title": "库迪终止9.9元价格战，咖啡低价策略不香了？",
-        "link": "https://www.tmtpost.com/7868958.html",
-        "published_date": "Fri, 06 Feb 2026 11:54:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.343875"
-      },
-      "33b564503b945c3fdf11602c5340134ca4eec26eb73ff8838cb9b6001630f3be": {
-        "title": "百胜中国门店数已达1.8万家，外卖占餐厅收入 48%",
-        "link": "https://www.tmtpost.com/7868951.html",
-        "published_date": "Fri, 06 Feb 2026 11:53:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.344483"
-      },
-      "31c0d66b0bf763f2fdb7ea45646f347032890e5f493fea835400ed2aa07d0612": {
-        "title": "今年第一个民营诊所IPO诞生：系北大校友联手创业，获腾讯重押",
-        "link": "https://www.tmtpost.com/7868666.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.345158"
-      },
-      "49bbed6279a508238ae8af384d8370695da30ce83086961207f5deb86ea3e50b": {
-        "title": "商业航天的终极竞争，是成本控制还是商业生态构建？",
-        "link": "https://www.tmtpost.com/7867779.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.345687"
-      },
-      "1dc87795127a7db9ad129707e6822003a55d93ee713e54a14fea1f5e37e6b953": {
-        "title": "2025年AI期末考试，谷歌又考了全年级第一",
-        "link": "https://www.tmtpost.com/7868828.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.346301"
-      },
-      "dd4cbf5690f4af3a9d73e2ab94a9e95c47cc0297986df1829c2fdab16281aadd": {
-        "title": "“药王”大变局",
-        "link": "https://www.tmtpost.com/7868760.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.346734"
-      },
-      "b98958bcbd7e74452b55604fd4f9ccfdfced8d7817052d215401301d6015290c": {
-        "title": "从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？",
-        "link": "https://www.tmtpost.com/7867888.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.347687"
-      },
-      "e6eec294a4ce3769142a2954e2b5d0cb09e7135c6906ee482c0a8ed94be60b22": {
-        "title": "腾讯“内讧”？微信封杀元宝红包",
-        "link": "https://www.tmtpost.com/7868218.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.348345"
-      },
-      "a994833fa7a6350c56472e601b45452963b5eddeaad1af6c39fb6ce7cf65e2b2": {
-        "title": "“港人北上”，住爆深圳酒店",
-        "link": "https://www.tmtpost.com/7868653.html",
-        "published_date": "Fri, 06 Feb 2026 10:27:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.348912"
-      },
-      "13f447ac16a7b7ab35faa47906d8f4bc47342816a1b2d104feb739bcc6688ef4": {
-        "title": "叮咚上岸，美团清场",
-        "link": "https://www.tmtpost.com/7868697.html",
-        "published_date": "Fri, 06 Feb 2026 10:27:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.349512"
-      },
-      "691d135b2273659c24e4dad3b34a525d50aaf68b5b66ae9b4fd660755fec8d66": {
-        "title": "千问30亿免单止于微信封禁",
-        "link": "https://www.tmtpost.com/7868694.html",
-        "published_date": "Fri, 06 Feb 2026 10:05:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.350027"
-      },
-      "a505ef529e02f33439adf97857915b1a0ca3451bee4d1867b535a5aba7358747": {
-        "title": "叮咚买菜终于摆脱“被收购中”",
-        "link": "https://www.tmtpost.com/7868103.html",
-        "published_date": "Fri, 06 Feb 2026 09:59:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.350722"
-      },
-      "156fda7e8b827676db05d2cee7f4c99290adcbdb6cfbc7718d99584c2a41741f": {
-        "title": "有色金属整体回调 但铜、铝可能迎来了“上车”良机",
-        "link": "https://www.tmtpost.com/7868562.html",
-        "published_date": "Fri, 06 Feb 2026 09:32:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.351732"
-      },
-      "827e68a0d60c9e229a5bc12177a236b6764f5123493ba78a2debdd43dadd94bd": {
-        "title": "Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线",
-        "link": "https://sspai.com/post/106081",
-        "published_date": "Fri, 06 Feb 2026 11:30:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.352886"
-      },
-      "1c16dc60c3d61d0457662a26c71ce5de09d46e2880bb8baed49279be71859def": {
-        "title": "派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等",
-        "link": "https://sspai.com/post/106113",
-        "published_date": "Fri, 06 Feb 2026 08:50:00 GMT",
-        "first_seen": "2026-02-06T05:48:42.603274"
-      },
-      "cc17c2b0e200e065b96fd808fe331a870bd359a06e917a9f5fec345eec9eecf2": {
-        "title": "特朗普急喊爱泼斯坦案“翻篇”？350万页文件藏着什么秘密？",
-        "link": "http://www.huxiu.com/article/4832806.html?f=wangzhan",
-        "published_date": "Fri, 06 Feb 2026 10:05:00 GMT",
-        "first_seen": "2026-02-06T05:48:33.355589"
-      },
       "8f1b4f423b94bf6ebe5a8ba6690df52b3103fa643979613d202c8cbacff4c8ac": {
         "title": "TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent",
         "link": "https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&utm_medium=article",
@@ -10112,13 +9902,31 @@
         "link": "https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 08 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-08T05:39:21.107407"
+      },
+      "b72f7b3687b2f27c8ae3810c5da8dfe69ce355c9ebe59c6e19c7ac28ed4f575d": {
+        "title": "三八节特辑｜1110位女性基金经理，管理23.46万亿规模彰显巾帼实力",
+        "link": "https://www.tmtpost.com/7904410.html",
+        "published_date": "Sun, 08 Mar 2026 13:34:00 GMT",
+        "first_seen": "2026-03-08T08:26:36.921880"
+      },
+      "e045e441385666895fe80a21f26be36b9726797a421493dbf455067101695728": {
+        "title": "三类品牌，撑起女性消费新蓝海",
+        "link": "https://www.tmtpost.com/7904408.html",
+        "published_date": "Sun, 08 Mar 2026 13:34:00 GMT",
+        "first_seen": "2026-03-08T08:26:36.922062"
+      },
+      "53c4c5ed94caf1322b3adedfd7426326fbe7d5413d9af6eb46847e95dd184480": {
+        "title": "晚安，明天见：Arrows N 与富士通的退场",
+        "link": "https://sspai.com/post/106483",
+        "published_date": "Sun, 08 Mar 2026 12:53:00 GMT",
+        "first_seen": "2026-03-08T08:26:36.922243"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-08T05:39:30.617643",
-    "Technology": "2026-03-08T05:39:30.436393",
-    "Finance": "2026-03-08T05:39:30.457226"
+    "AI": "2026-03-08T08:26:37.109809",
+    "Technology": "2026-03-08T08:26:36.943141",
+    "Finance": "2026-03-08T08:26:36.962425"
   }
 }

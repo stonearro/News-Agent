@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f7368cbd3bb1a190b57278abf3d78920817e105b9192f92ebaf8535a45f34cfa": {
-        "title": "春节30亿免单火爆登场，千问APP冲到App Store第一名",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-9",
-        "published_date": "Fri, 06 Feb 2026 14:29:00 GMT",
-        "first_seen": "2026-02-06T08:34:02.647663"
-      },
-      "91cea73d71245904f018d2b9fd8ba82b9f1660a1a91a12863efc7138b0d61b51": {
-        "title": "如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-8",
-        "published_date": "Fri, 06 Feb 2026 14:09:00 GMT",
-        "first_seen": "2026-02-06T08:34:02.647852"
-      },
-      "66f15317021c036a9af25ef87d338954ddff98cd1f788096f62b83a492428ed6": {
-        "title": "寻找金融领域的ImageNet——首个信贷多模态评测基准背后的产业与学术对话",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-10",
-        "published_date": "Fri, 06 Feb 2026 14:01:00 GMT",
-        "first_seen": "2026-02-06T08:34:02.648046"
-      },
-      "8e866054a88feee434c91146aaa3ec7184a24300ffc8f3a282cfe11e7ac2bce3": {
-        "title": "陈丹琦入职Mira翁荔公司，原来是有IOI三金王赛友",
-        "link": "https://www.qbitai.com/2026/02/377467.html",
-        "published_date": "Fri, 06 Feb 2026 06:31:00 GMT",
-        "first_seen": "2026-02-06T08:34:02.648268"
-      },
-      "9b12fd6d29cb274ec9b8f7ddbfe672edffba8c4b67a22f5dabaf321431b1fdd1": {
-        "title": "“一次开发，跨芯运行”：众智FlagOS与面壁智能联手，破解 AI大模型跨芯适配难题",
-        "link": "https://www.qbitai.com/2026/02/377464.html",
-        "published_date": "Fri, 06 Feb 2026 06:01:00 GMT",
-        "first_seen": "2026-02-06T08:34:02.648566"
-      },
       "761c7784f09807cb771546172cd7b6664aeb6594a43ecb5020ada1cd636f0306": {
         "title": "全国最大国产AI算力池来了：部署超3万卡，上千款应用接入",
         "link": "https://www.qbitai.com/2026/02/377523.html",
@@ -1698,75 +1668,21 @@
         "link": "https://www.qbitai.com/2026/03/384646.html",
         "published_date": "Sun, 08 Mar 2026 06:45:00 GMT",
         "first_seen": "2026-03-08T08:26:37.102727"
+      },
+      "2fbf9d1fb2ec453e70df18752da1541c779689a4cae39dd60552e10a1d084963": {
+        "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
+        "link": "https://www.qbitai.com/2026/03/384797.html",
+        "published_date": "Sun, 08 Mar 2026 10:07:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.640953"
+      },
+      "1d9202f9655bca67973da94e995c77a691ae9541e2ee22f5a34f4db92387651c": {
+        "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
+        "link": "https://www.qbitai.com/2026/03/384786.html",
+        "published_date": "Sun, 08 Mar 2026 09:53:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.641090"
       }
     },
     "Technology": {
-      "8f1b4f423b94bf6ebe5a8ba6690df52b3103fa643979613d202c8cbacff4c8ac": {
-        "title": "TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent",
-        "link": "https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 16:23:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951452"
-      },
-      "214993a18463f6a12811e3164d22182d965033f1ba20ee55b3ff6f69d27f802b": {
-        "title": "奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单",
-        "link": "https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 15:45:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951463"
-      },
-      "b0c8be16f2c0c1b5b41ab1a278ae94bd1ec269c2478afead1a181953f76079b9": {
-        "title": "Cloudera发布2026 AI与数据技术趋势预测：标准化、可控化趋势成企业主流选择",
-        "link": "https://www.infoq.cn/article/RGiNVO8YPDgTfZtOBHxN?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 14:50:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951372"
-      },
-      "5d5d49d75ce48b735cf137efb63226593b92bb950b126eb327d089d6856ad39b": {
-        "title": "Cloudflare自动化Salt配置管理调试，减少发布延迟",
-        "link": "https://www.infoq.cn/article/NQxcDYglyKW4rwv876wE?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 14:02:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951399"
-      },
-      "ab8665ed6ca62d5032fff5b264460ffc860ca4913b9fcaa0d66f075643b1f8ca": {
-        "title": "Astro发布了版本6 Beta版，重新设计了开发服务器和一流的Cloudflare Workers",
-        "link": "https://www.infoq.cn/article/ZzvIZlrHj7PqMKQSuaqT?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 14:00:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951414"
-      },
-      "3c8412eb93954b25c6235036b95b69f615683f5bf966e6646a6fd36531014390": {
-        "title": "阿童木冲击“工业机器人第一股”，瓜子老板大赚3300%",
-        "link": "https://www.tmtpost.com/7868693.html",
-        "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951475"
-      },
-      "d328ce06c0b6fe6e1fe4eae1567812f2313833334b2d4a96708a789ad54c5c1c": {
-        "title": "竞速芯片IPO，阿里百度都不想藏了",
-        "link": "https://www.tmtpost.com/7868779.html",
-        "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951426"
-      },
-      "7147d5933a2779c10f8c366037df2d15eec2d1d51d192dd0d3dee9b9cb4c791a": {
-        "title": "2000 亿军备赛！亚马逊为 AI 颠出新高度",
-        "link": "https://www.tmtpost.com/7868781.html",
-        "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951486"
-      },
-      "534ed5de089a7af23661d2cf1cff7b2aa1ec098a8c3d0087ed08582e99d22f92": {
-        "title": "度普利尤单抗小心点，外面全是国产创新药",
-        "link": "https://www.tmtpost.com/7868875.html",
-        "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951436"
-      },
-      "1c0865f9ba39698e3f90cfe9848f6526579877f1ac2306e129b1ae386e9201a0": {
-        "title": "Google 赢麻了，但也害怕极了",
-        "link": "https://www.tmtpost.com/7869235.html",
-        "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-06T08:34:11.951495"
-      },
-      "312bf810514f42ef67137cb70b06f8e892a5642b4535dd880c0e3e31713ec1e4": {
-        "title": "醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史",
-        "link": "https://sspai.com/post/105976",
-        "published_date": "Fri, 06 Feb 2026 14:59:00 GMT",
-        "first_seen": "2026-02-06T08:34:02.732778"
-      },
       "f1d1bbaecb43cb887f31c036f6fbf14d2dabf6e399a81375caa94d59ec5d2389": {
         "title": "键盘长草，编程已死，agentic engineering时代已至",
         "link": "https://www.tmtpost.com/7869075.html",
@@ -9920,13 +9836,55 @@
         "link": "https://sspai.com/post/106483",
         "published_date": "Sun, 08 Mar 2026 12:53:00 GMT",
         "first_seen": "2026-03-08T08:26:36.922243"
+      },
+      "55f84ee329c427ee1b2319fe3f7e1d62a04293cc1edb5378f02370bca168be27": {
+        "title": "锐步中国业务易主，业绩困局下的机遇与挑战",
+        "link": "https://www.tmtpost.com/7904685.html",
+        "published_date": "Sun, 08 Mar 2026 22:00:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.456800"
+      },
+      "b04358799977aa3ea65fbc7013d311fc74fff1903f80a77bfc03f5ca4eadbd7d": {
+        "title": "Mol Psychiatry｜暨南大学师蕾/彭颖慧/叶文才团队揭示自闭症“蛋白翻译失控”新机制",
+        "link": "https://www.tmtpost.com/7904512.html",
+        "published_date": "Sun, 08 Mar 2026 19:02:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.456987"
+      },
+      "a9fcdd78b9f9afc99c0a311014a787aba43fb022c04889a74f440876121734bc": {
+        "title": "Science｜攻克AD现曙光！美国科学家开发新型CAR-A疗法",
+        "link": "https://www.tmtpost.com/7904513.html",
+        "published_date": "Sun, 08 Mar 2026 19:02:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.457213"
+      },
+      "6534d802996ddff6732f3b8a42b6a45fedc471f7609ef00aecc015e775f11fae": {
+        "title": "Nat Aging｜南京大学郭保生/蒋青等揭示运动改善AD认知障碍的“肌-脑通讯”新机制",
+        "link": "https://www.tmtpost.com/7904509.html",
+        "published_date": "Sun, 08 Mar 2026 19:02:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.457524"
+      },
+      "b8f428eab3bb6a9d37cd3aa9e13e91cc99f76655aa61beb1fcd06450bff11ebc": {
+        "title": "扒一扒锂电池材料行业的这个隐形冠军",
+        "link": "https://www.tmtpost.com/7904544.html",
+        "published_date": "Sun, 08 Mar 2026 18:59:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.457720"
+      },
+      "61977a014774117634d59caec5a8787da211c1ab733d555247401054a75ca9fb": {
+        "title": "在县城，女性主义很远，半价牛排很近",
+        "link": "https://www.tmtpost.com/7904465.html",
+        "published_date": "Sun, 08 Mar 2026 18:59:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.457964"
+      },
+      "1db73485b3536252b5f760b4972e60db7e5ad259ca152a17d75e5bb0a0f26ebc": {
+        "title": "从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集",
+        "link": "http://www.huxiu.com/article/4840071.html?f=wangzhan",
+        "published_date": "Sun, 08 Mar 2026 12:52:00 GMT",
+        "first_seen": "2026-03-08T23:18:03.458385"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-08T08:26:37.109809",
-    "Technology": "2026-03-08T08:26:36.943141",
-    "Finance": "2026-03-08T08:26:36.962425"
+    "AI": "2026-03-08T23:18:03.648147",
+    "Technology": "2026-03-08T23:18:03.479528",
+    "Finance": "2026-03-08T23:18:03.499303"
   }
 }

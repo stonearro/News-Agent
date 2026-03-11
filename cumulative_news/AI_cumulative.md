@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-11 08:32
+**最后更新时间**: 2026-03-11 23:19
+
+---
+
+## 🆕 最新更新 (2026-03-11 23:19)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Exploring the feasibility of conversational diagnostic AI in a real-world clinical study](https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/)
+**发布时间**: 2026-03-11 16:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间](https://www.qbitai.com/2026/03/386485.html)
+**发布时间**: 2026-03-11 09:30
+
+#### [LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元](https://www.qbitai.com/2026/03/386308.html)
+**发布时间**: 2026-03-11 09:26
+
+#### [对话「哈萨比斯传」作者：“他不喜欢奥特曼”](https://www.qbitai.com/2026/03/386285.html)
+**发布时间**: 2026-03-11 09:22
+
+#### [499上门装龙虾的人，开始赚299卸载龙虾的钱了](https://www.qbitai.com/2026/03/386235.html)
+**发布时间**: 2026-03-11 08:44
+
+#### [养虾人狂吃国产模型！4.19万亿Token调用量激增34.9%超越美国](https://www.qbitai.com/2026/03/386183.html)
+**发布时间**: 2026-03-11 08:41
 
 ---
 

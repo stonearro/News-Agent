@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-12 08:34
+**最后更新时间**: 2026-03-12 23:21
+
+---
+
+## 🆕 最新更新 (2026-03-12 23:21)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单](https://www.qbitai.com/2026/03/387068.html)
+**发布时间**: 2026-03-12 13:13
+
+#### [对话VAST曹炎培：2秒才是3D生成本该有的速度](https://www.qbitai.com/2026/03/386717.html)
+**发布时间**: 2026-03-12 12:09
+
+#### [荣耀机器人亮相MWC，瑞声科技深度参与关键结构件支持](https://www.qbitai.com/2026/03/386713.html)
+**发布时间**: 2026-03-12 11:32
+
+#### [全网首份「龙虾」安全部署指南来了！360出品](https://www.qbitai.com/2026/03/386707.html)
+**发布时间**: 2026-03-12 09:54
+
+#### [养虾人Token自由！千亿Token+百万奖金等你来拿，0门槛冲就完了](https://www.qbitai.com/2026/03/386669.html)
+**发布时间**: 2026-03-12 09:35
+
+#### [卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法](https://www.qbitai.com/2026/03/386668.html)
+**发布时间**: 2026-03-12 09:33
+
+#### [爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元](https://www.qbitai.com/2026/03/386664.html)
+**发布时间**: 2026-03-12 07:18
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Protecting cities with AI-driven flash flood forecasting](https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/)
+**发布时间**: 2026-03-12 13:03
+
+#### [Introducing Groundsource: Turning news reports into data with Gemini](https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/)
+**发布时间**: 2026-03-12 10:42
 
 ---
 

@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "99bc021c67667852dd92b50bb34aba447eb92df6360b1187b3e9f8f53ff02451": {
-        "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-6",
-        "published_date": "Fri, 13 Feb 2026 16:20:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.640197"
-      },
-      "870958d2cb4ad9da89f3acf7bb6adabc7f6f6808e3efb6dbdf9e30c3e1a4e58f": {
-        "title": "1美元时薪？这才是打工人的「梦中情模」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-5",
-        "published_date": "Fri, 13 Feb 2026 16:11:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.640355"
-      },
-      "1fef9fb33f0abb7515876858db16f400a2aa19a17b1efa3593c93991d9c13ff0": {
-        "title": "CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-3",
-        "published_date": "Fri, 13 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.640684"
-      },
-      "6057d849eb7a1df6561b60ead96875dcf32e990c75352507032b22bb4574485a": {
-        "title": "刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-2",
-        "published_date": "Fri, 13 Feb 2026 15:56:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.640889"
-      },
-      "58218db78fa61b538335ee2a8cc0f8f7f414664d6631243012b8c82288de6cff": {
-        "title": "我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13",
-        "published_date": "Fri, 13 Feb 2026 15:48:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.641323"
-      },
-      "66ba73b4f19fb9cf6db82020f2cc063280ab7b57427529ae0dd4651db90569b3": {
-        "title": "上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-4",
-        "published_date": "Fri, 13 Feb 2026 14:16:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.641714"
-      },
-      "6f78bfacfc9b514b7297059cb8127455585bcd6c0faa8aef5e348f646a0d8f92": {
-        "title": "姚顺宇谷歌首秀，Gemini新模型刷爆SOTA：人类仅剩7人捍卫碳基编程",
-        "link": "https://www.qbitai.com/2026/02/379596.html",
-        "published_date": "Fri, 13 Feb 2026 07:13:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.642243"
-      },
       "5859e7da260fdfe88bf0f12cac64c872ec0db53639fbcbd1922a816b39a8f723": {
         "title": "全球首个AI原生社交平台「Teamily AI」硅谷亮相，开启「人机共生」社交新元年",
         "link": "https://www.jiqizhixin.com/articles/2026-02-13-11",
@@ -1449,84 +1407,6 @@
       }
     },
     "Technology": {
-      "c1b26142b7c99bcce1e33490b3c3218ce5a0901a018dd3aa8785a373f02bfa2a": {
-        "title": "昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与",
-        "link": "https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 16:01:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447403"
-      },
-      "b5b6a044509cc49737f0d6b6e89d6169b932ecafe93b420fd934982963da6f63": {
-        "title": "Next Moca 开源智能体定义语言 ADL",
-        "link": "https://www.infoq.cn/article/4KDHTtLauzMq0apWmDLr?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447447"
-      },
-      "8e2b564e1b7158d7ad7ced4fd2c0420d0313632c2bf2cfac91942df92b24a627": {
-        "title": "面向 AI Agents 的高性能数据基座：架构和工程实践",
-        "link": "https://www.infoq.cn/article/2B1adWKlxpisOtxhOSfj?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 14:28:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447460"
-      },
-      "9409dec986cb14868d4ba2a3e922fd31862ec3aa82418844882936023484ad4c": {
-        "title": "Vibe Coding 在代码生成与协作中的实践与思考",
-        "link": "https://www.infoq.cn/article/QtQVbAc62O1ib1V2WftO?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 14:22:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447471"
-      },
-      "2b47540db86628673e7d1a5a3281fd32a085950b2ac45972caffee23dcf190bf": {
-        "title": "OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露",
-        "link": "https://www.tmtpost.com/7879369.html",
-        "published_date": "Fri, 13 Feb 2026 15:12:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447486"
-      },
-      "50d5b0783c67dfd9f713c59599f6809a0590681db4d25cc3a03f7be8dbdfa375": {
-        "title": "汽车之家，正在把自己推向交易中央｜独家",
-        "link": "https://www.tmtpost.com/7878334.html",
-        "published_date": "Fri, 13 Feb 2026 15:06:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447497"
-      },
-      "6c422ce493a191050b5c91518ce32a5c88d32d98ea368a3219ae584a25c4cd53": {
-        "title": "“车灯女王”冲刺港股，行业龙头如何续写新故事",
-        "link": "https://www.tmtpost.com/7877473.html",
-        "published_date": "Fri, 13 Feb 2026 14:27:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447508"
-      },
-      "033613b4a96622d9e6b8030fd7c2711a426b2e1cfaddec2347b2e24762fb996e": {
-        "title": "为什么湘菜出海更容易成功？",
-        "link": "https://www.tmtpost.com/7877873.html",
-        "published_date": "Fri, 13 Feb 2026 14:27:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447518"
-      },
-      "05d55d931342a712fb10abb2e39d845aa82fbe5ae13dc79c987c6229225b761b": {
-        "title": "人和机器可以社交吗？",
-        "link": "https://www.tmtpost.com/7879332.html",
-        "published_date": "Fri, 13 Feb 2026 14:25:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447528"
-      },
-      "3d8b83d9f412f53a89f60cbf68589354d8877682a33e8fe882457ed237090bd2": {
-        "title": "红包厂的春节突围战",
-        "link": "https://www.tmtpost.com/7879077.html",
-        "published_date": "Fri, 13 Feb 2026 14:25:00 GMT",
-        "first_seen": "2026-02-13T08:35:23.124185"
-      },
-      "0ae1ddff251d5674c9b9f0c53fbbb80a6c12682a92e50c57f2edd7a3dc9c6ede": {
-        "title": "盯上这届年轻父母，有商家年入15亿，即将冲出行业“第一股”",
-        "link": "https://www.tmtpost.com/7879307.html",
-        "published_date": "Fri, 13 Feb 2026 14:18:00 GMT",
-        "first_seen": "2026-02-13T08:35:23.124700"
-      },
-      "cadaf68fe0799cc8a6977a9d67d1c592781caf9b2b060414bd660fdcd8f5baf8": {
-        "title": "大模型来了，为什么端到端的智能工厂还没有？",
-        "link": "https://www.tmtpost.com/7879106.html",
-        "published_date": "Fri, 13 Feb 2026 14:07:00 GMT",
-        "first_seen": "2026-02-13T08:35:23.125170"
-      },
-      "c2b1f4e09108fbf5acd2d61c8aada3211a71796250d7569b59e536fe811cb2ca": {
-        "title": "一个冷知识：恒瑞医药创新管线，全球第二",
-        "link": "https://www.tmtpost.com/7879017.html",
-        "published_date": "Fri, 13 Feb 2026 14:07:00 GMT",
-        "first_seen": "2026-02-13T08:35:32.447431"
-      },
       "69cb374f52ac9c870dd817fd8d2741f713d58fe9ee1f86b8a9a7de4066670ea4": {
         "title": "“春节档”新品密集上新，给了AI应用“做多”的理由｜行业风向标",
         "link": "https://www.tmtpost.com/7879594.html",
@@ -10082,13 +9962,55 @@
         "link": "https://www.tmtpost.com/7914792.html",
         "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
         "first_seen": "2026-03-15T08:29:29.409717"
+      },
+      "986fc7732c9b96cf3ddf2a476d4a8e92bcd2d4d7909eb5861d49a96f4d9cbd0f": {
+        "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
+        "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 15 Mar 2026 22:40:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.910965"
+      },
+      "a8ef955dd98b97148cdac3c9a15f55b46ffd6e278b26a93a831e589faa2bb837": {
+        "title": "孕期免疫激活影响后代大脑：《Brain, Behavior, and Immunity》新研究，揭示3个关键发现",
+        "link": "https://www.tmtpost.com/7914830.html",
+        "published_date": "Sun, 15 Mar 2026 18:18:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.911203"
+      },
+      "ca6306dffef6c035b42fa0d4c4d067c75eca71323d4812b22d48d471ad7f9bfd": {
+        "title": "AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？",
+        "link": "https://www.tmtpost.com/7914747.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.911459"
+      },
+      "41a5dfa8937fc207473ed538fd3b38184378a429ecf788350c9347529f2ead7a": {
+        "title": "月薪两万都养不起“龙虾”？为啥“龙虾”这么贵？",
+        "link": "https://www.tmtpost.com/7914734.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.911727"
+      },
+      "1d770b5cf85811702cd5ee989ba61eda79ba8143264976a786191c1a4d0109c1": {
+        "title": "头号Anthropic黑马斯克，决定把xAI变成Anthropic",
+        "link": "https://www.tmtpost.com/7914775.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.912040"
+      },
+      "61872af0a1f86d1cca701c258e5695217ab020c03798cbb207aef54ef28020c5": {
+        "title": "拆解全球首款手机“龙虾”应用，云端“捷径”能走多远？",
+        "link": "https://www.tmtpost.com/7914755.html",
+        "published_date": "Sun, 15 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.912428"
+      },
+      "2d7612b5eff4c3f2ddc46d2f049eada84be06e6612f6888498e58adfbe276875": {
+        "title": "腾讯“养虾”建厂：不止卖铲，意在收租",
+        "link": "https://www.tmtpost.com/7914774.html",
+        "published_date": "Sun, 15 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-15T23:22:46.912800"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-15T08:29:29.633733",
-    "Technology": "2026-03-15T08:29:29.476179",
-    "Finance": "2026-03-15T08:29:29.494925"
+    "AI": "2026-03-15T23:22:47.112932",
+    "Technology": "2026-03-15T23:22:46.950530",
+    "Finance": "2026-03-15T23:22:46.969549"
   }
 }

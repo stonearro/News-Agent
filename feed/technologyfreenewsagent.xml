@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Mar 2026 23:22:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 23:22:46 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 06:16:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 06:16:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,59 +14,85 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+</title>
-      <link>https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 22:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径</title>
+      <link>https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>孕期免疫激活影响后代大脑：《Brain, Behavior, and Immunity》新研究，揭示3个关键发现</title>
-      <link>https://www.tmtpost.com/7914830.html</link>
-      <description>&lt;![CDATA[孕期免疫激活影响后代大脑：《Brain, Behavior, and Immunity》新研究，揭示3个关键发现]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914830.html</guid>
+      <title>Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级</title>
+      <link>https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？</title>
-      <link>https://www.tmtpost.com/7914747.html</link>
-      <description>&lt;![CDATA[AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914747.html</guid>
+      <title>把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
+粮”的⼯程实验</title>
+      <link>https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
+粮”的⼯程实验]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>月薪两万都养不起“龙虾”？为啥“龙虾”这么贵？</title>
-      <link>https://www.tmtpost.com/7914734.html</link>
-      <description>&lt;![CDATA[月薪两万都养不起“龙虾”？为啥“龙虾”这么贵？]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914734.html</guid>
+      <title>Datadog如何将其Agent的Go二进制文件缩减77%</title>
+      <link>https://www.infoq.cn/article/47GZpwrTxtLp7409put5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Datadog如何将其Agent的Go二进制文件缩减77%]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/47GZpwrTxtLp7409put5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>头号Anthropic黑马斯克，决定把xAI变成Anthropic</title>
-      <link>https://www.tmtpost.com/7914775.html</link>
-      <description>&lt;![CDATA[头号Anthropic黑马斯克，决定把xAI变成Anthropic]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914775.html</guid>
+      <title>AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/7915544.html</link>
+      <description>&lt;![CDATA[AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915544.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拆解全球首款手机“龙虾”应用，云端“捷径”能走多远？</title>
-      <link>https://www.tmtpost.com/7914755.html</link>
-      <description>&lt;![CDATA[拆解全球首款手机“龙虾”应用，云端“捷径”能走多远？]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914755.html</guid>
+      <title>大模型时代之后，AI正在寻找真实场景</title>
+      <link>https://www.tmtpost.com/7914291.html</link>
+      <description>&lt;![CDATA[大模型时代之后，AI正在寻找真实场景]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914291.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯“养虾”建厂：不止卖铲，意在收租</title>
-      <link>https://www.tmtpost.com/7914774.html</link>
-      <description>&lt;![CDATA[腾讯“养虾”建厂：不止卖铲，意在收租]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914774.html</guid>
+      <title>对话Canva可画中国王可辛：AI始终是人的乙方｜AGI独家</title>
+      <link>https://www.tmtpost.com/7915627.html</link>
+      <description>&lt;![CDATA[对话Canva可画中国王可辛：AI始终是人的乙方｜AGI独家]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915627.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>高精度激光雷达企业珞珈伊云完成数千万Pre-A轮融资，中博聚力领投｜融资速递</title>
+      <link>https://www.tmtpost.com/7915615.html</link>
+      <description>&lt;![CDATA[高精度激光雷达企业珞珈伊云完成数千万Pre-A轮融资，中博聚力领投｜融资速递]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915615.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>独家对话灵心巧手周永：他要造100万双灵巧手，只想成为机器猫的万能口袋｜AI Founder 请回答</title>
+      <link>https://www.tmtpost.com/7915189.html</link>
+      <description>&lt;![CDATA[独家对话灵心巧手周永：他要造100万双灵巧手，只想成为机器猫的万能口袋｜AI Founder 请回答]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915189.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>「龙虾」炸出了腾讯的AI底牌</title>
+      <link>https://www.tmtpost.com/7915205.html</link>
+      <description>&lt;![CDATA[「龙虾」炸出了腾讯的AI底牌]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915205.html</guid>
       <category>Technology</category>
     </item>
   </channel>

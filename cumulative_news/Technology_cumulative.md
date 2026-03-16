@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 06:16
+**最后更新时间**: 2026-03-16 08:48
+
+---
+
+## 🆕 最新更新 (2026-03-16 08:48)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮](https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 16:37
+
+#### [OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”](https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 16:34
+
+#### [地瓜机器人完成1.2亿美元B1轮融资，多家大厂都投了](https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 16:32
+
+#### [Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic](https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 16:27
+
+#### [阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进](https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 16:24
+
+#### [字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报](https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 16:23
+
+#### [从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间](https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 15:00
+
+#### [《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》](https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 13:23
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [养老服务师持证上岗，养老服务发展突破口｜养老金研究](https://www.tmtpost.com/7915869.html)
+**发布时间**: 2026-03-16 16:11
+
+#### [数字科技类被动型股票指数基金分类研究分析](https://www.tmtpost.com/7915866.html)
+**发布时间**: 2026-03-16 16:10
+
+#### [美宜佳假烟风波：狂奔四万店背后的失控与隐忧](https://www.tmtpost.com/7915590.html)
+**发布时间**: 2026-03-16 15:26
+
+#### [当Meta变成一台精密机器：扎克伯格的断腕与硅谷的终结](https://www.tmtpost.com/7915304.html)
+**发布时间**: 2026-03-16 15:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验](https://sspai.com/post/107131)
+**发布时间**: 2026-03-16 15:00
 
 ---
 

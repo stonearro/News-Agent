@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "5cdaee81cebc324cacadb889c3b997eeff6f139d46959d4f73423634a8e18e5f": {
-        "title": "《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-3",
-        "published_date": "Sat, 14 Feb 2026 16:01:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.816932"
-      },
-      "fa8f8e88dd668667d6bf9aef45ea3d36ae1bd5433f60ed222918afbc7512ae4b": {
-        "title": "情人节暴击！下跪求婚的可以是机器人了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-2",
-        "published_date": "Sat, 14 Feb 2026 15:56:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.817061"
-      },
       "ae2c205b90a33ce3760333c33653b19a5f66098746f870edd3a3f1fd428b88f3": {
         "title": "字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力",
         "link": "https://www.jiqizhixin.com/articles/2026-02-14-9",
@@ -1350,57 +1338,33 @@
         "link": "https://www.qbitai.com/2026/03/387935.html",
         "published_date": "Sun, 15 Mar 2026 06:06:00 GMT",
         "first_seen": "2026-03-15T08:29:29.626790"
+      },
+      "110dec41a92bfbf209eaade1eaf0d602d6a32ff4be2b6acd85224496b5bb88f1": {
+        "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
+        "link": "https://www.qbitai.com/2026/03/388352.html",
+        "published_date": "Mon, 16 Mar 2026 07:39:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.831837"
+      },
+      "06b283b46a9ebc340637dfc36d84f9f033e257d0756c7464b4ceefe7d1875893": {
+        "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
+        "link": "https://www.qbitai.com/2026/03/388071.html",
+        "published_date": "Mon, 16 Mar 2026 07:13:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.831993"
+      },
+      "350f10ed0fc4fce2542ff4c57238e8447c37d334d72e204d55af801d634705be": {
+        "title": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
+        "link": "https://www.qbitai.com/2026/03/388054.html",
+        "published_date": "Mon, 16 Mar 2026 07:12:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.832179"
+      },
+      "da339de5db7838ab15a769bcf31cf76aa09775490bc90d8856070570b40c433a": {
+        "title": "不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格",
+        "link": "https://www.qbitai.com/2026/03/387990.html",
+        "published_date": "Mon, 16 Mar 2026 06:50:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.832388"
       }
     },
     "Technology": {
-      "a6f370b1384210a7506bd077e44c8d83e54f812a6a9a3399a592e61847f2097e": {
-        "title": "马云督战、马化腾喊话，AI红包大战谁能胜出？",
-        "link": "https://www.tmtpost.com/7879610.html",
-        "published_date": "Sat, 14 Feb 2026 15:54:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.623350"
-      },
-      "f27b03f2bfa33e5ec3417958a37f94937c3824f74d71e4183223348a006005ce": {
-        "title": "【数智周报】豆包大模型2.0发布；智谱GLM-5已深度适配华为昇腾等国产芯片；Anthropic宣布300亿美元融资，估值达3800亿美元； 欧盟批准谷歌320亿美元收购Wiz",
-        "link": "https://www.tmtpost.com/7880242.html",
-        "published_date": "Sat, 14 Feb 2026 15:41:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.623581"
-      },
-      "f39b857d842ae34966e868892b294779b1cca7f26f25f5ada25d8cb2671cee0d": {
-        "title": "酣战春节档，“腾网米”卷出新花样",
-        "link": "https://www.tmtpost.com/7880688.html",
-        "published_date": "Sat, 14 Feb 2026 15:09:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.623775"
-      },
-      "bb12772d7b101206561a2d7a9106f99f513f6a5a2aed5be6e3a69d3e22b60e93": {
-        "title": "春节抢黄金，谁赚到钱了？",
-        "link": "https://www.tmtpost.com/7880573.html",
-        "published_date": "Sat, 14 Feb 2026 14:27:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.623943"
-      },
-      "29b49be55f5687563b066b87fbc834ff5926403c918a4eca37f641cad1958460": {
-        "title": "联合光电回复2.6亿并购问询：业绩承诺“争议”引关注，标的盈利“过山车”隐忧仍存",
-        "link": "https://www.tmtpost.com/7880776.html",
-        "published_date": "Sat, 14 Feb 2026 14:23:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.624251"
-      },
-      "450774a074f9155bf8ea52da46f6e66994eff30e884113df70b176aec5820fb3": {
-        "title": "153家药企医保失信被点名：上市公司关联主体承压，新规重塑行业合规逻辑",
-        "link": "https://www.tmtpost.com/7880777.html",
-        "published_date": "Sat, 14 Feb 2026 14:19:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.624620"
-      },
-      "d1b2f7ced74625e57eda5a64d972a61f380fc476e1caec2f23f762c0b166d859": {
-        "title": "亚马逊股价九连跌：市值蒸发4630亿美元，AI巨额投资引发市场担忧",
-        "link": "https://www.tmtpost.com/7880723.html",
-        "published_date": "Sat, 14 Feb 2026 13:39:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.625039"
-      },
-      "13cf94a8e2ba52b03e6d2af3265baa77eea82ccef3884c6ce0c7eed54d370e38": {
-        "title": "Windsurf 推出 Arena Mode，可在开发过程中对比 AI 模型",
-        "link": "https://www.infoq.cn/article/U93SfJ0k03fptmVZeWqQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Feb 2026 15:00:00 GMT",
-        "first_seen": "2026-02-14T08:28:15.625594"
-      },
       "c0f61b0824c38dd01d53fe37486859a89ad3f1170c41a14b0a152a612cd70642": {
         "title": "网易这一年的停与进",
         "link": "https://www.tmtpost.com/7880129.html",
@@ -9824,13 +9788,91 @@
         "link": "http://www.huxiu.com/article/4841650.html?f=wangzhan",
         "published_date": "Mon, 16 Mar 2026 09:00:00 GMT",
         "first_seen": "2026-03-16T06:16:49.421470"
+      },
+      "b3d86e664726b1a07556c69921a9df2943cda38cb5969feb8ff9ecbc203321aa": {
+        "title": "“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮",
+        "link": "https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:37:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654455"
+      },
+      "a8a679042f68d7d57e6fe405549538dbb9347767650c533108bc80bf335bbd3a": {
+        "title": "OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”",
+        "link": "https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:34:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654465"
+      },
+      "70eeee401d9dcf49b673b5e1617d572914eef4a02e4a74f9a72c8935063ac002": {
+        "title": "地瓜机器人完成1.2亿美元B1轮融资，多家大厂都投了",
+        "link": "https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:32:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654474"
+      },
+      "bf47276751b92e0098aecdd6b1e4ae564e9c821aebe41bce5f3965283589c09f": {
+        "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
+        "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:27:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654484"
+      },
+      "4051f740df258e9ffbc1ba72e5334456671918f145ef5e6b675a01bcb56d5fbf": {
+        "title": "阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进",
+        "link": "https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:24:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654493"
+      },
+      "9a1578ae7874a7e33ac395f66d325bb11bdb41dc83b299ca067c537948c93b2f": {
+        "title": "字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报",
+        "link": "https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:23:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654397"
+      },
+      "c8eb1fac3e210215032a358c6dba2d855142e577338ac67e3425f6a72206c097": {
+        "title": "从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间",
+        "link": "https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654501"
+      },
+      "ea7547fda90d72f1cb19472a6ece8ced245ea6593757cc424ed3f87245250e63": {
+        "title": "《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》",
+        "link": "https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 13:23:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654511"
+      },
+      "a7b1eacd84b4902b79b7f0cf69d09952e8dc48cdcd62f5712b061f8b1a7bafd6": {
+        "title": "养老服务师持证上岗，养老服务发展突破口｜养老金研究",
+        "link": "https://www.tmtpost.com/7915869.html",
+        "published_date": "Mon, 16 Mar 2026 16:11:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654428"
+      },
+      "762e240260eae7a9ea1bd686b05144e9bde50af8aa56079f78dccec6baca453e": {
+        "title": "数字科技类被动型股票指数基金分类研究分析",
+        "link": "https://www.tmtpost.com/7915866.html",
+        "published_date": "Mon, 16 Mar 2026 16:10:00 GMT",
+        "first_seen": "2026-03-16T08:49:04.654440"
+      },
+      "b257facfb8476a273ece0f35f5093960be51f5c19ffc293ce28eda98b08be52e": {
+        "title": "美宜佳假烟风波：狂奔四万店背后的失控与隐忧",
+        "link": "https://www.tmtpost.com/7915590.html",
+        "published_date": "Mon, 16 Mar 2026 15:26:00 GMT",
+        "first_seen": "2026-03-16T08:48:55.358431"
+      },
+      "9d2687c43f930bcb54b5cb3a7ce98acb47e7e5df873c78c96156b64ca4e9defb": {
+        "title": "当Meta变成一台精密机器：扎克伯格的断腕与硅谷的终结",
+        "link": "https://www.tmtpost.com/7915304.html",
+        "published_date": "Mon, 16 Mar 2026 15:26:00 GMT",
+        "first_seen": "2026-03-16T08:48:55.359076"
+      },
+      "9c50849e645f17bd72b42c84cd80493905fa65fe09f7f94e91848c318adbb3bb": {
+        "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
+        "link": "https://sspai.com/post/107131",
+        "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-16T08:48:55.359968"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-16T06:16:58.981416",
-    "Technology": "2026-03-16T06:16:58.809302",
-    "Finance": "2026-03-16T06:16:58.829078"
+    "AI": "2026-03-16T08:49:04.839519",
+    "Technology": "2026-03-16T08:49:04.672587",
+    "Finance": "2026-03-16T08:49:04.692409"
   }
 }

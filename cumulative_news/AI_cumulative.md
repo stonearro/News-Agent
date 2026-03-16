@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-16 08:48
+**最后更新时间**: 2026-03-16 23:25
+
+---
+
+## 🆕 最新更新 (2026-03-16 23:25)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Testing LLMs on superconductivity research questions](https://research.google/blog/testing-llms-on-superconductivity-research-questions/)
+**发布时间**: 2026-03-16 17:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [零跑，首次全年盈利！](https://www.qbitai.com/2026/03/388411.html)
+**发布时间**: 2026-03-16 11:56
+
+#### [315曝光的“AI投毒”原理：GEO这样操控大模型推荐](https://www.qbitai.com/2026/03/388387.html)
+**发布时间**: 2026-03-16 11:48
+
+#### [机器人爆款收割机狂揽1.2亿美金](https://www.qbitai.com/2026/03/388381.html)
+**发布时间**: 2026-03-16 11:22
 
 ---
 

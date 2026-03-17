@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-17 08:42
+**最后更新时间**: 2026-03-17 23:25
+
+---
+
+## 🆕 最新更新 (2026-03-17 23:25)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Google Research at The Check Up: from healthcare innovation to real-world care settings](https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/)
+**发布时间**: 2026-03-17 19:47
+
+#### [Improving breast cancer screening workflows with machine learning](https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/)
+**发布时间**: 2026-03-17 16:57
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [北京养虾er！明晚19点，为你带来9+场养虾干货Talk，来创业大街见](https://www.qbitai.com/2026/03/388807.html)
+**发布时间**: 2026-03-17 13:56
+
+#### [黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元](https://www.qbitai.com/2026/03/388720.html)
+**发布时间**: 2026-03-17 13:08
+
+#### [从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界](https://www.qbitai.com/2026/03/388701.html)
+**发布时间**: 2026-03-17 12:12
+
+#### [百度龙虾全家桶火速上桌！出手就是全球最大搜索skill](https://www.qbitai.com/2026/03/388672.html)
+**发布时间**: 2026-03-17 12:00
+
+#### [达卯科技与云南电力技术，助力云南“绿电+智算”融合发展](https://www.qbitai.com/2026/03/388668.html)
+**发布时间**: 2026-03-17 11:55
+
+#### [从“打到车”到“打到对的车”：AI小滴打开服务消费新空间](https://www.qbitai.com/2026/03/388608.html)
+**发布时间**: 2026-03-17 11:02
+
+#### [零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块](https://www.qbitai.com/2026/03/388527.html)
+**发布时间**: 2026-03-17 07:14
 
 ---
 

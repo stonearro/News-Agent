@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "31723a37328e2262735af78df1dd8aa8b4db10db01408c506461a12ae4e6d291": {
-        "title": "春晚极限验证，魔法原子秀出中国智造新高度",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-6",
-        "published_date": "Mon, 16 Feb 2026 22:27:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.592428"
-      },
-      "d882d000c204ad99a8642a8a8949549173833cbb9d8a2e084abb2508f5b0b61d": {
-        "title": "魔法原子亮相《智造未来》 人机共舞秀出“中国智造”实力",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-5",
-        "published_date": "Mon, 16 Feb 2026 21:20:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.592561"
-      },
-      "fe31e5ee62147431c69ada41249c6117cb675bce38645a282d33a3f0f38a64dd": {
-        "title": "除夕迎「源神」？Qwen3.5以小胜大，捅破性价比天花板，大模型竞赛下半场开始了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-4",
-        "published_date": "Mon, 16 Feb 2026 18:19:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.592795"
-      },
-      "1dce1f2fc920ca68ae5758325ed2a0f6dec9e95293bd606c0ca5ec866030e599": {
-        "title": "Seed 2.0刷新Arena榜单，国产模型排名最高",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-3",
-        "published_date": "Mon, 16 Feb 2026 18:13:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.593038"
-      },
-      "7e8530f0cd9442e22c28511e340d76d4cf7de362a632b8bc1b1df56d1c04992e": {
-        "title": "鲁棒RL赋能AI编程！破局企业数据噪声难题，同等算力训出更好模型",
-        "link": "https://www.qbitai.com/2026/02/380742.html",
-        "published_date": "Mon, 16 Feb 2026 11:30:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.593337"
-      },
-      "7943aa7516ea9db2f2a573e3ed41fe1e2b961ec9c9b19786cb301359acc43fd9": {
-        "title": "最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛",
-        "link": "https://www.qbitai.com/2026/02/380433.html",
-        "published_date": "Mon, 16 Feb 2026 11:15:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.593702"
-      },
       "15356cde0c403daa68a1d6ea1437de5d63e7da9fb9d6024b311915400a776b39": {
         "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
         "link": "https://www.qbitai.com/2026/02/380771.html",
@@ -1344,27 +1308,33 @@
         "link": "https://www.qbitai.com/2026/03/388815.html",
         "published_date": "Wed, 18 Mar 2026 00:31:00 GMT",
         "first_seen": "2026-03-18T05:59:23.700807"
+      },
+      "8f18383cd1a229f7a7e225545175fb39a0348139c58c424f4ed565d9e68788e3": {
+        "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
+        "link": "https://www.qbitai.com/2026/03/389024.html",
+        "published_date": "Wed, 18 Mar 2026 13:25:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.454933"
+      },
+      "95462f9ba55b5f32ec47e887360718fe96fdd361a324e87db38c7b7e7a803241": {
+        "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
+        "link": "https://www.qbitai.com/2026/03/389004.html",
+        "published_date": "Wed, 18 Mar 2026 11:35:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.455092"
+      },
+      "b85c77f875b1736c72895eb4a902d4413e2945773608474c625b09ee19b2dd92": {
+        "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
+        "link": "https://www.qbitai.com/2026/03/388980.html",
+        "published_date": "Wed, 18 Mar 2026 09:39:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.455260"
+      },
+      "a960478781f2ed47d2e4550f2b7782f35a9fc160160322a0fcdefc9dd59e09a0": {
+        "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
+        "link": "https://www.qbitai.com/2026/03/388972.html",
+        "published_date": "Wed, 18 Mar 2026 08:55:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.455472"
       }
     },
     "Technology": {
-      "8674e591f146ca37fce7a6b0f351672353214b521dc1ce1c842a8a00d2d81052": {
-        "title": "火山引擎的野心，藏在Seed2.0里",
-        "link": "https://www.tmtpost.com/7882249.html",
-        "published_date": "Mon, 16 Feb 2026 20:00:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.414258"
-      },
-      "ef07813e1d4581c74e226477763f2be52f9e9f65c6b95256d1499fff8f8804dc": {
-        "title": "群核，十年家装换取AI船票",
-        "link": "https://www.tmtpost.com/7882275.html",
-        "published_date": "Mon, 16 Feb 2026 19:55:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.414393"
-      },
-      "fc3e75e6a200fae15a75eccc2bc0a2a5910d41cf6f43bf640be59d397dd7cda7": {
-        "title": "小鹏为什么这么“烦”L3",
-        "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
-        "published_date": "Mon, 16 Feb 2026 15:57:00 GMT",
-        "first_seen": "2026-02-16T23:23:06.414531"
-      },
       "9137e928389669bc697f1b14af94e71c2a9c65ad4033f675a91f90065a1c90dd": {
         "title": "连农村的堂弟都不看春晚了｜马上评",
         "link": "https://www.tmtpost.com/7882851.html",
@@ -10454,13 +10424,139 @@
         "link": "https://sspai.com/post/106992",
         "published_date": "Wed, 18 Mar 2026 14:30:00 GMT",
         "first_seen": "2026-03-18T08:40:08.715132"
+      },
+      "38386a7c8688f2346e3c8e440cc0183de61d814967157deb8906f3c6bcc9f7c4": {
+        "title": "【钛晨报】证监会最新部署：严肃查处破坏资本市场秩序的人和事；阿里云、百度智能云同时宣布涨价，京东云则承诺：不涨；奇瑞汽车战略入局可控核聚变",
+        "link": "https://www.tmtpost.com/7919828.html",
+        "published_date": "Thu, 19 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258302"
+      },
+      "e7b3043faba7fb31d3477591f00eb9f923a0cc733a123ca341c5d4d14f92e1d5": {
+        "title": "微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点",
+        "link": "https://www.tmtpost.com/7919963.html",
+        "published_date": "Thu, 19 Mar 2026 07:02:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258313"
+      },
+      "ce52f430fab7017236601e28d5e3622c68a8cfa93826826ae2ac7953f658d895": {
+        "title": "在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌",
+        "link": "https://www.tmtpost.com/7919981.html",
+        "published_date": "Thu, 19 Mar 2026 07:01:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258324"
+      },
+      "cf985ff8076c10b7620f0812adf8bfd3196a170b00e59a093e7a1a5a0c282067": {
+        "title": "10亿商誉背后，华海诚科豪赌高端化｜看财报",
+        "link": "https://www.tmtpost.com/7919768.html",
+        "published_date": "Wed, 18 Mar 2026 21:45:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258334"
+      },
+      "285634dae6bea51c3bc05d22f20f9c5edade9907f422ddcf9f1a699d9e289510": {
+        "title": "Tencent QClaw: Tencent's Fight for Traffic and Revenues",
+        "link": "https://www.tmtpost.com/7919808.html",
+        "published_date": "Wed, 18 Mar 2026 21:15:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258346"
+      },
+      "16223d40c5d359f4f8465ebb705b3438645c2cef0389736ff0ce15c6751f2288": {
+        "title": "中国AI出海的“商业化时刻” ｜ 出海参考",
+        "link": "https://www.tmtpost.com/7919082.html",
+        "published_date": "Wed, 18 Mar 2026 21:02:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258356"
+      },
+      "14866a2273132277cbbe722da156dd29a45b4dbd5f80288edbecb7fd79000727": {
+        "title": "Alibaba Aims to Become a “Token Factory” in the AI Agent Era",
+        "link": "https://www.tmtpost.com/7919772.html",
+        "published_date": "Wed, 18 Mar 2026 20:59:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258369"
+      },
+      "3b4a742d2094ec7a0d327d732127647ac512b072f35ad9099ed5bf01a8cc6e4b": {
+        "title": "越亏越买！莎普爱思旧雷未清再添新商誉，溢价24倍收购实控人医院丨并购一线",
+        "link": "https://www.tmtpost.com/7919649.html",
+        "published_date": "Wed, 18 Mar 2026 20:24:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.957174"
+      },
+      "2ee5eb46588859d387f07148cede75ab8243bca0e040322a6fa96acb9efe8597": {
+        "title": "对话无招：Token经济学背后的两大结构性机会",
+        "link": "https://www.tmtpost.com/7919391.html",
+        "published_date": "Wed, 18 Mar 2026 20:07:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.957553"
+      },
+      "99887c8103c07a83458831a018a6ed27f1c41f46bfc29fdd555e3ff4ab0fd772": {
+        "title": "国产手机集体涨价：性价比时代，彻底落幕",
+        "link": "https://www.tmtpost.com/7919506.html",
+        "published_date": "Wed, 18 Mar 2026 19:25:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.958009"
+      },
+      "e36b1762f0abec29bf4a9d93e99a469a5038499009fcd7b094a6e88cfc500f49": {
+        "title": "鸿合科技易主首份年报：净利三连降，多措并举成效待考丨看财报",
+        "link": "https://www.tmtpost.com/7919521.html",
+        "published_date": "Wed, 18 Mar 2026 19:24:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258271"
+      },
+      "d5a97ddaf937beda82ed218fe1122b1f52c0ab05e5f951ed5a26b226cf583e61": {
+        "title": "苹果如公平开放替代支付与分发渠道，中国市场每年能省310亿",
+        "link": "https://www.tmtpost.com/7919171.html",
+        "published_date": "Wed, 18 Mar 2026 19:06:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.959058"
+      },
+      "a6efdd104acec1e277647623d70f5ca3920491c809086591637893dba8cbdb20": {
+        "title": "Q4突击增收+关联采购超4成，*ST亚振并购式保壳遭拷问",
+        "link": "https://www.tmtpost.com/7919466.html",
+        "published_date": "Wed, 18 Mar 2026 18:37:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.959707"
+      },
+      "e79467ce24153dff0d0ffe931a36ba50df806e1e5c6a34619efeca40551872ca": {
+        "title": "从零构建智能体：面向 AI 智能体的端到端数据管道搭建实战 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/Q7g7WJDk9lBPGGmkMqqb?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 21:19:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258286"
+      },
+      "b45383c29e697e3f954ef903db8c047fb0250093448f82cd79b2dbd6b92d252c": {
+        "title": "从桌面到企业：DGX 双系统搭配 NemoClaw，打造自主智能体全流程开发平台",
+        "link": "https://www.infoq.cn/article/5XMEXakce56W4NdSp7kI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 20:00:00 GMT",
+        "first_seen": "2026-03-18T23:26:05.258242"
+      },
+      "08b6820462acc043e1447a452d0a264193ee9ad5ba784c95f167f801bd7a25e2": {
+        "title": "从狂热到工程、组织实践，OpenClaw这阵风能刮多久？",
+        "link": "https://www.infoq.cn/article/Th0um55qt9mMORoZ7MD8?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 19:18:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.962343"
+      },
+      "350c918638498a798cc5fd597b4eb7bb36b1a4016a45346a0b08ec3e34b9aee4": {
+        "title": "统一架构搞定 TP+AP 混合负载，TDSQL-B实时分析引擎三大核心价值一次讲清",
+        "link": "https://www.infoq.cn/video/iWKMyl5ZCr4cvBcwNXC9?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 19:10:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.963489"
+      },
+      "58eaaf8c3ba6420614cd53843b4f90b2562fff8e110179ca191e393265d0e9dc": {
+        "title": "兼容 HBase 不裁剪，TDSQL Boundless 性能拉满",
+        "link": "https://www.infoq.cn/video/ZXcae7fUViD2NJxIBYSt?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.964775"
+      },
+      "f2ced03e1533dee8f469cfdf6ab58b5bc68e5984d5f550ddf94d17fed82f59e8": {
+        "title": "多模态能力拆解，揭秘TDSQL Boundless的四大关键点",
+        "link": "https://www.infoq.cn/video/UZXD8jU3Hadlce3L8OVS?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 17:24:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.965853"
+      },
+      "0e5d76c53e11307deeac3d50537c46386f446f1510821cfc452ee502b447d484": {
+        "title": "TDSQL Boundless：AI时代的多模态数据库",
+        "link": "https://www.infoq.cn/article/foslK73gb4vm9PmKdezs?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 16:51:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.966855"
+      },
+      "6fc0d214a9953737cc82d8a79b49ef5dbaea2825732d7ffab4fd7c92f57e526f": {
+        "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+        "link": "https://sspai.com/post/106878",
+        "published_date": "Wed, 18 Mar 2026 17:30:00 GMT",
+        "first_seen": "2026-03-18T23:25:55.968071"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-18T08:40:18.216539",
-    "Technology": "2026-03-18T08:40:18.053096",
-    "Finance": "2026-03-18T08:40:18.072576"
+    "AI": "2026-03-18T23:26:05.462846",
+    "Technology": "2026-03-18T23:26:05.296276",
+    "Finance": "2026-03-18T23:26:05.316765"
   }
 }

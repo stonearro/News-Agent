@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "15356cde0c403daa68a1d6ea1437de5d63e7da9fb9d6024b311915400a776b39": {
-        "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
-        "link": "https://www.qbitai.com/2026/02/380771.html",
-        "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
-        "first_seen": "2026-02-17T05:54:28.556813"
-      },
       "2941ad1c14a4a97160e6aad8a79c76ef4e0de2a97b068b544fe435527105e991": {
         "title": "Teaching AI to read a map",
         "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
@@ -1338,6 +1332,24 @@
         "link": "https://www.qbitai.com/2026/03/389038.html",
         "published_date": "Thu, 19 Mar 2026 01:18:00 GMT",
         "first_seen": "2026-03-19T05:54:37.955185"
+      },
+      "79e950fcd15df42894e9714d63ea84d730d819ee91552e963001dc7adceb8b3c": {
+        "title": "英伟达首台DGX GB300，老黄亲自登门送给他",
+        "link": "https://www.qbitai.com/2026/03/389255.html",
+        "published_date": "Thu, 19 Mar 2026 07:51:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.496049"
+      },
+      "be166d0b12fc50ffeaa9cd3fa34d96d617850f4f2fb5702127e3398679b734ba": {
+        "title": "AI球球直播喊话全人类：开源脑机接口，开源科技文明",
+        "link": "https://www.qbitai.com/2026/03/389188.html",
+        "published_date": "Thu, 19 Mar 2026 07:29:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.496176"
+      },
+      "0f44008cda16dfb77df53c3c728d61587c330d3b7cffd0e856ecb26fd3f00ea2": {
+        "title": "刚刚，全球视频模型新王诞生了！",
+        "link": "https://www.qbitai.com/2026/03/389146.html",
+        "published_date": "Thu, 19 Mar 2026 06:55:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.496301"
       }
     },
     "Technology": {
@@ -10670,13 +10682,163 @@
         "link": "https://sspai.com/post/107514",
         "published_date": "Thu, 19 Mar 2026 08:44:00 GMT",
         "first_seen": "2026-03-19T05:54:37.778631"
+      },
+      "c53dc429ba2d378ffd7c2b88e40bb9eae9b5e38ef35da622c9f35173107ff9b2": {
+        "title": "腾讯的“旧世界”结束了",
+        "link": "https://www.tmtpost.com/7920957.html",
+        "published_date": "Thu, 19 Mar 2026 15:41:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291818"
+      },
+      "03f6acb7f357913dbcd9b296307fc529978b421d4cfb696eb93413f110b58842": {
+        "title": "全球推理计算量暴涨一万倍背后",
+        "link": "https://www.tmtpost.com/7920955.html",
+        "published_date": "Thu, 19 Mar 2026 15:33:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291828"
+      },
+      "e14c02102ec80533b77dcf2d5797e410f681b7235f8c6ff2419f3ee78eacda61": {
+        "title": "西南首家丽思卡尔顿将上架，富力的酒店梦又碎了一遍",
+        "link": "https://www.tmtpost.com/7920948.html",
+        "published_date": "Thu, 19 Mar 2026 15:26:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291839"
+      },
+      "e3e239af23ab077844e1a70d9949fa889b1830b388e69a79c8a11bf8979c6515": {
+        "title": "通胀魅影未散，地缘风暴已至，美联储的艰难平衡术",
+        "link": "https://www.tmtpost.com/7920922.html",
+        "published_date": "Thu, 19 Mar 2026 15:19:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291850"
+      },
+      "e2e78768eafb9d21aaefcb514f7aed3344ccddb1a5b130c01a47b880556bf64c": {
+        "title": "“养龙虾”狂热背后：中国AI应用诚可贵，底层创新价更高",
+        "link": "https://www.tmtpost.com/7920897.html",
+        "published_date": "Thu, 19 Mar 2026 15:14:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291778"
+      },
+      "49e3726c9870d2a76a03f71a1ba290ece33dcff11fdc203424fb75d2330e89dd": {
+        "title": "成为全球AI工厂，中国的又一张国运王牌",
+        "link": "https://www.tmtpost.com/7920719.html",
+        "published_date": "Thu, 19 Mar 2026 15:09:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291860"
+      },
+      "d235cec896453433ea7d38025b0e136b6a602c41d79c4c337e34ddf8a2863f11": {
+        "title": "腾讯、字节、阿里，为何同时抢跑Skill市场？",
+        "link": "https://www.tmtpost.com/7920854.html",
+        "published_date": "Thu, 19 Mar 2026 15:09:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291870"
+      },
+      "e1143cbe3442236d7af9046e3fc18d8a48d86e9e559b6bcf7d8dc6e99ef3a4ff": {
+        "title": "租金5折，长租公寓被保租房“逼到墙......",
+        "link": "https://www.tmtpost.com/7919821.html",
+        "published_date": "Thu, 19 Mar 2026 15:09:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291881"
+      },
+      "0f5724d411d0104040a38ca579515c42c3ce4f2cf5b51b9bc55a2d5eb26aeb84": {
+        "title": "你买我的存储，我买你的电力：中韩股民为何“换家”？",
+        "link": "https://www.tmtpost.com/7920956.html",
+        "published_date": "Thu, 19 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291892"
+      },
+      "8a12461b67e8d987af2b5a05f2860adfe7525b060f67d95c5b15cc85c67530c3": {
+        "title": "从“聪明的废物”到“数字员工”，智能体落地如何破局",
+        "link": "https://www.tmtpost.com/7920695.html",
+        "published_date": "Thu, 19 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.973066"
+      },
+      "341bb29053443ae5350715e54f7f45f90934a6b7790d58bb3da4670c1c0e357a": {
+        "title": "量化派们的网贷新套路：分期商城",
+        "link": "https://www.tmtpost.com/7920817.html",
+        "published_date": "Thu, 19 Mar 2026 15:01:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.973430"
+      },
+      "97d3142e5acfe0439d8b16d102bd780f8f607dc3f34c0aaee436ffd2781117fa": {
+        "title": "斑马智行再次递表：背靠上汽、阿里，940万辆车上的生意为何越做越亏？",
+        "link": "https://www.tmtpost.com/7920828.html",
+        "published_date": "Thu, 19 Mar 2026 15:01:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.974069"
+      },
+      "5ed8d7eb871d514dfdb8068de973765270d878ff153894c006d6e29709096963": {
+        "title": "四天多次“联姻”，新石器与九识在拼什么？",
+        "link": "https://www.tmtpost.com/7920908.html",
+        "published_date": "Thu, 19 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.974561"
+      },
+      "9c3b70104ac0e1769f13114c539c7818764cc6adac673ff1a6a0838a23bbe82d": {
+        "title": "112亿，2026年第一家芯片独角兽来了",
+        "link": "https://www.tmtpost.com/7920742.html",
+        "published_date": "Thu, 19 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-19T08:36:21.291804"
+      },
+      "298eab5619e9c21d4643a2f9d4af06667ff7789e7a8d40f8b904d643b49ed375": {
+        "title": "1秒3亿，“中国顶奢”开卖即售罄，两个学徒融资过亿",
+        "link": "https://www.tmtpost.com/7920721.html",
+        "published_date": "Thu, 19 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.975704"
+      },
+      "c64e08653a36d91de2ce412e44ef9c28b4ff4feb3447cec6188a858f166cf7ba": {
+        "title": "实测MiniMax M2.7 ：上能拆英伟达，下能演我爸妈",
+        "link": "https://www.tmtpost.com/7919893.html",
+        "published_date": "Thu, 19 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.976466"
+      },
+      "af78f70629fec5138fd5bd94e46cf6f07c22b431f37369a15e26a91d69bf1b40": {
+        "title": "上市公司TOP5济安评估（3月9日至3月13日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/7920941.html",
+        "published_date": "Thu, 19 Mar 2026 14:18:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.977246"
+      },
+      "55ceea249c221d4b8b7afb7091d2d07fa75917ee291857fd511dbe33893ca896": {
+        "title": "闪送2025年盈利根基稳固，低空物流打开“空地一体”新增长极",
+        "link": "https://www.tmtpost.com/7920945.html",
+        "published_date": "Thu, 19 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.978158"
+      },
+      "91bb4d64a5da1bcd93221d0afad63c0233222d8e6211ddc77146bf1d70e13467": {
+        "title": "2025 年度征文 | 最后一页并不存在——我的2025",
+        "link": "https://sspai.com/post/106957",
+        "published_date": "Thu, 19 Mar 2026 15:15:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.979131"
+      },
+      "f80d8d8fa937b170aabf8dad8c4a8dceb9b797a06d543b6a485a3e6e1c0de474": {
+        "title": "杀死你的不是它：聊聊我们的 AI 的焦虑",
+        "link": "https://sspai.com/post/106923",
+        "published_date": "Thu, 19 Mar 2026 13:26:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.979959"
+      },
+      "acd4e4a7476ff3027b5a4e7cf6e76e9731fae4e20182cf516cb0eacf421547f4": {
+        "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+        "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.980843"
+      },
+      "06029ad9a8848aff3b3dbe4c87bd91166d72a3a65d3b4ba1b784ddf212092a56": {
+        "title": "发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了",
+        "link": "https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 14:40:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.982181"
+      },
+      "8e2aacde96defe0f8f15f5c380fc31d253d3b9c408aa73a5ab005a9c104be062": {
+        "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
+        "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 14:39:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.983758"
+      },
+      "3c3a6b11869d71a64b7733f50d26e78e269398dc95a8b9c09b4e5e134c3146e4": {
+        "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+        "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 14:35:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.985322"
+      },
+      "baa94b1ec06d14ee100b944816f02683fc5787534f8f57536ce47c981c111ae2": {
+        "title": "价值判断：涨停板的投资机会和风险提示（3月17日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7920891.html",
+        "published_date": "Thu, 19 Mar 2026 13:29:00 GMT",
+        "first_seen": "2026-03-19T08:36:11.986688"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-19T05:54:37.962118",
-    "Technology": "2026-03-19T05:54:37.795330",
-    "Finance": "2026-03-19T05:54:37.815636"
+    "AI": "2026-03-19T08:36:21.503422",
+    "Technology": "2026-03-19T08:36:21.336227",
+    "Finance": "2026-03-19T08:36:21.356327"
   }
 }

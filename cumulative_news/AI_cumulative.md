@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-24 08:42
+**最后更新时间**: 2026-03-24 23:25
+
+---
+
+## 🆕 最新更新 (2026-03-24 23:25)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+**发布时间**: 2026-03-24 19:54
+
+#### [Mapping the modern world: How S2Vec learns the language of our cities](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/)
+**发布时间**: 2026-03-24 17:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI全链路加持！一加15T打造全能小屏，售价4299元起](https://www.qbitai.com/2026/03/391775.html)
+**发布时间**: 2026-03-24 14:35
+
+#### [龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名](https://www.qbitai.com/2026/03/391760.html)
+**发布时间**: 2026-03-24 13:09
+
+#### [黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿](https://www.qbitai.com/2026/03/391750.html)
+**发布时间**: 2026-03-24 08:54
+
+#### [你的模型真的会”举一反三”吗？RoboChallenge Table30 V2 正式发布，泛化时代开幕](https://www.qbitai.com/2026/03/391744.html)
+**发布时间**: 2026-03-24 08:33
 
 ---
 

@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "57a2d5f78fe3481f4a74366500c41a045fa24a103ef6f1246eee5d8d40f94640": {
-        "title": "后训练大牛Lambert：AI招聘市场正经历「乱纪元」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-5",
-        "published_date": "Sun, 22 Feb 2026 21:07:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.092479"
-      },
-      "25ab317e53728bad9b067ef1d29e39456f0d509c5b456e024d2bfabe08266d36": {
-        "title": "ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-4",
-        "published_date": "Sun, 22 Feb 2026 21:04:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.092700"
-      },
-      "167950b26f8387aded3a5ff070793ff270b267bbcbf43fc47381c94c7844c3cf": {
-        "title": "谷歌高管放话：这两类AI初创公司，别轻易涉足了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-3",
-        "published_date": "Sun, 22 Feb 2026 20:58:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.092875"
-      },
-      "b23c62d9204964b796c5aaedc1d435abbe756821023a537dad9fc7699488b7aa": {
-        "title": "TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-2",
-        "published_date": "Sun, 22 Feb 2026 20:56:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.093143"
-      },
-      "9097b4b28b600088d84c7c8faec4d2183d08d5ee03268877fd78d47d3cbc0b66": {
-        "title": "不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？",
-        "link": "https://www.qbitai.com/2026/02/381644.html",
-        "published_date": "Sun, 22 Feb 2026 10:33:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.093463"
-      },
-      "1fd107da7c67fbe1f09d72d8b813ba36d66ae17f930ba3cb13a0d6b5e61dd178": {
-        "title": "学术插图新神器！万字材料秒出SVG，西湖大学出品 | ICLR’26",
-        "link": "https://www.qbitai.com/2026/02/381588.html",
-        "published_date": "Sun, 22 Feb 2026 10:17:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.093760"
-      },
       "9b440fdbc838af7b51aa3d1af40cb7d12e8c480ad08c792d97505009c2c0a700": {
         "title": "32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026",
         "link": "https://www.qbitai.com/2026/02/381689.html",
@@ -1320,57 +1284,39 @@
         "link": "https://www.qbitai.com/2026/03/391668.html",
         "published_date": "Tue, 24 Mar 2026 06:05:00 GMT",
         "first_seen": "2026-03-24T08:43:55.140720"
+      },
+      "ed4af94ea7bcbeb83d306a22926917070b93e79d650062b26222bbe386bf415c": {
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "published_date": "Tue, 24 Mar 2026 19:54:00 GMT",
+        "first_seen": "2026-03-24T23:26:10.001840"
+      },
+      "864dea8e23d41ada471d8453b57115885fd6965b862f9990d01013696ead2eb8": {
+        "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+        "link": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/",
+        "published_date": "Tue, 24 Mar 2026 17:42:00 GMT",
+        "first_seen": "2026-03-24T23:26:10.002124"
+      },
+      "67d8ee69d23b19d7335bc3d808b84c1886b30cc870e6da88d1f99064cc3780d8": {
+        "title": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+        "link": "https://www.qbitai.com/2026/03/391775.html",
+        "published_date": "Tue, 24 Mar 2026 14:35:00 GMT",
+        "first_seen": "2026-03-24T23:26:10.002375"
+      },
+      "b7d6cad32df00454832904dc54e8594dfd7630eb7fdbc45da2c621803cff95e6": {
+        "title": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+        "link": "https://www.qbitai.com/2026/03/391760.html",
+        "published_date": "Tue, 24 Mar 2026 13:09:00 GMT",
+        "first_seen": "2026-03-24T23:26:10.002605"
+      },
+      "1ce61079d7d09c3649259cff0dfebafeb631183f48df233ab8fee8aff816cd09": {
+        "title": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
+        "link": "https://www.qbitai.com/2026/03/391750.html",
+        "published_date": "Tue, 24 Mar 2026 08:54:00 GMT",
+        "first_seen": "2026-03-24T23:26:10.002930"
       }
     },
     "Technology": {
-      "9d1416ad26dd1ade2e16fc97e56a2845ce04875c85207d8fee04333f54118160": {
-        "title": "别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代",
-        "link": "https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 22 Feb 2026 20:37:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.160666"
-      },
-      "22dae4d084acef506346824d6a4173bead6dcfd9fb7b992530c447dd340e06a8": {
-        "title": "骂预制菜的人，自己吃了顿预制菜年夜饭",
-        "link": "https://www.tmtpost.com/7886855.html",
-        "published_date": "Sun, 22 Feb 2026 20:24:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.160794"
-      },
-      "3b747e1585bd5df942670eb5aca45a4b9520970c558b8c556f74de970e4fa3c0": {
-        "title": "旅游界胖东来，被全国游客报复性消费",
-        "link": "https://www.tmtpost.com/7886776.html",
-        "published_date": "Sun, 22 Feb 2026 15:25:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.160906"
-      },
-      "a184ec2805544422898ad26c0108df20d1eb3ef135840c4c672f789c1f034102": {
-        "title": "我们建造了顶级供应链体系，却可能输掉了最重要的战争：一位亲历者对数字化转型的终极反思",
-        "link": "https://www.tmtpost.com/7886362.html",
-        "published_date": "Sun, 22 Feb 2026 15:20:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.161095"
-      },
-      "8367a3c737bea0bff4566aa1753e3d07b608cdccebc54a725536677f4e92f0b4": {
-        "title": "可执行性是计划的唯一试金石——工厂不按照计划执行是最大的谎言",
-        "link": "https://www.tmtpost.com/7886363.html",
-        "published_date": "Sun, 22 Feb 2026 15:20:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.161336"
-      },
-      "ca1ba95f65fd2e800e2f06e33a682f7a590e63541a226a6ebc0c6a1ca088a683": {
-        "title": "压岁钱之争：真正没“长大”的，或许是这届家长",
-        "link": "https://www.tmtpost.com/7886727.html",
-        "published_date": "Sun, 22 Feb 2026 15:19:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.161587"
-      },
-      "3af64b3d11391a6d6c45a02d58d634fafcc7a876dc23cbf68fb0f3369a17932a": {
-        "title": "美国养老社区 18 季连涨启示：读懂 “80 岁分水岭”，就读懂了银发经济的未来",
-        "link": "https://www.tmtpost.com/7886667.html",
-        "published_date": "Sun, 22 Feb 2026 15:02:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.161995"
-      },
-      "397bfdfc7f0cb020caf0efd5f6eb025cc2388580fb39ac6497bb2acc937f1cad": {
-        "title": "日本：红枫季的关东与关西（关东篇）",
-        "link": "https://sspai.com/post/104473",
-        "published_date": "Sun, 22 Feb 2026 15:42:00 GMT",
-        "first_seen": "2026-02-22T23:19:17.162298"
-      },
       "383823089e2ae57c183d676c8fae1ddeaf0c2ee73dce3865d7a5f7ff745a7b4e": {
         "title": "腾讯字节，“火拼”漫剧",
         "link": "https://www.tmtpost.com/7887156.html",
@@ -11774,13 +11720,193 @@
         "link": "https://www.tmtpost.com/7926660.html",
         "published_date": "Tue, 24 Mar 2026 13:59:00 GMT",
         "first_seen": "2026-03-24T08:43:45.667453"
+      },
+      "8ae896d557498d190f25745aad86d65ba28a0dcfab25f32fd5d21d020dc85ac8": {
+        "title": "【钛晨报】5000亿元！央行今日出手，继续加量续作；激进方案遇挫，OpenClaw版本升级“翻车”；金价高位回调，周大福暂缓“一口价”产品调价",
+        "link": "https://www.tmtpost.com/7927386.html",
+        "published_date": "Wed, 25 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810215"
+      },
+      "a04a8809137b62c3e41722a87ac86daa2144caf720a7556396d66c2245913e2e": {
+        "title": "国产“龙虾”不能止于Claw，还是要学Claude",
+        "link": "https://www.tmtpost.com/7927307.html",
+        "published_date": "Tue, 24 Mar 2026 20:46:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810260"
+      },
+      "5bc20078bcdff9125425dfa421c38f4a0f6a44fd1839e9eb4174556b7f300785": {
+        "title": "募资14.6亿攻坚高端掩模版，龙图光罩能否打破业绩僵局？｜看财报",
+        "link": "https://www.tmtpost.com/7927208.html",
+        "published_date": "Tue, 24 Mar 2026 19:26:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810273"
+      },
+      "090f6dbe528da5590295d8645317768267727d3cda038685bdaded5d9f5b7eb8": {
+        "title": "OpenClaw升级出漏子，微信到嘴的龙虾飞了",
+        "link": "https://www.tmtpost.com/7927019.html",
+        "published_date": "Tue, 24 Mar 2026 19:15:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810283"
+      },
+      "21af332c9f08fd53c438e22e812a9eff1c7f4cb1e335c5fab37ddfe36be01bb5": {
+        "title": "阿里即时零售的钱，该交给AI了",
+        "link": "https://www.tmtpost.com/7927042.html",
+        "published_date": "Tue, 24 Mar 2026 19:09:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810292"
+      },
+      "8cc3e166be05a3c1fac553bd8021f63bf893e01ffdab5417d63e5c31c32123be": {
+        "title": "在华强北，AI首先是门生意",
+        "link": "https://www.tmtpost.com/7927158.html",
+        "published_date": "Tue, 24 Mar 2026 19:09:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810301"
+      },
+      "d8dcd4b30757af299fe1d83ef25ea806399009de06bf71fd7786554d94f75448": {
+        "title": "折扣向左，新鲜向右，零食行业谁能活过下半场？",
+        "link": "https://www.tmtpost.com/7927099.html",
+        "published_date": "Tue, 24 Mar 2026 19:09:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.306983"
+      },
+      "637f12694659450db82e165167a9694106bb13a4c44e702f1155c24e53935143": {
+        "title": "微信的“局部开放”：当超级App遇见开源“龙虾”，谁在制定新规矩？",
+        "link": "https://www.tmtpost.com/7927105.html",
+        "published_date": "Tue, 24 Mar 2026 18:40:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.307473"
+      },
+      "cc804c5400bd3de8acf536309c4c32dd3fa01a143f6bb068c665905786023766": {
+        "title": "比Google的传输协议快10倍，他要给8000亿Agent修高速公路｜AI Founder 请回答",
+        "link": "https://www.tmtpost.com/7925994.html",
+        "published_date": "Tue, 24 Mar 2026 18:36:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.308202"
+      },
+      "ee66e003d4f8526545900fc26566b3caa3b6c70f5abd5e174e2e232ab3c050ed": {
+        "title": "油价大涨，对金发科技影响有多大？",
+        "link": "https://www.tmtpost.com/7926476.html",
+        "published_date": "Tue, 24 Mar 2026 17:43:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810140"
+      },
+      "b82cd2ff0e9c1212e6b33eb0b9b56a9e94693a617bf28a9714b316c1a68b921d": {
+        "title": "魏哲家演讲背后的冷思考：人形机器人的胜负手正被重新定义",
+        "link": "https://www.tmtpost.com/7926675.html",
+        "published_date": "Tue, 24 Mar 2026 17:43:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.309058"
+      },
+      "a5dac66358d6b492459f6319d1a527b6b2436ef09a24391dee918f88687729c8": {
+        "title": "大疆严防影石",
+        "link": "https://www.tmtpost.com/7926934.html",
+        "published_date": "Tue, 24 Mar 2026 17:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.309358"
+      },
+      "ab050e9a4c8479898451648ac4782e47eebc2db41a691a6a55722c1897bbdcfe": {
+        "title": "如果汪滔被开掉，下手的可能是扎克伯格……的AI分身",
+        "link": "https://www.tmtpost.com/7926920.html",
+        "published_date": "Tue, 24 Mar 2026 17:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.309962"
+      },
+      "dd3572830bcdf18cfacb1de6765fd01ccb6df387975bd7433241d3b5f0f4ef89": {
+        "title": "封杀、追捧与3800亿估值：Anthropic2026奇幻漂流",
+        "link": "https://www.tmtpost.com/7926731.html",
+        "published_date": "Tue, 24 Mar 2026 17:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.310736"
+      },
+      "11a63b586049cf5aa5454c3a138e5d39645c5d8059baf5d297475ee0cf09cfcc": {
+        "title": "3月真人短剧分析：未来半年是超精品的",
+        "link": "https://www.tmtpost.com/7924864.html",
+        "published_date": "Tue, 24 Mar 2026 17:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.311307"
+      },
+      "16bb5d3b32e16f3c0303d2aae8e1f6628ef65704e9b59a1c4ba4ad7572befbe9": {
+        "title": "首次实现季度盈利，小鹏物理AI见成效｜财报眼",
+        "link": "https://www.tmtpost.com/7926830.html",
+        "published_date": "Tue, 24 Mar 2026 17:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.311986"
+      },
+      "612bcc5eb3aa8c569b91921b04399e571ef38bf5e98401692c8cffe24f831d28": {
+        "title": "AI眼镜，还在追赶iPhone时刻",
+        "link": "https://www.tmtpost.com/7926651.html",
+        "published_date": "Tue, 24 Mar 2026 17:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.312591"
+      },
+      "faf9b008c92b8bd7dd553e72a29a99b48f7ba17fa7e022073efff1f9870c4c07": {
+        "title": "GTC解读：当我们谈论AI推理的KV Cache，我们在做什么？",
+        "link": "https://www.infoq.cn/article/MQ9xMgqr7XrSbD8yu6Tw?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 19:59:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.313557"
+      },
+      "fe7dff733ada9ce8ccb45f71ceac43d251a36c7f8a0306568e2d8c395cfbbdb2": {
+        "title": "基于 Snowflake 的 MONAI 分布式医学影像处理 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/yc7p7KfKMuayhRD3z5dY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 19:48:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810172"
+      },
+      "1d0045969923f334f7e212028c27e54d63d24c8af37510c6cbb8c123b096ae1c": {
+        "title": "现代化零售银行分析：信贷与贷款组合的对话智能 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/RLWiOyYglhxoqD1zbMBt?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 19:41:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810186"
+      },
+      "f57a5bea358c4d0b9ea40d67b25c228f39b47403b0d2c7845f74eadad2f4b0ad": {
+        "title": "漏洞管理进入智能时代！OC社区率先发布AI Agent增强的漏洞动态分级标准",
+        "link": "https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 19:10:00 GMT",
+        "first_seen": "2026-03-24T23:26:09.810198"
+      },
+      "24c5778cdf1480dcad41db1aae846a14c35c63b78f3db25b99887fe19505ac6a": {
+        "title": "硬件成本直降60%！原生分布式VS传统分库分表数据库",
+        "link": "https://www.infoq.cn/article/2G2frHuT42rFZpPiNqVW?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 19:08:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.317672"
+      },
+      "21546748aa45da014c8eb4ca5947cb311d60f47766557237ead60f18fe3acfa3": {
+        "title": "英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价",
+        "link": "https://www.infoq.cn/article/3ZLmLsMVwD1PzL6s86YO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 18:11:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.318960"
+      },
+      "c336346034c8b2326292f86085b4c6ff12eb2421c97b21e072db56714a06304a": {
+        "title": "一夜变天！Claude 正式下场“接管电脑”，OpenClaw被逼到墙角",
+        "link": "https://www.infoq.cn/article/0GQAKKpCe2DFq6BtJhdx?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 18:00:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.320327"
+      },
+      "44687c4fb7c7a70829f78d27ca308ef6618f626986c7f0fe7bc2465351e437b6": {
+        "title": "3月27-28日相约杭州！极客时间携智能体时代AI人才粮仓模型亮相CSTD人才发展灯塔峰会",
+        "link": "https://www.infoq.cn/article/I56iru1tbLQxVRt9gaEa?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 16:59:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.321921"
+      },
+      "47386861da8200fe8b1a27125cb7a3110eeceaafffafdee17c033908cf799be6": {
+        "title": "高端日料没人吃了？",
+        "link": "http://www.huxiu.com/article/4843942.html?f=wangzhan",
+        "published_date": "Tue, 24 Mar 2026 19:00:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.322517"
+      },
+      "bd2eb73b705916c239d8aba3ebae702a4b0792fc777b85aaf8c933a716bf8729": {
+        "title": "从万众期待到路边一X，国行Switch是如何走到关服停运的呢？",
+        "link": "http://www.huxiu.com/article/4843911.html?f=wangzhan",
+        "published_date": "Tue, 24 Mar 2026 18:00:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.323781"
+      },
+      "41a4786c03939b09f078c4990c716a02343d9d89dd46b10ffec9dc45f1575e0f": {
+        "title": "9车齐发，余承东缺席，鸿蒙还缺五个“汪峰”",
+        "link": "http://www.huxiu.com/article/4844808.html?f=wangzhan",
+        "published_date": "Tue, 24 Mar 2026 14:38:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.324943"
+      },
+      "59723c1e7ea818cb9ea3943b156538c5d154061bc31caa369dc427224e02ec09": {
+        "title": "社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验",
+        "link": "https://sspai.com/post/107738",
+        "published_date": "Tue, 24 Mar 2026 16:47:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.326409"
+      },
+      "26db5c0fbfe1514efdf41b260cfad630d2df38d4c54f76e00d9362407b986de1": {
+        "title": "当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复",
+        "link": "https://sspai.com/post/107740",
+        "published_date": "Tue, 24 Mar 2026 16:33:00 GMT",
+        "first_seen": "2026-03-24T23:26:00.327997"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-24T08:43:55.147803",
-    "Technology": "2026-03-24T08:43:54.979690",
-    "Finance": "2026-03-24T08:43:55.000374"
+    "AI": "2026-03-24T23:26:10.010495",
+    "Technology": "2026-03-24T23:26:09.824865",
+    "Finance": "2026-03-24T23:26:09.845533"
   }
 }

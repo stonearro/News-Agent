@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-25 08:41
+**最后更新时间**: 2026-03-25 23:28
+
+---
+
+## 🆕 最新更新 (2026-03-25 23:28)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [第一批“首席龙虾官”，月薪6万](https://www.qbitai.com/2026/03/392128.html)
+**发布时间**: 2026-03-25 11:53
+
+#### [睿尔曼“茶艺机器人”亮相2026中关村论坛](https://www.qbitai.com/2026/03/392121.html)
+**发布时间**: 2026-03-25 11:31
+
+#### [从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型](https://www.qbitai.com/2026/03/392105.html)
+**发布时间**: 2026-03-25 08:43
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini](https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/)
+**发布时间**: 2026-03-25 09:14
 
 ---
 

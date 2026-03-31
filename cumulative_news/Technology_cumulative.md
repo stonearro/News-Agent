@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 06:14
+**最后更新时间**: 2026-03-31 08:51
+
+---
+
+## 🆕 最新更新 (2026-03-31 08:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [商业火箭，进入“大运力时代”](https://www.tmtpost.com/7936179.html)
+**发布时间**: 2026-03-31 16:25
+
+#### [中科曙光发了个“标配版”超节点，AI推理算力的未来形态？](https://www.tmtpost.com/7936210.html)
+**发布时间**: 2026-03-31 16:24
+
+#### [中国餐饮AI应用研究2026：餐饮AI加速变革，驱动行业“智能”跃迁](https://www.tmtpost.com/7936099.html)
+**发布时间**: 2026-03-31 14:21
+
+#### [盛极而罗技](https://www.tmtpost.com/7936102.html)
+**发布时间**: 2026-03-31 14:21
+
+#### [失踪的“四圈转速”：一场关于动力、权力和Agent的跨时代共谋](https://www.tmtpost.com/7935789.html)
+**发布时间**: 2026-03-31 14:18
+
+#### [智能编码扎根生产级场景，阿里云系统化解题](https://www.tmtpost.com/7935669.html)
+**发布时间**: 2026-03-31 14:18
+
+#### [即将上市的Kimi，会复刻MiniMax走势吗？](https://www.tmtpost.com/7936085.html)
+**发布时间**: 2026-03-31 14:17
+
+#### [联合治疗公司因其核心药物研究结果积极而股价上涨，为何其股价可能还会进一步走高](https://www.tmtpost.com/7935969.html)
+**发布时间**: 2026-03-31 12:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Airbnb在发现问题并非源于企业文化后，重新构建了告警开发流程](https://www.infoq.cn/article/gdFZcSBtQMf8HHWZ6k3j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 16:00
+
+#### [OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系](https://www.infoq.cn/article/XSBT0gvHvFom2OdbOoYH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 14:52
+
+#### [4月月更启动！用文字记录你的每一个进步瞬间](https://xie.infoq.cn/article/d7ac0e1c33765ac4c1631ff85?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 13:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 如何正确进行 vivo Log 的色彩空间转换](https://sspai.com/post/108101)
+**发布时间**: 2026-03-31 15:03
 
 ---
 

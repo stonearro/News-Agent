@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 23:29
+**最后更新时间**: 2026-03-31 06:14
+
+---
+
+## 🆕 最新更新 (2026-03-31 06:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [构建大规模自治体系](https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 14:00
+
+#### [微软推出WinApp CLI，统一Windows应用开发的工作流](https://www.infoq.cn/article/BiPRRaKmJpEKhHuBcaMz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 11:00
+
+#### [Agoda的Storefront简介：感知延迟的反向代理，用于改善基于DNS的负载分布](https://www.infoq.cn/article/JT5qw7NBDjeAFyolYbBC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 10:00
+
+#### [阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系](https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [微软"叛逃"OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?](https://www.tmtpost.com/7936078.html)
+**发布时间**: 2026-03-31 13:35
+
+#### [光伏退税取消倒计时一天，龙头喊涨，硅料跌至新低，市场为何不买账？](https://www.tmtpost.com/7935977.html)
+**发布时间**: 2026-03-31 13:09
+
+#### [豆包带货，千问充话费：大模型进入“办事时代”](https://www.tmtpost.com/7935979.html)
+**发布时间**: 2026-03-31 13:09
+
+#### [一个蛋白的进化史：当物理AI遇见百年国货](https://www.tmtpost.com/7935878.html)
+**发布时间**: 2026-03-31 13:08
+
+#### [“Token”时代，云厂商的生存法则变了](https://www.tmtpost.com/7935688.html)
+**发布时间**: 2026-03-31 13:02
+
+#### [油价一涨，东南亚排队抢中国电车](https://www.tmtpost.com/7935862.html)
+**发布时间**: 2026-03-31 13:02
+
+#### [又新增一例诉讼，仕净科技遭资阳国资追讨3.73亿，跨界光伏的政企纠纷何时能停止？](https://www.tmtpost.com/7935975.html)
+**发布时间**: 2026-03-31 12:58
+
+#### [张雪，活得不累](https://www.tmtpost.com/7935737.html)
+**发布时间**: 2026-03-31 12:51
+
+#### [桌面龙虾来了？阶跃星辰的本地Agent战事](https://www.tmtpost.com/7935893.html)
+**发布时间**: 2026-03-31 12:51
+
+#### [AI 云下一程：从出海伙伴到全球智能基石](https://www.tmtpost.com/7935695.html)
+**发布时间**: 2026-03-31 12:16
+
+#### [商汤跨越AI周期实录：定义AI公司的盈利路径](https://www.tmtpost.com/7934820.html)
+**发布时间**: 2026-03-31 12:03
+
+#### [真急了，国际酒店集体“All in”AI](https://www.tmtpost.com/7935732.html)
+**发布时间**: 2026-03-31 11:00
+
+#### [张雪夺冠，但中国摩托车正面临“印度模式”挑战](https://www.tmtpost.com/7935759.html)
+**发布时间**: 2026-03-31 11:00
+
+#### [从OpenClaw狂欢看企业级应用启示](https://www.tmtpost.com/7934372.html)
+**发布时间**: 2026-03-31 11:00
+
+#### [海南封关顺风起，中国中免能成为 “风口上的猪” 吗？](https://www.tmtpost.com/7935767.html)
+**发布时间**: 2026-03-31 10:59
+
+#### [老铺黄金门店里，黄牛比黄金还多？](https://www.tmtpost.com/7935698.html)
+**发布时间**: 2026-03-31 10:59
+
+#### [造车的不赚钱，卖激光雷达的赚钱了](https://www.tmtpost.com/7935761.html)
+**发布时间**: 2026-03-31 10:53
+
+#### [“龙虾”能否养的背后，AI全球治理难题何解？](https://www.tmtpost.com/7935762.html)
+**发布时间**: 2026-03-31 10:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？](https://sspai.com/post/108027)
+**发布时间**: 2026-03-31 11:31
+
+#### [派早报：vivo 举办 vivo X 系列春季新品发布会等](https://sspai.com/post/108088)
+**发布时间**: 2026-03-31 08:19
 
 ---
 

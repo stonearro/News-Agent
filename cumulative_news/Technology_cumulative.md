@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 06:10
+**最后更新时间**: 2026-04-02 08:50
+
+---
+
+## 🆕 最新更新 (2026-04-02 08:50)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Why China's VC Circles Missed Zhang Xue, a Motorcycle Star, and His Startup?](https://www.tmtpost.com/7939565.html)
+**发布时间**: 2026-04-02 15:34
+
+#### [初中生造车，估值10亿，张雪上演「飞驰人生」](https://www.tmtpost.com/7937176.html)
+**发布时间**: 2026-04-02 15:09
+
+#### [先声药业二代不接班，南京前首富找了昔日对手当CEO](https://www.tmtpost.com/7938292.html)
+**发布时间**: 2026-04-02 15:08
+
+#### [250亿营收拆走150亿科力普，晨光还剩什么？](https://www.tmtpost.com/7938357.html)
+**发布时间**: 2026-04-02 14:56
+
+#### [智谱首份财报背后，新故事难讲](https://www.tmtpost.com/7939356.html)
+**发布时间**: 2026-04-02 14:55
+
+#### [年轻人不买投影仪了，极米靠什么增长](https://www.tmtpost.com/7938590.html)
+**发布时间**: 2026-04-02 14:50
+
+#### [Robotaxi，离盈利又近了一步](https://www.tmtpost.com/7939406.html)
+**发布时间**: 2026-04-02 14:47
+
+#### [错上加错，Anthropic一刀切掉8100仓库](https://www.tmtpost.com/7939368.html)
+**发布时间**: 2026-04-02 14:46
+
+#### [花了十年，周剑终于把机器人卖出去了](https://www.tmtpost.com/7939405.html)
+**发布时间**: 2026-04-02 14:40
+
+#### [不掌握token的甲骨文们，注定会大裁员](https://www.tmtpost.com/7939366.html)
+**发布时间**: 2026-04-02 14:40
+
+#### [张雪赢了，中国摩托车的路还很长](https://www.tmtpost.com/7939359.html)
+**发布时间**: 2026-04-02 14:34
+
+#### [年薪80亿，苏世民凭啥？](https://www.tmtpost.com/7939407.html)
+**发布时间**: 2026-04-02 14:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [豆包日均Token使用量突破120万亿，Seedance2.0API开启公测](https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 15:08
 
 ---
 

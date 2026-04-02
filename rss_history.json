@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "6022e524221d5bae35c4e10e27bbf39601efa64b8f9bfda23fa0910e4eb9ad2d": {
-        "title": "钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群",
-        "link": "https://www.qbitai.com/2026/03/383349.html",
-        "published_date": "Tue, 03 Mar 2026 06:42:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.684289"
-      },
-      "f66c7255231561ba0804ef3f0152a5cd428b72f0587e839a50981b36be6b73d3": {
-        "title": "英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹",
-        "link": "https://www.qbitai.com/2026/03/383329.html",
-        "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.684429"
-      },
       "f457c24c053afea133521d1b1f53f2ecf48f0b392ab577c29d8312acecede5c9": {
         "title": "@所有人，2026真的需要自己上手用AI了丨年度AI盛会",
         "link": "https://www.qbitai.com/2026/03/383796.html",
@@ -1380,129 +1368,21 @@
         "link": "https://www.qbitai.com/2026/04/394570.html",
         "published_date": "Thu, 02 Apr 2026 02:07:00 GMT",
         "first_seen": "2026-04-02T06:10:31.248225"
+      },
+      "fefc0e4d53c5197e88fc95c71696ee2deb0330b9bbc8af88ce4c034001d66ce9": {
+        "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
+        "link": "https://www.qbitai.com/2026/04/394641.html",
+        "published_date": "Thu, 02 Apr 2026 06:28:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.689802"
+      },
+      "e47c6dbeb0fda770af3bbff0f25f195a995e308c68686a5eaa6c57af04cbc069": {
+        "title": "再融20亿！星海图把具身智能头部门槛抬到了200亿",
+        "link": "https://www.qbitai.com/2026/04/394626.html",
+        "published_date": "Thu, 02 Apr 2026 06:15:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.690011"
       }
     },
     "Technology": {
-      "9a3d55b32313f9674ef0a739cf492fa58e64544aa5453fc749880dd6a862bdc5": {
-        "title": "冲刺港交所，“饺子第一股”能否抓住港股对内地餐饮企业的“窗口期”",
-        "link": "https://www.tmtpost.com/7897861.html",
-        "published_date": "Tue, 03 Mar 2026 15:32:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511902"
-      },
-      "0d99ffe700190cb4b265f8feaca8a01d318c54a801e71cfc8099400624e6dc61": {
-        "title": "内容行业最「焦虑」的一个春节",
-        "link": "https://www.tmtpost.com/7897764.html",
-        "published_date": "Tue, 03 Mar 2026 15:14:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511930"
-      },
-      "ba752f93b4811483648080c4604ff4332e2ff37db65992600cdb50a85da0da44": {
-        "title": "瑞幸赚的钱，被外卖吃掉了",
-        "link": "https://www.tmtpost.com/7897734.html",
-        "published_date": "Tue, 03 Mar 2026 15:14:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511943"
-      },
-      "6c9cd86d30f1796e18a448d8a50f08fc27455514b982d6b93a32bf1eef1af47f": {
-        "title": "MiniMax的后市潜力与突围",
-        "link": "https://www.tmtpost.com/7897631.html",
-        "published_date": "Tue, 03 Mar 2026 15:13:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511953"
-      },
-      "915fa6f36118629cba67d29efcc96884f696c264fc037f12ac3e949d243c2959": {
-        "title": "一切为了IP",
-        "link": "https://www.tmtpost.com/7897630.html",
-        "published_date": "Tue, 03 Mar 2026 15:09:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.207134"
-      },
-      "c16276965b79687c819448f4848c5fe401e63cff975fda50c51f471632457f02": {
-        "title": "AI于战争中拯救千亿货轮",
-        "link": "https://www.tmtpost.com/7897458.html",
-        "published_date": "Tue, 03 Mar 2026 15:09:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511962"
-      },
-      "295e1bb4744a3687b0bbaa8708b7c34580ee1de5dc7927dd34339f22a82874c2": {
-        "title": "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
-        "link": "https://www.tmtpost.com/7897592.html",
-        "published_date": "Tue, 03 Mar 2026 15:03:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511972"
-      },
-      "b58776d8780362cc4384bcbbf4b0870692d0edf301e4b7dbde5894133673c7bb": {
-        "title": "小云雀会成为字节的Higgsfield吗",
-        "link": "https://www.tmtpost.com/7897586.html",
-        "published_date": "Tue, 03 Mar 2026 15:01:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511981"
-      },
-      "506f9639a06bb563b338fa23bf9808d6cc50b855d15003653aada945083c4138": {
-        "title": "德黑兰的爆炸声，给所有老板上了堂残酷的组织课",
-        "link": "https://www.tmtpost.com/7897345.html",
-        "published_date": "Tue, 03 Mar 2026 15:01:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.511990"
-      },
-      "52900b16d0b5fd6a6415682422ea5f1fe8ed4720c34c2f4075453f1f892875fa": {
-        "title": "三万家门店后，瑞幸开始面对真正的竞争",
-        "link": "https://www.tmtpost.com/7897584.html",
-        "published_date": "Tue, 03 Mar 2026 14:57:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.512033"
-      },
-      "306151d57545e313271542c5381b5009026845ec2611c3d2ab928e76f1482806": {
-        "title": "别只盯着IPO，2026跨国械企并购清单曝光，谁是下一块拼图？",
-        "link": "https://www.tmtpost.com/7897569.html",
-        "published_date": "Tue, 03 Mar 2026 14:57:00 GMT",
-        "first_seen": "2026-03-03T08:34:08.512046"
-      },
-      "b948c6ee190ed6f7f60a2bc838d31957a002b81d2462fafc354c79dec5bac4a3": {
-        "title": "3亿人在玩的小游戏，被腾讯投了",
-        "link": "https://www.tmtpost.com/7897442.html",
-        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.209340"
-      },
-      "2d59913f852719ed6dcd3f182a4e3d2ec8f02532311346d2fb9b674e07382299": {
-        "title": "人形机器人卖不动，只能靠租？",
-        "link": "https://www.tmtpost.com/7896333.html",
-        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.209697"
-      },
-      "410f78b43a47260921fdb54b8c4513c1b48214d8459893f67fe88170a5a10a8d": {
-        "title": "2025Q4调味品市场回顾",
-        "link": "https://www.tmtpost.com/7897368.html",
-        "published_date": "Tue, 03 Mar 2026 14:47:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.209985"
-      },
-      "d96eb2f5ac4c9f7e12786020e9f3ac75782e680d063154b18cfcd2111593071c": {
-        "title": "老外集体“精中”：文化回流背后的出海新逻辑",
-        "link": "https://www.tmtpost.com/7897273.html",
-        "published_date": "Tue, 03 Mar 2026 14:46:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.210526"
-      },
-      "210f3ab1e9234cb0558fd7d78b14a1af54ae272010914317291c4ada26956e5b": {
-        "title": "82亿买下的不只是一家英国铜业巨头，或许还有AI时代的入场券",
-        "link": "https://www.tmtpost.com/7897428.html",
-        "published_date": "Tue, 03 Mar 2026 14:45:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.211235"
-      },
-      "ba23454afd0fd5a5ef3fe93edae8bd94cfbf53c7240b0f07abb3d33ac9717715": {
-        "title": "光伏巨头储能账面利润近百亿，但赚到钱的为什么是派能、固德威和海博思创？",
-        "link": "https://www.tmtpost.com/7897531.html",
-        "published_date": "Tue, 03 Mar 2026 14:41:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.211960"
-      },
-      "c552c62c0dd1d93e76238fec7df22d9564d5fd50d30ea10aa83d975ccad1068d": {
-        "title": "红包一停，增长归零？春节AI大战的真相与隐忧",
-        "link": "https://www.tmtpost.com/7897284.html",
-        "published_date": "Tue, 03 Mar 2026 14:38:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.212682"
-      },
-      "aa0e72ade28224fd43683a936772babfb71b22c4e1098004d023548ca67f681d": {
-        "title": "MiniMax首份财报：海外狂飙，盈利未至",
-        "link": "https://www.tmtpost.com/7897421.html",
-        "published_date": "Tue, 03 Mar 2026 14:38:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.213377"
-      },
-      "8e2cc3938901aaee230cf444d09d86cce6f1b9a5f3b278a68d4e94f7a17e7428": {
-        "title": "失忆是怎么一回事：谈谈经典影视里失忆套路的真实一面",
-        "link": "https://sspai.com/post/106372",
-        "published_date": "Tue, 03 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-03T08:33:59.214147"
-      },
       "3ad8042f8a0890962ddd5d94390a9c0f9f7a23aa93b743d82d9ccfd45b35d92b": {
         "title": "有人担心美国在伊朗可能会把导弹用光，美国正转而求助的就是这些承包商",
         "link": "https://www.tmtpost.com/7898772.html",
@@ -12122,13 +12002,91 @@
         "link": "https://sspai.com/post/108175",
         "published_date": "Thu, 02 Apr 2026 08:28:00 GMT",
         "first_seen": "2026-04-02T06:10:31.069695"
+      },
+      "57fc216ec7235c1f300ede0a1f4f96b9040607026b1cdc8733029033e1f04f2c": {
+        "title": "Why China's VC Circles Missed Zhang Xue, a Motorcycle Star, and His Startup?",
+        "link": "https://www.tmtpost.com/7939565.html",
+        "published_date": "Thu, 02 Apr 2026 15:34:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499807"
+      },
+      "e9b8c340344ff1de6377196e000f95deaea7bd3b0b65c39590a15b0eaddfbe3d": {
+        "title": "初中生造车，估值10亿，张雪上演「飞驰人生」",
+        "link": "https://www.tmtpost.com/7937176.html",
+        "published_date": "Thu, 02 Apr 2026 15:09:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499877"
+      },
+      "09d0806311b75d23e23a6e5a2e46d036e73c37b1a3b1bf5fc45234cb1bdc08c1": {
+        "title": "先声药业二代不接班，南京前首富找了昔日对手当CEO",
+        "link": "https://www.tmtpost.com/7938292.html",
+        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499891"
+      },
+      "f3894beed9c5c861ff42867718bb8c821fc7a4ee6dc61328ce11824a96cf7b89": {
+        "title": "250亿营收拆走150亿科力普，晨光还剩什么？",
+        "link": "https://www.tmtpost.com/7938357.html",
+        "published_date": "Thu, 02 Apr 2026 14:56:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499903"
+      },
+      "a61af671ebab88f23c41ac678f22cef09517c7286d87d271678302a78e20ae76": {
+        "title": "智谱首份财报背后，新故事难讲",
+        "link": "https://www.tmtpost.com/7939356.html",
+        "published_date": "Thu, 02 Apr 2026 14:55:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499916"
+      },
+      "d9bbc32398851c9d6faa81669066fb7a6819baa3a74d40fd76612ac08e3b237f": {
+        "title": "年轻人不买投影仪了，极米靠什么增长",
+        "link": "https://www.tmtpost.com/7938590.html",
+        "published_date": "Thu, 02 Apr 2026 14:50:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499926"
+      },
+      "859561f31de5da1e1c9c00c501f5b0255a4d481fe68eb962193f7cc7cb4fbd9e": {
+        "title": "Robotaxi，离盈利又近了一步",
+        "link": "https://www.tmtpost.com/7939406.html",
+        "published_date": "Thu, 02 Apr 2026 14:47:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499938"
+      },
+      "3385bb379a568b7b1ccfb950b096f2428574037cd0644c2c409b1219306b9422": {
+        "title": "错上加错，Anthropic一刀切掉8100仓库",
+        "link": "https://www.tmtpost.com/7939368.html",
+        "published_date": "Thu, 02 Apr 2026 14:46:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499946"
+      },
+      "32d711fabcf4af3be1caf24e65a7e36ae1466cea4c3c3ee0800f88bd0a114ec6": {
+        "title": "花了十年，周剑终于把机器人卖出去了",
+        "link": "https://www.tmtpost.com/7939405.html",
+        "published_date": "Thu, 02 Apr 2026 14:40:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499953"
+      },
+      "5edf0d3d4b6f2cbfb82fc689e57aabbd8c7c52e77e0935bf6f0f2c55a4259304": {
+        "title": "不掌握token的甲骨文们，注定会大裁员",
+        "link": "https://www.tmtpost.com/7939366.html",
+        "published_date": "Thu, 02 Apr 2026 14:40:00 GMT",
+        "first_seen": "2026-04-02T08:50:33.127272"
+      },
+      "f5f5421e41ffcf05e39397145bd1976e3ac073ce3d1d0ac32a4ab29b4013b28f": {
+        "title": "张雪赢了，中国摩托车的路还很长",
+        "link": "https://www.tmtpost.com/7939359.html",
+        "published_date": "Thu, 02 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-02T08:50:33.127635"
+      },
+      "f339f05b71bc0983578df4d93d551e87bc1ac5fbc207c7cd71ba05482e96c31a": {
+        "title": "年薪80亿，苏世民凭啥？",
+        "link": "https://www.tmtpost.com/7939407.html",
+        "published_date": "Thu, 02 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-02T08:50:33.128027"
+      },
+      "1a02a468750cd7b5ab1c170912c5de8b63424d19c9a41aa6106ceb28c30f02a9": {
+        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
+        "link": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-02T08:50:42.499779"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-02T06:10:31.255678",
-    "Technology": "2026-04-02T06:10:31.084760",
-    "Finance": "2026-04-02T06:10:31.103959"
+    "AI": "2026-04-02T08:50:42.698060",
+    "Technology": "2026-04-02T08:50:42.516947",
+    "Finance": "2026-04-02T08:50:42.538756"
   }
 }

@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-03 08:43
+**最后更新时间**: 2026-04-03 23:27
+
+---
+
+## 🆕 最新更新 (2026-04-03 23:27)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [浪潮信息直播发布业界企业级OpenClaw方案“企千虾”](https://www.qbitai.com/2026/04/395916.html)
+**发布时间**: 2026-04-03 12:57
+
+#### [Sora向左，阿里向右：全能演技派模型登场千问APP](https://www.qbitai.com/2026/04/395477.html)
+**发布时间**: 2026-04-03 12:54
+
+#### [从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕](https://www.qbitai.com/2026/04/395447.html)
+**发布时间**: 2026-04-03 10:24
+
+#### [OpenAI收购了一家脱口秀公司](https://www.qbitai.com/2026/04/395316.html)
+**发布时间**: 2026-04-03 09:25
+
+#### [企业玩不转龙虾，是人的思维出错了](https://www.qbitai.com/2026/04/395307.html)
+**发布时间**: 2026-04-03 08:54
+
+#### [GDPS2026 上海市人工智能行业协会与毕马威中国战略合作 共创智能化转型破局之路](https://www.qbitai.com/2026/04/395988.html)
+**发布时间**: 2026-04-03 04:12
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Evaluating alignment of behavioral dispositions in LLMs](https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/)
+**发布时间**: 2026-04-03 08:00
 
 ---
 

@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-04 05:54
+**最后更新时间**: 2026-04-04 08:35
+
+---
+
+## 🆕 最新更新 (2026-04-04 08:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Anthropic拒绝龙虾吃自助餐，中国token大厂笑了](https://www.tmtpost.com/7941769.html)
+**发布时间**: 2026-04-04 14:43
+
+#### [大厂们为啥不让自家员工用别家大模型？](https://www.tmtpost.com/7941699.html)
+**发布时间**: 2026-04-04 14:43
+
+#### [“打不死的小强”尹阔：流水线工人走到港交所门口，他还能把参半带到什么高度？](https://www.tmtpost.com/7941723.html)
+**发布时间**: 2026-04-04 14:38
+
+#### [互联网最骄傲的事，正在被AI一点点拆掉](https://www.tmtpost.com/7941760.html)
+**发布时间**: 2026-04-04 14:34
+
+#### [跨界光伏1年亏掉8年赚的钱，天宜新材等来紫光系“白衣骑士”](https://www.tmtpost.com/7941745.html)
+**发布时间**: 2026-04-04 14:33
+
+#### [AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法](https://www.tmtpost.com/7941770.html)
+**发布时间**: 2026-04-04 14:33
+
+#### [【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题](https://www.tmtpost.com/7941741.html)
+**发布时间**: 2026-04-04 14:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智能体 AI 模式强化软件工程规范性](https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-04 14:00
 
 ---
 

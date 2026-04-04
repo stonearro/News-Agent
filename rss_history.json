@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "e4f44d77b28e18ad425ad06957cca554d3ca499cda03640a2e269fe9fe84a40a": {
-        "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
-        "link": "https://www.qbitai.com/2026/03/383974.html",
-        "published_date": "Thu, 05 Mar 2026 07:10:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.384852"
-      },
-      "09a99673d883e4b4838ff7f206f953b01f040185649393bdc6285dc8f3abc494": {
-        "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
-        "link": "https://www.qbitai.com/2026/03/383998.html",
-        "published_date": "Thu, 05 Mar 2026 07:02:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.384998"
-      },
-      "dd9bb0ba33f45e3140530b7bc4c2bbdb0dc06693305b10c4dde5823d2ca5274f": {
-        "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
-        "link": "https://www.qbitai.com/2026/03/383947.html",
-        "published_date": "Thu, 05 Mar 2026 06:41:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.385197"
-      },
       "6f088a5e3313fd80d79902700a6edeb23b1e77a68c8d6bc061aa9b05a55aa356": {
         "title": "企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布",
         "link": "https://www.qbitai.com/2026/03/384330.html",
@@ -1395,90 +1377,6 @@
       }
     },
     "Technology": {
-      "d25efdaa546786e8fe0403d5558543beb1b06e3fb3fb6530fdf4d958e043de6a": {
-        "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
-        "link": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 16:12:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209612"
-      },
-      "66c7133fd34c61e0ed2af5d259bd636a4c723163652e1a70f5af1b705a29ab2a": {
-        "title": "借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用",
-        "link": "https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 16:00:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209565"
-      },
-      "c9fe1474f89012fbcc363924c568c084d617abb209c96b74a39cce0ddd72d2dc": {
-        "title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
-        "link": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209597"
-      },
-      "eb09dc8438fd9c32987c01c1f9293347f7deb732ac2432aeae1eb700f8817d2d": {
-        "title": "在壮大软件领导团队过程中总结的经验教训",
-        "link": "https://www.infoq.cn/article/KKE2jJwbx7xQXpuAl4LK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209623"
-      },
-      "009e43aba5f27ece7524a672568a62778d8ef00e86ad4e1d25ad5893f299f42b": {
-        "title": "堂食客单价跌回十年前，越来越便宜，餐饮企业该如何突围？",
-        "link": "https://www.tmtpost.com/7901090.html",
-        "published_date": "Thu, 05 Mar 2026 15:21:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209634"
-      },
-      "1933e665c90220495b2d09f1bd2fc662b9061f8c8adc636435147070de2452ba": {
-        "title": "别了，理想主义者：阿里“结果导向”下的AI天才出走",
-        "link": "https://www.tmtpost.com/7901078.html",
-        "published_date": "Thu, 05 Mar 2026 15:15:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209645"
-      },
-      "720a3ecede95d162ce273c19a541b17ce8d695443a0133d1279e78f4c6f12257": {
-        "title": "610亿“史上最牛散户”，加仓英伟达",
-        "link": "https://www.tmtpost.com/7901062.html",
-        "published_date": "Thu, 05 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209655"
-      },
-      "1f67c1108d82b76a57e34a202302d6e270276bb3aeb1e230e8ddc9f0abaf4a1a": {
-        "title": "540亿糖尿病新霸主即将诞生？",
-        "link": "https://www.tmtpost.com/7901016.html",
-        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209664"
-      },
-      "af265907ee3ce2268a8e60f7b77e126aa76eff696771367b3de979af695d2f22": {
-        "title": "瑞幸大股东的新野心藏不住了",
-        "link": "https://www.tmtpost.com/7901030.html",
-        "published_date": "Thu, 05 Mar 2026 14:57:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209673"
-      },
-      "0b84863d4493a578e1a0a36570f6baf6926ff47970c554a479badd077c820f94": {
-        "title": "首富二代，重回LP牌桌",
-        "link": "https://www.tmtpost.com/7901067.html",
-        "published_date": "Thu, 05 Mar 2026 14:53:00 GMT",
-        "first_seen": "2026-03-05T08:33:06.209682"
-      },
-      "f90b26f2eaaa97e6f9f8f03d944712e9b46b289a9181b089b648986e6173ff9a": {
-        "title": "量贩零食卷向县城",
-        "link": "https://www.tmtpost.com/7899904.html",
-        "published_date": "Thu, 05 Mar 2026 14:49:00 GMT",
-        "first_seen": "2026-03-05T08:32:56.845400"
-      },
-      "4d3982a1a6eab158b9c94a81b42e0ea16f9e91530762ce5739a9853ed52e3e7b": {
-        "title": "下一个美团？抖省省背后的万亿野心",
-        "link": "https://www.tmtpost.com/7900992.html",
-        "published_date": "Thu, 05 Mar 2026 14:48:00 GMT",
-        "first_seen": "2026-03-05T08:32:56.845799"
-      },
-      "2f146876aa42ddcc8ef460c683fab01066142426e85bb4d4e3aaee13dca7156a": {
-        "title": "大众用增程“炮轰”自己",
-        "link": "http://www.huxiu.com/article/4839284.html?f=wangzhan",
-        "published_date": "Thu, 05 Mar 2026 14:35:00 GMT",
-        "first_seen": "2026-03-05T08:32:56.846188"
-      },
-      "eebd47107bce851d484b86aecaacfd187a4f60e868c418f9513d791c1c79c8bc": {
-        "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
-        "link": "https://sspai.com/post/103846",
-        "published_date": "Thu, 05 Mar 2026 14:32:00 GMT",
-        "first_seen": "2026-03-05T08:32:56.846759"
-      },
       "9cdd769af9ea3e6e0ffd41d900faa21e48441781eed3687ee0c110e40d6203f2": {
         "title": "【钛晨报】习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验；阿里辟谣大模型团队集体离职；美国七大科技巨头签署自主供电承诺",
         "link": "https://www.tmtpost.com/7901884.html",
@@ -12056,13 +11954,61 @@
         "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-04T05:54:34.106884"
+      },
+      "334512a3133a9e880aa0d5e35addc8f08d8b42cc48b18c7ed09f62a20f9ce9f2": {
+        "title": "Anthropic拒绝龙虾吃自助餐，中国token大厂笑了",
+        "link": "https://www.tmtpost.com/7941769.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.906248"
+      },
+      "ecbb4f72436e5df90485ccc2541c867b85392a015bd046a5682314561c5c5c7d": {
+        "title": "大厂们为啥不让自家员工用别家大模型？",
+        "link": "https://www.tmtpost.com/7941699.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.906400"
+      },
+      "8e626e6d6dddbd230ca722ab5c63ad4d5b9c7b6472b5d436ff85055acb4a9771": {
+        "title": "“打不死的小强”尹阔：流水线工人走到港交所门口，他还能把参半带到什么高度？",
+        "link": "https://www.tmtpost.com/7941723.html",
+        "published_date": "Sat, 04 Apr 2026 14:38:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.906578"
+      },
+      "eb3b1595c13b38b88c22d2d3eb725523edc9482d57de4a90d3e5f8c263a59d63": {
+        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
+        "link": "https://www.tmtpost.com/7941760.html",
+        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.906739"
+      },
+      "ac592b819007734a1f904838e52f1003b63feae737be1dad64b7a0bec17a1e2e": {
+        "title": "跨界光伏1年亏掉8年赚的钱，天宜新材等来紫光系“白衣骑士”",
+        "link": "https://www.tmtpost.com/7941745.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.906969"
+      },
+      "1942f18192667516809752ec14e62c3bba98e27854336d7f9e52e6d6adb70603": {
+        "title": "AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法",
+        "link": "https://www.tmtpost.com/7941770.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.907294"
+      },
+      "d06b6d5f5a64b46635dc61c8611c662254866adf909d64334f7dfa2234ddefe3": {
+        "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
+        "link": "https://www.tmtpost.com/7941741.html",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.907996"
+      },
+      "cbb31deeac5e96b4511b3a02a75d9858d316091b10217e77922ed6106a349574": {
+        "title": "智能体 AI 模式强化软件工程规范性",
+        "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:35:39.908371"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-04T05:54:43.672234",
-    "Technology": "2026-04-04T05:54:43.516736",
-    "Finance": "2026-04-04T05:54:43.535251"
+    "AI": "2026-04-04T08:35:40.089901",
+    "Technology": "2026-04-04T08:35:39.927616",
+    "Finance": "2026-04-04T08:35:39.947321"
   }
 }

@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "af3e505f484b2183b9276ab63fda0bafaa5d73740c834f1ee59812936e6579de": {
-        "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
-        "link": "https://www.qbitai.com/2026/03/384637.html",
-        "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.290794"
-      },
       "acb3318fd605ee14f17a62df4f31e5a9f326fb1aa15bd8eb1b0198adf64a96d9": {
         "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
         "link": "https://www.qbitai.com/2026/03/384705.html",
@@ -1338,51 +1332,21 @@
         "link": "https://www.qbitai.com/2026/04/396675.html",
         "published_date": "Mon, 06 Apr 2026 05:04:00 GMT",
         "first_seen": "2026-04-06T09:04:43.592915"
+      },
+      "acc1b5af549d6167376b5bc271955e87a7d898d91d1bcb5e58bb50392f736b3b": {
+        "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "link": "https://www.qbitai.com/2026/04/396863.html",
+        "published_date": "Mon, 06 Apr 2026 15:30:00 GMT",
+        "first_seen": "2026-04-06T23:31:15.572578"
+      },
+      "7fbe93270a14a0eff6d3f841f4e1609d51ef687a592bad731906e17bd8ba7cf4": {
+        "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "link": "https://www.qbitai.com/2026/04/396841.html",
+        "published_date": "Mon, 06 Apr 2026 15:25:00 GMT",
+        "first_seen": "2026-04-06T23:31:15.572737"
       }
     },
     "Technology": {
-      "60eb589fd2da8611a4e34a628f03ef4e70799ceb4d11d170259fc110cc8c916f": {
-        "title": "三位女性操盘手，正在重塑中国零售业",
-        "link": "https://www.tmtpost.com/7904187.html",
-        "published_date": "Sat, 07 Mar 2026 23:21:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.117477"
-      },
-      "197ebee79108114cb337398748976c45e7b3e308ebe1a04c8f939c9e5b0be6c9": {
-        "title": "Airwallex 空中云汇举办“她造浪潮 共振未来”论坛，成立女性出海者联盟",
-        "link": "https://www.tmtpost.com/7904147.html",
-        "published_date": "Sat, 07 Mar 2026 21:54:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.117633"
-      },
-      "d327100a3a673f0a6edd05a11140ba6641b3357b43736937ce114267065e3bb2": {
-        "title": "对话以心医疗王莉：全球医疗Top 20里应有中企一席之地",
-        "link": "https://www.tmtpost.com/7904137.html",
-        "published_date": "Sat, 07 Mar 2026 21:40:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.117815"
-      },
-      "2cb1c95e0e2f30fcafeb3b673cceeb1f318645bd354abd4d71ee2fb7a615e954": {
-        "title": "魔法原子创始人离职后火速补全高管阵容，落地与盈利仍存多重挑战",
-        "link": "https://www.tmtpost.com/7903801.html",
-        "published_date": "Sat, 07 Mar 2026 19:15:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.118028"
-      },
-      "c249dc15093996ab4d7c34df4f59762a9ab7f882af01349d9d3654f624df0883": {
-        "title": "林俊旸：阿里千问的“吹哨人”？",
-        "link": "https://www.tmtpost.com/7903836.html",
-        "published_date": "Sat, 07 Mar 2026 19:14:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.118234"
-      },
-      "8f143f6fae5824b40e43d4207c3a3d6678e09493167ba41cebdf8ef03a503a80": {
-        "title": "OpenClaw“龙虾”风暴60天后，谁在吃虾，谁在被吃？",
-        "link": "https://www.tmtpost.com/7903901.html",
-        "published_date": "Sat, 07 Mar 2026 19:10:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.118558"
-      },
-      "c07f96775ac60c7c8f72a49359f976bf48c437040f2b7b8553a1e9875eaa0a8f": {
-        "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
-        "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 07 Mar 2026 17:48:00 GMT",
-        "first_seen": "2026-03-07T23:17:46.118967"
-      },
       "c909e59aad0e88bcae5f4349052dc686984b8495417e18fe209760a0664226de": {
         "title": "林俊旸离职后，再看阿里字节的AI路线之争",
         "link": "https://www.tmtpost.com/7904392.html",
@@ -11516,13 +11480,37 @@
         "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 06 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-06T09:04:34.106569"
+      },
+      "2b18ae53d0c4fde199910b3421ad59a6d27762e42859a804b50822e99b7da77d": {
+        "title": "【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶",
+        "link": "https://www.tmtpost.com/7942349.html",
+        "published_date": "Tue, 07 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-06T23:31:15.371525"
+      },
+      "984c7495e67d99b188ca8058e19616d58e7289c10c0794286d06cb734e2e865b": {
+        "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
+        "link": "https://www.tmtpost.com/7942741.html",
+        "published_date": "Mon, 06 Apr 2026 22:58:00 GMT",
+        "first_seen": "2026-04-06T23:31:15.371709"
+      },
+      "4f7c87bb2a35e0f675bea12f6ac9fc3ced36b211e8531153331a9e236ed9046a": {
+        "title": "微信小游戏开了5000万的口子：平台到底在补贴谁？",
+        "link": "https://www.tmtpost.com/7942848.html",
+        "published_date": "Mon, 06 Apr 2026 17:53:00 GMT",
+        "first_seen": "2026-04-06T23:31:15.371924"
+      },
+      "667a292e14de4b518e99396725ab26453a96ede587cb673ce78782a1dcd4e0ed": {
+        "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
+        "link": "https://sspai.com/post/108294",
+        "published_date": "Mon, 06 Apr 2026 20:45:00 GMT",
+        "first_seen": "2026-04-06T23:31:15.372192"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-06T09:04:43.600521",
-    "Technology": "2026-04-06T09:04:43.423090",
-    "Finance": "2026-04-06T09:04:43.442664"
+    "AI": "2026-04-06T23:31:15.580000",
+    "Technology": "2026-04-06T23:31:15.416257",
+    "Finance": "2026-04-06T23:31:15.435683"
   }
 }

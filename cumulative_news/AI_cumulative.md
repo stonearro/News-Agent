@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-08 08:53
+**最后更新时间**: 2026-04-08 23:32
+
+---
+
+## 🆕 最新更新 (2026-04-08 23:32)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Improving the academic workflow: Introducing two AI agents for better figures and peer review](https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/)
+**发布时间**: 2026-04-08 20:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力](https://www.qbitai.com/2026/04/398001.html)
+**发布时间**: 2026-04-08 14:26
+
+#### [Generalist最新长文定调：具身原生才是正道，原力灵机已交卷](https://www.qbitai.com/2026/04/397951.html)
+**发布时间**: 2026-04-08 10:50
+
+#### [智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验](https://www.qbitai.com/2026/04/397942.html)
+**发布时间**: 2026-04-08 10:17
+
+#### [理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了](https://www.qbitai.com/2026/04/397930.html)
+**发布时间**: 2026-04-08 09:49
+
+#### [SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型](https://www.qbitai.com/2026/04/397922.html)
+**发布时间**: 2026-04-08 08:30
 
 ---
 

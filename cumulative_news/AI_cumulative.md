@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-09 09:00
+**最后更新时间**: 2026-04-09 23:32
+
+---
+
+## 🆕 最新更新 (2026-04-09 23:32)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [ConvApparel: Measuring and bridging the realism gap in user simulators](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/)
+**发布时间**: 2026-04-09 11:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…](https://www.qbitai.com/2026/04/398157.html)
+**发布时间**: 2026-04-09 09:38
 
 ---
 

@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "0a2a35d381165d124e53492fc451b0382447b1a29275129e64e6cf3613f6d25b": {
-        "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
-        "link": "https://www.qbitai.com/2026/03/387832.html",
-        "published_date": "Sat, 14 Mar 2026 06:34:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.836010"
-      },
-      "2efb1b8f862605a89450f0a43ee945b3ef7cd3b8a45e08df2ce2b360b5d75969": {
-        "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
-        "link": "https://www.qbitai.com/2026/03/387756.html",
-        "published_date": "Sat, 14 Mar 2026 06:25:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.836190"
-      },
-      "2a999b453d3ddcde79a172ca5babcd1244b49d6b0f10710c8ace8c1a88824b09": {
-        "title": "龙虾版支付宝来了！睡觉都在帮你抢红包",
-        "link": "https://www.qbitai.com/2026/03/387768.html",
-        "published_date": "Sat, 14 Mar 2026 05:30:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.836345"
-      },
       "11d5ba8905d61db0d0e306812e8e10d4bdc018b77d3254d9ef85316d205c8d26": {
         "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
         "link": "https://www.qbitai.com/2026/03/387921.html",
@@ -1386,159 +1368,21 @@
         "link": "https://www.qbitai.com/2026/04/400350.html",
         "published_date": "Mon, 13 Apr 2026 05:21:00 GMT",
         "first_seen": "2026-04-13T07:13:13.892077"
+      },
+      "5f67d4cdf80c90284005ffe0a7a8bd2cf0162c254672913a89db242a53e7b345": {
+        "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+        "link": "https://www.qbitai.com/2026/04/401002.html",
+        "published_date": "Mon, 13 Apr 2026 09:09:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.508133"
+      },
+      "ec4f22fd010f216cd4ccc1b34176a3c23f60e16de4a90707d725ff7098aad228": {
+        "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
+        "link": "https://www.qbitai.com/2026/04/400567.html",
+        "published_date": "Mon, 13 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.508299"
       }
     },
     "Technology": {
-      "39781ed7ceaddaede57ab7d9a24776e31af141876ae7adcce49635776ba4e403": {
-        "title": "大厂“龙虾”vs开源“澳龙”，2026 claw横评",
-        "link": "https://www.tmtpost.com/7914204.html",
-        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657411"
-      },
-      "b128f8e912e77fe3cd9ca6ca81688b74567c6cc965c26d33eedcb4a13db306ac": {
-        "title": "AI神器三件套，坑哭多少年轻人？| 关注“315”",
-        "link": "https://www.tmtpost.com/7914209.html",
-        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657423"
-      },
-      "42006dc4c5a1e52c75d6fc144376ba75607279eea2e70fe87691145d1ce5c52d": {
-        "title": "宁德时代不想只卖电池了：722亿利润背后的转型信号",
-        "link": "https://www.tmtpost.com/7914219.html",
-        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657433"
-      },
-      "664ef899eaf60a7873ba64bed8cb7cd9f70d1d55207db303877a50ce19655334": {
-        "title": "大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺",
-        "link": "https://www.tmtpost.com/7914242.html",
-        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657443"
-      },
-      "faf8ced32266e25eff330ff6da656389fb987fa3f175659ff2bd7a66231b4c23": {
-        "title": "按摩电器销量突破500万台，海尔布局AI精准按摩赛道 | AWE 2026",
-        "link": "https://www.tmtpost.com/7914223.html",
-        "published_date": "Sat, 14 Mar 2026 14:59:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657353"
-      },
-      "995572b45d3f16a29b1ee9c1aa7e9bd25ce807ee2788b4d47071fb2937725854": {
-        "title": "AWE现场“AuraLink光通信技术”全球首发，做AI与具身机器人的“超级神经”｜公司动态",
-        "link": "https://www.tmtpost.com/7914173.html",
-        "published_date": "Sat, 14 Mar 2026 12:54:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657383"
-      },
-      "24e05f8883987ad71579ca18d55d4529e32667cd20256e52065c6c3bfea2822f": {
-        "title": "Science｜“免疫-生殖”轴新发现！西班牙科学家发现大脑免疫细胞是生育调控的关键",
-        "link": "https://www.tmtpost.com/7913920.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657455"
-      },
-      "2b9e6392ba227f28cb6b6574ac23e31138896c605d383727b1d159fe0bf34468": {
-        "title": "南都电源董事长的生意经",
-        "link": "https://www.tmtpost.com/7913934.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657464"
-      },
-      "c8e6aa686a829d3e03773695f33b0108a55b5dc9a449b8aef5140c1c14bbe778": {
-        "title": "香港廉署请喝咖啡，ECM高管突然“停牌”",
-        "link": "https://www.tmtpost.com/7913968.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657507"
-      },
-      "98aa1f08bc4751c790ebaa28542836e40b551024a9b629b3a9da2da0a85dd5e7": {
-        "title": "“AI教母”李飞飞：2年干出350亿，英伟达、AMD抢着送钱",
-        "link": "https://www.tmtpost.com/7914027.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.225180"
-      },
-      "341857fc1e3b3391e15915b7bdd509f4af6a38bfc3176494eb00cf52a4d586bb": {
-        "title": "暴赚722亿的“宁王”，还有什么故事可讲？",
-        "link": "https://www.tmtpost.com/7914111.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.225691"
-      },
-      "8c14c845e600f0dcde930d2b1b48302b1c31f12632438004d75bc9c62775673e": {
-        "title": "港交所拟进一步改革：所有公司都可秘密递表，“同股不同权”上市门槛腰斩至200亿港元",
-        "link": "https://www.tmtpost.com/7914132.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.226437"
-      },
-      "8e23c138e7e931b50b621fd6158293de7497fef86afaf94194e46b02e5849815": {
-        "title": "数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？",
-        "link": "https://www.tmtpost.com/7914134.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.227102"
-      },
-      "2c236d8ce2bdd5e549784f3aa7d88f85c2e0f073e701d7cd44b9716721503d88": {
-        "title": "为什么你能感觉到烫、痒、疼？中科院神经所窦艳侬/孙衍刚团队首次绘制完整脊髓投射神经元图谱",
-        "link": "https://www.tmtpost.com/7913917.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.228064"
-      },
-      "67dfc0ba20aba9a71d372ed031a4e21fc63ac14145a2c682154345e037e64cf6": {
-        "title": "Nat子刊：田波/张培团队揭示VTA-ACC多巴胺环路调控观察性社交回避的机制",
-        "link": "https://www.tmtpost.com/7913919.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.229003"
-      },
-      "ef4b19b0dfcf03b53964871d70cd2eeda34a4b579e1fca1a57b4bd53798c090d": {
-        "title": "王兴不想做老登",
-        "link": "https://www.tmtpost.com/7914086.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.229364"
-      },
-      "bb459ccace68d51756b3bd74d5006cb68e0a6c0a500d33f16d04e2bd11b8b27a": {
-        "title": "揭秘腾讯“龙虾特攻队”：火爆的线下装机复盘以及如何守住安全红线？",
-        "link": "https://www.tmtpost.com/7913772.html",
-        "published_date": "Sat, 14 Mar 2026 11:48:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.230238"
-      },
-      "426ef49c505594f24deba2ea6e64cda4b329453e4e60093f0b9c654365e5b760": {
-        "title": "如果马斯克来了AWE，他会怎么看？",
-        "link": "https://www.tmtpost.com/7913747.html",
-        "published_date": "Sat, 14 Mar 2026 11:36:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.230853"
-      },
-      "4e8b78f92f04afb1ba3271554b7113ac5295046f6a7f0d98d7ad2b5966b0f2c5": {
-        "title": "陆金所“渡劫”：38亿隐秘兜底，14月后的治理重构",
-        "link": "https://www.tmtpost.com/7913736.html",
-        "published_date": "Sat, 14 Mar 2026 11:36:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.231845"
-      },
-      "d14051fd547fb0e11a484a35fe36c0fa8a12a018073ed2e94a0e2f3d76d4fcc0": {
-        "title": "年度征文｜减了肥，人生就会变好吗？",
-        "link": "https://sspai.com/post/106785",
-        "published_date": "Sat, 14 Mar 2026 15:06:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.232630"
-      },
-      "f5688582dab1a6492d635d79b5def678a15085bae108c6c9d091b83ccba7b6c0": {
-        "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
-        "link": "https://sspai.com/post/103326",
-        "published_date": "Sat, 14 Mar 2026 10:29:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.233701"
-      },
-      "196b1ed5996fbb47b6b2dff5def2509a790328314599348d5f6139340b2ab074": {
-        "title": "Sonos 周年团购限时开启：专属好价仅限今日",
-        "link": "https://sspai.com/post/107134",
-        "published_date": "Sat, 14 Mar 2026 09:00:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.234693"
-      },
-      "3a3e13a88468de32d19a66aae6047bbb2691cc893617d8167f74a627fda10345": {
-        "title": "东北女性的飒爽哲学：人生啥时候开始都不晚",
-        "link": "http://www.huxiu.com/article/4840656.html?f=wangzhan",
-        "published_date": "Sat, 14 Mar 2026 13:00:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.235537"
-      },
-      "80aef05d9607579db42fab53264236a942324f7b76585ea08ae2dd7e7ef8e099": {
-        "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
-        "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-14T08:29:42.236913"
-      },
-      "da1be9081766886ed5c5ebb62159de823a8cab034b487f6e290cb3203aa7667b": {
-        "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
-        "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-14T08:29:51.657397"
-      },
       "ef4c4b97bb12cf4f5d2c57381a7c9c39cec5eb6725bd4f28b953c8923a507639": {
         "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
         "link": "https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&utm_medium=article",
@@ -11042,13 +10886,61 @@
         "link": "https://sspai.com/post/108568",
         "published_date": "Mon, 13 Apr 2026 07:30:00 GMT",
         "first_seen": "2026-04-13T07:13:14.039905"
+      },
+      "d17396963d2ba0f256439c2290bcd8c6168fbd91a64f76f95212c91e78721872": {
+        "title": "日本康复辅具租赁真相：市场规模20年翻4倍，利润率却不足6%",
+        "link": "https://www.tmtpost.com/7951053.html",
+        "published_date": "Mon, 13 Apr 2026 17:17:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.620040"
+      },
+      "c616cd4d88cff460342c2fb8d1dba3500b7d963ab7a182f5c3637248d2803382": {
+        "title": "蓝驰创投募资39亿元，重仓AI与硬科技早期项目",
+        "link": "https://www.tmtpost.com/7951047.html",
+        "published_date": "Mon, 13 Apr 2026 17:01:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.620177"
+      },
+      "b315dc2a994251e434f173c394d81094befabafac7dd11b6d2bb3b62a662c775": {
+        "title": "从数据“沉睡”到价值闭环，AI如何重塑制造业未来？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7951028.html",
+        "published_date": "Mon, 13 Apr 2026 15:42:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.620350"
+      },
+      "f1fbe0ccbe3f5189f6b6a824a13731499e677a75ea324ba2d97c4c2ee289869d": {
+        "title": "从5%到30%，国产高端设备离国际顶尖还有多远？",
+        "link": "https://www.tmtpost.com/7950763.html",
+        "published_date": "Mon, 13 Apr 2026 15:24:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.620556"
+      },
+      "42c1d7d9e8b50430dcd3307ef99016de7df7169665bcf0a8865c745c8a0cb6d8": {
+        "title": "不用则废：开发者直面 AI 编码工具的隐性代价",
+        "link": "https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 16:59:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.620810"
+      },
+      "1554b3c590bd45f7a7a4c407d9f1bcc605b7775e218e5c684cf6a3ef4dcb0591": {
+        "title": "从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了",
+        "link": "https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 16:19:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.621206"
+      },
+      "49be78952310a78b9e4d5c8e43e95ee09a2fb3b535ef27db67e159154b4a89ea": {
+        "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
+        "link": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 15:43:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.621650"
+      },
+      "be9e1ea5c4f43a9e1dc4371c2adc9e8ffbfa0ced57c498fdbf99743365b6d4ca": {
+        "title": "城市漫步指南：在浓油赤酱中寻找江南底蕴",
+        "link": "https://sspai.com/post/108558",
+        "published_date": "Mon, 13 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-13T09:32:21.621965"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-13T07:13:13.943171",
-    "Technology": "2026-04-13T07:13:23.452935",
-    "Finance": "2026-04-13T07:13:13.778783"
+    "AI": "2026-04-13T09:32:21.528796",
+    "Technology": "2026-04-13T09:32:21.629973",
+    "Finance": "2026-04-13T09:32:21.400498"
   }
 }

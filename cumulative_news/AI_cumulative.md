@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-13 09:30
+**最后更新时间**: 2026-04-13 23:36
+
+---
+
+## 🆕 最新更新 (2026-04-13 23:36)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards developing future-ready skills with generative AI](https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/)
+**发布时间**: 2026-04-13 18:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [今年最火的AI产品，不止龙虾｜榜单申报中](https://www.qbitai.com/2026/04/401011.html)
+**发布时间**: 2026-04-13 10:35
 
 ---
 

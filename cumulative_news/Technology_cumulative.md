@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-14 06:29
+**最后更新时间**: 2026-04-14 09:12
+
+---
+
+## 🆕 最新更新 (2026-04-14 09:12)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」](https://sspai.com/post/108005)
+**发布时间**: 2026-04-14 15:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践](https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 14:58
+
+#### [TDSQL-C 全球数据库的容灾切换与发展方向 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/4x5kTGc6DUpRuYc3oVwB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 14:42
 
 ---
 

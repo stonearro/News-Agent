@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "e1f56becf94ad1774f23ba4bdf68746fb2b5c539b9a6bddbc9657bb9840a8283": {
-        "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
-        "link": "https://www.qbitai.com/2026/03/387935.html",
-        "published_date": "Sun, 15 Mar 2026 06:06:00 GMT",
-        "first_seen": "2026-03-15T08:29:29.626790"
-      },
       "110dec41a92bfbf209eaade1eaf0d602d6a32ff4be2b6acd85224496b5bb88f1": {
         "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
         "link": "https://www.qbitai.com/2026/03/388352.html",
@@ -1377,18 +1371,6 @@
       }
     },
     "Technology": {
-      "3bf4de7d0f1db2bf45b9a7d10b0739538fcb32f6f49c6d226f171fbc0bd661e4": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:29:29.409488"
-      },
-      "2c167a1d5ced21f7597aff4f1294c402e0c6e94d32e8c9207ce7e0a57e354740": {
-        "title": "价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7914792.html",
-        "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
-        "first_seen": "2026-03-15T08:29:29.409717"
-      },
       "986fc7732c9b96cf3ddf2a476d4a8e92bcd2d4d7909eb5861d49a96f4d9cbd0f": {
         "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
         "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&utm_medium=article",
@@ -11072,13 +11054,31 @@
         "link": "https://sspai.com/post/108614",
         "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
         "first_seen": "2026-04-14T06:30:08.287995"
+      },
+      "ce3ad06d1dabeb11d507f3c5224b5126d19df17d4900390c51fcd36bb5a2f132": {
+        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+        "link": "https://sspai.com/post/108005",
+        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-14T09:12:49.444324"
+      },
+      "64376ceaf47956004a1901010827ee7543290b16d6c775761ffe750b2e54916a": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:12:49.444572"
+      },
+      "becf6233b61f775a6cc7cd43d83a0287fffaebab76a726c0f97240e7c2f00b78": {
+        "title": "TDSQL-C 全球数据库的容灾切换与发展方向 | 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/4x5kTGc6DUpRuYc3oVwB?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:42:00 GMT",
+        "first_seen": "2026-04-14T09:12:49.444827"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-14T06:29:58.823227",
-    "Technology": "2026-04-14T06:30:08.289436",
-    "Finance": "2026-04-14T06:29:58.692190"
+    "AI": "2026-04-14T09:12:49.359964",
+    "Technology": "2026-04-14T09:12:49.467439",
+    "Finance": "2026-04-14T09:12:49.246648"
   }
 }

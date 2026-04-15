@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-15 06:31
+**最后更新时间**: 2026-04-15 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-15 09:13)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”](https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 16:56
+
+#### [深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密](https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 16:27
+
+#### [智元联合北大、智源实现人形机器人自主打乒乓](https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 15:44
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [胰腺癌治疗的历史性一夜](https://www.tmtpost.com/7953756.html)
+**发布时间**: 2026-04-15 15:57
+
+#### [哈尔斯：产能爬坡期利润创五年新低，欲在出海与内卷中突围 | 看财报](https://www.tmtpost.com/7954137.html)
+**发布时间**: 2026-04-15 15:27
+
+#### [晶盛机电：白马之困](https://www.tmtpost.com/7953321.html)
+**发布时间**: 2026-04-15 15:08
+
+#### [梦龙，被一双舞鞋绊倒](https://www.tmtpost.com/7953650.html)
+**发布时间**: 2026-04-15 15:08
+
+#### [赛博脑白金，能治好AI的失忆症吗？](https://www.tmtpost.com/7953913.html)
+**发布时间**: 2026-04-15 15:08
+
+#### [“最牛风投城市”合肥：用一张新能源汽车产业链地图，撬动万亿市场](https://www.tmtpost.com/7953222.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [AI 电荒突围：谁能替代重燃？](https://www.tmtpost.com/7953802.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [硅料困局中的情绪核爆：反内卷下的多晶硅从腰斩到涨停](https://www.tmtpost.com/7953251.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [大疆汪滔如何克服中年「意义危机」](https://www.tmtpost.com/7953282.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [汪滔筑堡垒，刘靖康架梯子：拆解深圳影像双雄的百亿暗战](https://www.tmtpost.com/7953280.html)
+**发布时间**: 2026-04-15 14:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜Liquid Glass 液态变磨砂](https://sspai.com/post/108656)
+**发布时间**: 2026-04-15 15:00
 
 ---
 

@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-16 09:10
+**最后更新时间**: 2026-04-16 23:34
+
+---
+
+## 🆕 最新更新 (2026-04-16 23:34)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles](https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/)
+**发布时间**: 2026-04-16 14:41
+
+#### [AI-generated synthetic neurons speed up brain mapping](https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/)
+**发布时间**: 2026-04-16 12:18
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [PPIO上线PPHermes：云端沙箱一键部署Hermes Agent](https://www.qbitai.com/2026/04/402085.html)
+**发布时间**: 2026-04-16 13:36
+
+#### [72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？](https://www.qbitai.com/2026/04/401741.html)
+**发布时间**: 2026-04-16 13:04
+
+#### [打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施](https://www.qbitai.com/2026/04/402063.html)
+**发布时间**: 2026-04-16 12:51
+
+#### [世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场](https://www.qbitai.com/2026/04/401994.html)
+**发布时间**: 2026-04-16 12:39
+
+#### [刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！](https://www.qbitai.com/2026/04/401743.html)
+**发布时间**: 2026-04-16 12:33
+
+#### [宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战](https://www.qbitai.com/2026/04/401719.html)
+**发布时间**: 2026-04-16 08:25
 
 ---
 

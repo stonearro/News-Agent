@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Apr 2026 23:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2026 23:31:44 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 09:52:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:54:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kimi新论文：把KVCache玩成新商业模式了</title>
-      <link>https://www.qbitai.com/2026/04/403528.html</link>
-      <description>&lt;![CDATA[Kimi新论文：把KVCache玩成新商业模式了]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403528.html</guid>
+      <title>阿里发布Wan2.7-Image，人类偏好盲测评分国内第一</title>
+      <link>https://www.qbitai.com/2026/04/403733.html</link>
+      <description>&lt;![CDATA[阿里发布Wan2.7-Image，人类偏好盲测评分国内第一]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403733.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开</title>
-      <link>https://www.qbitai.com/2026/04/403226.html</link>
-      <description>&lt;![CDATA[横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403226.html</guid>
+      <title>国内三大头部AI 工具平台上架支付宝支付集成Skill，助“好想法”轻松“收到钱”</title>
+      <link>https://www.qbitai.com/2026/04/403729.html</link>
+      <description>&lt;![CDATA[国内三大头部AI 工具平台上架支付宝支付集成Skill，助“好想法”轻松“收到钱”]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403729.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型架构的下半场</title>
-      <link>https://www.qbitai.com/2026/04/403515.html</link>
-      <description>&lt;![CDATA[大模型架构的下半场]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403515.html</guid>
+      <title>Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek</title>
+      <link>https://www.qbitai.com/2026/04/403708.html</link>
+      <description>&lt;![CDATA[Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403708.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？</title>
+      <link>https://www.qbitai.com/2026/04/403701.html</link>
+      <description>&lt;![CDATA[全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403701.html</guid>
       <category>AI</category>
     </item>
   </channel>

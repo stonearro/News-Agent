@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-20 07:17
+**最后更新时间**: 2026-04-20 09:54
+
+---
+
+## 🆕 最新更新 (2026-04-20 09:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI 芯片格局生变：Cerebras 再迎IPO大考，英伟达真正的对手来了｜IPO观察](https://www.tmtpost.com/7959992.html)
+**发布时间**: 2026-04-20 17:17
+
+#### [月之暗面IPO，杨植麟不急股东急](https://www.tmtpost.com/7959812.html)
+**发布时间**: 2026-04-20 15:54
+
+#### [海信视像：冲击三星全球第一，还差什么？](https://www.tmtpost.com/7959724.html)
+**发布时间**: 2026-04-20 15:54
+
+#### [今年最妖股，改个AI名，股价暴涨800%](https://www.tmtpost.com/7959729.html)
+**发布时间**: 2026-04-20 15:54
+
+#### [Sora退场，新BAT狂飙](https://www.tmtpost.com/7959767.html)
+**发布时间**: 2026-04-20 15:49
+
+#### [Token大跃进](https://www.tmtpost.com/7959756.html)
+**发布时间**: 2026-04-20 15:49
+
+#### [国货美妆沦为“杂货铺”？](https://www.tmtpost.com/7959757.html)
+**发布时间**: 2026-04-20 15:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [RTO 小于 30 秒！TDSQL-C 全球数据库切换核心流程公开](https://www.infoq.cn/video/J08xYJwwFAhVuxJGyNr4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 16:48
+
+#### [零门槛AI生成赛道再添新玩家，“灵珠”平台开启第一次内测](https://www.infoq.cn/article/ZPWKLMsW3qPTNKEog63r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 16:43
+
+#### [混元大模型加持！揭秘 AI 时代的 SQL 自动调优核心方案](https://www.infoq.cn/video/mMwbDBfQOpxCTvFkPhc1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 16:00
+
+#### [TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析](https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 15:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透｜Android 17 正式版前瞻](https://sspai.com/post/108899)
+**发布时间**: 2026-04-20 16:27
 
 ---
 

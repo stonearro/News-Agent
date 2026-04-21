@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-21 06:55
+**最后更新时间**: 2026-04-21 23:30
+
+---
+
+## 🆕 最新更新 (2026-04-21 23:30)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [ReasoningBank: Enabling agents to learn from experience](https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/)
+**发布时间**: 2026-04-21 16:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑](https://www.qbitai.com/2026/04/404124.html)
+**发布时间**: 2026-04-21 14:21
+
+#### [5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣](https://www.qbitai.com/2026/04/404096.html)
+**发布时间**: 2026-04-21 12:02
+
+#### [物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题](https://www.qbitai.com/2026/04/404086.html)
+**发布时间**: 2026-04-21 08:45
+
+#### [ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态](https://www.qbitai.com/2026/04/404082.html)
+**发布时间**: 2026-04-21 08:31
 
 ---
 

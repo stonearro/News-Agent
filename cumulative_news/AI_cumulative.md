@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-22 09:13
+**最后更新时间**: 2026-04-22 23:40
+
+---
+
+## 🆕 最新更新 (2026-04-22 23:40)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [It's all about the angle: Your photos, re-composed](https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/)
+**发布时间**: 2026-04-22 17:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺](https://www.qbitai.com/2026/04/404721.html)
+**发布时间**: 2026-04-22 14:26
+
+#### [科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆](https://www.qbitai.com/2026/04/404713.html)
+**发布时间**: 2026-04-22 13:15
+
+#### [神秘模型「大象」：仅100B拿下SOTA，Token效率超高！](https://www.qbitai.com/2026/04/404645.html)
+**发布时间**: 2026-04-22 10:29
+
+#### [香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖](https://www.qbitai.com/2026/04/404631.html)
+**发布时间**: 2026-04-22 09:52
+
+#### [RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro](https://www.qbitai.com/2026/04/404798.html)
+**发布时间**: 2026-04-22 09:13
 
 ---
 

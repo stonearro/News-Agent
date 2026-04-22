@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-22 06:56
+**最后更新时间**: 2026-04-22 09:15
+
+---
+
+## 🆕 最新更新 (2026-04-22 09:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践](https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 16:56
+
+#### [在AK大神爆火的任务里，摸清国产AI真实水平](https://www.infoq.cn/article/IPZaVe2hAKCougHa1zAm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 16:31
+
+#### [百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力](https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 15:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Cursor已死，Cursor重生 | AI产业观察](https://www.tmtpost.com/7962905.html)
+**发布时间**: 2026-04-22 16:46
+
+#### [寒气传到头部！养猪双雄合计亏超22亿，猪企集体过苦日子](https://www.tmtpost.com/7962731.html)
+**发布时间**: 2026-04-22 16:45
+
+#### [爱奇艺没疯，只是急了](https://www.tmtpost.com/7962641.html)
+**发布时间**: 2026-04-22 16:22
+
+#### [同行们都该谢谢爱奇艺交的学费](https://www.tmtpost.com/7962393.html)
+**发布时间**: 2026-04-22 15:49
+
+#### [华为要抄“荣米OV”的底](https://www.tmtpost.com/7962383.html)
+**发布时间**: 2026-04-22 15:49
+
+#### [OTA系每天一店，传统酒店慌不慌？](https://www.tmtpost.com/7962529.html)
+**发布时间**: 2026-04-22 15:44
+
+#### [培训岗的遮羞布，被AI掀了](https://www.tmtpost.com/7962555.html)
+**发布时间**: 2026-04-22 15:34
+
+#### [4万亿的困境：苹果需要混乱，但库克留下了秩序](https://www.tmtpost.com/7962810.html)
+**发布时间**: 2026-04-22 15:31
+
+#### [20亿，又一个网红品牌被卖了](https://www.tmtpost.com/7962581.html)
+**发布时间**: 2026-04-22 15:30
+
+#### [谁在骂爱奇艺疯了](https://www.tmtpost.com/7962583.html)
+**发布时间**: 2026-04-22 15:22
+
+#### [马斯克的 AI 拼图：SpaceX 600亿美元锚定Cursor的底层逻辑](https://www.tmtpost.com/7962585.html)
+**发布时间**: 2026-04-22 15:22
+
+#### [600亿买一个即将过时的IDE，马斯克疯了吗？](https://www.tmtpost.com/7962688.html)
+**发布时间**: 2026-04-22 15:21
+
+#### [爱奇艺AI艺人库风波：一场被误读的产业跃迁](https://www.tmtpost.com/7962712.html)
+**发布时间**: 2026-04-22 15:21
+
+#### [启动商业化3个月，ChatGPT广告价格为什么腰斩了？](https://www.tmtpost.com/7962729.html)
+**发布时间**: 2026-04-22 15:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [原来你对写作是真爱：少数派 2025 年度征文结果公布](https://sspai.com/post/108976)
+**发布时间**: 2026-04-22 16:10
+
+#### [把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南](https://sspai.com/post/108857)
+**发布时间**: 2026-04-22 14:33
 
 ---
 

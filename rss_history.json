@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "67790c9093f446191ba88f52a2bc2157795f4d3a90a89a7e5dcdcfd42cba0bff": {
-        "title": "LeCun的世界模型单GPU就能跑了",
-        "link": "https://www.qbitai.com/2026/03/391698.html",
-        "published_date": "Tue, 24 Mar 2026 07:00:00 GMT",
-        "first_seen": "2026-03-24T08:43:55.140552"
-      },
-      "9d1a2b6999b54820c47a16320950a70951955d285503e182f43ea85137de60c7": {
-        "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
-        "link": "https://www.qbitai.com/2026/03/391668.html",
-        "published_date": "Tue, 24 Mar 2026 06:05:00 GMT",
-        "first_seen": "2026-03-24T08:43:55.140720"
-      },
       "ed4af94ea7bcbeb83d306a22926917070b93e79d650062b26222bbe386bf415c": {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
         "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
@@ -1434,87 +1422,15 @@
         "link": "https://www.qbitai.com/2026/04/405299.html",
         "published_date": "Thu, 23 Apr 2026 00:43:00 GMT",
         "first_seen": "2026-04-23T07:00:25.669557"
+      },
+      "998ec308f03855ce07cc246e737c11f57b7c204cf23a3bad3bdcfc206c1c9cc6": {
+        "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
+        "link": "https://www.qbitai.com/2026/04/405391.html",
+        "published_date": "Thu, 23 Apr 2026 08:04:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.688326"
       }
     },
     "Technology": {
-      "22ecc83db2243c0e578a7e754b71fa5336d0f78ed450c0695b09828f48821299": {
-        "title": "AI 可观测如何助力 Agentic 时代的确定性工程？",
-        "link": "https://www.infoq.cn/video/jzSzcszN0dLwv57hvaxk?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935544"
-      },
-      "6da2a438c7972c8d012c81ecd99b85d495504c0fb1abaf6b59e07ebd5c2a9af3": {
-        "title": "从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务",
-        "link": "https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 15:18:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935559"
-      },
-      "23f2390fac3443b490d8d36cf394fba92b913b315e6225143805545ac589d5aa": {
-        "title": "HubSpot推出多模型AI代码审查工具Sidekick，反馈速度提升90%，工程师认可率达80%",
-        "link": "https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935573"
-      },
-      "62147606efb912cbf81ff45832547a36638017923e5bcf7ecf531d14d6ca8252": {
-        "title": "Java 26 发布，带来语言创新、类库优化、性能提升与安全性增强",
-        "link": "https://www.infoq.cn/article/k2M5O0zzCGgw2GsaCDxp?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935492"
-      },
-      "a799fda299a097bd4d3ceb5ec8866b858ce9a56dd70b8daa5d298fbb129547bd": {
-        "title": "从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期",
-        "link": "https://www.tmtpost.com/7926590.html",
-        "published_date": "Tue, 24 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935621"
-      },
-      "f4fd2db487529690a70af258f2fdc43d0258d5c89e1974824e91fdb0128ea7c5": {
-        "title": "茅台之下第一股，A股最贵的那颗芯片",
-        "link": "https://www.tmtpost.com/7926619.html",
-        "published_date": "Tue, 24 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935528"
-      },
-      "7259da1c9247e46d54c7d4ab1bd517e80c9a8e5389d5c394ddc4d6b8b4b310ac": {
-        "title": "县城小厂IPO，雷军又赌对了",
-        "link": "https://www.tmtpost.com/7926618.html",
-        "published_date": "Tue, 24 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935636"
-      },
-      "a97b6ad5a25e06d9d5755173c225fe31f9e4d97823520e3568230cd4a8bb8251": {
-        "title": "With Meager Spending in R&D, Unitree Robotics Deserves 4.2 Billion Yuan to be Raised in IPO?",
-        "link": "https://www.tmtpost.com/7926780.html",
-        "published_date": "Tue, 24 Mar 2026 14:52:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935650"
-      },
-      "ca4bb14c48b9bb8d550231fdbb2f99b1771efcca2b720a2feea0c3a672891166": {
-        "title": "锦欣康养赴港上市：关联交易2亿、突击分红近亿，谁在“落袋为安”？",
-        "link": "https://www.tmtpost.com/7926326.html",
-        "published_date": "Tue, 24 Mar 2026 14:40:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935660"
-      },
-      "2aa88f32a224ebae44d213af9e39ec704ed34bd72ab57e9aaaea87dec1ae80e4": {
-        "title": "减重巨头决战线上，“可及性”成关键赛点",
-        "link": "https://www.tmtpost.com/7926402.html",
-        "published_date": "Tue, 24 Mar 2026 14:39:00 GMT",
-        "first_seen": "2026-03-24T08:43:54.935668"
-      },
-      "b229c3e6ae3fdc4402f358f898e7170883a45f31f371f39370bbf7c0e9de4ec2": {
-        "title": "华住新开店数创历史新高，同步又要优化600家门店",
-        "link": "https://www.tmtpost.com/7922481.html",
-        "published_date": "Tue, 24 Mar 2026 14:12:00 GMT",
-        "first_seen": "2026-03-24T08:43:45.666314"
-      },
-      "51e30e2d0a82106095d02a33bf410a47a9e12c5290601bf65568ed14821bbb9a": {
-        "title": "俄乌冲突开启跨境收并购窗口，中国企业海外布局提速",
-        "link": "https://www.tmtpost.com/7922908.html",
-        "published_date": "Tue, 24 Mar 2026 14:11:00 GMT",
-        "first_seen": "2026-03-24T08:43:45.666831"
-      },
-      "5d00075897c4569337d5cf2b1388bd2fe1b44a6c09b66eee9e1ad67095eecbf8": {
-        "title": "字节的“罗福莉”，撑起了Seedance的半边天",
-        "link": "https://www.tmtpost.com/7926660.html",
-        "published_date": "Tue, 24 Mar 2026 13:59:00 GMT",
-        "first_seen": "2026-03-24T08:43:45.667453"
-      },
       "8ae896d557498d190f25745aad86d65ba28a0dcfab25f32fd5d21d020dc85ac8": {
         "title": "【钛晨报】5000亿元！央行今日出手，继续加量续作；激进方案遇挫，OpenClaw版本升级“翻车”；金价高位回调，周大福暂缓“一口价”产品调价",
         "link": "https://www.tmtpost.com/7927386.html",
@@ -10970,13 +10886,67 @@
         "link": "https://sspai.com/post/108991",
         "published_date": "Thu, 23 Apr 2026 08:34:00 GMT",
         "first_seen": "2026-04-23T07:00:35.079015"
+      },
+      "f1c1a839b0c8ae12717cce5c8270c9aaca04a10b610d58d56e2175a947c09756": {
+        "title": "梁文锋的惊险一跃：当DeepSeek撞上算力账单与组织重构",
+        "link": "https://www.tmtpost.com/7963833.html",
+        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.500408"
+      },
+      "5479cfcedd7bd83fe32f79fcf67791d3eeda0972b16a2cf06edca4d68c36883a": {
+        "title": "国内累库、海外告急，铝价应该怎么看？",
+        "link": "https://www.tmtpost.com/7963475.html",
+        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.500543"
+      },
+      "b4652547e95096514a828a6a0d0e3288170745d472754837adc1b51506c3f952": {
+        "title": "揭秘：哪吒汽车的钱去哪儿了？",
+        "link": "https://www.tmtpost.com/7964246.html",
+        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.500660"
+      },
+      "11c0a5b0c4f212001fc7887099e7c8f4671a70aac63951b51143d6e29887a8f7": {
+        "title": "广东电价飙升至 1 块钱！ 保底售电不能沦为行业“逃生通道”",
+        "link": "https://www.tmtpost.com/7963744.html",
+        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.500820"
+      },
+      "391754869880df872e77224e8c1e0c625b13bb8300f598107b269d3aa2b5073d": {
+        "title": "爱奇艺诈胡了：一把推倒，全场尴尬",
+        "link": "https://www.tmtpost.com/7963489.html",
+        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.500998"
+      },
+      "c079dfbab0d167bb177c52be76f728b766ca7d9c48821677f2b2e6c310826091": {
+        "title": "全年净利润腰斩、研发与销售费用双高，普门科技“烧钱”渡劫丨看财报",
+        "link": "https://www.tmtpost.com/7964264.html",
+        "published_date": "Thu, 23 Apr 2026 15:46:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.501279"
+      },
+      "af555019bfb3c73145d43b1e6bf2b31aed26686f6e5ce33bc07460908d752ebd": {
+        "title": "礼来看起来很有吸引力，它不只是做GLP-1药物",
+        "link": "https://www.tmtpost.com/7964172.html",
+        "published_date": "Thu, 23 Apr 2026 13:46:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.501510"
+      },
+      "a077e199fc60fb0d67f6e91e7f261f1eba26ae22786f8dbe82d968eafd5e4322": {
+        "title": "战争已让航运费率飙升，这位分析师称6只股票或受益",
+        "link": "https://www.tmtpost.com/7964169.html",
+        "published_date": "Thu, 23 Apr 2026 13:45:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.501783"
+      },
+      "05b4e7dd9127768913dc08b78d3160adc65331961559a3a0561aa6f19362eff6": {
+        "title": "Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议",
+        "link": "https://sspai.com/post/108971",
+        "published_date": "Thu, 23 Apr 2026 15:12:00 GMT",
+        "first_seen": "2026-04-23T09:22:12.502221"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-23T07:00:25.719248",
-    "Technology": "2026-04-23T07:00:35.080535",
-    "Finance": "2026-04-23T07:00:25.558813"
+    "AI": "2026-04-23T09:22:12.694695",
+    "Technology": "2026-04-23T09:22:12.530620",
+    "Finance": "2026-04-23T09:22:12.547960"
   }
 }

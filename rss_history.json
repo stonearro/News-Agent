@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b5463c1c9c5e22161b46de91bd6d77ae198309db8cbd5cd418c0d00897834f7a": {
-        "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
-        "link": "https://www.qbitai.com/2026/03/392281.html",
-        "published_date": "Thu, 26 Mar 2026 07:48:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.420697"
-      },
       "1cb58f32d83df78b91933d0ddc2b8220279bbfd3a2eef02eee79db3e8ac6b48d": {
         "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
         "link": "https://www.qbitai.com/2026/03/392684.html",
@@ -1410,99 +1404,21 @@
         "link": "https://www.qbitai.com/2026/04/406809.html",
         "published_date": "Sat, 25 Apr 2026 03:27:00 GMT",
         "first_seen": "2026-04-25T06:19:35.498984"
+      },
+      "10a6a03776bedbc65b5260cff2bcadae22ee16bfad5b6de5362a8105fa5f4e16": {
+        "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+        "link": "https://www.qbitai.com/2026/04/407026.html",
+        "published_date": "Sat, 25 Apr 2026 07:22:00 GMT",
+        "first_seen": "2026-04-25T08:45:55.437883"
+      },
+      "b7dfecd42cc930ef1860541bc1cad285a63bb6a533f16e768036fedcb429bee3": {
+        "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+        "link": "https://www.qbitai.com/2026/04/406994.html",
+        "published_date": "Sat, 25 Apr 2026 06:58:00 GMT",
+        "first_seen": "2026-04-25T08:45:55.438075"
       }
     },
     "Technology": {
-      "9255dd029c7f51aac64ba579e3a7cef6714a878e3c43b989b8ec215e8580feb0": {
-        "title": "2025年蜜雪冰城营收335.6亿，但仍需寻找平稳期发展策略",
-        "link": "https://www.tmtpost.com/7928831.html",
-        "published_date": "Thu, 26 Mar 2026 16:33:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226215"
-      },
-      "0fe676d86871ab807c00b31d110a4a5f822a9e994e9ecb70863baf98430bbb34": {
-        "title": "缩减6倍AI内存、闪迪美光下挫：拆解谷歌TurboQuant背后的软硬件博弈",
-        "link": "https://www.tmtpost.com/7929978.html",
-        "published_date": "Thu, 26 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226230"
-      },
-      "57f9f3c5823a44528b49466002d374a8c3c0afe749a30ce305e30b2e562d1b0d": {
-        "title": "退市头孢竟卖到千元？拨开炒作疑云，看清原研药退场真相",
-        "link": "https://www.tmtpost.com/7929146.html",
-        "published_date": "Thu, 26 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226242"
-      },
-      "735cbd4736571b0cf7e496680d944b74f4eefe693451518daa89d325df5a095d": {
-        "title": "这些爆火的「春日经济」，可不只是新“花”样",
-        "link": "https://www.tmtpost.com/7929679.html",
-        "published_date": "Thu, 26 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226254"
-      },
-      "f8a493bc4139fbd79831ad644f4337d586a2394022dd73e3faec3ecf75562873": {
-        "title": "AI 不养闲人，Sora 终成弃子",
-        "link": "https://www.tmtpost.com/7929151.html",
-        "published_date": "Thu, 26 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226265"
-      },
-      "8ec5b984bd67f5bdd6fe586dba4432c3d6c3283a703b4efb5a4fecbf15fee17d": {
-        "title": "AI 快手的重估还没走完",
-        "link": "https://www.tmtpost.com/7929247.html",
-        "published_date": "Thu, 26 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226275"
-      },
-      "8a6917656cf79091e209914fd81acebc5b22ef9304a58d925bcf9246f29306b6": {
-        "title": "油价暴涨冲10！燃油车主心态崩了，“油换电”的觉醒浪潮已来？",
-        "link": "https://www.tmtpost.com/7929925.html",
-        "published_date": "Thu, 26 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226287"
-      },
-      "52920a19bd4cfd3b8c4a2f7a17a845d4b5103f2c13e89078a961ae7e66db82fd": {
-        "title": "内存通胀“终结者”？谷歌公开最新极限压缩算法",
-        "link": "https://www.tmtpost.com/7929852.html",
-        "published_date": "Thu, 26 Mar 2026 14:24:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226297"
-      },
-      "f3a0ad148c98d75de9d2397c3f6916f8868e3c2b014233fa0c1672a35733b7cf": {
-        "title": "Token重构科技产业：一场围绕“AI电网”的新基础设施战争",
-        "link": "https://www.tmtpost.com/7929190.html",
-        "published_date": "Thu, 26 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226178"
-      },
-      "0025b851933f870bbf04badc3209830246ecff9de42f524e1d2efb6bc605c30b": {
-        "title": "做龙虾的大厂，没有梦想",
-        "link": "https://www.tmtpost.com/7929499.html",
-        "published_date": "Thu, 26 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-26T08:45:33.226308"
-      },
-      "ba62496d333a0848a4e800416ae8f43b075c3205f7102d72ec5f3788138aae4a": {
-        "title": "「迟到」7年，Costco中国终于要推黑钻会员了",
-        "link": "https://www.tmtpost.com/7929640.html",
-        "published_date": "Thu, 26 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-26T08:45:23.910557"
-      },
-      "1d70abb40f57c870e65ad4b289d0c3ff5ff901da2fc434261bfc538e64a279b7": {
-        "title": "AI时代的营销变局：品牌主如何争夺信息话语权",
-        "link": "https://www.tmtpost.com/7929601.html",
-        "published_date": "Thu, 26 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-26T08:45:23.911020"
-      },
-      "7398db1bb621d145b7c71a7416cfb0f53e3574894f9f60ae9cdf2a377ccb43dc": {
-        "title": "华为AI软件工程实践：30年专业经验沉淀打造企业级确定性的高质量软件",
-        "link": "https://www.infoq.cn/article/IPk1UBNeqdj88ZlEWFsk?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 15:50:00 GMT",
-        "first_seen": "2026-03-26T08:45:23.911642"
-      },
-      "5adf2d46fecdad9fb3e75dadac556cce45b84cf639a2884df7325040d099ac34": {
-        "title": "从走火入魔到退一步海阔天空，我的双拼输入法体验",
-        "link": "https://sspai.com/post/106086",
-        "published_date": "Thu, 26 Mar 2026 14:30:00 GMT",
-        "first_seen": "2026-03-26T08:45:23.912204"
-      },
-      "cf043264392820dfe74ac6543c0c01ab54d4988b6f6f89e41431d7bb2f44c1c1": {
-        "title": "张雪峰的“遗产”",
-        "link": "http://www.huxiu.com/article/4845387.html?f=wangzhan",
-        "published_date": "Thu, 26 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-26T08:45:23.912623"
-      },
       "7a72897473238171fd5f41df4aeb38fee624065a4a54fc025308daaef6d1b8e4": {
         "title": "【钛晨报】8部门印发《加快建立长期护理保险制度实施方案》；中国科学院启动下一代开源芯片与系统研发；谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省",
         "link": "https://www.tmtpost.com/7930587.html",
@@ -10856,13 +10772,91 @@
         "link": "https://www.tmtpost.com/7966816.html",
         "published_date": "Sat, 25 Apr 2026 00:07:00 GMT",
         "first_seen": "2026-04-25T06:19:35.622244"
+      },
+      "d7c3a0c0f5af15c1398adb6e2c6e7355237f9e1b666a7a5c05ae678537a5b5cb": {
+        "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+        "link": "https://www.tmtpost.com/7967030.html",
+        "published_date": "Sat, 25 Apr 2026 16:20:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830635"
+      },
+      "7665e5be883556d0fd409ceef69516d1827293a007cf6736cd7c447f7ac5704e": {
+        "title": "已求证！阿维塔高端定位不变，持续向上",
+        "link": "https://www.tmtpost.com/7967007.html",
+        "published_date": "Sat, 25 Apr 2026 16:08:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830645"
+      },
+      "f76f03117bdabc32b5eec91c1f1410c66ec293cbfc8a4d6d440160d52aa9733f": {
+        "title": "DeepSeek V4的真正价值，不在参数里",
+        "link": "https://www.tmtpost.com/7966576.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830654"
+      },
+      "1bc9d5211e51af375148e2af0ace5e8e41959e14f0fc7fd66fd55f6e3831b2b8": {
+        "title": "DeepSeek再放大招，国产大模型坐不住了",
+        "link": "https://www.tmtpost.com/7966592.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830662"
+      },
+      "4d27a9e0ed888f3481f6e8d8dceb0312c80865d1562143d9a4260b63e2edd1ad": {
+        "title": "大疆与影石，一场中国硬件的「边界」交锋",
+        "link": "https://www.tmtpost.com/7966626.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830670"
+      },
+      "6c8aacbc0dae668709a3b3eeab830bcc933d09cb077fd59ba1c60fd607509396": {
+        "title": "V4“上桌”，DeepSeek的故事更热血了",
+        "link": "https://www.tmtpost.com/7966641.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830678"
+      },
+      "c0188834f445419e8a6751361f7cde9d5d7c0b255eebec4b77edc540727cfba3": {
+        "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
+        "link": "https://www.tmtpost.com/7966656.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830686"
+      },
+      "d1da6c1ed556b24e003a3d3ba6147a425908f6e47f55f5de629d8b20071e7dd5": {
+        "title": "字节也入局了，世界模型到底是一门怎样的生意？",
+        "link": "https://www.tmtpost.com/7967028.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830693"
+      },
+      "e066bc7ed41c0d591dc1c06a0cddbe94c44eb98c720dc259c0c3b861d3050de8": {
+        "title": "看了腾讯的Hy3 preview，我读懂了姚顺雨",
+        "link": "https://www.tmtpost.com/7967029.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:45:55.557236"
+      },
+      "b87a8cd4ab2dc4d31c93bb558acb7306ab297c18f0a3a3b3e48f4b6fd6987fc1": {
+        "title": "谁在假冒开市客？",
+        "link": "https://www.tmtpost.com/7966971.html",
+        "published_date": "Sat, 25 Apr 2026 15:17:00 GMT",
+        "first_seen": "2026-04-25T08:45:55.557415"
+      },
+      "1f1eed8d1d347dff7c020950efe9920752a2dca67eaa7d48521bcfe67ec610d0": {
+        "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
+        "link": "https://www.tmtpost.com/7967024.html",
+        "published_date": "Sat, 25 Apr 2026 14:35:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830623"
+      },
+      "46c046f78e84128e4c441e8ec35f8a80d7f4e1c599cb2667821bc27396208ea0": {
+        "title": "百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略",
+        "link": "https://www.tmtpost.com/7966271.html",
+        "published_date": "Sat, 25 Apr 2026 14:14:00 GMT",
+        "first_seen": "2026-04-25T08:45:55.559253"
+      },
+      "8e7efdb2a9026c0bf541b1dac643f4180a3a92bb266ea2b71ef2890d403e14d3": {
+        "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Apr 2026 16:00:00 GMT",
+        "first_seen": "2026-04-25T08:46:04.830588"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-25T06:19:35.518865",
-    "Technology": "2026-04-25T06:19:44.966821",
-    "Finance": "2026-04-25T06:19:35.394141"
+    "AI": "2026-04-25T08:45:55.457264",
+    "Technology": "2026-04-25T08:46:04.834305",
+    "Finance": "2026-04-25T08:45:55.327250"
   }
 }

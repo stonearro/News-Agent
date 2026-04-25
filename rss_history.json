@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "41e3e20fcf8c084a8f39f7d5ac54cc7e8f302bff2fd3b3ad5538ebbcdd800be1": {
-        "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
-        "link": "https://www.qbitai.com/2026/03/392215.html",
-        "published_date": "Thu, 26 Mar 2026 03:03:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.669800"
-      },
-      "c2101e2577d0165488fa6474480ee4e02dbc50ddf438e957cc89dd2263239ee7": {
-        "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
-        "link": "https://www.qbitai.com/2026/03/392137.html",
-        "published_date": "Thu, 26 Mar 2026 02:53:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.669997"
-      },
       "b5463c1c9c5e22161b46de91bd6d77ae198309db8cbd5cd418c0d00897834f7a": {
         "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
         "link": "https://www.qbitai.com/2026/03/392281.html",
@@ -1404,117 +1392,27 @@
         "link": "https://www.qbitai.com/2026/04/406767.html",
         "published_date": "Fri, 24 Apr 2026 09:40:00 GMT",
         "first_seen": "2026-04-24T23:35:33.334265"
+      },
+      "7221b99ead51b7e881084904d2835e41a1723aaa8687cafa0d2e40f6a59570cc": {
+        "title": "华人再破硅谷天花板！AI黑马新任CTO，中科大80后",
+        "link": "https://www.qbitai.com/2026/04/406934.html",
+        "published_date": "Sat, 25 Apr 2026 03:45:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.498640"
+      },
+      "3073ea6a0b18bbb9218c94d1f635e127b4b1dc1d10b7c39fa2a67358fa1ae658": {
+        "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+        "link": "https://www.qbitai.com/2026/04/406892.html",
+        "published_date": "Sat, 25 Apr 2026 03:35:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.498812"
+      },
+      "03ad4fe37fa83dc616554a196b98e4c15efb01b39ab221694f637c87028b6f53": {
+        "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+        "link": "https://www.qbitai.com/2026/04/406809.html",
+        "published_date": "Sat, 25 Apr 2026 03:27:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.498984"
       }
     },
     "Technology": {
-      "5684344fd9163e37fbeedfc1d9be0f6bb20c3f5149582510f2672eb38a80ef9f": {
-        "title": "AWS扩展Aurora DSQL，新增Playground、工具集成和驱动连接器",
-        "link": "https://www.infoq.cn/article/PwtFyXdv4YJLbNsS8w3j?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475481"
-      },
-      "210ab6ab95466741dbb8358359853aaead6e069ad374b7882405e493a51b5af3": {
-        "title": "微信龙虾只活2天：一次更新干崩全生态，OpenClaw 撞上 Vibe Coding 天花板",
-        "link": "https://www.infoq.cn/article/tMy3gaCUrUBemME0wWaV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 13:02:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475496"
-      },
-      "57528661c213a0608812025d7773c4fc36a18876ddf9f78c66613fc8613214d3": {
-        "title": "Cloudera：备份与安全，本质是AI经济学问题",
-        "link": "https://www.infoq.cn/article/vXbhO3QrOZGw3ii7FB2B?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 11:01:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475507"
-      },
-      "ed7f863792e43324c973006f4c0f587b29b5e40a0fdcf68833b58462ebbaedad": {
-        "title": "Harness推出全新的制品仓库，重新构想DevSecOps的制品管理",
-        "link": "https://www.infoq.cn/article/7CeCgJa5gv01bx6ue4D3?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475518"
-      },
-      "4b953dfaf67d168c3171293e8194af6721b19965a16b45c1aa252e0dd3ffd4b0": {
-        "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
-        "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:20:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475531"
-      },
-      "5a84b8f5aa3c670b6c0af6a3084e6d07b407aab6e019110b380e903a7f38c188": {
-        "title": "苹果优化其基础模型的上下文窗口管理能力",
-        "link": "https://www.infoq.cn/article/a3RCQID6a6QukWzeAY8v?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:10:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475541"
-      },
-      "fb9c8aeb1343fda910685479f02cd38cc93e2d7bb6f2727adc366d5a161b9df1": {
-        "title": "Stripe工程师部署了自主智能体Minions，每周生成数千个拉取请求",
-        "link": "https://www.infoq.cn/article/PqlJ5b0GKCC9771Eby8G?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475554"
-      },
-      "898c51fabffbc9664205e1ccc36058c45502df2e9d96ad0955048b301b2eb0f1": {
-        "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475570"
-      },
-      "3e55788e0be288b25fe4d7436c74cc091483eab569387a6cc62c9dd17c704ca6": {
-        "title": "Java近期资讯：JDK 26、LibericaJDK、Payara Platform、GlassFish里程碑版本和ClawRunr",
-        "link": "https://www.infoq.cn/article/Djj5va96FQTPPiKs6gsT?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 08:00:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.178091"
-      },
-      "baddf4604792399b14aa7327a8faedadcd914086f640ad06b4c88b792f0ba4b2": {
-        "title": "技术破题与生态立新，西门子定义工业AI新纪元",
-        "link": "https://www.tmtpost.com/7929728.html",
-        "published_date": "Thu, 26 Mar 2026 13:57:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475428"
-      },
-      "19534b5205d2d623c782de5fe5e857384f9462bc708e81b756b3120da9c30db2": {
-        "title": "AI读研记：哈佛教授用两周把Claude培养成物理“研二学生”，但它总想“抄近道”",
-        "link": "https://www.tmtpost.com/7928810.html",
-        "published_date": "Thu, 26 Mar 2026 10:38:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.179327"
-      },
-      "d39513547ad63875590f4ba7ad8e0c2994db26ca2cbf0194969590b85e4aa75e": {
-        "title": "泡泡玛特：进站加油，换胎再战",
-        "link": "https://www.tmtpost.com/7929599.html",
-        "published_date": "Thu, 26 Mar 2026 10:36:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.179803"
-      },
-      "9344d48324d1f6d33d51264cdc81def11020d7196a8115bf338ada0663174c70": {
-        "title": "800亿买来的外卖大战停战协议：谁在AI的阴影下裸奔？",
-        "link": "https://www.tmtpost.com/7929608.html",
-        "published_date": "Thu, 26 Mar 2026 10:36:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.180368"
-      },
-      "be15652b71b36c0851e70a7edcdd56f5b96e84aca1c257a34a7a631a8f1b0e5e": {
-        "title": "“龙虾”爆改小米、宇树，但关键问题仍未解决",
-        "link": "https://www.tmtpost.com/7929017.html",
-        "published_date": "Thu, 26 Mar 2026 09:32:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.181022"
-      },
-      "20e192f2c936b5f0fedc9e9ab28d83e271374deaa0ccb1ccd7e6b44fa71e8f5a": {
-        "title": "OpenAI关停Sora，AI开始“算账”",
-        "link": "https://www.tmtpost.com/7929286.html",
-        "published_date": "Thu, 26 Mar 2026 09:12:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.181743"
-      },
-      "a88d8c4c1144bf35ba396515fb7498c4143afc44a6a27ac83c1e2d8ad09170b1": {
-        "title": "独家 | 巨量星图回归抖音主端，崔诚向陈都烨汇报",
-        "link": "https://www.tmtpost.com/7929263.html",
-        "published_date": "Thu, 26 Mar 2026 08:55:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.182426"
-      },
-      "0fd51502e0efbaab352417297c759947fe865c6895a1f01df0d7760f95e11277": {
-        "title": "年度征文「决赛圈」：选出你的心中最佳",
-        "link": "https://sspai.com/post/107830",
-        "published_date": "Thu, 26 Mar 2026 10:10:00 GMT",
-        "first_seen": "2026-03-26T06:10:02.183109"
-      },
-      "8c6e15667a2eb031ec794a32763b2ffa4da891eba75dc15204a13b428528f26c": {
-        "title": "派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等",
-        "link": "https://sspai.com/post/107831",
-        "published_date": "Thu, 26 Mar 2026 08:38:00 GMT",
-        "first_seen": "2026-03-26T06:10:11.475464"
-      },
       "9255dd029c7f51aac64ba579e3a7cef6714a878e3c43b989b8ec215e8580feb0": {
         "title": "2025年蜜雪冰城营收335.6亿，但仍需寻找平稳期发展策略",
         "link": "https://www.tmtpost.com/7928831.html",
@@ -10850,13 +10748,121 @@
         "link": "https://sspai.com/post/109050",
         "published_date": "Fri, 24 Apr 2026 18:17:00 GMT",
         "first_seen": "2026-04-24T23:35:33.465048"
+      },
+      "f48a692fe12710231d40cd99f7548e3de58ee688b2905ae24b5249d1de47e66a": {
+        "title": "Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962910"
+      },
+      "babaf0134cb9f3d20e158ffdb3c8cf89751c561688393dfa858b589de0c7fd75": {
+        "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
+        "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962977"
+      },
+      "ebf28e4e17bb436f7f38494c7a8a02d962f0ddceadf01cc5bfbc3fc7a0854384": {
+        "title": "全球变压器超级缺口，激活中国特高压产业机会",
+        "link": "https://www.tmtpost.com/7966566.html",
+        "published_date": "Sat, 25 Apr 2026 11:53:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962987"
+      },
+      "a4583abc0212f4e3eb49edcc3c5e0dd285ab0e7b7f3e6ee3447ad2a500579112": {
+        "title": "2026北京车展：从七大黑科技看全球最大车展",
+        "link": "https://www.tmtpost.com/7966574.html",
+        "published_date": "Sat, 25 Apr 2026 10:16:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962942"
+      },
+      "1644ee5cb4bc46a274729462e933ead8d872c01d967cf1a8bcecaebcda39fc07": {
+        "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
+        "link": "https://www.tmtpost.com/7966538.html",
+        "published_date": "Sat, 25 Apr 2026 10:16:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962999"
+      },
+      "51afae649b8a5da441a1135a1d36f749f19d47f48dbec1cd89b2efc5b76af7e7": {
+        "title": "重温首期“本周图表”：英特尔财报后表现如何？",
+        "link": "https://www.tmtpost.com/7966953.html",
+        "published_date": "Sat, 25 Apr 2026 10:11:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.963008"
+      },
+      "3871b93f86d13c9842150bfea8315630001a3de70b3acd39000b80d786474f51": {
+        "title": "抖音本地生活“断舍离”",
+        "link": "https://www.tmtpost.com/7966611.html",
+        "published_date": "Sat, 25 Apr 2026 09:54:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.963019"
+      },
+      "25aaece26fdd791fc3c032910b02ef10040627139fed92684fc4ffac4feae11c": {
+        "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
+        "link": "https://www.tmtpost.com/7966555.html",
+        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962954"
+      },
+      "3865b18011195b6e6ba9658675ea720a7bf5a586cf2de18e2b3c3420f6772392": {
+        "title": "GPT-5.5实测：更聪明，也更爱“说谎”",
+        "link": "https://www.tmtpost.com/7966667.html",
+        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.963030"
+      },
+      "fee4b99fb659fae5c4c6263826de8c33cd01959bd76faab88dcd981cae35a3d3": {
+        "title": "月暗与DeepSeek的“听牌”时刻",
+        "link": "https://www.tmtpost.com/7966608.html",
+        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.618259"
+      },
+      "517d5466c091dc4df729e0961fdd400137cb187cd51af4cea6d04645c4e9bf85": {
+        "title": "DeepSeek不想只做大模型了",
+        "link": "https://www.tmtpost.com/7966836.html",
+        "published_date": "Sat, 25 Apr 2026 09:31:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.618551"
+      },
+      "e5c62ed186dd64aa3034d343f5c65f5e87fecefbdee9fe31714d3d8c0d4d2fae": {
+        "title": "腾讯大模型重回牌桌了吗？",
+        "link": "https://www.tmtpost.com/7966804.html",
+        "published_date": "Sat, 25 Apr 2026 09:31:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.618824"
+      },
+      "88af353f7a4f762ccd9d914b42ffc8d5c3f64c8fae1ff5e5c4c07821f247de70": {
+        "title": "AI打倒了英特尔，AI又救了英特尔",
+        "link": "https://www.tmtpost.com/7966888.html",
+        "published_date": "Sat, 25 Apr 2026 09:22:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.619193"
+      },
+      "b92baf80bbd7b68d1357a4dbc0a0e4525acd0a564bac46a85cba9b86c02f8a2c": {
+        "title": "南大最新研究：年化40%的骗局面前，AI比人类更清醒",
+        "link": "https://www.tmtpost.com/7964880.html",
+        "published_date": "Sat, 25 Apr 2026 08:49:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.619786"
+      },
+      "117754d78e2985321b8f295c791da41cdfeb63c02782b89607f97c0b002ca3b3": {
+        "title": "Edge AI Daily 早报（4月25日）",
+        "link": "https://www.tmtpost.com/7966852.html",
+        "published_date": "Sat, 25 Apr 2026 08:39:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.620393"
+      },
+      "e59dad4ea723ba8026a4ecd358278b971438e42cbc90d45884d4f893f9241a89": {
+        "title": "花旗：即便民主党中期选举大胜，国防股仍有望挺住",
+        "link": "https://www.tmtpost.com/7966823.html",
+        "published_date": "Sat, 25 Apr 2026 00:09:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.620989"
+      },
+      "d4e25d16e22bedea1c6a110c373cd76276cb00249978c7cbe037c3702c6b3c52": {
+        "title": "运输股上涨释放积极信号，技术面揭示衰退风险或正减弱",
+        "link": "https://www.tmtpost.com/7966821.html",
+        "published_date": "Sat, 25 Apr 2026 00:09:00 GMT",
+        "first_seen": "2026-04-25T06:19:44.962965"
+      },
+      "1f2e94cb2e2166e0a15b4312d455c71d75aa57612bb9d04dfd8cb9e577071ae3": {
+        "title": "巴菲特多年来发现了大量值得买入的股票，眼下他自己的公司看起来就是其中之一",
+        "link": "https://www.tmtpost.com/7966816.html",
+        "published_date": "Sat, 25 Apr 2026 00:07:00 GMT",
+        "first_seen": "2026-04-25T06:19:35.622244"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-24T23:35:33.371136",
-    "Technology": "2026-04-24T23:35:42.812170",
-    "Finance": "2026-04-24T23:35:33.235639"
+    "AI": "2026-04-25T06:19:35.518865",
+    "Technology": "2026-04-25T06:19:44.966821",
+    "Finance": "2026-04-25T06:19:35.394141"
   }
 }

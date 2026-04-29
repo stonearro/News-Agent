@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-29 07:18
+**最后更新时间**: 2026-04-29 23:47
+
+---
+
+## 🆕 最新更新 (2026-04-29 23:47)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Four ways Google Research scientists have been using Empirical Research Assistance](https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/)
+**发布时间**: 2026-04-29 21:07
+
+#### [Accelerating scientific discovery with AI-powered Empirical Research Assistance](https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/)
+**发布时间**: 2025-09-09 17:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元](https://www.qbitai.com/2026/04/411205.html)
+**发布时间**: 2026-04-29 09:08
+
+#### [“算电联合体”在闽成立 太初元碁成为首批成员单位之一](https://www.qbitai.com/2026/04/411184.html)
+**发布时间**: 2026-04-29 09:02
+
+#### [腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言](https://www.qbitai.com/2026/04/411186.html)
+**发布时间**: 2026-04-29 09:00
 
 ---
 

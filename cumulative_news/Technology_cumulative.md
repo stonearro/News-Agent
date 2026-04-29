@@ -1,7 +1,129 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-28 23:50
+**最后更新时间**: 2026-04-29 07:20
+
+---
+
+## 🆕 最新更新 (2026-04-29 07:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [网贷江湖权力重构](https://www.tmtpost.com/7971769.html)
+**发布时间**: 2026-04-29 15:11
+
+#### [对话smart佟湘北：下一个5年不堆新车，做销量](https://www.tmtpost.com/7971758.html)
+**发布时间**: 2026-04-29 15:02
+
+#### [OpenAI登陆Bedrock，AI云战争的铁索终于断了](https://www.tmtpost.com/7971826.html)
+**发布时间**: 2026-04-29 14:38
+
+#### [上市公司TOP5济安评估｜上市公司观察](https://www.tmtpost.com/7971818.html)
+**发布时间**: 2026-04-29 14:04
+
+#### [江波龙2026年一季报点评｜公司点评](https://www.tmtpost.com/7971810.html)
+**发布时间**: 2026-04-29 14:03
+
+#### [亨通光电2026年一季报点评｜公司点评](https://www.tmtpost.com/7971807.html)
+**发布时间**: 2026-04-29 14:03
+
+#### [价值判断：跌停板的投资机会和风险提示（4月28日）｜证券市场观察](https://www.tmtpost.com/7971804.html)
+**发布时间**: 2026-04-29 14:02
+
+#### [价值判断：涨停板的投资机会和风险提示（4月28日）｜证券市场观察](https://www.tmtpost.com/7971799.html)
+**发布时间**: 2026-04-29 14:02
+
+#### [有了“芯”，“脑”在哪：苹果造芯30年，求脑15年](https://www.tmtpost.com/7971083.html)
+**发布时间**: 2026-04-29 13:45
+
+#### [2026北京车展：外资退守，中资进击，中国汽车进入“主场时代”](https://www.tmtpost.com/7971203.html)
+**发布时间**: 2026-04-29 13:45
+
+#### [旅游找搭子，没遇到Links，骗子倒不少](https://www.tmtpost.com/7971080.html)
+**发布时间**: 2026-04-29 13:03
+
+#### [百度职级合并背后：一场用组织效率换技术落地的变革](https://www.tmtpost.com/7970999.html)
+**发布时间**: 2026-04-29 13:03
+
+#### [政策底来了，牧原温氏们还需要等多久](https://www.tmtpost.com/7971580.html)
+**发布时间**: 2026-04-29 13:03
+
+#### [国产车规芯片，走入深水区](https://www.tmtpost.com/7970900.html)
+**发布时间**: 2026-04-29 13:02
+
+#### [主播接连出走，但东方甄选更能赚钱了？](https://www.tmtpost.com/7970869.html)
+**发布时间**: 2026-04-29 13:02
+
+#### [一个以知识沉淀为核心的产品，在Agent时代真的有不可替代的价值吗？](https://www.tmtpost.com/7971686.html)
+**发布时间**: 2026-04-29 12:09
+
+#### [吉利德突破关键位，后市仍有 35% 上涨空间](https://www.tmtpost.com/7971680.html)
+**发布时间**: 2026-04-29 11:45
+
+#### [记忆大模型MemoraX AI完成千万美金种子轮融资，L2F光源创业者基金、钟鼎资本联合领投 | 融资速递](https://www.tmtpost.com/7970234.html)
+**发布时间**: 2026-04-29 11:13
+
+#### [红孩儿给孙悟空写了一封信](https://www.tmtpost.com/7971412.html)
+**发布时间**: 2026-04-29 11:04
+
+#### [高盛称，这8只服务类股票将成为人工智能赢家](https://www.tmtpost.com/7971617.html)
+**发布时间**: 2026-04-29 11:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Coding 到 Agent：QCon 北京 2026 全景复盘，优秀出品人 & 明星讲师名单揭晓](https://www.infoq.cn/article/E5IhQGg98wWEvMud0Mqt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 14:58
+
+#### [全链路支撑大模型国产化“Day 0适配”，商汤大装置构建全栈能力底座](https://www.infoq.cn/article/2y3zZQcXbtyAM5wb0YjK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 13:58
+
+#### [凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了](https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 13:46
+
+#### [HashiCorp Vault 2.0 发布：引入新身份联邦机制，迈入 IBM 生命周期体系](https://www.infoq.cn/article/vHBBM9CtKR3ErMKMhRQI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 13:00
+
+#### [Yelp 实现超 1,000 个 Cassandra 节点零停机升级](https://www.infoq.cn/article/AlfmM40iWo9rJ5xjpVUL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 12:00
+
+#### [全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代](https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 11:41
+
+#### [写了 17 年开源代码，我为什么认为 Coding Agents 堆功能是在瞎折腾？](https://www.infoq.cn/article/sLVv23TfVFxoBPjNwcZI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 11:36
+
+#### [基于 Apache Camel 编排智能体与多模态 AI 管道](https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 11:00
+
+#### [面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海](https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 10:00
+
+#### [Anthropic 推出 Managed Agents，简化 AI 代理部署流程](https://www.infoq.cn/article/j6GxoMDySAzVUFdE01oU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 10:00
+
+#### [阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒](https://www.infoq.cn/article/3kfZZXewSZzErupjYGkT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 09:58
+
+#### [讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口](https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 09:54
+
+#### [小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek](https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 09:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE](https://sspai.com/post/109207)
+**发布时间**: 2026-04-29 11:34
+
+#### [iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
+**发布时间**: 2026-04-29 10:27
+
+#### [派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等](https://sspai.com/post/109204)
+**发布时间**: 2026-04-29 08:22
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [比亚迪5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归](http://www.geekpark.net/news/363496)
+**发布时间**: 2026-04-29 08:29
 
 ---
 

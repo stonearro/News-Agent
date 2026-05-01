@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-05-01 07:23
+**最后更新时间**: 2026-05-01 23:44
+
+---
+
+## 🆕 最新更新 (2026-05-01 23:44)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Catalyzing scientific impact through global partnerships and open resources](https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/)
+**发布时间**: 2026-05-01 16:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑](https://www.qbitai.com/2026/05/412696.html)
+**发布时间**: 2026-05-01 13:58
+
+#### [他用AI办了个音乐节，主题：别读博](https://www.qbitai.com/2026/05/412597.html)
+**发布时间**: 2026-05-01 13:20
+
+#### [智谱公布“降智”的秘密：Scaling不可避免的痛](https://www.qbitai.com/2026/05/412585.html)
+**发布时间**: 2026-05-01 11:00
 
 ---
 

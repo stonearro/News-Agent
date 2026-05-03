@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 May 2026 07:14:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 07:16:26 GMT</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 09:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 09:18:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练</title>
-      <link>https://www.qbitai.com/2026/05/412870.html</link>
-      <description>&lt;![CDATA[突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 03:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412870.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>DeepSeek V4最大的遗憾</title>
-      <link>https://www.qbitai.com/2026/05/412737.html</link>
-      <description>&lt;![CDATA[DeepSeek V4最大的遗憾]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 03:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412737.html</guid>
+      <title>OpenAI参与，重卷ImageNet：终于把FID做成训练</title>
+      <link>https://www.qbitai.com/2026/05/412882.html</link>
+      <description>&lt;![CDATA[OpenAI参与，重卷ImageNet：终于把FID做成训练]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412882.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 May 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Sat, 02 May 2026 23:38:31 GMT</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 07:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 07:16:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>那个在OpenAI修中文的人</title>
-      <link>https://www.tmtpost.com/7975466.html</link>
-      <description>&lt;![CDATA[那个在OpenAI修中文的人]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975466.html</guid>
+      <title>“大一统”重磅新规发布，网贷平台命悬一线</title>
+      <link>https://www.tmtpost.com/7975641.html</link>
+      <description>&lt;![CDATA[“大一统”重磅新规发布，网贷平台命悬一线]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975641.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>构建分层的Agentic RAG系统：具备自主纠错的多模态推理</title>
+      <link>https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建分层的Agentic RAG系统：具备自主纠错的多模态推理]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力</title>
+      <link>https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 12:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微软警告称，AI 正在掏空初级开发者的培养渠道</title>
+      <link>https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软警告称，AI 正在掏空初级开发者的培养渠道]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Sauce Labs 推出 AI 智能体，实现测试创建自动化</title>
+      <link>https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Sauce Labs 推出 AI 智能体，实现测试创建自动化]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>使用AWS Lambda Extensions在响应后执行遥测刷写</title>
+      <link>https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[使用AWS Lambda Extensions在响应后执行遥测刷写]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>.NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了</title>
+      <link>https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[.NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>马斯克和阿莫迪，当桌宠还怪可爱嘞</title>
+      <link>https://www.tmtpost.com/7975795.html</link>
+      <description>&lt;![CDATA[马斯克和阿莫迪，当桌宠还怪可爱嘞]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975795.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>五一爆火！江苏“水上迪士尼”年入1.4亿，女导游带队冲上市</title>
+      <link>https://www.tmtpost.com/7975736.html</link>
+      <description>&lt;![CDATA[五一爆火！江苏“水上迪士尼”年入1.4亿，女导游带队冲上市]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975736.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>硅谷大厂的AI“含金量”开始分级</title>
+      <link>https://www.tmtpost.com/7975709.html</link>
+      <description>&lt;![CDATA[硅谷大厂的AI“含金量”开始分级]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975709.html</guid>
       <category>Technology</category>
     </item>
   </channel>

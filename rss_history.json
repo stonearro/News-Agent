@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "acc1b5af549d6167376b5bc271955e87a7d898d91d1bcb5e58bb50392f736b3b": {
-        "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/396863.html",
-        "published_date": "Mon, 06 Apr 2026 15:30:00 GMT",
-        "first_seen": "2026-04-06T23:31:15.572578"
-      },
-      "7fbe93270a14a0eff6d3f841f4e1609d51ef687a592bad731906e17bd8ba7cf4": {
-        "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
-        "link": "https://www.qbitai.com/2026/04/396841.html",
-        "published_date": "Mon, 06 Apr 2026 15:25:00 GMT",
-        "first_seen": "2026-04-06T23:31:15.572737"
-      },
       "60aa5a1b73267fcf95908a4a5641ad1603f27fe47d514892f10d8174ba18fb86": {
         "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
         "link": "https://www.qbitai.com/2026/04/397523.html",
@@ -1332,33 +1320,15 @@
         "link": "https://www.qbitai.com/2026/05/413265.html",
         "published_date": "Wed, 06 May 2026 08:11:00 GMT",
         "first_seen": "2026-05-06T10:13:31.611179"
+      },
+      "58e8a89d4fceeabf86910158c235ecf2b95de72c5f8b83d29bfcebe66a170e84": {
+        "title": "AI PPT，这次是真不用返工了",
+        "link": "https://www.qbitai.com/2026/05/413296.html",
+        "published_date": "Wed, 06 May 2026 10:28:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.640683"
       }
     },
     "Technology": {
-      "2b18ae53d0c4fde199910b3421ad59a6d27762e42859a804b50822e99b7da77d": {
-        "title": "【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶",
-        "link": "https://www.tmtpost.com/7942349.html",
-        "published_date": "Tue, 07 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-06T23:31:15.371525"
-      },
-      "984c7495e67d99b188ca8058e19616d58e7289c10c0794286d06cb734e2e865b": {
-        "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
-        "link": "https://www.tmtpost.com/7942741.html",
-        "published_date": "Mon, 06 Apr 2026 22:58:00 GMT",
-        "first_seen": "2026-04-06T23:31:15.371709"
-      },
-      "4f7c87bb2a35e0f675bea12f6ac9fc3ced36b211e8531153331a9e236ed9046a": {
-        "title": "微信小游戏开了5000万的口子：平台到底在补贴谁？",
-        "link": "https://www.tmtpost.com/7942848.html",
-        "published_date": "Mon, 06 Apr 2026 17:53:00 GMT",
-        "first_seen": "2026-04-06T23:31:15.371924"
-      },
-      "667a292e14de4b518e99396725ab26453a96ede587cb673ce78782a1dcd4e0ed": {
-        "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
-        "link": "https://sspai.com/post/108294",
-        "published_date": "Mon, 06 Apr 2026 20:45:00 GMT",
-        "first_seen": "2026-04-06T23:31:15.372192"
-      },
       "2c1338879922af409fda263a05eb30dad031066f2549fcca13cb31bef2e431a7": {
         "title": "力控与运控的融合，共话具身智能“小脑”进化的破局之道",
         "link": "https://www.tmtpost.com/7941651.html",
@@ -10226,13 +10196,67 @@
         "link": "https://sspai.com/post/109296",
         "published_date": "Wed, 06 May 2026 15:00:00 GMT",
         "first_seen": "2026-05-06T10:13:31.693971"
+      },
+      "35f8f359ee723267f18c53259ea881b49447628344d2fe2753449fcda309900e": {
+        "title": "【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品",
+        "link": "https://www.tmtpost.com/7978445.html",
+        "published_date": "Thu, 07 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.717459"
+      },
+      "003b458dd6fb92a81528f22d3b3574b3b7b5dad3e7db30d649c2a1a35240d11b": {
+        "title": "乌帕替尼“先发牌”到手，但华邦健康还有笔近亿税务旧账没算完",
+        "link": "https://www.tmtpost.com/7978415.html",
+        "published_date": "Wed, 06 May 2026 21:51:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.717660"
+      },
+      "6f8e8a952d673371bd6e70b2d1d1350313e4a97433840d275873509424e44d4d": {
+        "title": "勤上股份募资账户遭续冻：跨境仲裁僵持背后，两年亏损5.7亿困局待解",
+        "link": "https://www.tmtpost.com/7978326.html",
+        "published_date": "Wed, 06 May 2026 20:24:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.717841"
+      },
+      "66ce697fd471c16b7d9bd676777820fe21ff26686193b1e0e7750505f623f26e": {
+        "title": "需求从工具转向结果，SaaS会死在重生的路上么？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7978077.html",
+        "published_date": "Wed, 06 May 2026 18:58:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.718062"
+      },
+      "e121ec0201f59c4e04965dfa5bdc5fbe82c955e549dad53125a9b89f2640dde2": {
+        "title": "奥特曼食言了，但这次没人怪他",
+        "link": "https://www.tmtpost.com/7978179.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.718230"
+      },
+      "09e4851404066ab55b0a8874b4331d3a070b3d0adfa282ff910a4c0e26f7a82c": {
+        "title": "AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”",
+        "link": "https://www.tmtpost.com/7978166.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.718599"
+      },
+      "5ea24d7eaca214876ae12937d7fceb71eb225604280a4fa357513aa062c27e94": {
+        "title": "赵明能享受到千里科技的推背感吗？",
+        "link": "https://www.tmtpost.com/7978188.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.718787"
+      },
+      "406862fd1488909ea83377de36dd6733e6e8ea14d9658d7836ff2dac800f9716": {
+        "title": "3亿用户扛不住算力账单",
+        "link": "https://www.tmtpost.com/7978182.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.718990"
+      },
+      "eeb27a53107c9cd356e6449734e56571f628c55ddd59b58e58089a4cfe19806d": {
+        "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
+        "link": "https://sspai.com/post/88578",
+        "published_date": "Wed, 06 May 2026 17:30:00 GMT",
+        "first_seen": "2026-05-06T23:44:57.719389"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-06T10:13:31.631942",
-    "Technology": "2026-05-06T10:13:41.027651",
-    "Finance": "2026-05-06T10:13:31.472185"
+    "AI": "2026-05-06T23:44:57.660009",
+    "Technology": "2026-05-06T23:44:57.727199",
+    "Finance": "2026-05-06T23:44:57.501339"
   }
 }

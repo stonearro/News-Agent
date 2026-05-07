@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "31e01aed052eed21af82d972cd3dfce35293978514fcb741891b5007c9403e5a": {
-        "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
-        "link": "https://www.qbitai.com/2026/04/397610.html",
-        "published_date": "Tue, 07 Apr 2026 09:13:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.223640"
-      },
-      "fe90c9539c1011da33fec19666802e853825d5e14ce4f0b2ebaa605af370cb17": {
-        "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
-        "link": "https://www.qbitai.com/2026/04/397576.html",
-        "published_date": "Tue, 07 Apr 2026 09:09:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.223778"
-      },
       "1febb49bccbe456e865b034450d11441e1b923b588b7602f29cb039f14942119": {
         "title": "Skill vs App：一场入口范式的争夺",
         "link": "https://www.qbitai.com/2026/04/397799.html",
@@ -1314,87 +1302,21 @@
         "link": "https://www.qbitai.com/2026/05/413569.html",
         "published_date": "Thu, 07 May 2026 01:13:00 GMT",
         "first_seen": "2026-05-07T07:40:45.529236"
+      },
+      "110c80d6914a22560058e8db2fef0715e9d69502af64bf8acaa3ab24e806be15": {
+        "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+        "link": "https://www.qbitai.com/2026/05/413912.html",
+        "published_date": "Thu, 07 May 2026 15:54:00 GMT",
+        "first_seen": "2026-05-07T23:48:27.936671"
+      },
+      "c89d544c2869594a28765fb07fcdb3269521696922c910dd732849ee6a7ebd40": {
+        "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+        "link": "https://www.qbitai.com/2026/05/414006.html",
+        "published_date": "Thu, 07 May 2026 14:01:00 GMT",
+        "first_seen": "2026-05-07T23:48:27.936900"
       }
     },
     "Technology": {
-      "d6b99ccd05e94d77fbe18e2edc3f4443151828f20084036024f8d8bca6e73943": {
-        "title": "【钛晨报】李强签署国务院令，公布《国务院关于产业链供应链安全的规定》；中国央行连续第17个月增持黄金；“GPT-4o之母”宣布离职OpenAI",
-        "link": "https://www.tmtpost.com/7944317.html",
-        "published_date": "Wed, 08 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051756"
-      },
-      "2b07c83a9f777dbfe962dfc24d4fe9894c4f4e9dcb51e2a54a4fe8d69454ccd2": {
-        "title": "谁在死磕，存算一体？",
-        "link": "https://www.tmtpost.com/7944130.html",
-        "published_date": "Tue, 07 Apr 2026 21:28:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051781"
-      },
-      "18856f27d742a2bf99ec9ac6ce665b7ea9ce71bee19fe8878eb10de2014ba610": {
-        "title": "美国AI三巨头围剿模型蒸馏，中国公司终要大考",
-        "link": "https://www.tmtpost.com/7944117.html",
-        "published_date": "Tue, 07 Apr 2026 21:25:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051795"
-      },
-      "59d8e4c9b9b9ccb70d22fabdc909949f797f85f6ac8088252adf5e6d2b52410b": {
-        "title": "12.83亿营收“一夜蒸发”，内幕交易坐实，重组停滞，万向钱潮内控隐疾显现",
-        "link": "https://www.tmtpost.com/7944094.html",
-        "published_date": "Tue, 07 Apr 2026 20:59:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051809"
-      },
-      "dd6280174e41d203d8b7092029c3a820a6dbe33d66bbafa9cd32c9e79f516fc7": {
-        "title": "1款获批、6 款将至，pVAD上市首年就“卷”起来？",
-        "link": "https://www.tmtpost.com/7943990.html",
-        "published_date": "Tue, 07 Apr 2026 18:05:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051821"
-      },
-      "d6f1d424f9378bd65918d393dd10ac2f1b51ce8135e0385f4fb9feb438de5509": {
-        "title": "新晋排队王“新鲜零食”，到底是行业风口还是智商税？",
-        "link": "https://www.tmtpost.com/7943985.html",
-        "published_date": "Tue, 07 Apr 2026 18:04:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051833"
-      },
-      "4e6d94eb86a32e74118437a6ad8e98aaffabb940fbfcb3eaf56da111bf07c2b4": {
-        "title": "电商评价区，上演AI鉴别大赛",
-        "link": "https://www.tmtpost.com/7943525.html",
-        "published_date": "Tue, 07 Apr 2026 18:03:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051842"
-      },
-      "2bb61da9e949ad5ed656d8b45868688f00fa7741220142881b9910bd887c7067": {
-        "title": "独家对话中国生物制药谢炘：2033年成为全球前30强药企",
-        "link": "https://www.tmtpost.com/7943584.html",
-        "published_date": "Tue, 07 Apr 2026 18:02:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051853"
-      },
-      "8d6cb98f23431c01b3a86b455afc40b0a699a17662cd13358ac34ef81e5d9b6b": {
-        "title": "英伟达的游戏生意，还剩多少想象力？",
-        "link": "https://www.tmtpost.com/7943488.html",
-        "published_date": "Tue, 07 Apr 2026 17:55:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051863"
-      },
-      "e0ad35b5cc490e00ddd845912ebe1030d88d2787d32bed432c6401829f3af63c": {
-        "title": "AI的订阅制，被Agent用崩了",
-        "link": "https://www.tmtpost.com/7942980.html",
-        "published_date": "Tue, 07 Apr 2026 17:55:00 GMT",
-        "first_seen": "2026-04-07T23:33:49.051872"
-      },
-      "36c33303f1313ce6da90fe4f8d822177067c13e88bc8cda634b4ff6934b0c7b1": {
-        "title": "第一批用AI的人，已经染上了AI疲惫症",
-        "link": "https://www.tmtpost.com/7943806.html",
-        "published_date": "Tue, 07 Apr 2026 17:40:00 GMT",
-        "first_seen": "2026-04-07T23:33:39.706172"
-      },
-      "49b0068d50db2ec82354d8f15a3fa5e4d29ee4e67cd169353ccfe7ffc110cdf1": {
-        "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
-        "link": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 19:51:00 GMT",
-        "first_seen": "2026-04-07T23:33:39.706865"
-      },
-      "eff041d9eca7c0c9c004e1c30fb81f1591f1f219410685d8acf3ca1c3f501335": {
-        "title": "社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨",
-        "link": "https://sspai.com/post/108343",
-        "published_date": "Tue, 07 Apr 2026 17:00:00 GMT",
-        "first_seen": "2026-04-07T23:33:39.707834"
-      },
       "54bf37712dc6fd3c225149597c74749b31495527262df3c1d91e67162bc0696f": {
         "title": "银行业云原生事件驱动架构实践：经验与教训",
         "link": "https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&utm_medium=article",
@@ -10376,13 +10298,43 @@
         "link": "http://www.geekpark.net/news/363804",
         "published_date": "Thu, 07 May 2026 16:56:00 GMT",
         "first_seen": "2026-05-07T10:17:42.396171"
+      },
+      "d1ce91e93a452ab2ecf81269427421f896d53910f359ce9f410aa8f404b25dd0": {
+        "title": "【钛晨报】官方发布医药代表管理办法：禁止9种行为，严防商业贿赂；星空卫视今起停播，母公司三年市值蒸发近500亿；出资20亿，京东正式拿下AMC牌照",
+        "link": "https://www.tmtpost.com/7979654.html",
+        "published_date": "Fri, 08 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-07T23:48:28.057932"
+      },
+      "1992901d87b3cc98082c8ae46fa71d23ae168b4732cb2107320a52c6817ec29b": {
+        "title": "“中国坐标”全球刻印：联影医疗财报里的出海“升维”战",
+        "link": "https://www.tmtpost.com/7979377.html",
+        "published_date": "Thu, 07 May 2026 21:47:00 GMT",
+        "first_seen": "2026-05-07T23:48:28.058133"
+      },
+      "71b9fca1bdb28f260efb505a4fee2bd05495f163416053138c08ab7d281609a6": {
+        "title": "盈利提速、增长放缓：百济神州的下一程，等索托克拉接棒丨看财报",
+        "link": "https://www.tmtpost.com/7979205.html",
+        "published_date": "Thu, 07 May 2026 21:15:00 GMT",
+        "first_seen": "2026-05-07T23:48:28.058368"
+      },
+      "0f8fbd70d060e7b9577766ca6cb264b9eef7db32ff2a0df1b95541927a79d1d0": {
+        "title": "降价留客、爆款豪赌、AI续命：影视江湖大逃杀 | 行业风向标",
+        "link": "https://www.tmtpost.com/7979500.html",
+        "published_date": "Thu, 07 May 2026 20:06:00 GMT",
+        "first_seen": "2026-05-07T23:48:28.058641"
+      },
+      "99f5f65d1d0d2c161540a921109c6307021094ae84a9b938659f3175216cc6a2": {
+        "title": "像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent",
+        "link": "https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 18:24:00 GMT",
+        "first_seen": "2026-05-07T23:48:28.058942"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-07T10:17:42.335374",
-    "Technology": "2026-05-07T10:17:51.869044",
-    "Finance": "2026-05-07T10:17:42.206777"
+    "AI": "2026-05-07T23:48:27.959484",
+    "Technology": "2026-05-07T23:48:28.067363",
+    "Finance": "2026-05-07T23:48:27.817879"
   }
 }

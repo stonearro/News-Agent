@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "64833e453282061565629df2dd7aaff3f6d97c5d62e7a7da414605897680a685": {
-        "title": "Nature Index特刊以复杂系统为理论基础的“天立学科大脑”",
-        "link": "https://www.qbitai.com/2026/04/397915.html",
-        "published_date": "Wed, 08 Apr 2026 06:51:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.386336"
-      },
-      "abed1c95b8eedbbad76a0c6ab75241a79b84a132631843009660a0a3b319570f": {
-        "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
-        "link": "https://www.qbitai.com/2026/04/397912.html",
-        "published_date": "Wed, 08 Apr 2026 06:39:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.386468"
-      },
-      "1a271488ee23362320669ec06b899956e9d72d1c82f04cab0251b6d0b481c6ce": {
-        "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
-        "link": "https://www.qbitai.com/2026/04/397898.html",
-        "published_date": "Wed, 08 Apr 2026 06:29:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.386680"
-      },
       "b9a0b13cf7e74204aaaea65f39e41e6882780488c8752879146fe9e53a56fa38": {
         "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
         "link": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/",
@@ -1314,81 +1296,15 @@
         "link": "https://www.qbitai.com/2026/05/414125.html",
         "published_date": "Fri, 08 May 2026 04:06:00 GMT",
         "first_seen": "2026-05-08T06:30:32.779548"
+      },
+      "2b407cfa6f07db7615db50b75a91c7320ec6f38fea8200e9dc797ef968289e69": {
+        "title": "Anthropic出手！AI的内心独白，曝光了",
+        "link": "https://www.qbitai.com/2026/05/414213.html",
+        "published_date": "Fri, 08 May 2026 06:34:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.074370"
       }
     },
     "Technology": {
-      "f6703fd2938a1e9b038a661c860a6edcd9c961ebb22926476fa0e1d759303acc": {
-        "title": "安踏2025年营收破800亿，迪桑特可隆接过增长大旗",
-        "link": "https://www.tmtpost.com/7945291.html",
-        "published_date": "Wed, 08 Apr 2026 16:20:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207363"
-      },
-      "717889bc0e7a58ad86e265a4258f91971c53521a0d4f3673c027bd2b6795f918": {
-        "title": "告别华尔街偏见：为什么回港是中概股垂直冠军市值重估的起点？",
-        "link": "https://www.tmtpost.com/7945204.html",
-        "published_date": "Wed, 08 Apr 2026 14:55:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207376"
-      },
-      "5969b548c1d11e936c6c03db155d0dc00b0a8fc550cab1c162ab25cfab96a920": {
-        "title": "被Anthropic封杀之后，OpenClaw如何反击？",
-        "link": "https://www.tmtpost.com/7945055.html",
-        "published_date": "Wed, 08 Apr 2026 14:53:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207386"
-      },
-      "ea21b495e89a062f0666e1406269ec74a1b5ba7644249014d8ff187f26c9409f": {
-        "title": "外国人涌入中国看病，三大赛道赢麻了？",
-        "link": "https://www.tmtpost.com/7945155.html",
-        "published_date": "Wed, 08 Apr 2026 14:53:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207396"
-      },
-      "15b70df296334fd39d9971bf2af088ce1a6c30fdcb867ee6f517558f8b336f92": {
-        "title": "扭亏为盈，月入千万：女性向小游戏找到赚钱密码",
-        "link": "https://www.tmtpost.com/7945167.html",
-        "published_date": "Wed, 08 Apr 2026 14:50:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207406"
-      },
-      "d4325e8f72a7211341dd590ed3b5a79ad87c4a7ed92298cb2b3fc09044187350": {
-        "title": "更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线",
-        "link": "https://www.tmtpost.com/7945183.html",
-        "published_date": "Wed, 08 Apr 2026 14:50:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207335"
-      },
-      "04370d4ec036aaf358a2320d86e110b35e1a633f5b3caa4a9fadb5621653de3c": {
-        "title": "万亿具身智能赛道，被数据卡住了",
-        "link": "https://www.tmtpost.com/7945164.html",
-        "published_date": "Wed, 08 Apr 2026 14:24:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207415"
-      },
-      "45d3003c9ed0dbf6172bbc0e8b4be80f83ae3c4ea833c68be0792eb156294b15": {
-        "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
-        "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 16:13:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207427"
-      },
-      "f8a1e1cb4568824c95855f80633d8048c56963cf518fafa9b7a85800626c6be9": {
-        "title": "组织规模扩大时，如何应对信任与心理安全感",
-        "link": "https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 16:00:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207438"
-      },
-      "b908a02572a9e45b49fa182f5837154133b83b4ba8442fd6450ef2749c9576fd": {
-        "title": "Anthropic 那个“强到不敢发”的模型，终于来了！",
-        "link": "https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 15:20:00 GMT",
-        "first_seen": "2026-04-08T08:56:20.207449"
-      },
-      "423cc7457efc66dfb7fc555a4c4aa7f34f57dfb95c40888abcadeb33ae8c9b03": {
-        "title": "Type-C 接口最大的问题，是看起来已经「统一」了",
-        "link": "https://sspai.com/post/108325",
-        "published_date": "Wed, 08 Apr 2026 14:42:00 GMT",
-        "first_seen": "2026-04-08T08:56:10.828159"
-      },
-      "ff0f2a322e8d6ebff03b19e5cdcc535f28dab4f0514c97bb5ddad1fc5cc8c92a": {
-        "title": "谈谈 Windows 的视觉风格与交互演变",
-        "link": "https://sspai.com/prime/story/windows-ui-styles-history",
-        "published_date": "Wed, 08 Apr 2026 14:05:00 GMT",
-        "first_seen": "2026-04-08T08:56:10.828681"
-      },
       "279ad3a95df081effe24dfcb9f495044b03e6b0b3a51f39278abaca8c7688408": {
         "title": "当具身智能走进工厂：没有星辰大海，只有一本算不清的账",
         "link": "https://www.tmtpost.com/7946012.html",
@@ -10322,13 +10238,139 @@
         "link": "http://www.geekpark.net/news/363813",
         "published_date": "Fri, 08 May 2026 08:10:00 GMT",
         "first_seen": "2026-05-08T06:30:32.898786"
+      },
+      "46f650c327747e791b1cadbf36eb086107ad627284dcf10f0299633d36f34c05": {
+        "title": "Confluent将模式ID移至Kafka头部，以简化模式治理",
+        "link": "https://www.infoq.cn/article/dKD2lUNaMQggrCcQjxw2?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 16:50:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489946"
+      },
+      "85bfcdaafe3f713b49021a79d9affe2f48c77161968ad54e57a2e00b90e5830b": {
+        "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
+        "link": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 16:44:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489934"
+      },
+      "1ac55b8dee4ae2cc991e133f43b72161dc16aaba13b9b9e562c066546c27790f": {
+        "title": "Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle",
+        "link": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 16:39:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489963"
+      },
+      "c42a228c0f1f5ffcee1960dac3cee9908d9088907f8f96f11e9f5828c5539a7e": {
+        "title": "“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！",
+        "link": "https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 16:32:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489888"
+      },
+      "9a6f6ee07d5b8dd92b24c3f4a7bd11002964bdb78ca82c69e9ca1a96167324fb": {
+        "title": "Broadcom将Velero捐赠给 CNCF，将Kubernetes备份功能转向社区治理",
+        "link": "https://www.infoq.cn/article/FwFo4Gerr0lawgBCyYo1?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 16:30:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489975"
+      },
+      "7c466a853789ea4dff7b45234266a46fead9797949784744be99546fed9d1c71": {
+        "title": "对赌失败致业绩变脸、11.8亿营收蒸发，汉嘉数智转型蒙阴",
+        "link": "https://www.tmtpost.com/7980994.html",
+        "published_date": "Fri, 08 May 2026 16:42:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489989"
+      },
+      "0a3370e6b321ce6c3de37f6d66c2d8ecadff370937117d4a71b00ec217277168": {
+        "title": "与哈啰江涛聊顺风车：千亿级生意、乱象和五环外的流动中国",
+        "link": "https://www.tmtpost.com/7980665.html",
+        "published_date": "Fri, 08 May 2026 15:57:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489999"
+      },
+      "5603124f9e2692b19e546b40258a7d8f17920219e5d8e862e695024ad7c9eb15": {
+        "title": "75岁李西廷扛旗，迈瑞医疗的复苏还要熬多久？",
+        "link": "https://www.tmtpost.com/7980669.html",
+        "published_date": "Fri, 08 May 2026 15:52:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.490010"
+      },
+      "9e00c76694f45fcf2a8fceb958c6c35ad53c8b8de74c28ecd91b477130790fe0": {
+        "title": "扒了扒A股1060家AI企业的财报，我发现了4个残酷真相",
+        "link": "https://www.tmtpost.com/7980666.html",
+        "published_date": "Fri, 08 May 2026 15:49:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.490020"
+      },
+      "f6bb3e05d4a326d5c6de3ec986b943ef2ae41f8726ea898792e26aef4bf8be5c": {
+        "title": "小红书拔剑斩自己",
+        "link": "https://www.tmtpost.com/7980580.html",
+        "published_date": "Fri, 08 May 2026 15:46:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.179413"
+      },
+      "7ea660ab18304bf4709a38001dd38033bacffb30b179c950575bad48f64a8e94": {
+        "title": "瞄准 C 端，是豆包商业化的宿命",
+        "link": "https://www.tmtpost.com/7980697.html",
+        "published_date": "Fri, 08 May 2026 15:36:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.179918"
+      },
+      "af39971a64bfe5132d8391c63ccbd9d426e6e169ecc14ca88dea51bc8708655d": {
+        "title": "货代暴雷潮席卷跨境圈",
+        "link": "https://www.tmtpost.com/7980699.html",
+        "published_date": "Fri, 08 May 2026 15:36:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.180197"
+      },
+      "031be188c9b1fcebb201ce582bbf4217af9d2447c1e40f3081c9b9c99d0f1d44": {
+        "title": "ROI逼豆包收费",
+        "link": "https://www.tmtpost.com/7980806.html",
+        "published_date": "Fri, 08 May 2026 15:36:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.180541"
+      },
+      "34fdc2f9e1687383683fe8eaee2491392b68030cceb80ac4a11ef008de832219": {
+        "title": "马斯克结盟Anthropic，标志着大模型战争正式进入“重工业时代”",
+        "link": "https://www.tmtpost.com/7980845.html",
+        "published_date": "Fri, 08 May 2026 15:36:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.181327"
+      },
+      "04dddb27fe16c9819d03f40b43d4111e18830dd5387ceab9041f1624336e3e49": {
+        "title": "对话京东方CEO冯强：拒绝内卷增价值，出海要摒弃单打独斗",
+        "link": "https://www.tmtpost.com/7980727.html",
+        "published_date": "Fri, 08 May 2026 15:28:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.182089"
+      },
+      "ddffd6f515fd9f93908b81182efd83a91e5f160339101a1edd37fc50887b29b7": {
+        "title": "全球零售50强榜单出炉，有一个信号NRF没说透",
+        "link": "https://www.tmtpost.com/7980746.html",
+        "published_date": "Fri, 08 May 2026 15:23:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.182689"
+      },
+      "23c164fa4aef9ff14fd058691e1b0b2be954e75e614868e5423ecd8897bb11ef": {
+        "title": "中国空调圈暗战正酣",
+        "link": "https://www.tmtpost.com/7980667.html",
+        "published_date": "Fri, 08 May 2026 15:23:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.183083"
+      },
+      "a4dfc58f75ec0ab9734075c6dd3c5d17fa50ce70e367187cbb98603a35587059": {
+        "title": "2026年一季度文旅集团财务分析报告",
+        "link": "https://www.tmtpost.com/7980479.html",
+        "published_date": "Fri, 08 May 2026 15:22:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.183533"
+      },
+      "0e751fd03422857dc5dbc65698b637d620359f6f061036bb2d51f1eed4332e15": {
+        "title": "ChatGPT 免费、豆包收费：同一道商业题的两种解法",
+        "link": "https://www.tmtpost.com/7980660.html",
+        "published_date": "Fri, 08 May 2026 15:22:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.184485"
+      },
+      "231b8c7951927783e0300de1653fb6dfd961a8df3644506287c9000246556d54": {
+        "title": "550 亿美元！马斯克的「芯片工厂」开始成为现实",
+        "link": "http://www.geekpark.net/news/363854",
+        "published_date": "Fri, 08 May 2026 15:46:00 GMT",
+        "first_seen": "2026-05-08T09:10:51.489917"
+      },
+      "59aa6a39da0fcfefdb363d7b8f5c6c6f7f9e075dfe9326e41cc5b51dbaa40822": {
+        "title": "扫地机祖师爷再创业：造了一只懂你的「人造赛博宠物」",
+        "link": "http://www.geekpark.net/news/363853",
+        "published_date": "Fri, 08 May 2026 15:42:00 GMT",
+        "first_seen": "2026-05-08T09:10:42.186264"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-08T06:30:32.802440",
-    "Technology": "2026-05-08T06:30:42.207385",
-    "Finance": "2026-05-08T06:30:32.669853"
+    "AI": "2026-05-08T09:10:42.092715",
+    "Technology": "2026-05-08T09:10:51.493261",
+    "Finance": "2026-05-08T09:10:41.966136"
   }
 }

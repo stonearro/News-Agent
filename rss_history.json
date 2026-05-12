@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b355c4c7d89900822e98e2adf87debc46b7e4c53604cc4724657c3aa6de607f1": {
-        "title": "「Claude Code之父」其实是野路子来的……",
-        "link": "https://www.qbitai.com/2026/04/400306.html",
-        "published_date": "Sun, 12 Apr 2026 14:11:00 GMT",
-        "first_seen": "2026-04-12T23:29:51.946000"
-      },
-      "bd6349e607a0d95aa6de1234dc78f25980ae60144f0b18ee750793a62ec5a17d": {
-        "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
-        "link": "https://www.qbitai.com/2026/04/400197.html",
-        "published_date": "Sun, 12 Apr 2026 14:06:00 GMT",
-        "first_seen": "2026-04-12T23:29:51.946166"
-      },
-      "2943cbfba61e686c2a86a1bb8f72e2c2e2975ffdae5137571b628fc97e3ba950": {
-        "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
-        "link": "https://www.qbitai.com/2026/04/399996.html",
-        "published_date": "Sun, 12 Apr 2026 14:02:00 GMT",
-        "first_seen": "2026-04-12T23:29:51.946377"
-      },
       "a33e4b6f64fba434d7bd9e0396a0b841fb124596439df1397ebc3e99d9a71340": {
         "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
         "link": "https://www.qbitai.com/2026/04/400500.html",
@@ -1254,51 +1236,15 @@
         "link": "https://www.qbitai.com/2026/05/416540.html",
         "published_date": "Tue, 12 May 2026 08:03:00 GMT",
         "first_seen": "2026-05-12T10:27:49.487208"
+      },
+      "a632719331fd7abc8fab9789c82b0006cd7af9f4fb267cb7565df0fe155fe184": {
+        "title": "原来Ilya还有70亿美元OpenAI股权",
+        "link": "https://www.qbitai.com/2026/05/416597.html",
+        "published_date": "Tue, 12 May 2026 13:55:00 GMT",
+        "first_seen": "2026-05-12T23:55:15.916421"
       }
     },
     "Technology": {
-      "cfa3c6339c5e9c3b0269bab379b5a42306bb0b1bb620f13fa7ec518111c941ae": {
-        "title": "【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律",
-        "link": "https://www.tmtpost.com/7950349.html",
-        "published_date": "Mon, 13 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.051718"
-      },
-      "4918e1ee654746aa603c010f94870ef373dc4ea725b68ad9ef1d2cf0e589c74a": {
-        "title": "数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”",
-        "link": "https://www.tmtpost.com/7950419.html",
-        "published_date": "Sun, 12 Apr 2026 22:54:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.051945"
-      },
-      "d0accc359f8137f43346ba1c756bf6813b2864d62282f9b17890eb60f333ef2c": {
-        "title": "全球股息ETF正在大幅跑赢标普500指数，3只收益率超过5%的ETF",
-        "link": "https://www.tmtpost.com/7950443.html",
-        "published_date": "Sun, 12 Apr 2026 22:41:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.052126"
-      },
-      "465a26714149e81c925a0750d154a2379d6c4119353ed65c8a334921bc415fe4": {
-        "title": "139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察",
-        "link": "https://www.tmtpost.com/7950387.html",
-        "published_date": "Sun, 12 Apr 2026 21:23:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.052389"
-      },
-      "81eead3e65b38cf92a9bc2d0c889f9dff709192512be94d9fb9a5b3e58f920b2": {
-        "title": "云鲸张峻彬，得像昌敬和俞浩一样去折腾",
-        "link": "https://www.tmtpost.com/7950198.html",
-        "published_date": "Sun, 12 Apr 2026 19:22:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.052576"
-      },
-      "affaa3beaabe7685e760e0235537baf19d0a65152ffcd2fcfb69786830b6eb56": {
-        "title": "只能让 B 站继续富下去",
-        "link": "https://www.tmtpost.com/7950289.html",
-        "published_date": "Sun, 12 Apr 2026 19:22:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.052785"
-      },
-      "4402c41013db0c627969ff8d68aa07e2915cfde4be28725e74b77eaded26907a": {
-        "title": "我是如何进行文件管理的",
-        "link": "https://sspai.com/post/106369",
-        "published_date": "Sun, 12 Apr 2026 17:46:00 GMT",
-        "first_seen": "2026-04-12T23:29:52.052957"
-      },
       "d1713ee1b9c06ad56560ed3b90bdbaad589afc88dcb2be8b9ab3f0eb69c2a83e": {
         "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
         "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
@@ -10370,13 +10316,91 @@
         "link": "https://www.tmtpost.com/7984923.html",
         "published_date": "Tue, 12 May 2026 15:35:00 GMT",
         "first_seen": "2026-05-12T10:27:49.596673"
+      },
+      "23d3180397f0f5c2fbfef4c37fb61f04b49ec388ce04aeba00108cd445ceaef7": {
+        "title": "【钛晨报】腾讯收购喜马拉雅，获市场监管总局附条件批准，两公司最新回应；马斯克、库克随特朗普访华；中国国内航线燃油附加费5月16日起再上调",
+        "link": "https://www.tmtpost.com/7985766.html",
+        "published_date": "Wed, 13 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303312"
+      },
+      "e5e29e670965bb0f522d0814b8fa9773667c17512bc4f425e3828eba95a1ef94": {
+        "title": "连亏4年还要定增7亿，海量数据押注HTAP与多模态，技术迭代还是故事迭代？",
+        "link": "https://www.tmtpost.com/7985857.html",
+        "published_date": "Tue, 12 May 2026 22:45:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303268"
+      },
+      "7465f725c21994573d8ee91b2257bd0fd59d6d22d47502d76b83ac2e55377847": {
+        "title": "ST百利再触信披红线，一年半两度立案，“新主”入主难破危局",
+        "link": "https://www.tmtpost.com/7985648.html",
+        "published_date": "Tue, 12 May 2026 19:22:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303321"
+      },
+      "34727d83783c936395d46065b7ded07c37c97544fce0f98962b760eaab028750": {
+        "title": "沃尔沃中国换帅，段建军接下最难一棒",
+        "link": "https://www.tmtpost.com/7985380.html",
+        "published_date": "Tue, 12 May 2026 18:32:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303331"
+      },
+      "3562708d265cf5e196bcfdf15d5e8d4461a7bcc5c09d52943dab0b6304bdf2e2": {
+        "title": "体验千问内淘宝后，我发现自己低估了AI购物",
+        "link": "https://www.tmtpost.com/7984130.html",
+        "published_date": "Tue, 12 May 2026 18:23:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303339"
+      },
+      "e8d02223d74d1f2d3a4d7472a37ab5c885f637219be052cc6e066869705ab2b0": {
+        "title": "千问重构淘宝，阿里“推翻”阿里",
+        "link": "https://www.tmtpost.com/7984593.html",
+        "published_date": "Tue, 12 May 2026 18:22:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303346"
+      },
+      "dfc8820b0e7850d2354b0db4fe0895ae1dcb9b1c74ad790e3ef7c662ee522c06": {
+        "title": "中标即投诉，投诉即废标，医疗设备集采乱象如何解？",
+        "link": "https://www.tmtpost.com/7985428.html",
+        "published_date": "Tue, 12 May 2026 18:22:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303354"
+      },
+      "de81489dfeb8a7724cf34385a5c546ddf2a570fca6cb792459445aba9c902d8e": {
+        "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
+        "link": "http://www.geekpark.net/news/364060",
+        "published_date": "Wed, 13 May 2026 03:02:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303298"
+      },
+      "e20e55398e1b1b4300d1ecc57adf875913a12414dd3dad8a8b609b24e3306e6f": {
+        "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+        "link": "http://www.geekpark.net/news/364059",
+        "published_date": "Tue, 12 May 2026 19:27:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303362"
+      },
+      "65f3349d4befacca34ab82a05d2dd3bbb63adaf868b4dc79a11406759f7d1ec3": {
+        "title": "对话维他动力余轶南：融资 5 亿，如何跨过从 Demo 到量产的 5 个月",
+        "link": "http://www.geekpark.net/news/364058",
+        "published_date": "Tue, 12 May 2026 19:25:00 GMT",
+        "first_seen": "2026-05-12T23:55:25.303372"
+      },
+      "5663d9ee453a04195c7967ba5724530f4794a5c6e71d72862a9b3b5a27cf8cbb": {
+        "title": "传可灵计划独立融资上市：300 亿美元的快手长出 200 亿美元的 AI 视频子公司",
+        "link": "http://www.geekpark.net/news/364057",
+        "published_date": "Tue, 12 May 2026 19:23:00 GMT",
+        "first_seen": "2026-05-12T23:55:16.023857"
+      },
+      "c7ba7fa6dd753a82db9f4ad06ef2d6da93f030b89ca02e224936275426882db6": {
+        "title": "知名开源作者呼吁对软件供应链进行验证，而非盲目信任",
+        "link": "https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 19:13:00 GMT",
+        "first_seen": "2026-05-12T23:55:16.024297"
+      },
+      "73b500a15831ae37063967b8018ff1a01e9de1bfdd64a00e163ea3cef43fd894": {
+        "title": "社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验",
+        "link": "https://sspai.com/post/109674",
+        "published_date": "Tue, 12 May 2026 17:40:00 GMT",
+        "first_seen": "2026-05-12T23:55:16.024926"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-12T10:27:49.506384",
-    "Technology": "2026-05-12T10:27:49.604791",
-    "Finance": "2026-05-12T10:27:49.376937"
+    "AI": "2026-05-12T23:55:15.961216",
+    "Technology": "2026-05-12T23:55:25.304941",
+    "Finance": "2026-05-12T23:55:15.780721"
   }
 }

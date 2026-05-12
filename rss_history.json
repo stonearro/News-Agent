@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "9cb200cfe3427ac2bb5f3404f372bba4f81de2f34fa6dc06e0049c71d502eb5d": {
-        "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/399975.html",
-        "published_date": "Sun, 12 Apr 2026 07:21:00 GMT",
-        "first_seen": "2026-04-12T08:41:54.739193"
-      },
-      "364baddc2184663ed47a8fe13768200f79a15150cafe08fde66a3a85161aecbd": {
-        "title": "Claude复活30年前传奇游戏，仅用一个周末",
-        "link": "https://www.qbitai.com/2026/04/399903.html",
-        "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
-        "first_seen": "2026-04-12T08:41:54.739365"
-      },
       "b355c4c7d89900822e98e2adf87debc46b7e4c53604cc4724657c3aa6de607f1": {
         "title": "「Claude Code之父」其实是野路子来的……",
         "link": "https://www.qbitai.com/2026/04/400306.html",
@@ -1254,21 +1242,21 @@
         "link": "https://www.qbitai.com/2026/05/416034.html",
         "published_date": "Tue, 12 May 2026 04:02:00 GMT",
         "first_seen": "2026-05-12T07:41:20.301373"
+      },
+      "6a47e07a1b25bd03e3465106f8537715f79d829f4c85edcb0b7e82fb6ccc54ef": {
+        "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+        "link": "https://www.qbitai.com/2026/05/416582.html",
+        "published_date": "Tue, 12 May 2026 09:35:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.487063"
+      },
+      "e43b0595c2d8d898886283a4cdb08c186ae399177c70c859ca36e8108e4d5f4f": {
+        "title": "AI第一金主黄仁勋：日均花掉20亿",
+        "link": "https://www.qbitai.com/2026/05/416540.html",
+        "published_date": "Tue, 12 May 2026 08:03:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.487208"
       }
     },
     "Technology": {
-      "046360b6c52c1800ce80c284e33ff14d0538d6031dce309906dad7b68f719bad": {
-        "title": "奥特曼家门口那把火，烧出了AI时代的分配矛盾",
-        "link": "https://www.tmtpost.com/7950006.html",
-        "published_date": "Sun, 12 Apr 2026 16:26:00 GMT",
-        "first_seen": "2026-04-12T08:41:54.839065"
-      },
-      "8e278fc198e632ef68ce8faf0e017b3f7c1f2a51de4deab18ec723dbaf4eff95": {
-        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
-        "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-12T08:41:54.839238"
-      },
       "cfa3c6339c5e9c3b0269bab379b5a42306bb0b1bb620f13fa7ec518111c941ae": {
         "title": "【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律",
         "link": "https://www.tmtpost.com/7950349.html",
@@ -10322,13 +10310,73 @@
         "link": "https://sspai.com/post/109647",
         "published_date": "Tue, 12 May 2026 07:53:00 GMT",
         "first_seen": "2026-05-12T07:41:29.838541"
+      },
+      "8998683c6c9d4539cfc48f41ab3040bdabcbd68469efddf0e114e40758264bee": {
+        "title": "OpenAI 前 CTO，拿出了一个「最人性」的 AI",
+        "link": "http://www.geekpark.net/news/364044",
+        "published_date": "Tue, 12 May 2026 18:06:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.593742"
+      },
+      "c6cd16ece89037cb3f58849c11fbe231e1702165615cfb7a571106e76f86c805": {
+        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+        "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.593916"
+      },
+      "dee8d47251221eb9e169cc53cff5f6ea721cd80c88ec9b1fa3727a512dcd08ff": {
+        "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+        "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:02:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.594247"
+      },
+      "c0ebd5f9c6034be33c5c68db32358ff4e76c1ab40c1f962b87cd8148525c4e4d": {
+        "title": "中纪委点名，国资做LP，亏了200亿",
+        "link": "https://www.tmtpost.com/7984699.html",
+        "published_date": "Tue, 12 May 2026 17:39:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.594472"
+      },
+      "4b5b81cc5636ddf81f7e7450ddccd46b8c9db4527e2743d4ee89fd49b2766aa1": {
+        "title": "3000元手搓《爱死机》，这部国产AI短片为何能外网刷屏？",
+        "link": "https://www.tmtpost.com/7985284.html",
+        "published_date": "Tue, 12 May 2026 17:39:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.594728"
+      },
+      "63e4f5bf78d656e34345c06aaa307f881c5fd93407cf6f310331fb64a29ec1f3": {
+        "title": "沃尔沃需要吉利，但不能太像吉利",
+        "link": "https://www.tmtpost.com/7985297.html",
+        "published_date": "Tue, 12 May 2026 17:39:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.595016"
+      },
+      "cb00f4d93fdff85611d26d898b3dc5dfb893a92c34b80bbc1f3ec8457be4d684": {
+        "title": "200亿美金估值的可灵，值母公司七成市值",
+        "link": "https://www.tmtpost.com/7985061.html",
+        "published_date": "Tue, 12 May 2026 15:58:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.595315"
+      },
+      "f723affbac1944cd976776c599313a81a9b45cb1eb05ef3068664e73bf0a0108": {
+        "title": "掌阅科技升级旗下AI漫剧平台，AI短剧产业自闭环将成为头部大厂的必选项？",
+        "link": "https://www.tmtpost.com/7985014.html",
+        "published_date": "Tue, 12 May 2026 15:51:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.595713"
+      },
+      "885b20ad82a60f5444b75ea3a49bf50fc4ab7433eb42e9617f4acf14551de0b3": {
+        "title": "“缺芯少算”，长电科技千亿市值“稳了”",
+        "link": "https://www.tmtpost.com/7984929.html",
+        "published_date": "Tue, 12 May 2026 15:39:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.596118"
+      },
+      "ce71f8e8b95578da5f6716d580a89941a65a03103c89cc1568ce5174609441f2": {
+        "title": "揭秘「全民养龙虾」：2026中国OpenClaw用户及企业应用调研报告",
+        "link": "https://www.tmtpost.com/7984923.html",
+        "published_date": "Tue, 12 May 2026 15:35:00 GMT",
+        "first_seen": "2026-05-12T10:27:49.596673"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-12T07:41:20.320432",
-    "Technology": "2026-05-12T07:41:29.841930",
-    "Finance": "2026-05-12T07:41:20.191461"
+    "AI": "2026-05-12T10:27:49.506384",
+    "Technology": "2026-05-12T10:27:49.604791",
+    "Finance": "2026-05-12T10:27:49.376937"
   }
 }

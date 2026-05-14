@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 10:10
+**最后更新时间**: 2026-05-14 23:53
+
+---
+
+## 🆕 最新更新 (2026-05-14 23:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】习近平同美国总统特朗普会谈；央行2026年4月重要金融数据一览：M2同比增长8.6%，前四个月社融规模增量累计为15.45万亿元；腾讯辟谣“AI一位号即将离职”](https://www.tmtpost.com/7988860.html)
+**发布时间**: 2026-05-15 07:20
+
+#### [东星医疗最大并购案：溢价三倍豪掷7.7亿，一口气把商誉堆到近10亿](https://www.tmtpost.com/7988057.html)
+**发布时间**: 2026-05-14 18:34
+
+#### [朝令夕改，短剧苦红果久矣](https://www.tmtpost.com/7988085.html)
+**发布时间**: 2026-05-14 18:18
+
+#### [腾讯在AI赛道上略显吃力](https://www.tmtpost.com/7988103.html)
+**发布时间**: 2026-05-14 18:17
+
+#### [姚军红带队闯美股，大搜车备案落地前路仍崎岖](https://www.tmtpost.com/7988336.html)
+**发布时间**: 2026-05-14 18:17
+
+#### [双线作战的阿里，利润快没了](https://www.tmtpost.com/7988480.html)
+**发布时间**: 2026-05-14 18:17
+
+#### [厨电三巨头，业绩涨不动了](https://www.tmtpost.com/7988411.html)
+**发布时间**: 2026-05-14 18:08
+
+#### [AI大佬田渊栋新开公司融资6.5亿美元，黄仁勋、苏姿丰抢着投](https://www.tmtpost.com/7988481.html)
+**发布时间**: 2026-05-14 18:08
+
+#### [实探东方甄选线下首店，全是“俞敏洪味儿”](https://www.tmtpost.com/7988389.html)
+**发布时间**: 2026-05-14 18:07
+
+#### [天虹超市想再造一个小天虹](https://www.tmtpost.com/7988502.html)
+**发布时间**: 2026-05-14 18:03
+
+#### [铝价涨破3600美元后，全球供应链面临重组](https://www.tmtpost.com/7988489.html)
+**发布时间**: 2026-05-14 18:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek 融资后，大模型领域会有什么新格局？](http://www.geekpark.net/news/364208)
+**发布时间**: 2026-05-14 19:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化](https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 19:45
+
+#### [当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化](https://www.infoq.cn/video/GfiHDW48wHUO5yO61ADB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 19:33
+
+#### [龙虾犯错，员工背锅？Agent 需要安全、稳定与持续进化的底座](https://www.infoq.cn/video/vXakeUv27yAlLgVdCHND?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 19:07
+
+#### [拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投](https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 18:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
+**发布时间**: 2026-05-14 17:17
 
 ---
 

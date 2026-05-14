@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 07:40
+**最后更新时间**: 2026-05-14 10:10
+
+---
+
+## 🆕 最新更新 (2026-05-14 10:10)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践](https://www.infoq.cn/article/ybKCXkQgfxf4J9GCUuJl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 18:09
+
+#### [AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%](https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 18:00
+
+#### [从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座](https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 17:50
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [《速度与激情》25周年，范·迪塞尔戛纳落泪，但赋予电影“速度感”的是另一个男人](https://www.tmtpost.com/7988390.html)
+**发布时间**: 2026-05-14 17:56
+
+#### [OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了](https://www.tmtpost.com/7988375.html)
+**发布时间**: 2026-05-14 17:55
+
+#### [406亿，科创板史上最大并购案要来了](https://www.tmtpost.com/7988491.html)
+**发布时间**: 2026-05-14 17:55
+
+#### [实测千问×淘宝：AI购物，更隐蔽的“竞价排名”？](https://www.tmtpost.com/7988301.html)
+**发布时间**: 2026-05-14 16:41
+
+#### [马斯克点赞，宇树科技“载人机甲”的惊天一跃](https://www.tmtpost.com/7988333.html)
+**发布时间**: 2026-05-14 16:41
+
+#### [东鹏特饮把6元外星人拽下来了](https://www.tmtpost.com/7988351.html)
+**发布时间**: 2026-05-14 16:41
+
+#### [AI豪赌到了下半场，阿里和腾讯的“水池难题”何时才能不亏钱？](https://www.tmtpost.com/7988374.html)
+**发布时间**: 2026-05-14 16:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
+**发布时间**: 2026-05-14 15:45
+
+#### [用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
+**发布时间**: 2026-05-14 15:15
 
 ---
 

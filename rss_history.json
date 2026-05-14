@@ -1275,24 +1275,6 @@
       }
     },
     "Technology": {
-      "ce3ad06d1dabeb11d507f3c5224b5126d19df17d4900390c51fcd36bb5a2f132": {
-        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
-        "link": "https://sspai.com/post/108005",
-        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
-        "first_seen": "2026-04-14T09:12:49.444324"
-      },
-      "64376ceaf47956004a1901010827ee7543290b16d6c775761ffe750b2e54916a": {
-        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
-        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
-        "first_seen": "2026-04-14T09:12:49.444572"
-      },
-      "becf6233b61f775a6cc7cd43d83a0287fffaebab76a726c0f97240e7c2f00b78": {
-        "title": "TDSQL-C 全球数据库的容灾切换与发展方向 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/4x5kTGc6DUpRuYc3oVwB?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Apr 2026 14:42:00 GMT",
-        "first_seen": "2026-04-14T09:12:49.444827"
-      },
       "6b5503d232622fb0a2039f5b5e5c187c14825fef505c0f7f295741849f9372c2": {
         "title": "【钛晨报】聚焦创新药、短缺药等，国办公布14条举措健全药价形成机制；AI广告现诡异画面？网易云音乐回应；周大生上调部分黄金产品品牌使用费",
         "link": "https://www.tmtpost.com/7953344.html",
@@ -10472,13 +10454,85 @@
         "link": "https://sspai.com/post/109734",
         "published_date": "Thu, 14 May 2026 08:20:00 GMT",
         "first_seen": "2026-05-14T07:40:21.593469"
+      },
+      "1471be23b114f992fbcfd14bb765304f5fb77efc97cbf8b99235142a7838fb6a": {
+        "title": "把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践",
+        "link": "https://www.infoq.cn/article/ybKCXkQgfxf4J9GCUuJl?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 18:09:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823540"
+      },
+      "0314e5c847dd0c73797a788cdb73fcc4b2772f660866d7b54171962d3653151b": {
+        "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
+        "link": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 18:00:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823555"
+      },
+      "ad8cbebb1029fd34d72f21360143456d6ef9ef522ca3f94a8a54ac5ac0a2062a": {
+        "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
+        "link": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 17:50:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823569"
+      },
+      "94a185190bf2f8c8d1eda626335db34eeeaaba321a1f8e9db646099ed4b2493d": {
+        "title": "《速度与激情》25周年，范·迪塞尔戛纳落泪，但赋予电影“速度感”的是另一个男人",
+        "link": "https://www.tmtpost.com/7988390.html",
+        "published_date": "Thu, 14 May 2026 17:56:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823583"
+      },
+      "4042a3dca75a709043485ae090ddb4f928d3a0f0264132540f570a0e9bed8ee9": {
+        "title": "OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了",
+        "link": "https://www.tmtpost.com/7988375.html",
+        "published_date": "Thu, 14 May 2026 17:55:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823593"
+      },
+      "072d2d77094e0724a669e0a976c631f127f9f1a31466d4b0d2e16f6ede075a84": {
+        "title": "406亿，科创板史上最大并购案要来了",
+        "link": "https://www.tmtpost.com/7988491.html",
+        "published_date": "Thu, 14 May 2026 17:55:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823603"
+      },
+      "b10b55c72e83d1f5f033f61f9b70d9ec19f443c5331935163abca36dedec51ce": {
+        "title": "实测千问×淘宝：AI购物，更隐蔽的“竞价排名”？",
+        "link": "https://www.tmtpost.com/7988301.html",
+        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823614"
+      },
+      "83e8639c0874ed5bebdd0d3ddb6c56fc4ba5a087b58c373d9a125d9d8b9502f3": {
+        "title": "马斯克点赞，宇树科技“载人机甲”的惊天一跃",
+        "link": "https://www.tmtpost.com/7988333.html",
+        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823510"
+      },
+      "e8e10777684871c273c0d4de56b6735f273a91d5afa707305959ecb92f17ff63": {
+        "title": "东鹏特饮把6元外星人拽下来了",
+        "link": "https://www.tmtpost.com/7988351.html",
+        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823623"
+      },
+      "20f1c7d69ed1fff7d35600b71628a34d01f50fa81d6577c8b946dfbca986ebfd": {
+        "title": "AI豪赌到了下半场，阿里和腾讯的“水池难题”何时才能不亏钱？",
+        "link": "https://www.tmtpost.com/7988374.html",
+        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
+        "first_seen": "2026-05-14T10:10:42.823633"
+      },
+      "d538863b34515e6cb81ef276f967072678ac8d9140c28688d405ca94c2ab605a": {
+        "title": "在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）",
+        "link": "https://sspai.com/prime/story/linux-vm-on-android",
+        "published_date": "Thu, 14 May 2026 15:45:00 GMT",
+        "first_seen": "2026-05-14T10:10:33.483828"
+      },
+      "bf0308e7953fe73cc115b76f80cd4eb9a2dc6ab1102ef7c168e74ed8b6123f36": {
+        "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
+        "link": "https://sspai.com/post/109318",
+        "published_date": "Thu, 14 May 2026 15:15:00 GMT",
+        "first_seen": "2026-05-14T10:10:33.484612"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-14T07:40:21.507590",
-    "Technology": "2026-05-14T07:40:31.046258",
-    "Finance": "2026-05-14T07:40:21.333193"
+    "AI": "2026-05-14T10:10:42.984861",
+    "Technology": "2026-05-14T10:10:42.842022",
+    "Finance": "2026-05-14T10:10:33.415602"
   }
 }

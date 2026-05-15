@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 23:53
+**最后更新时间**: 2026-05-15 08:10
+
+---
+
+## 🆕 最新更新 (2026-05-15 08:10)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从零售OS到全链路AI：多点数智用3600万美元下了一盘什么棋](https://www.tmtpost.com/7989451.html)
+**发布时间**: 2026-05-15 15:39
+
+#### [百星入轨，商业火箭进入“航班化发射时代”](https://www.tmtpost.com/7989500.html)
+**发布时间**: 2026-05-15 15:38
+
+#### [淘车车：八年累亏 43.79 亿，社保公积金合规短板凸显｜IPO观察](https://www.tmtpost.com/7988119.html)
+**发布时间**: 2026-05-15 15:28
+
+#### [广西国资3.69元“抄底”定增，博世科纾困之路成效待考](https://www.tmtpost.com/7989399.html)
+**发布时间**: 2026-05-15 15:28
+
+#### [五道“紧箍咒”下，腾讯终登喜马拉雅](https://www.tmtpost.com/7988890.html)
+**发布时间**: 2026-05-15 15:23
+
+#### [拉美的钟摆，与穿越钟摆的人——拉美国别观察](https://www.tmtpost.com/7989097.html)
+**发布时间**: 2026-05-15 14:28
+
+#### [第一批卖掉股份的OpenAI员工，已经成为千万富翁](https://www.tmtpost.com/7988565.html)
+**发布时间**: 2026-05-15 14:28
+
+#### [消费企业的年报里，写清了品牌迁徙真相](https://www.tmtpost.com/7988845.html)
+**发布时间**: 2026-05-15 14:28
+
+#### [可灵“逃离”快手，大厂AI“分拆”进行时](https://www.tmtpost.com/7988764.html)
+**发布时间**: 2026-05-15 14:28
+
+#### [小红书重塑肉身](https://www.tmtpost.com/7989287.html)
+**发布时间**: 2026-05-15 14:28
+
+#### [央视“放弃”世界杯，那些天价赞助的品牌怎么办？](https://www.tmtpost.com/7988962.html)
+**发布时间**: 2026-05-15 12:48
+
+#### [阿里AI迎来商业化转折点，正式进化到Token经济了！](https://www.tmtpost.com/7989224.html)
+**发布时间**: 2026-05-15 12:48
+
+#### [成立模型委员会，百度也坐不住了](https://www.tmtpost.com/7989289.html)
+**发布时间**: 2026-05-15 12:28
+
+#### [腾讯AI拿到“船票”了吗？我从腾讯财报读到的三个信号](https://www.tmtpost.com/7989145.html)
+**发布时间**: 2026-05-15 10:17
+
+#### [曾经全球第一的日本机器人，迎来「黄昏时刻」](https://www.tmtpost.com/7988886.html)
+**发布时间**: 2026-05-15 10:14
+
+#### [一手涨价潮、一手新故事，中芯国际快 “发飙” 了？](https://www.tmtpost.com/7989141.html)
+**发布时间**: 2026-05-15 10:14
+
+#### [910亿医药大佬，签下千亿大单](https://www.tmtpost.com/7988904.html)
+**发布时间**: 2026-05-15 09:58
+
+#### [李彦宏PK黄仁勋，AI的度量衡是Token还是DAA？](https://www.tmtpost.com/7988792.html)
+**发布时间**: 2026-05-15 09:39
+
+#### [阿里AI迎来兑现时刻](https://www.tmtpost.com/7988745.html)
+**发布时间**: 2026-05-15 09:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T](https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 15:08
+
+#### [Grafana Pyroscope 2.0：实现持续性能分析规模化落地](https://www.infoq.cn/article/YlEaMXEjM9KhoKMayf63?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 14:00
+
+#### [AdonisJS v7 推出端到端类型安全、经过重构的项目模板以及零配置 OpenTelemetry](https://www.infoq.cn/article/eucZu2CRSKKb7DRP6bDc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 12:00
+
+#### [Anthropic 推出 Claude Platform on AWS](https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 11:10
+
+#### [鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单](https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:43
+
+#### [GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能](https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:12
+
+#### [蚂蚁灵波开源LingBot-VLA真机后训练全流程代码，150条示教数据即可适配新机器人](https://www.infoq.cn/article/5QHOQQCUdrGBBNfmm4Dk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:08
+
+#### [科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon上海](https://www.infoq.cn/article/yuljK2uBsZXszoWbZhOS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:00
+
+#### [复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版](https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 09:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
+**发布时间**: 2026-05-15 14:54
+
+#### [你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
+**发布时间**: 2026-05-15 11:33
+
+#### [派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
+**发布时间**: 2026-05-15 08:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克、库克、黄仁勋盛赞中美元首会晤；英伟达市值破 5.5 万亿美元，超德国 GDP；《GTA6》将于 11 月 19 日零点解锁｜极客早知道](http://www.geekpark.net/news/364185)
+**发布时间**: 2026-05-15 08:35
 
 ---
 

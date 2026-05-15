@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 08:10
+**最后更新时间**: 2026-05-15 10:16
+
+---
+
+## 🆕 最新更新 (2026-05-15 10:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [百度想明白了：旧供给到达极限了](https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:45
+
+#### [“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”](https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:42
+
+#### [当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？](https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:15
+
+#### [JEP 533 加强 JDK 27 中 Java 结构化并发的异常处理](https://www.infoq.cn/article/8jh0UiNm7SdaKzprlXWq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 16:12
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一心卖车的蔚来，终于被看懂了](https://www.tmtpost.com/7989657.html)
+**发布时间**: 2026-05-15 17:26
+
+#### [OpenAI Codex进入手机，国产“龙虾”们该醒醒了](https://www.tmtpost.com/7989325.html)
+**发布时间**: 2026-05-15 17:25
+
+#### [FOMO 2026 ：全球创新药大变局，看懂的人还不多](https://www.tmtpost.com/7989359.html)
+**发布时间**: 2026-05-15 17:25
+
+#### [20万的碳酸锂：起点还是终点？下游容忍线在哪？](https://www.tmtpost.com/7988704.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [1032亿！中国创新药又干了一票大的](https://www.tmtpost.com/7989209.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [老年大学里的“银发攀比”，老了也要内卷](https://www.tmtpost.com/7989248.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [宗主国：Anthropic](https://www.tmtpost.com/7989250.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [5个月9个IPO，雷军投出4000亿](https://www.tmtpost.com/7989251.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则](https://www.tmtpost.com/7989252.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元 | 独家](https://www.tmtpost.com/7989626.html)
+**发布时间**: 2026-05-15 16:47
+
+#### [Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察](https://www.tmtpost.com/7989557.html)
+**发布时间**: 2026-05-15 16:38
+
+#### [铜价重返“万四时代”：供应断裂与需求转型共振下的再定价](https://www.tmtpost.com/7988731.html)
+**发布时间**: 2026-05-15 16:17
+
+#### [豆包收费，悟空走量：AI助手走向分化](https://www.tmtpost.com/7988052.html)
+**发布时间**: 2026-05-15 16:17
+
+#### [大模型刷榜时代，为什么榜单里没有京东？](https://www.tmtpost.com/7989374.html)
+**发布时间**: 2026-05-15 16:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [\[会员免费\] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
+**发布时间**: 2026-05-15 16:59
 
 ---
 

@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "5352f9c83582e8e22acacaf5aaa6ddf423141684a848cfb5fc6d4597324371d3": {
-        "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
-        "link": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
-        "published_date": "Thu, 16 Apr 2026 14:41:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.791642"
-      },
-      "c591fc4eb6aba40171e2ca3fa53069a28e9287cd3f5cf61cc1a3f9aa66159a84": {
-        "title": "AI-generated synthetic neurons speed up brain mapping",
-        "link": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
-        "published_date": "Thu, 16 Apr 2026 12:18:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.791952"
-      },
-      "080268e39fa7ec27ea6bb72327822756c9abd938c1830c734a8b735edf4ba4cb": {
-        "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-        "link": "https://www.qbitai.com/2026/04/402085.html",
-        "published_date": "Thu, 16 Apr 2026 13:36:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.792262"
-      },
-      "ef88f4d024620687f8929ffd7e6efa4de46383c2aa44e1e321f5051f92fa6d6a": {
-        "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-        "link": "https://www.qbitai.com/2026/04/401741.html",
-        "published_date": "Thu, 16 Apr 2026 13:04:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.792553"
-      },
-      "42b5851637bbc8df57d5cc2c28187cc1d8454d91706a4b7fc5ed3e113e7054ce": {
-        "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
-        "link": "https://www.qbitai.com/2026/04/402063.html",
-        "published_date": "Thu, 16 Apr 2026 12:51:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.792865"
-      },
-      "96fbc59d02d3e4fb9f02580e0ace61badaaae8464019165ba7ffe563e764d85f": {
-        "title": "世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场",
-        "link": "https://www.qbitai.com/2026/04/401994.html",
-        "published_date": "Thu, 16 Apr 2026 12:39:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.793248"
-      },
-      "ee0d7256dd161a6e34804feafc03faf8309f3f84d16a16a265a5ec7c80d1c108": {
-        "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
-        "link": "https://www.qbitai.com/2026/04/401743.html",
-        "published_date": "Thu, 16 Apr 2026 12:33:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.793677"
-      },
       "a21170220aa0503b52f23c4f4a350d069914aed69d75593c6eb46aa8138b1e88": {
         "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
         "link": "https://www.qbitai.com/2026/04/402186.html",
@@ -1236,141 +1194,15 @@
         "link": "https://www.qbitai.com/2026/05/418150.html",
         "published_date": "Sat, 16 May 2026 04:27:00 GMT",
         "first_seen": "2026-05-16T07:13:02.454309"
+      },
+      "3dc8be2b1a57f55fec5305c3aaae9294dd256565ef2d7fbbe5f3597722278dd3": {
+        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+        "link": "https://www.qbitai.com/2026/05/418620.html",
+        "published_date": "Sat, 16 May 2026 13:44:00 GMT",
+        "first_seen": "2026-05-16T23:46:07.100421"
       }
     },
     "Technology": {
-      "62c5a2e33fa000f00235ec57306e145780545210f4d39777ef89a400e41bb837": {
-        "title": "【钛晨报】一季度国民经济运行情况一览：GDP同比增长5.0%，社零总额同比增长2.4%；市场监管总局：动态调整CCC认证目录，避免低价低质“内卷式”竞争；贵州茅台、台积电财报出炉",
-        "link": "https://www.tmtpost.com/7956575.html",
-        "published_date": "Fri, 17 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258123"
-      },
-      "d68caea64841b3ea3cf564d6d7746074efa48ffb2c1641138ff24e69f1302168": {
-        "title": "与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟",
-        "link": "https://www.tmtpost.com/7956626.html",
-        "published_date": "Thu, 16 Apr 2026 22:37:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258087"
-      },
-      "0e7afe358efa0059903d13ddbda282179304abd0db235d0beec321585be7eb98": {
-        "title": "猪价创10年新低，猪肉股为何先涨？| 行业风向标",
-        "link": "https://www.tmtpost.com/7956545.html",
-        "published_date": "Thu, 16 Apr 2026 21:36:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258137"
-      },
-      "5650be9cb4d99a49e62ff4797a25ba1780bb25473f13bbbbd356ee3b37ac5778": {
-        "title": "中大力德业绩失速：增收不增利现金流承压，人形机器人光环“褪色”｜看财报",
-        "link": "https://www.tmtpost.com/7956561.html",
-        "published_date": "Thu, 16 Apr 2026 21:31:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258149"
-      },
-      "8a06354acc43184dc97e39efcde9db994ef06b0128fae2ff69721b9da0c35ef6": {
-        "title": "从超算到超智融合，中科曙光6万卡集群重构算力产业格局",
-        "link": "https://www.tmtpost.com/7956398.html",
-        "published_date": "Thu, 16 Apr 2026 19:32:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258159"
-      },
-      "f1761c6729b3032c3675222726831df4406ddb8172c853a1b5d6359fa75ea563": {
-        "title": "锂价暴涨，宁王为什么更赚了？",
-        "link": "https://www.tmtpost.com/7955760.html",
-        "published_date": "Thu, 16 Apr 2026 19:18:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258169"
-      },
-      "3a74e5e785dd981776041339bf53b943023caab073a0802e85240bb180076a64": {
-        "title": "羊奶粉老二宜品乳业赴港“补考”：利润向左，增长向右",
-        "link": "https://www.tmtpost.com/7954578.html",
-        "published_date": "Thu, 16 Apr 2026 19:18:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258180"
-      },
-      "b49ba4a53c470be806af903dc611997121a12aaa465c02d0d4a712ff770a858d": {
-        "title": "AI视频混战升级，字节在模型之外加了道防线",
-        "link": "https://www.tmtpost.com/7956026.html",
-        "published_date": "Thu, 16 Apr 2026 19:17:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258189"
-      },
-      "51b3436cbec00769d07c457fc4e8a06e65f9164bc463bfe6e994aa69197d466a": {
-        "title": "这位爷，快要买光中国美容院了",
-        "link": "https://www.tmtpost.com/7955420.html",
-        "published_date": "Thu, 16 Apr 2026 19:14:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258198"
-      },
-      "d28b8def9e99f4d89047259bd41763fcf41dd97d0aa1d3a8ee26e21e7ce33a31": {
-        "title": "华为回归，小米“撤退”",
-        "link": "https://www.tmtpost.com/7955442.html",
-        "published_date": "Thu, 16 Apr 2026 19:14:00 GMT",
-        "first_seen": "2026-04-16T23:36:56.258248"
-      },
-      "f2ad420455d7e75945cd87630a2c7906c1576ff5fc222f97dbc1b2cee6806070": {
-        "title": "是真的厉害还是吹得厉害？掰一掰量产前夜的固态电池",
-        "link": "https://www.tmtpost.com/7955670.html",
-        "published_date": "Thu, 16 Apr 2026 19:12:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.910747"
-      },
-      "c17b4e78ebaa65bfd6c370390eb29c3e07e364f91e04d10effaf7ae14c7696d3": {
-        "title": "抖音、百度、淘天、京东、高德…涌入本地团购新战场",
-        "link": "https://www.tmtpost.com/7956354.html",
-        "published_date": "Thu, 16 Apr 2026 19:12:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.911391"
-      },
-      "d6fa3d3cdcbe7dad76cf39785c8c457bc9e45ec189319af45b8659ad85fced77": {
-        "title": "美国AI，怎么也搞实名制了？",
-        "link": "https://www.tmtpost.com/7956280.html",
-        "published_date": "Thu, 16 Apr 2026 19:06:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.911838"
-      },
-      "cfb742d28d69427ae5c79a1fea08edba2e5e2f8462c4939e9c46c81dd07275dd": {
-        "title": "京东可以“叫车”了，但不是第二个滴滴",
-        "link": "https://www.tmtpost.com/7956314.html",
-        "published_date": "Thu, 16 Apr 2026 19:06:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.912449"
-      },
-      "684cbc6193fd3ddd91fb39d255d5a18645aee8b82b98c25d16a6f842e298c901": {
-        "title": "台积电：AI 界 “真霸主”，谁能撼动？",
-        "link": "https://www.tmtpost.com/7956315.html",
-        "published_date": "Thu, 16 Apr 2026 18:59:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.913088"
-      },
-      "2d38529c34a9040b796d1d38c0c8fed12da3b2700c3d4e7ab6ccb766e5646cf6": {
-        "title": "一本正经的Claude“身份验证”，藏着赛道最残酷的博弈",
-        "link": "https://www.tmtpost.com/7956261.html",
-        "published_date": "Thu, 16 Apr 2026 18:59:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.913866"
-      },
-      "608f6737d629a13a38ea367f33ee6cdf314b38b0672883d04a43579cd5885a2e": {
-        "title": "NPO、CPO与XPO，谁能执掌未来数据中心话语权？",
-        "link": "https://www.tmtpost.com/7956258.html",
-        "published_date": "Thu, 16 Apr 2026 18:56:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.914638"
-      },
-      "0a52440ee66fe05f393646d6309db10c4e13f15dcbd8148611bb46477626df89": {
-        "title": "极致服务靠“压榨”员工？635亿火锅首富亲自道歉",
-        "link": "https://www.tmtpost.com/7954623.html",
-        "published_date": "Thu, 16 Apr 2026 18:56:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.915497"
-      },
-      "76602d1cae69c47f4df6ad7bde48f6ea0d14573b774b07c098711d892e6cdfb0": {
-        "title": "瑞幸的增长故事，该换个讲法了",
-        "link": "https://www.tmtpost.com/7956259.html",
-        "published_date": "Thu, 16 Apr 2026 18:54:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.916117"
-      },
-      "83c333cb932da43f39f7cd23048f919c87ad5d4e0a56ca3c14e623d9f192765a": {
-        "title": "MiniMax“伪开源”风波背后，闫俊杰的理想败给了资本焦虑了吗？",
-        "link": "https://www.tmtpost.com/7956236.html",
-        "published_date": "Thu, 16 Apr 2026 18:54:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.917261"
-      },
-      "7f4a656ed40ce6423ba1c949a7b27883106c905bfed7e17cf76cb1acfd7d9b00": {
-        "title": "阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3",
-        "link": "https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 17:35:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.918684"
-      },
-      "3a002f2f1d608e1808f7a02caadfa80d4469545cf11025b3f0d3588271b97a8f": {
-        "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
-        "link": "https://sspai.com/post/108070",
-        "published_date": "Thu, 16 Apr 2026 17:15:00 GMT",
-        "first_seen": "2026-04-16T23:36:46.919685"
-      },
       "bb486213159341764c73e87bb2b27ad85820225940417987329f732df9668b68": {
         "title": "世界模型元年启示录：动机、乱战与暗礁",
         "link": "https://www.tmtpost.com/7956668.html",
@@ -10280,13 +10112,25 @@
         "link": "https://sspai.com/post/109777",
         "published_date": "Sat, 16 May 2026 15:38:00 GMT",
         "first_seen": "2026-05-16T09:25:20.713028"
+      },
+      "4325b8b0c9207fe94a34f28da7c9ffe047691864c3229c0c6745dfe753dec739": {
+        "title": "旧钱托底、新钱突围、代价攀升：阿里财报里的三重叙事",
+        "link": "https://www.tmtpost.com/7990090.html",
+        "published_date": "Sat, 16 May 2026 09:34:00 GMT",
+        "first_seen": "2026-05-16T23:46:06.919983"
+      },
+      "9e8a30473d0e74cdeed149d421ae9e536a29f58fed41f34e597d3bb0b2b333ff": {
+        "title": "千亿之后，国寿财险还需补什么课？",
+        "link": "https://www.tmtpost.com/7990089.html",
+        "published_date": "Sat, 16 May 2026 09:34:00 GMT",
+        "first_seen": "2026-05-16T23:46:06.920137"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-16T09:25:20.875573",
-    "Technology": "2026-05-16T09:25:20.733257",
-    "Finance": "2026-05-16T09:25:20.650130"
+    "AI": "2026-05-16T23:46:07.107680",
+    "Technology": "2026-05-16T23:46:06.958917",
+    "Finance": "2026-05-16T23:46:06.856027"
   }
 }

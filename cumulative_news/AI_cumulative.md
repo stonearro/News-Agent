@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-05-18 08:41
+**最后更新时间**: 2026-05-18 23:58
+
+---
+
+## 🆕 最新更新 (2026-05-18 23:58)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代](https://www.qbitai.com/2026/05/419585.html)
+**发布时间**: 2026-05-18 13:16
+
+#### [AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议](https://www.qbitai.com/2026/05/419528.html)
+**发布时间**: 2026-05-18 12:18
+
+#### [openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕](https://www.qbitai.com/2026/05/419515.html)
+**发布时间**: 2026-05-18 10:26
+
+#### [华为“养”出半个具身智能创业圈](https://www.qbitai.com/2026/05/419414.html)
+**发布时间**: 2026-05-18 08:54
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Gemini-backed Paper Assistant Tool provides automated feedback for theoretical computer scientists at STOC 2026](https://research.google/blog/gemini-provides-automated-feedback-for-theoretical-computer-scientists-at-stoc-2026/)
+**发布时间**: 2025-12-15 17:37
 
 ---
 

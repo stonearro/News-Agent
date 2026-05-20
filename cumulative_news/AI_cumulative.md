@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-05-19 08:21
+**最后更新时间**: 2026-05-19 23:57
+
+---
+
+## 🆕 最新更新 (2026-05-19 23:57)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
+**发布时间**: 2026-05-19 17:52
 
 ---
 

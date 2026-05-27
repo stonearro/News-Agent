@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 May 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 00:00:59 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 08:37:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，国产AI自己造了AI，全球首例！</title>
-      <link>https://www.qbitai.com/2026/05/425511.html</link>
-      <description>&lt;![CDATA[刚刚，国产AI自己造了AI，全球首例！]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425511.html</guid>
+      <title>OpenAI挖来了个F1级别车手搞公关</title>
+      <link>https://www.qbitai.com/2026/05/425857.html</link>
+      <description>&lt;![CDATA[OpenAI挖来了个F1级别车手搞公关]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425857.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>触觉具身来了个梦之队：天使轮近亿</title>
+      <link>https://www.qbitai.com/2026/05/425660.html</link>
+      <description>&lt;![CDATA[触觉具身来了个梦之队：天使轮近亿]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 05:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425660.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动</title>
+      <link>https://www.qbitai.com/2026/05/425810.html</link>
+      <description>&lt;![CDATA[Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 05:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425810.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时</title>
+      <link>https://www.qbitai.com/2026/05/425523.html</link>
+      <description>&lt;![CDATA[DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 01:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425523.html</guid>
       <category>AI</category>
     </item>
   </channel>

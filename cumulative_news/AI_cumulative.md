@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-05-27 08:34
+**最后更新时间**: 2026-05-27 23:56
+
+---
+
+## 🆕 最新更新 (2026-05-27 23:56)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Private analytics via zero-trust aggregation](https://research.google/blog/private-analytics-via-zero-trust-aggregation/)
+**发布时间**: 2026-05-27 16:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [1400亿Agent入场，“流量”这条护城河要塌了](https://www.qbitai.com/2026/05/425881.html)
+**发布时间**: 2026-05-27 09:31
+
+#### [5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了](https://www.qbitai.com/2026/05/425870.html)
+**发布时间**: 2026-05-27 09:01
 
 ---
 

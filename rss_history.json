@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b808a5427177d91c5c87649a43a698870a66921a89f015ce6b68d3b37570b2b7": {
-        "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-        "link": "https://www.qbitai.com/2026/04/412015.html",
-        "published_date": "Thu, 30 Apr 2026 09:08:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.842660"
-      },
-      "f2784c6415723f442732c76d628a4d32f16180d417279f09dd16c776c41f37cd": {
-        "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
-        "link": "https://www.qbitai.com/2026/04/411963.html",
-        "published_date": "Thu, 30 Apr 2026 08:36:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.842857"
-      },
-      "cd8d4ef029849a8adad6da94733c429340dccc9d2fb79fe45752c100aecc13f2": {
-        "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
-        "link": "https://www.qbitai.com/2026/04/411964.html",
-        "published_date": "Thu, 30 Apr 2026 08:23:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.843070"
-      },
-      "a18ddc2627822385dd1e415c3c71b31289ed5672a5fdc9c98083229e3aad0bc2": {
-        "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
-        "link": "https://www.qbitai.com/2026/04/412041.html",
-        "published_date": "Thu, 30 Apr 2026 12:04:00 GMT",
-        "first_seen": "2026-04-30T23:46:50.991767"
-      },
-      "3e43fd0f049c2f7c0bc42ce8d8b9c7993912f496e006197cf2ca019ebf3c17ac": {
-        "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
-        "link": "https://www.qbitai.com/2026/04/412021.html",
-        "published_date": "Thu, 30 Apr 2026 11:38:00 GMT",
-        "first_seen": "2026-04-30T23:46:50.991913"
-      },
       "fc85d48a956c6757845cf2b80274470f7923d2b691791bf63a1b11ccc61c2f4b": {
         "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
         "link": "https://www.qbitai.com/2026/05/412577.html",
@@ -1059,204 +1029,6 @@
       }
     },
     "Technology": {
-      "e09a7649d29ae69a025cd6dc9a31386efa08f1360127a01d64d0c7220bc516ae": {
-        "title": "韩国股市突破6000万亿韩元，芯片股撑起半壁江山？",
-        "link": "https://www.tmtpost.com/7971047.html",
-        "published_date": "Thu, 30 Apr 2026 17:43:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285584"
-      },
-      "313871e591dd08a96bc0e507c04601cca61225c8436029b49ea33b1dd2375d5d": {
-        "title": "“女魔头”回归，Prada却已物是人非",
-        "link": "https://www.tmtpost.com/7974096.html",
-        "published_date": "Thu, 30 Apr 2026 17:43:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285642"
-      },
-      "954f361291dd5ea61e59bfebd69038b1db7c7b9340242c7eac6970648b4b8b85": {
-        "title": "马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权",
-        "link": "https://www.tmtpost.com/7973085.html",
-        "published_date": "Thu, 30 Apr 2026 16:55:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285654"
-      },
-      "f9f833716f45ae68d50758bd448c5a4899a552edf668ca5c0a248e8e4ecae13c": {
-        "title": "阿里股价：跌完 20%，拐点还有多远",
-        "link": "https://www.tmtpost.com/7973809.html",
-        "published_date": "Thu, 30 Apr 2026 16:55:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285665"
-      },
-      "33f57ef772aa91dc72f418a43b694589c6bb8e80404c6254b251ecc71f245129": {
-        "title": "口无遮拦后被围攻，张雪危险了......",
-        "link": "https://www.tmtpost.com/7973820.html",
-        "published_date": "Thu, 30 Apr 2026 16:55:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285677"
-      },
-      "f4808f400241996348d14d3a839506e51c1ab4c605540f7114c46144a7e6e445": {
-        "title": "欧莱雅中国提出“AI向美”战略；薇诺娜发布妆械联合解决方案；阿麦斯港交所递表；锦江酒店一季度营收净利双升｜消研所周报",
-        "link": "https://www.tmtpost.com/7973738.html",
-        "published_date": "Thu, 30 Apr 2026 16:54:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285616"
-      },
-      "25fd6cd7d3a60afde41f4c85958a9a3280983102b9f9e0d4c922da4a10e65099": {
-        "title": "京东京喜宣布2026年百亿战略计划",
-        "link": "https://www.tmtpost.com/7973708.html",
-        "published_date": "Thu, 30 Apr 2026 16:53:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285686"
-      },
-      "42da431fde61c0e64f540245a8f2ae0596346d3aa7893f37828eeb8b098fff40": {
-        "title": "小红书变阵：一封内部信，三个未解题",
-        "link": "https://www.tmtpost.com/7973779.html",
-        "published_date": "Thu, 30 Apr 2026 16:51:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285695"
-      },
-      "d833b7aa1d51e7492128ee151bb2f46985a2676b353ccc0e7e702e49448e80ac": {
-        "title": "银河通用拉着英伟达，把人形机器人最大的谎言拆穿了",
-        "link": "https://www.tmtpost.com/7973821.html",
-        "published_date": "Thu, 30 Apr 2026 16:51:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285705"
-      },
-      "4d702631277de7859d06e3345c662ae90891d654ba1c0a93fef7dbc72fd25d98": {
-        "title": "汾酒2026一季报：主动控量稳健“换挡”，盈利质量修复",
-        "link": "https://www.tmtpost.com/7973685.html",
-        "published_date": "Thu, 30 Apr 2026 16:43:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.962137"
-      },
-      "e06d830a75fd6f924b854438cf61aee3c182399692ef16237c5defebee414df8": {
-        "title": "AI互动内容很难带来新的大众社区",
-        "link": "https://www.tmtpost.com/7973842.html",
-        "published_date": "Thu, 30 Apr 2026 16:42:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.962438"
-      },
-      "26dfe61d22cd3a862eb88a7d9ac00ff510e4897da73093d55dec893b1072debd": {
-        "title": "香港讲Web3、内地频频违规：众安的“科技”祛魅",
-        "link": "https://www.tmtpost.com/7973625.html",
-        "published_date": "Thu, 30 Apr 2026 16:42:00 GMT",
-        "first_seen": "2026-04-30T10:00:34.285631"
-      },
-      "20c56b3db0eccd9d581529cdea7d18d95eafdfdc09a23f3514368416633ae25c": {
-        "title": "对话5位航天大咖：距离跑通商业航天闭环，还有多远？",
-        "link": "https://www.tmtpost.com/7971087.html",
-        "published_date": "Thu, 30 Apr 2026 16:21:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.963521"
-      },
-      "2260e3860e5bbfe03e1d3e023e6c88e7f8be91c9619861df161b61da227693a7": {
-        "title": "知乎六年：走在风口上，但没飞起来",
-        "link": "https://www.tmtpost.com/7973787.html",
-        "published_date": "Thu, 30 Apr 2026 16:21:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.964051"
-      },
-      "75a5a8306731f97e5ffb79bd829979847eff3c61dfd19fcd97ba1cf790ef8f7a": {
-        "title": "“狂人”俞浩与追觅的百万亿“狂想”",
-        "link": "https://www.tmtpost.com/7973649.html",
-        "published_date": "Thu, 30 Apr 2026 16:21:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.964590"
-      },
-      "6a228ed93af5100569614a89be18fdeed55bd0738dc992ca50ab0fd21ee44802": {
-        "title": "继往开来：探索 AI 时代新的认知体系",
-        "link": "https://www.tmtpost.com/7971741.html",
-        "published_date": "Thu, 30 Apr 2026 16:21:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.965217"
-      },
-      "7f94049e7fa4924f4047deca7e2c42976cd57c254b1aedc6498a886bee129a4e": {
-        "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
-        "link": "https://sspai.com/post/88452",
-        "published_date": "Thu, 30 Apr 2026 14:49:00 GMT",
-        "first_seen": "2026-04-30T10:00:24.965967"
-      },
-      "d207b1f19ba81b44c1d3f4ec11275a5932acc1455b2021a14ed19b64f97a82ae": {
-        "title": "对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？",
-        "link": "http://www.geekpark.net/news/363649",
-        "published_date": "Thu, 30 Apr 2026 21:31:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468880"
-      },
-      "f77d5e642f78f7f86e118df86b9a108aa8aa4cd09ef501de14f1a9873b68089f": {
-        "title": "集权、搞AI、出海，小红书一夜之间撕掉“慢公司”标签",
-        "link": "https://www.tmtpost.com/7974429.html",
-        "published_date": "Thu, 30 Apr 2026 20:48:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468909"
-      },
-      "bae51931ac7fd9a3d2cfa4dbd593cce038eb5056ea03bafafcf49e1fd2a24960": {
-        "title": "A股年报透视：AI算力产业链爆发，有色金属与锂电材料逆袭｜看财报",
-        "link": "https://www.tmtpost.com/7974339.html",
-        "published_date": "Thu, 30 Apr 2026 19:26:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468920"
-      },
-      "e59760021faf33afea9954e3c789abf51db2b6371e6b040286dc5bb88ba76c9a": {
-        "title": "中国电信开始卖“国产Token”了",
-        "link": "https://www.tmtpost.com/7974319.html",
-        "published_date": "Thu, 30 Apr 2026 19:13:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468929"
-      },
-      "086e013e5cba123c30dac07e3581a88650616ed5ab3cc9ffff860376246f4873": {
-        "title": "一季度家电众生相：国补退潮引发“倒春寒”，白电三巨头业绩分化明显",
-        "link": "https://www.tmtpost.com/7974272.html",
-        "published_date": "Thu, 30 Apr 2026 18:36:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468938"
-      },
-      "3a3e6f94acb35a4d722d72cd84b8fa6d8264bbe41f86141cdb31399daa806fa1": {
-        "title": "赛意信息上市八年首亏，加码AI谋变遭实控人减持蒙阴 | 看财报",
-        "link": "https://www.tmtpost.com/7974288.html",
-        "published_date": "Thu, 30 Apr 2026 18:25:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468947"
-      },
-      "9fc39d2a5fe49474db433dcdf3500dcbc35f335fac041c36f581f2cb1dfa0c7e": {
-        "title": "野人先生狂飙1300店，Gelato走到“新茶饮”的哪一步了？",
-        "link": "https://www.tmtpost.com/7968021.html",
-        "published_date": "Thu, 30 Apr 2026 18:07:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468956"
-      },
-      "f8c6034eec6eff0cacd167d8251448ae6a554df74b02bb1ff62eb886e1645a8f": {
-        "title": "赛力斯Q1财报：营收增长34.46%、扣非净利润大降73.87%，钱去哪了？",
-        "link": "https://www.tmtpost.com/7972560.html",
-        "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468965"
-      },
-      "c4cc5b59da183fc9af99c515463c5626871d4dd8f2fd280448856c75fe28b2e2": {
-        "title": "招商银行熬过来了，“护城河”却变浅了",
-        "link": "https://www.tmtpost.com/7972606.html",
-        "published_date": "Thu, 30 Apr 2026 18:05:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468973"
-      },
-      "a5796d14a83089fc24b4011e339c322d70f5673f4e88efd0eee16efe05c66514": {
-        "title": "丽江做“狼女”，重庆骑摩托，年轻人谁不想这样急头白脸旅拍一回？",
-        "link": "https://www.tmtpost.com/7971561.html",
-        "published_date": "Thu, 30 Apr 2026 18:05:00 GMT",
-        "first_seen": "2026-04-30T23:47:00.468981"
-      },
-      "9158da6049cd6bbe2d5b4b8383a7531c48f39f685723d329b8ea8b59616eb992": {
-        "title": "中国家电，不能沉迷于“打败外资”的虚假胜利",
-        "link": "https://www.tmtpost.com/7974141.html",
-        "published_date": "Thu, 30 Apr 2026 18:04:00 GMT",
-        "first_seen": "2026-04-30T23:46:51.146270"
-      },
-      "d92f6d5a42f8da33f0651b001ad6be14563294485ab086f546652c57bfba2c02": {
-        "title": "粉丝经济是门好生意，但AI艺人没有粉丝",
-        "link": "https://www.tmtpost.com/7974161.html",
-        "published_date": "Thu, 30 Apr 2026 18:04:00 GMT",
-        "first_seen": "2026-04-30T23:46:51.146695"
-      },
-      "db3c4289b10a279672f346e6452fc02f168b57970a1daa7fdc637bfa583701ce": {
-        "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
-        "link": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 20:00:00 GMT",
-        "first_seen": "2026-04-30T23:46:51.147318"
-      },
-      "e9c6740aa4fb04e141ecb8b1bfe6780c1bfd8794240d8bac12da7d450622a651": {
-        "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
-        "link": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 19:00:00 GMT",
-        "first_seen": "2026-04-30T23:46:51.148147"
-      },
-      "867b96982f4271b896ec3e1d96b8d2d7909882e72608c3946a020a3208da8acd": {
-        "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
-        "link": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
-        "first_seen": "2026-04-30T23:46:51.149304"
-      },
-      "0db4689b88123aab5de690cb4b558d108a019bd2c1463fea5d82572be81616d1": {
-        "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
-        "link": "https://sspai.com/post/109257",
-        "published_date": "Thu, 30 Apr 2026 17:30:00 GMT",
-        "first_seen": "2026-04-30T23:46:51.150002"
-      },
       "976787897574d0ef81081241abea0370401756a0c2cc1a15d367fd91bc2c692b": {
         "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
         "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
@@ -9326,13 +9098,25 @@
         "link": "https://www.tmtpost.com/8008410.html",
         "published_date": "Sat, 30 May 2026 10:40:00 GMT",
         "first_seen": "2026-05-30T09:55:09.626654"
+      },
+      "f7cb546c0f604af317b266bbde3552300ff38c29f9ce15cf31c564e6b1c08522": {
+        "title": "A股连续下跌，市值蒸发近40亿元，君实生物深陷合规漩涡？",
+        "link": "https://www.tmtpost.com/8007917.html",
+        "published_date": "Sat, 30 May 2026 18:46:00 GMT",
+        "first_seen": "2026-05-30T23:57:02.191571"
+      },
+      "3e75d431d3988f4d723daef41c9fcffe1007b9a36c543683cfd9875bfd83440e": {
+        "title": "AI 如何影响你的审美？",
+        "link": "https://sspai.com/post/110172",
+        "published_date": "Sat, 30 May 2026 17:04:00 GMT",
+        "first_seen": "2026-05-30T23:57:02.191743"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-30T09:55:09.565575",
-    "Technology": "2026-05-30T09:55:09.656328",
-    "Finance": "2026-05-30T09:55:09.674936"
+    "AI": "2026-05-30T23:57:02.130550",
+    "Technology": "2026-05-30T23:57:02.211280",
+    "Finance": "2026-05-30T23:57:02.229671"
   }
 }

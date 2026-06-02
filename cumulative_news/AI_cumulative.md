@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-01 10:13
+**最后更新时间**: 2026-06-02 00:07
+
+---
+
+## 🆕 最新更新 (2026-06-02 00:07)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖](https://www.qbitai.com/2026/06/427530.html)
+**发布时间**: 2026-06-01 10:34
+
+#### [近2亿美元！VAST完成新一轮融资，正式披露世界模型路线](https://www.qbitai.com/2026/06/427516.html)
+**发布时间**: 2026-06-01 09:46
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [A New Era of Discovery: Google Research at I/O 2026](https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/)
+**发布时间**: 2026-05-28 20:58
 
 ---
 

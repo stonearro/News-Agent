@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "731d99baa0942c0914c9cd6e5e76630ecd841ea365b250d97e3683ffdf584878": {
-        "title": "OpenAI参与，重卷ImageNet：终于把FID做成训练",
-        "link": "https://www.qbitai.com/2026/05/412882.html",
-        "published_date": "Sun, 03 May 2026 07:50:00 GMT",
-        "first_seen": "2026-05-03T09:18:25.656646"
-      },
-      "3adcbf753a1820cab5b3922eaf70bcddf537e4c18b1a20cbf2ecbdeff43e1adc": {
-        "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-        "link": "https://www.qbitai.com/2026/05/412080.html",
-        "published_date": "Sun, 03 May 2026 09:43:00 GMT",
-        "first_seen": "2026-05-03T23:39:31.927363"
-      },
-      "c63757cf7205a31e7b18687a6593f852f338a992d11a0c569d2dd6b25194017e": {
-        "title": "不好！1930年的AI都来抢程序员饭碗了",
-        "link": "https://www.qbitai.com/2026/05/412896.html",
-        "published_date": "Sun, 03 May 2026 09:42:00 GMT",
-        "first_seen": "2026-05-03T23:39:31.927534"
-      },
       "afde0d1f8da5eb96db09bc6abb35f983de64690c6364a8d23ab521969cb6604c": {
         "title": "“DeepSeek版Claude Code”，Github 2.3k星",
         "link": "https://www.qbitai.com/2026/05/412914.html",
@@ -1086,15 +1068,33 @@
         "link": "https://www.qbitai.com/2026/06/427541.html",
         "published_date": "Tue, 02 Jun 2026 00:33:00 GMT",
         "first_seen": "2026-06-02T09:03:43.519564"
+      },
+      "a83c1977f4c6e3120997527fab5302f94351c7da0e5b8a58f713aa80c838edba": {
+        "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
+        "link": "https://www.qbitai.com/2026/06/428092.html",
+        "published_date": "Tue, 02 Jun 2026 15:50:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.485674"
+      },
+      "787fc213d53f9f29aed2d4229611a48dae9a39fab65cfb3bf7b152f51f901d14": {
+        "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+        "link": "https://www.qbitai.com/2026/06/428003.html",
+        "published_date": "Tue, 02 Jun 2026 14:54:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.485846"
+      },
+      "85eebb17b978b7a86a2ee40576f466b767959ee628b07f74d6cfeb7ae6aed63d": {
+        "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+        "link": "https://www.qbitai.com/2026/06/427922.html",
+        "published_date": "Tue, 02 Jun 2026 14:52:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.486013"
+      },
+      "92dabad8e5bfd8f564b412e4c81ec7be59ee486ca6f4b6b9509ee3226f642c31": {
+        "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "link": "https://www.qbitai.com/2026/06/427810.html",
+        "published_date": "Tue, 02 Jun 2026 09:28:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.486318"
       }
     },
     "Technology": {
-      "1685b97a55312cc013343331901121a1aaedeabb9c583bab5419344fec88af26": {
-        "title": "大唐领衔 100 亿注资蒙电入苏 ,入局沙戈荒项目的背后是哪些考虑？",
-        "link": "https://www.tmtpost.com/7975787.html",
-        "published_date": "Sun, 03 May 2026 20:35:00 GMT",
-        "first_seen": "2026-05-03T23:39:32.038070"
-      },
       "b38325ca120c5ec1973f3f0b2ed3081007c427fe835e037d1c203dfe14f18df1": {
         "title": "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评",
         "link": "https://www.tmtpost.com/7976208.html",
@@ -9392,13 +9392,115 @@
         "link": "https://sspai.com/post/110592",
         "published_date": "Tue, 02 Jun 2026 08:03:00 GMT",
         "first_seen": "2026-06-02T09:03:53.000908"
+      },
+      "e62301488359d23f015818bf8617b7c9e00048088bc8495ff51f613eea3769b3": {
+        "title": "中美互联网公司的AI提效，都从裁员开始？",
+        "link": "https://www.tmtpost.com/8011827.html",
+        "published_date": "Wed, 03 Jun 2026 08:12:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961679"
+      },
+      "f2c97feaf7e9dfff9fd429f51df75b6b13c92be9072df5f9e92269edb2b1daa3": {
+        "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶",
+        "link": "https://www.tmtpost.com/8011822.html",
+        "published_date": "Wed, 03 Jun 2026 08:05:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961696"
+      },
+      "26e86b40caed26281145e42f24cbfd20a4447c0f9301b3aa8a5337852695e1c8": {
+        "title": "【钛晨报】国务院印发《加快农业农村现代化“十五五”规划》；老虎国际暂停境内存量账户新开仓、加仓交易；“东吴证券+东海证券”重组草案出炉",
+        "link": "https://www.tmtpost.com/8012109.html",
+        "published_date": "Wed, 03 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961712"
+      },
+      "e4d43532c62be78288ed050e0cb4b6df15186ae4c741a7923b5f41db82471ff2": {
+        "title": "东阳光：千亿市值下算力豪赌，310亿订单与280亿并购双线狂奔",
+        "link": "https://www.tmtpost.com/8012107.html",
+        "published_date": "Tue, 02 Jun 2026 21:46:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961725"
+      },
+      "11a59cd4e2a79dd5e870a9427715e808171eb4dccfc27e7936a545c346c71579": {
+        "title": "供应链黑天鹅突袭、减持阴云笼罩，利通电子暴涨8倍后遇重挫",
+        "link": "https://www.tmtpost.com/8011957.html",
+        "published_date": "Tue, 02 Jun 2026 19:44:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961737"
+      },
+      "128af7f5573f03571631f3790c13d2a46c38082576f1fa56e37411028b066bd3": {
+        "title": "Chatbot烧钱三年，还是AI时代的“新大陆”吗？",
+        "link": "https://www.tmtpost.com/8011510.html",
+        "published_date": "Tue, 02 Jun 2026 18:26:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961749"
+      },
+      "56dbc4f8384b76bb61323b388d567b28a32bb81243638ead7a134d61784f7fbc": {
+        "title": "快手与字节，打响“二番战”",
+        "link": "https://www.tmtpost.com/8011399.html",
+        "published_date": "Tue, 02 Jun 2026 17:46:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961759"
+      },
+      "3d42132bda3117fa64a75bb3f51efa1edba59d2f2765a327091b7f25ae822d20": {
+        "title": "10万亿！中国正成为AI基建狂魔",
+        "link": "https://www.tmtpost.com/8011257.html",
+        "published_date": "Tue, 02 Jun 2026 17:26:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961769"
+      },
+      "35d04d98c49d1987b3ba178d91855fa2586576ff925878e23dcee43b99c18e1c": {
+        "title": "今年618，迎来AI购物“大乱斗”",
+        "link": "https://www.tmtpost.com/8011276.html",
+        "published_date": "Tue, 02 Jun 2026 17:26:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961779"
+      },
+      "47320985a218150a6c24a5bf54970dbbbcb8c472691ddb036d42bbc16b8d5c5c": {
+        "title": "港股“北归”：智谱和MiniMax为何急着回A？",
+        "link": "https://www.tmtpost.com/8011340.html",
+        "published_date": "Tue, 02 Jun 2026 17:26:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.576173"
+      },
+      "51ef07db615e4d5c305b363a4fc31f4dcb954422baf738587ece548eff4a3538": {
+        "title": "The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy",
+        "link": "https://www.tmtpost.com/8011677.html",
+        "published_date": "Tue, 02 Jun 2026 17:23:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.577424"
+      },
+      "d87b9f09b1aec11c46a04ed93e6aeb2e3052bb50f9563bfa9c02ef0a303488dd": {
+        "title": "对话中关村AI北纬社区任闯：OPC创业者到底需要什么？",
+        "link": "https://www.tmtpost.com/8010096.html",
+        "published_date": "Tue, 02 Jun 2026 17:12:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.577960"
+      },
+      "f200092ac72f73506f029aa43a513ecfb3a74ff19353207463f95cbd3e8a02a7": {
+        "title": "LinkedIn 如何发现导致系统反复死机的内核锁竞争问题",
+        "link": "https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 19:03:00 GMT",
+        "first_seen": "2026-06-03T00:26:27.961647"
+      },
+      "d04808c008b9d4abf8671695dc0dc3eb7ee5d14559db624c3a6679694ab1706c": {
+        "title": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "link": "https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 18:44:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.579486"
+      },
+      "940eeb098ad248bbe077b9354642fe78c83f890a4481ed82e86b40ad02cbdd04": {
+        "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
+        "link": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 18:40:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.580941"
+      },
+      "36d74457a80d63244c11a9a9c8028ddfe37ebabe439af4b2c2f962ef0cae9f21": {
+        "title": "不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown",
+        "link": "https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 17:09:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.582164"
+      },
+      "1b4256de7b90bf198e79ffd97cbcb3970bed61791d5be0aab77d2245919f76a3": {
+        "title": "Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训",
+        "link": "https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 17:07:00 GMT",
+        "first_seen": "2026-06-03T00:26:18.583259"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-06-02T09:03:43.543897",
-    "Technology": "2026-06-02T09:03:53.002547",
-    "Finance": "2026-06-02T09:03:53.022129"
+    "AI": "2026-06-03T00:26:18.513426",
+    "Technology": "2026-06-03T00:26:27.963706",
+    "Finance": "2026-06-03T00:26:27.982889"
   }
 }

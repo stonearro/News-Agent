@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-03 09:21
+**最后更新时间**: 2026-06-04 00:26
+
+---
+
+## 🆕 最新更新 (2026-06-04 00:26)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The next chapter in flood resilience: Open sourcing Google’s hydrology framework](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/)
+**发布时间**: 2026-06-03 18:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层](https://www.qbitai.com/2026/06/428703.html)
+**发布时间**: 2026-06-03 12:28
+
+#### [世界模型榜首易主！跨维智能登顶WorldArena](https://www.qbitai.com/2026/06/428435.html)
+**发布时间**: 2026-06-03 09:54
 
 ---
 

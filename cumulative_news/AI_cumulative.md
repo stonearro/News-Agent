@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-04 08:43
+**最后更新时间**: 2026-06-05 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-05 00:00)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/)
+**发布时间**: 2026-06-04 19:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [重估比亚迪，从智驾开始](https://www.qbitai.com/2026/06/429192.html)
+**发布时间**: 2026-06-04 13:10
+
+#### [中国足球小将夺冠，比亚迪携手足球少年走向世界](https://www.qbitai.com/2026/06/429186.html)
+**发布时间**: 2026-06-04 13:00
+
+#### [CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI](https://www.qbitai.com/2026/06/429130.html)
+**发布时间**: 2026-06-04 11:56
+
+#### [连GitLab都开始裁程序员了](https://www.qbitai.com/2026/06/429117.html)
+**发布时间**: 2026-06-04 08:54
 
 ---
 

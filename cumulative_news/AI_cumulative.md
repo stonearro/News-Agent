@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-05 08:39
+**最后更新时间**: 2026-06-06 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-06 00:00)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [有人靠CPU把AI算力密度卷到了新高度](https://www.qbitai.com/2026/06/431045.html)
+**发布时间**: 2026-06-05 13:16
+
+#### [智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制](https://www.qbitai.com/2026/06/431033.html)
+**发布时间**: 2026-06-05 10:53
+
+#### [华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”](https://www.qbitai.com/2026/06/431027.html)
+**发布时间**: 2026-06-05 10:46
+
+#### [国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态](https://www.qbitai.com/2026/06/430757.html)
+**发布时间**: 2026-06-05 09:40
+
+#### [WPS笔记正式发布：AI贯穿记录、整理与复用全过程](https://www.qbitai.com/2026/06/431014.html)
+**发布时间**: 2026-06-05 09:16
+
+#### [从超级个体到超级团队，腾讯云发布WorkBuddy企业版](https://www.qbitai.com/2026/06/430758.html)
+**发布时间**: 2026-06-05 08:55
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/)
+**发布时间**: 2026-06-05 11:26
 
 ---
 

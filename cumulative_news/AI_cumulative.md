@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-12 08:54
+**最后更新时间**: 2026-06-13 00:15
+
+---
+
+## 🆕 最新更新 (2026-06-13 00:15)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Research into how AI can help users understand skin conditions](https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/)
+**发布时间**: 2026-06-12 17:52
+
+#### [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+**发布时间**: 2026-06-12 17:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [神了，世界杯第一天真按千问剧本踢了](https://www.qbitai.com/2026/06/435321.html)
+**发布时间**: 2026-06-12 16:45
+
+#### [千里收购了一家毫米波雷达公司](https://www.qbitai.com/2026/06/435196.html)
+**发布时间**: 2026-06-12 09:13
 
 ---
 

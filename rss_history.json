@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "082852683184acf89bc532d9b3ac7003281b3ffcffc10bc4285a1a2b7c88071a": {
-        "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
-        "link": "https://www.qbitai.com/2026/05/417731.html",
-        "published_date": "Thu, 14 May 2026 14:58:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.233410"
-      },
-      "f332683d208c0afd99d6974c04081e284c118c192db4ad4d88cbec59a4db95de": {
-        "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
-        "link": "https://www.qbitai.com/2026/05/417816.html",
-        "published_date": "Thu, 14 May 2026 11:14:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.233568"
-      },
-      "0eacdc2642ff9eaadae460d132c25807f4d33dd32f8fa838960f06af13112394": {
-        "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
-        "link": "https://www.qbitai.com/2026/05/417927.html",
-        "published_date": "Thu, 14 May 2026 10:28:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.233828"
-      },
       "a93b868a53b4231d1023dcfb0f2692a78fc26460955c564628a9e49ce1a413f7": {
         "title": "智能无处不在：OpenClaw预示的AI未来",
         "link": "https://www.qbitai.com/2026/05/417958.html",
@@ -1230,177 +1212,15 @@
         "link": "https://www.qbitai.com/2026/06/435339.html",
         "published_date": "Sat, 13 Jun 2026 04:05:00 GMT",
         "first_seen": "2026-06-13T08:19:52.779924"
+      },
+      "01bcfc0392e6eb0d4638cb672e160b6e616a7a388c588fbb3db3bc922e4c74d0": {
+        "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+        "link": "https://www.qbitai.com/2026/06/435483.html",
+        "published_date": "Sat, 13 Jun 2026 12:40:00 GMT",
+        "first_seen": "2026-06-14T00:02:54.316404"
       }
     },
     "Technology": {
-      "1471be23b114f992fbcfd14bb765304f5fb77efc97cbf8b99235142a7838fb6a": {
-        "title": "把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践",
-        "link": "https://www.infoq.cn/article/ybKCXkQgfxf4J9GCUuJl?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 18:09:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823540"
-      },
-      "0314e5c847dd0c73797a788cdb73fcc4b2772f660866d7b54171962d3653151b": {
-        "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
-        "link": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 18:00:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823555"
-      },
-      "ad8cbebb1029fd34d72f21360143456d6ef9ef522ca3f94a8a54ac5ac0a2062a": {
-        "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
-        "link": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 17:50:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823569"
-      },
-      "94a185190bf2f8c8d1eda626335db34eeeaaba321a1f8e9db646099ed4b2493d": {
-        "title": "《速度与激情》25周年，范·迪塞尔戛纳落泪，但赋予电影“速度感”的是另一个男人",
-        "link": "https://www.tmtpost.com/7988390.html",
-        "published_date": "Thu, 14 May 2026 17:56:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823583"
-      },
-      "4042a3dca75a709043485ae090ddb4f928d3a0f0264132540f570a0e9bed8ee9": {
-        "title": "OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了",
-        "link": "https://www.tmtpost.com/7988375.html",
-        "published_date": "Thu, 14 May 2026 17:55:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823593"
-      },
-      "072d2d77094e0724a669e0a976c631f127f9f1a31466d4b0d2e16f6ede075a84": {
-        "title": "406亿，科创板史上最大并购案要来了",
-        "link": "https://www.tmtpost.com/7988491.html",
-        "published_date": "Thu, 14 May 2026 17:55:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823603"
-      },
-      "b10b55c72e83d1f5f033f61f9b70d9ec19f443c5331935163abca36dedec51ce": {
-        "title": "实测千问×淘宝：AI购物，更隐蔽的“竞价排名”？",
-        "link": "https://www.tmtpost.com/7988301.html",
-        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823614"
-      },
-      "83e8639c0874ed5bebdd0d3ddb6c56fc4ba5a087b58c373d9a125d9d8b9502f3": {
-        "title": "马斯克点赞，宇树科技“载人机甲”的惊天一跃",
-        "link": "https://www.tmtpost.com/7988333.html",
-        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823510"
-      },
-      "e8e10777684871c273c0d4de56b6735f273a91d5afa707305959ecb92f17ff63": {
-        "title": "东鹏特饮把6元外星人拽下来了",
-        "link": "https://www.tmtpost.com/7988351.html",
-        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823623"
-      },
-      "20f1c7d69ed1fff7d35600b71628a34d01f50fa81d6577c8b946dfbca986ebfd": {
-        "title": "AI豪赌到了下半场，阿里和腾讯的“水池难题”何时才能不亏钱？",
-        "link": "https://www.tmtpost.com/7988374.html",
-        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
-        "first_seen": "2026-05-14T10:10:42.823633"
-      },
-      "d538863b34515e6cb81ef276f967072678ac8d9140c28688d405ca94c2ab605a": {
-        "title": "在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）",
-        "link": "https://sspai.com/prime/story/linux-vm-on-android",
-        "published_date": "Thu, 14 May 2026 15:45:00 GMT",
-        "first_seen": "2026-05-14T10:10:33.483828"
-      },
-      "bf0308e7953fe73cc115b76f80cd4eb9a2dc6ab1102ef7c168e74ed8b6123f36": {
-        "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
-        "link": "https://sspai.com/post/109318",
-        "published_date": "Thu, 14 May 2026 15:15:00 GMT",
-        "first_seen": "2026-05-14T10:10:33.484612"
-      },
-      "deaee3bd12c7af10b3fb764b73b645cb215dbe370ca75ba388187e92560baeeb": {
-        "title": "【钛晨报】习近平同美国总统特朗普会谈；央行2026年4月重要金融数据一览：M2同比增长8.6%，前四个月社融规模增量累计为15.45万亿元；腾讯辟谣“AI一位号即将离职”",
-        "link": "https://www.tmtpost.com/7988860.html",
-        "published_date": "Fri, 15 May 2026 07:20:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788471"
-      },
-      "0e93d9dc7c2bfa8ca9f49804187616a0c6650d27e6b4f65589f2ba0fdaa75da2": {
-        "title": "东星医疗最大并购案：溢价三倍豪掷7.7亿，一口气把商誉堆到近10亿",
-        "link": "https://www.tmtpost.com/7988057.html",
-        "published_date": "Thu, 14 May 2026 18:34:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788500"
-      },
-      "6ce4863a9c8ad7925d26dd7df16e3b4c54424377bc59a3ec25e8b66c1fe573fc": {
-        "title": "朝令夕改，短剧苦红果久矣",
-        "link": "https://www.tmtpost.com/7988085.html",
-        "published_date": "Thu, 14 May 2026 18:18:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788513"
-      },
-      "167ce48927c3a85d82038d42d74fcc630526ef7463755c5ed22167eb0ff2d08f": {
-        "title": "腾讯在AI赛道上略显吃力",
-        "link": "https://www.tmtpost.com/7988103.html",
-        "published_date": "Thu, 14 May 2026 18:17:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788523"
-      },
-      "dd0d3fa351a0b9b6311eb8d07101236c77044f5272279db1507f69f7ac3c862c": {
-        "title": "姚军红带队闯美股，大搜车备案落地前路仍崎岖",
-        "link": "https://www.tmtpost.com/7988336.html",
-        "published_date": "Thu, 14 May 2026 18:17:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788533"
-      },
-      "c9e198a99bd13f89786cac4a4951e078a2dcd3c96d7e0c5477c111f12a4bcaef": {
-        "title": "双线作战的阿里，利润快没了",
-        "link": "https://www.tmtpost.com/7988480.html",
-        "published_date": "Thu, 14 May 2026 18:17:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788542"
-      },
-      "016f4738dc280a3d531af91b0485db0053372edc43f7055b35e172c3daadb7ca": {
-        "title": "厨电三巨头，业绩涨不动了",
-        "link": "https://www.tmtpost.com/7988411.html",
-        "published_date": "Thu, 14 May 2026 18:08:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788552"
-      },
-      "97b699ea41c7090a15211d748cb7a21a6a7f058e7925a845d21005f2dfba7020": {
-        "title": "AI大佬田渊栋新开公司融资6.5亿美元，黄仁勋、苏姿丰抢着投",
-        "link": "https://www.tmtpost.com/7988481.html",
-        "published_date": "Thu, 14 May 2026 18:08:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788563"
-      },
-      "b2475b8611454136dd5bcebf0a9016b49cf36005982bae4450add9337b4e6132": {
-        "title": "实探东方甄选线下首店，全是“俞敏洪味儿”",
-        "link": "https://www.tmtpost.com/7988389.html",
-        "published_date": "Thu, 14 May 2026 18:07:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788573"
-      },
-      "eefa39f5f7c4fb96a455f7898da478e484da251779c153c1e89b55e01c22effd": {
-        "title": "天虹超市想再造一个小天虹",
-        "link": "https://www.tmtpost.com/7988502.html",
-        "published_date": "Thu, 14 May 2026 18:03:00 GMT",
-        "first_seen": "2026-05-14T23:53:16.788582"
-      },
-      "1648291581a53ee258e49732bc967a9cfe96016c02e10e864f1c7eb4f3cc6e36": {
-        "title": "铝价涨破3600美元后，全球供应链面临重组",
-        "link": "https://www.tmtpost.com/7988489.html",
-        "published_date": "Thu, 14 May 2026 18:03:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.323402"
-      },
-      "1cf12c604d3acd2e1796a0727fd28a2dc7aa1a178aec0416dce372414d6ebf92": {
-        "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
-        "link": "http://www.geekpark.net/news/364208",
-        "published_date": "Thu, 14 May 2026 19:52:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.323908"
-      },
-      "4c66bb7222ef9432cf5be833b349e7b8e1f96c16a54d689b5b1791eac432e16c": {
-        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
-        "link": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 19:45:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.324593"
-      },
-      "68069b110c84ee46c22d546ec60b5063516b11096533e788224bce5e5ca7eadc": {
-        "title": "龙虾犯错，员工背锅？Agent 需要安全、稳定与持续进化的底座",
-        "link": "https://www.infoq.cn/video/vXakeUv27yAlLgVdCHND?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 19:07:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.326040"
-      },
-      "070fbdc1ae5c554e77d20f02a9816aa6acff45b56f5d3d0ac8611d67fb9a4fc3": {
-        "title": "拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投",
-        "link": "https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 18:30:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.326926"
-      },
-      "f891d04e354f2ead6b3816df1b89b16c17f90e5386e0de2c9b63ddf94799ff51": {
-        "title": "新玩意 241｜少数派的编辑们最近买了啥？",
-        "link": "https://sspai.com/post/109771",
-        "published_date": "Thu, 14 May 2026 17:17:00 GMT",
-        "first_seen": "2026-05-14T23:53:07.327603"
-      },
       "bfc2dd4bccb55aa71fe4ec8529c95e94feb19cadb282115fb8d676b63c0e6dbf": {
         "title": "从零售OS到全链路AI：多点数智用3600万美元下了一盘什么棋",
         "link": "https://www.tmtpost.com/7989451.html",
@@ -9446,13 +9266,37 @@
         "link": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 13 Jun 2026 09:00:00 GMT",
         "first_seen": "2026-06-13T08:19:52.620437"
+      },
+      "5d0cadb41732f5ccd0a0693ca274fb2016458f8d1c5d1d01d53bee485d3f96f8": {
+        "title": "阿里AI首席科学家周靖人被曝离职，千问迎来新考验",
+        "link": "https://www.tmtpost.com/8026813.html",
+        "published_date": "Sat, 13 Jun 2026 19:48:00 GMT",
+        "first_seen": "2026-06-14T00:02:54.122527"
+      },
+      "ed2a508a41f402ba1a63e15ee698eb1e0020251c6e92b317608aaa1a9a8ca09a": {
+        "title": "比亚迪摊牌了",
+        "link": "https://www.tmtpost.com/8023153.html",
+        "published_date": "Sat, 13 Jun 2026 19:47:00 GMT",
+        "first_seen": "2026-06-14T00:02:54.122653"
+      },
+      "7488b60e74c7bc3e26e71b729cdbd667fdbd2ebf33c779395bf404a061bea42a": {
+        "title": "MiniMax暴跌65%，AI泡沫破裂了？",
+        "link": "https://www.tmtpost.com/8026420.html",
+        "published_date": "Sat, 13 Jun 2026 19:47:00 GMT",
+        "first_seen": "2026-06-14T00:02:54.122786"
+      },
+      "36d707a8aa99e3c783f1ff71734ba66fee2ec63a612d25f2568f1f05fc70a585": {
+        "title": "SpaceX食堂员工都财富自由了——但这笔账，比你以为的贵",
+        "link": "https://www.tmtpost.com/8026811.html",
+        "published_date": "Sat, 13 Jun 2026 19:46:00 GMT",
+        "first_seen": "2026-06-14T00:02:54.122958"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-06-13T08:19:52.786142",
-    "Technology": "2026-06-13T08:19:52.630043",
-    "Finance": "2026-06-13T08:19:52.647912"
+    "AI": "2026-06-14T00:02:54.323449",
+    "Technology": "2026-06-14T00:02:54.142279",
+    "Finance": "2026-06-14T00:02:54.161096"
   }
 }

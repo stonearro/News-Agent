@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-16 10:02
+**最后更新时间**: 2026-06-17 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-17 00:11)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [From pixels to planning: Earth AI for nature restoration](https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/)
+**发布时间**: 2026-06-16 17:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [一个模型控制手脚腰身！机器人终于学会全身协同干精细活了](https://www.qbitai.com/2026/06/436073.html)
+**发布时间**: 2026-06-16 13:23
+
+#### [和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！](https://www.qbitai.com/2026/06/435953.html)
+**发布时间**: 2026-06-16 13:02
+
+#### [网易有道首席科学家段亦涛：让AI技术扎根业务场景](https://www.qbitai.com/2026/06/435950.html)
+**发布时间**: 2026-06-16 10:36
 
 ---
 

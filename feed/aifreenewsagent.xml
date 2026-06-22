@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Jun 2026 00:05:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 00:07:37 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 10:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:35:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角</title>
-      <link>https://www.qbitai.com/2026/06/437198.html</link>
-      <description>&lt;![CDATA[具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 09:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437198.html</guid>
+      <title>阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级</title>
+      <link>https://www.qbitai.com/2026/06/437317.html</link>
+      <description>&lt;![CDATA[阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437317.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军</title>
+      <link>https://www.qbitai.com/2026/06/437308.html</link>
+      <description>&lt;![CDATA[AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 06:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437308.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DeepSeek缺Agent人才缺疯了！负责人各种贴广告</title>
+      <link>https://www.qbitai.com/2026/06/437249.html</link>
+      <description>&lt;![CDATA[DeepSeek缺Agent人才缺疯了！负责人各种贴广告]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 05:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437249.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习</title>
+      <link>https://www.qbitai.com/2026/06/437235.html</link>
+      <description>&lt;![CDATA[入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437235.html</guid>
       <category>AI</category>
     </item>
   </channel>

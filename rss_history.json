@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b0d1bee706592521209c062f410491753bdbebd5203154be95748924c4a58bf3": {
-        "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/423202.html",
-        "published_date": "Sat, 23 May 2026 10:09:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.846353"
-      },
-      "13b3a1c456e0507f71aaa67a84df6a84301f0d5ce257144dca1d9b5191a367a1": {
-        "title": "OpenAI大神教你如何榨干Codex",
-        "link": "https://www.qbitai.com/2026/05/423179.html",
-        "published_date": "Sat, 23 May 2026 09:50:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.846481"
-      },
       "51e4f57f53fc0b1b738296de2af96ee70d4950b0406e23bde78f67a374174cc1": {
         "title": "谷歌CEO承认Coding落后了",
         "link": "https://www.qbitai.com/2026/05/423390.html",
@@ -1227,36 +1215,6 @@
       }
     },
     "Technology": {
-      "08829c68577dd4b2e39535cb1c64e9baff2fc05344ed1f7165a399ef64952242": {
-        "title": "美联储换帅：史上最富央行行长白宫宣誓，特朗普当场给沃什写了“工作说明书”",
-        "link": "https://www.tmtpost.com/8000022.html",
-        "published_date": "Sat, 23 May 2026 21:50:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.684905"
-      },
-      "a6faf7840e44bd05b002ecf3ee7c3db1173401e065c3e0a5c9a0fcbd811994cb": {
-        "title": "一场全民“AI自证”的黑色喜剧",
-        "link": "https://www.tmtpost.com/7999910.html",
-        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.685066"
-      },
-      "f34fef360a5b36af10db288eccbb63b2e6ba41ffe6a6d17c82e790e368c330fb": {
-        "title": "SpaceX抢跑，OpenAI追击",
-        "link": "https://www.tmtpost.com/7999911.html",
-        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.685199"
-      },
-      "1e8794ca10d5ebeafe0cd10107e8175a9de80af6c4efebe33c9c258adb77985f": {
-        "title": "20亿美元被一笔勾销后，Manus打算香港上市翻盘？",
-        "link": "https://www.tmtpost.com/7999912.html",
-        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.685396"
-      },
-      "e1b439fd68b0224a37dee1f3a42b70c38da28026df983154934ff635a225d9a1": {
-        "title": "十年亏损仍激进扩张，埃夫特10.7亿豪赌将新增商誉5.5亿",
-        "link": "https://www.tmtpost.com/7999847.html",
-        "published_date": "Sat, 23 May 2026 18:10:00 GMT",
-        "first_seen": "2026-05-23T23:53:41.685605"
-      },
       "7ad02d60735cf1294f2fb8684ded7a4af363e41b3de1ff95942679b158d97460": {
         "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具",
         "link": "https://sspai.com/post/109741",
@@ -8924,13 +8882,49 @@
         "link": "https://sspai.com/post/111343",
         "published_date": "Mon, 22 Jun 2026 07:13:00 GMT",
         "first_seen": "2026-06-22T10:35:55.491986"
+      },
+      "f200c93ab43cf5aac6caa9a2b0fe093a0d29befc881140200248bf0075dece4c": {
+        "title": "【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据",
+        "link": "https://www.tmtpost.com/8036644.html",
+        "published_date": "Tue, 23 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-23T00:02:18.627478"
+      },
+      "a1744eb92149d2068ac9e85248333cce5be450df650b821e0b89732f98c189c3": {
+        "title": "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问",
+        "link": "https://www.tmtpost.com/8036662.html",
+        "published_date": "Mon, 22 Jun 2026 22:31:00 GMT",
+        "first_seen": "2026-06-23T00:02:18.627703"
+      },
+      "4c99e434da2d14578efd6ea14885243dd9d3c66d9e106639470351791f01ec51": {
+        "title": "业绩四连降、募投项目进展缓慢，键邦股份拟不超3.2亿跨界设备自动化｜并购一线",
+        "link": "https://www.tmtpost.com/8036450.html",
+        "published_date": "Mon, 22 Jun 2026 19:53:00 GMT",
+        "first_seen": "2026-06-23T00:02:18.627954"
+      },
+      "69dc5c51fabc7fc6f21ea11b4666a59847dda0f2bb19666e6459f4c408096167": {
+        "title": "OpenAI 决定靠卖广告养 AI",
+        "link": "https://www.tmtpost.com/8035950.html",
+        "published_date": "Mon, 22 Jun 2026 19:47:00 GMT",
+        "first_seen": "2026-06-23T00:02:18.628155"
+      },
+      "000d839870a377285f6aff87ff4c646c16c4c4542bdcfa4b8da27a6a733e9e87": {
+        "title": "Netflix如何实时绘制数千个微服务的拓扑图",
+        "link": "https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Jun 2026 19:07:00 GMT",
+        "first_seen": "2026-06-23T00:02:18.628334"
+      },
+      "b364aedec9db4d8c5d89ed5d5bc17bb9562014f8fb7129cb0ad0df0d236969dc": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/111360",
+        "published_date": "Mon, 22 Jun 2026 18:04:00 GMT",
+        "first_seen": "2026-06-23T00:02:18.628561"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-06-22T10:35:55.633478",
-    "Technology": "2026-06-22T10:35:55.508281",
-    "Finance": "2026-06-22T10:35:55.525538"
+    "AI": "2026-06-23T00:02:18.798051",
+    "Technology": "2026-06-23T00:02:18.664003",
+    "Finance": "2026-06-23T00:02:18.682713"
   }
 }

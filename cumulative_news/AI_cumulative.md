@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-24 08:18
+**最后更新时间**: 2026-06-25 00:01
+
+---
+
+## 🆕 最新更新 (2026-06-25 00:01)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [世界模型混战，Momenta率先冲刺IPO](https://www.qbitai.com/2026/06/438179.html)
+**发布时间**: 2026-06-24 23:20
+
+#### [百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型](https://www.qbitai.com/2026/06/438174.html)
+**发布时间**: 2026-06-24 11:09
+
+#### [1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器](https://www.qbitai.com/2026/06/438166.html)
+**发布时间**: 2026-06-24 10:38
+
+#### [Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026](https://www.qbitai.com/2026/06/438157.html)
+**发布时间**: 2026-06-24 09:58
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Thinking to recall: How reasoning unlocks parametric knowledge in LLMs](https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/)
+**发布时间**: 2026-06-24 16:51
 
 ---
 

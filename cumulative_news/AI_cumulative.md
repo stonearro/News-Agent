@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-25 08:18
+**最后更新时间**: 2026-06-26 00:05
+
+---
+
+## 🆕 最新更新 (2026-06-26 00:05)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Optimizing cloud economics with linear elastic caching](https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/)
+**发布时间**: 2026-06-25 10:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC UP!｜AI圈都在聊参数，我们偏不](https://www.qbitai.com/2026/06/438364.html)
+**发布时间**: 2026-06-25 09:59
+
+#### [三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》](https://www.qbitai.com/2026/06/438658.html)
+**发布时间**: 2026-06-25 09:46
+
+#### [科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程](https://www.qbitai.com/2026/06/438638.html)
+**发布时间**: 2026-06-25 08:32
+
+#### [4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？](https://www.qbitai.com/2026/06/438468.html)
+**发布时间**: 2026-06-25 08:00
 
 ---
 

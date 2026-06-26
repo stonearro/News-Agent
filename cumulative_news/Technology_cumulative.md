@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-26 00:07
+**最后更新时间**: 2026-06-26 08:28
+
+---
+
+## 🆕 最新更新 (2026-06-26 08:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [5亿元入局储能，欣旺达的一次战略性转向](https://www.tmtpost.com/8042369.html)
+**发布时间**: 2026-06-26 15:35
+
+#### [陪伴类机器人卖了5000台，优必选能松口气了？](https://www.tmtpost.com/8042348.html)
+**发布时间**: 2026-06-26 15:25
+
+#### [在家上班，我的老板是机器人](https://www.tmtpost.com/8042290.html)
+**发布时间**: 2026-06-26 15:05
+
+#### [贝恩资本竺稼：中国必须被配置 | 达沃斯观察](https://www.tmtpost.com/8042490.html)
+**发布时间**: 2026-06-26 14:16
+
+#### [自研液冷遇阻转道并购，祥鑫科技连亏之下押注第二增长曲线 ｜并购一线](https://www.tmtpost.com/8041840.html)
+**发布时间**: 2026-06-26 14:12
+
+#### [AI时代电网重构，储能构网能否解决算力“饥渴”？](https://www.tmtpost.com/8041777.html)
+**发布时间**: 2026-06-26 12:24
+
+#### [WEF创新者社区Kuhn：小团队正在成为硬科技的主角 | 达沃斯观察](https://www.tmtpost.com/8042417.html)
+**发布时间**: 2026-06-26 12:17
+
+#### [被骂了这么多年，国内景区的审美，终于开始“去油”了](https://www.tmtpost.com/8042287.html)
+**发布时间**: 2026-06-26 12:16
+
+#### [长鑫科技挂牌上市在即，长江存储还会远吗？](https://www.tmtpost.com/8042292.html)
+**发布时间**: 2026-06-26 12:16
+
+#### [千问遇美狙击，阿里AI总困于“盘外招”](https://www.tmtpost.com/8042250.html)
+**发布时间**: 2026-06-26 12:10
+
+#### [23岁被OpenAI解雇，他却变身00后股神，杀回华尔街？](https://www.tmtpost.com/8042251.html)
+**发布时间**: 2026-06-26 12:10
+
+#### [“国产GPU第二股”，冲刺港股IPO](https://www.tmtpost.com/8042123.html)
+**发布时间**: 2026-06-26 12:02
+
+#### [脑机接口第一股，真的要来了？](https://www.tmtpost.com/8042016.html)
+**发布时间**: 2026-06-26 12:02
+
+#### [薛之谦、许嵩背后公司要上市，“独立音乐第一股”来了](https://www.tmtpost.com/8041080.html)
+**发布时间**: 2026-06-26 12:02
+
+#### [长视频平台终于集体打响AI反击战](https://www.tmtpost.com/8041733.html)
+**发布时间**: 2026-06-26 11:58
+
+#### [迪卡侬“keep化”？骑行奖牌背后藏着“高端梦”](https://www.tmtpost.com/8041926.html)
+**发布时间**: 2026-06-26 11:40
+
+#### [比海底捞贵四成，巴奴为什么赚得少](https://www.tmtpost.com/8041897.html)
+**发布时间**: 2026-06-26 11:40
+
+#### [传可灵最新估值150亿美元，腾讯阿里红杉领投](https://www.tmtpost.com/8041867.html)
+**发布时间**: 2026-06-26 11:40
+
+#### [巴西提速、拥抱OpenAI，Shopee进入全线作战](https://www.tmtpost.com/8041817.html)
+**发布时间**: 2026-06-26 11:40
+
+#### [卖 token 的卷成了“外卖”，卖铲子的直接“印钱”](https://www.tmtpost.com/8042308.html)
+**发布时间**: 2026-06-26 11:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
+**发布时间**: 2026-06-26 15:02
+
+#### [林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
+**发布时间**: 2026-06-26 11:29
+
+#### [派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
+**发布时间**: 2026-06-26 08:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从拍摄素材到云端：Netflix规模化媒体处理流水线](https://www.infoq.cn/article/9JyfiCCqO2IWgXEubRKw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 15:00
+
+#### [AI 设计9个月就能媲美Blackwell？OpenAI “辣芯”绕开英伟达正面战场，但老黄的GPU大盘不稳了](https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 14:18
+
+#### [4.5个月迁走1200个微服务：腾讯云参与印尼运营商云转型，AI开始接管迁移全流程](https://www.infoq.cn/article/TA7VPXQqYgTsu4Yl8qLa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 14:15
+
+#### [VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击](https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 12:44
+
+#### [Fable 5还未解禁，Anthropic一纸诉状砸向Qwen，自家CEO却被白宫嫌“怪”踢出局！](https://www.infoq.cn/article/MVDrYfoCovqj6zBNxr9e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 11:12
+
+#### [两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”](https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 11:01
+
+#### [轻量级ADR与架构咨询例会如何支撑架构决策工作](https://www.infoq.cn/article/jd3VGzLzCU67Cq2yWFGy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 10:30
+
+#### [云端 AI 治理：架构师实操指南](https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 09:40
 
 ---
 

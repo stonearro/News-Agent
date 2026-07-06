@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Jul 2026 07:39:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2026 07:41:30 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:02:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>光象科技累计完成数亿元天使轮融资，布局物理原生基座模型</title>
-      <link>https://www.qbitai.com/2026/07/442958.html</link>
-      <description>&lt;![CDATA[光象科技累计完成数亿元天使轮融资，布局物理原生基座模型]]&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 05:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442958.html</guid>
+      <title>Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚</title>
+      <link>https://www.qbitai.com/2026/07/443339.html</link>
+      <description>&lt;![CDATA[Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚]]&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443339.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>华为更新韬定律论文！</title>
+      <link>https://www.qbitai.com/2026/07/443186.html</link>
+      <description>&lt;![CDATA[华为更新韬定律论文！]]&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 13:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443186.html</guid>
       <category>AI</category>
     </item>
   </channel>

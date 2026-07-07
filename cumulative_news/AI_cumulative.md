@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-07 08:16
+**最后更新时间**: 2026-07-07 23:51
+
+---
+
+## 🆕 最新更新 (2026-07-07 23:51)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
+**发布时间**: 2026-07-07 16:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”](https://www.qbitai.com/2026/07/445608.html)
+**发布时间**: 2026-07-07 11:43
+
+#### [从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”](https://www.qbitai.com/2026/07/445443.html)
+**发布时间**: 2026-07-07 08:32
 
 ---
 

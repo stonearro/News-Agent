@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-09 00:02
+**最后更新时间**: 2026-07-09 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-09 23:59)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出](https://www.qbitai.com/2026/07/447508.html)
+**发布时间**: 2026-07-09 12:18
+
+#### [第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元](https://www.qbitai.com/2026/07/446843.html)
+**发布时间**: 2026-07-09 09:48
+
+#### [「没了李开复，零一万物还有什么？」一个敢问一个敢答](https://www.qbitai.com/2026/07/446778.html)
+**发布时间**: 2026-07-09 07:34
+
+#### [刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴](https://www.qbitai.com/2026/07/446658.html)
+**发布时间**: 2026-07-09 06:29
+
+#### [刚刚，全球首个具身专属的MoE视频模型，开源了！](https://www.qbitai.com/2026/07/446568.html)
+**发布时间**: 2026-07-09 05:47
+
+#### [2026年世界人工智能大会，7月17-7月20上海举办](https://www.qbitai.com/2026/07/436498.html)
+**发布时间**: 2026-07-09 05:33
+
+#### [获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good](https://www.qbitai.com/2026/07/446562.html)
+**发布时间**: 2026-07-09 03:56
+
+#### [世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互](https://www.qbitai.com/2026/07/446548.html)
+**发布时间**: 2026-07-09 03:39
+
+#### [蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！](https://www.qbitai.com/2026/07/446458.html)
+**发布时间**: 2026-07-09 03:19
+
+#### [从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路](https://www.qbitai.com/2026/07/446435.html)
+**发布时间**: 2026-07-09 02:32
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [SensorFM: Towards a general intelligence and interface for wearable health data](https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/)
+**发布时间**: 2026-07-09 09:56
 
 ---
 

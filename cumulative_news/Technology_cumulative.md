@@ -1,7 +1,121 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-09 00:03
+**最后更新时间**: 2026-07-10 00:04
+
+---
+
+## 🆕 最新更新 (2026-07-10 00:04)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理](https://www.tmtpost.com/8059401.html)
+**发布时间**: 2026-07-10 07:48
+
+#### [【钛晨报】事关“十五五”时期碳达峰工作，国务院部署5方面重点任务；微信6月密集更新AI功能：开发者可接入AI生态，企业微信"大圆"内测；商务部等9部门：支持符合条件的新型优质零售企业上市](https://www.tmtpost.com/8059200.html)
+**发布时间**: 2026-07-10 07:20
+
+#### [Edge AI Daily 早报（7月10日）](https://www.tmtpost.com/8059393.html)
+**发布时间**: 2026-07-10 07:17
+
+#### [留置、候查、再立案，业绩变脸雪上加霜，佳缘科技20cm跌停](https://www.tmtpost.com/8059266.html)
+**发布时间**: 2026-07-09 22:24
+
+#### [跨界算力连遭暴击，逆势加注5.5亿，亿田智能急了?](https://www.tmtpost.com/8059189.html)
+**发布时间**: 2026-07-09 22:01
+
+#### [宇特光电：超四成收入依赖光迅科技，临上会删除募资补流项目｜IPO观察](https://www.tmtpost.com/8058180.html)
+**发布时间**: 2026-07-09 21:30
+
+#### [文峰光电：七成收入靠前五客户，2.24亿募投合理性被监管重点追问｜IPO观察](https://www.tmtpost.com/8058188.html)
+**发布时间**: 2026-07-09 21:28
+
+#### [小米造车，向“增程”低头](https://www.tmtpost.com/8057489.html)
+**发布时间**: 2026-07-09 18:18
+
+#### [雷军开始抢李想的饭碗](https://www.tmtpost.com/8058324.html)
+**发布时间**: 2026-07-09 18:13
+
+#### [3个月狂吸百亿，世界模型打响2026生死卡位战](https://www.tmtpost.com/8057843.html)
+**发布时间**: 2026-07-09 18:12
+
+#### [三次港股递表，累计亏损超8亿，景泽生物等得起吗？](https://www.tmtpost.com/8058250.html)
+**发布时间**: 2026-07-09 18:09
+
+#### [外国游客迷上重庆“落地签”？](https://www.tmtpost.com/8058855.html)
+**发布时间**: 2026-07-09 17:50
+
+#### [洋品牌改姓背后，中国餐桌上的权力交接](https://www.tmtpost.com/8058845.html)
+**发布时间**: 2026-07-09 17:45
+
+#### [日本监狱魔改奢华酒店，上海提篮桥还远吗？](https://www.tmtpost.com/8058671.html)
+**发布时间**: 2026-07-09 17:41
+
+#### [中国AI产业的三大优势（上）](https://www.tmtpost.com/8058613.html)
+**发布时间**: 2026-07-09 17:38
+
+#### [新石器：一个快递小哥的万亿无人车梦，能走多远？](https://www.tmtpost.com/8058321.html)
+**发布时间**: 2026-07-09 17:35
+
+#### [中国汽车供应链为何组团落地摩洛哥？](https://www.tmtpost.com/8058860.html)
+**发布时间**: 2026-07-09 17:30
+
+#### [华为天才少年与DeepSeek冲突背后，梁文锋的人才观是什么？](https://www.tmtpost.com/8058654.html)
+**发布时间**: 2026-07-09 17:30
+
+#### [对不起，AI 也救不了智能手机](https://www.tmtpost.com/8058672.html)
+**发布时间**: 2026-07-09 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent 进化论：从对话到协作](https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 17:58
+
+#### [AI Infra 拼什么？](https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 16:18
+
+#### [百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳](https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 16:15
+
+#### [Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势](https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 16:00
+
+#### [首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？](https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 15:32
+
+#### [动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级](https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 15:00
+
+#### [重磅发布 Cortex Sense：为未建模数据注入可信上下文 ｜ 技术趋势](https://www.infoq.cn/article/E4kV7CPQGeWujNoVTEAU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 14:50
+
+#### [Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！](https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 13:56
+
+#### [MCP 推出企业统一授权功能](https://www.infoq.cn/article/NIPG4kmz1lDv8DIrsZ9O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 13:48
+
+#### [Claude 在 Foundry 上正式可用，但欧洲企业无法部署](https://www.infoq.cn/article/hOGtafDIR2GvccjYiLEc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 12:00
+
+#### [主权云争议持续，Cycle 推出欧盟专属控制平面](https://www.infoq.cn/article/DTwKHTqif2cUAF8Fy5aA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 10:43
+
+#### [将平台开发从项目转向产品](https://www.infoq.cn/article/IBeglXveqxZXVq8lhtvN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 09:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | 小米耳夹式耳机体验](https://sspai.com/post/112011)
+**发布时间**: 2026-07-09 17:30
+
+#### [iOS 27 Beta 2 & 3 值得关注的新特性](https://sspai.com/post/112083)
+**发布时间**: 2026-07-09 15:49
+
+#### [角落新声｜在陌生的城市里，寻找属于自己的角落](https://sspai.com/post/111983)
+**发布时间**: 2026-07-09 10:17
+
+#### [派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等](https://sspai.com/post/112091)
+**发布时间**: 2026-07-09 08:40
 
 ---
 

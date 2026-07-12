@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Jul 2026 23:46:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2026 23:48:46 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 09:45:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:46:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国首个十万卡集群落成！全国产算力支撑“十万卡时代”</title>
-      <link>https://www.qbitai.com/2026/07/447902.html</link>
-      <description>&lt;![CDATA[中国首个十万卡集群落成！全国产算力支撑“十万卡时代”]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447902.html</guid>
+      <title>98年哈工大教授创业，要做人形灵巧操作世界模型</title>
+      <link>https://www.qbitai.com/2026/07/448034.html</link>
+      <description>&lt;![CDATA[98年哈工大教授创业，要做人形灵巧操作世界模型]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448034.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型</title>
+      <link>https://www.qbitai.com/2026/07/447981.html</link>
+      <description>&lt;![CDATA[老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 01:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447981.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？</title>
+      <link>https://www.qbitai.com/2026/07/447914.html</link>
+      <description>&lt;![CDATA[近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 01:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447914.html</guid>
       <category>AI</category>
     </item>
   </channel>

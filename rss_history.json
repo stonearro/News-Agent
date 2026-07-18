@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "e06362bfa74e1211d7f98379988f4cf59c728142a301f60d11cf4a7bfe24d55e": {
-        "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
-        "link": "https://www.qbitai.com/2026/06/436477.html",
-        "published_date": "Thu, 18 Jun 2026 05:12:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.671877"
-      },
-      "0bd2405cc6e1e22acbffec53f0d9396be29a60536fad320187e3dea69013d048": {
-        "title": "国产算力正在进入Token标准化时代",
-        "link": "https://www.qbitai.com/2026/06/436468.html",
-        "published_date": "Thu, 18 Jun 2026 01:45:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.672002"
-      },
       "92ad533648399cad14f0d5df0a59c142c06746bddc7de954a1cc48b7b53e8419": {
         "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
         "link": "https://www.qbitai.com/2026/06/436758.html",
@@ -1332,171 +1320,15 @@
         "link": "https://www.qbitai.com/2026/07/453506.html",
         "published_date": "Sat, 18 Jul 2026 01:17:00 GMT",
         "first_seen": "2026-07-18T06:57:49.837455"
+      },
+      "dcf239a1b9d3ed507f1410f067a868cfa88eb15794dc35bb7749b2ab45cc13e6": {
+        "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+        "link": "https://www.qbitai.com/2026/07/453705.html",
+        "published_date": "Sat, 18 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.475525"
       }
     },
     "Technology": {
-      "c059b686f5f6598717918503b54c6d443f64f3d3178ca4a933592eb4e2151a32": {
-        "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
-        "link": "https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 16:42:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488900"
-      },
-      "5c411f233a40e3b26ceeb93b0427ca750514f2325a2520ece5a0c12d4ea6c163": {
-        "title": "机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token",
-        "link": "https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 16:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488955"
-      },
-      "e1d684c7fff13379b39b54c2b9bd028b05d0d098604e330a245b9b5c35d89e15": {
-        "title": "Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施",
-        "link": "https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 14:18:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488930"
-      },
-      "3a1314ee79d21124021558af10a9fa559bff8cb7523ad804117989ce681f3252": {
-        "title": "TDSQL 分布式计算引擎版本演进介绍 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/bXpetQKhD4AcfU8dRQlP?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488964"
-      },
-      "8ec93199d95ba6aac024edade711f3b8ffa87ff1f3afb4eba9458d38a6a684e6": {
-        "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
-        "link": "https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 12:02:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488975"
-      },
-      "e9a8a5b582babd4ddf0e988f76a585d9ea77da25973c72cf934486a7cfb273b5": {
-        "title": "Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力",
-        "link": "https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 11:35:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488984"
-      },
-      "21bfe1d6b7f3fa02d62ac4abbbf6c49efa40f2339f3cf1fc8c7bf1c313127518": {
-        "title": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
-        "link": "https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488993"
-      },
-      "90478e404ee66f52b516718951d585ceed25761e338917e42f875d0b39b8748a": {
-        "title": "从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/Zt9VFw53woH6vsa9cBTR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.489002"
-      },
-      "eaa49b882102cc27a256fc3da57395e6eaa2bb1089ceb50abac836685adb8187": {
-        "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
-        "link": "https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.489012"
-      },
-      "a31f645ca46925bbd23920378e1e938b44edb7071ef5afadd71c4c3790af6933": {
-        "title": "618 不缺 AI，缺的是一个让人想买的理由",
-        "link": "https://www.tmtpost.com/8033067.html",
-        "published_date": "Thu, 18 Jun 2026 15:52:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.155755"
-      },
-      "b0a80c84e6a7f568b431603b0a5229c76f7c8650dd2d4d6e0a59cc53bd4b26a5": {
-        "title": "40亿元不是估值底线： 大模型公司的新“资格分界线”",
-        "link": "https://www.tmtpost.com/8033053.html",
-        "published_date": "Thu, 18 Jun 2026 15:52:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.156281"
-      },
-      "4747fd0f35e551a447f2b1e9809dfe1b6a9cb8fda5b0973e21fee48e088abfab": {
-        "title": "好奇、Babycare、碧芭宝贝同时翻车，甲酰胺藏在哪？​",
-        "link": "https://www.tmtpost.com/8033131.html",
-        "published_date": "Thu, 18 Jun 2026 15:23:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.156931"
-      },
-      "f8a1ba374cf58d8a121448d6a968ed211942a8bee40defc7c3b8b344e527faee": {
-        "title": "SpaceX要让太空算力从科幻走向现实，但它划算吗？",
-        "link": "https://www.tmtpost.com/8032956.html",
-        "published_date": "Thu, 18 Jun 2026 15:05:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.157523"
-      },
-      "4b8fc5f2d3398f58f60af7dd903c07c14d77d24dd5005741f12c73b8fac59a60": {
-        "title": "用结构替代数据，因果世界模型如何重塑具身智能大脑",
-        "link": "https://www.tmtpost.com/8033154.html",
-        "published_date": "Thu, 18 Jun 2026 14:45:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.158051"
-      },
-      "d572d815a066d10b2cb63ab72c0696f7addf632f9da5144feba64c74d2d4f2fc": {
-        "title": "当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/8033077.html",
-        "published_date": "Thu, 18 Jun 2026 13:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.158903"
-      },
-      "3cd932ffa0b8204897d81ebfcb6b33de2000f38b6be922fdc54d46d5fee593ad": {
-        "title": "“新股王”联讯仪器背后的天使投资人",
-        "link": "https://www.tmtpost.com/8032546.html",
-        "published_date": "Thu, 18 Jun 2026 12:46:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.159444"
-      },
-      "930604193ef51fb8e22b6ba7b85f169799dd3907b75c40f768b0b02e192992ad": {
-        "title": "执中者银联",
-        "link": "https://www.tmtpost.com/8029838.html",
-        "published_date": "Thu, 18 Jun 2026 12:12:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.159752"
-      },
-      "ad277d32ae1729b2cc98c337915a3ea42d86f821edaa9fb1c061fc3f323ab1b6": {
-        "title": "远景张雷：启动Mission Gobi AIDC建设计划，让全球戈壁成为下一代智能文明摇篮",
-        "link": "https://www.tmtpost.com/8032936.html",
-        "published_date": "Thu, 18 Jun 2026 11:28:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.160994"
-      },
-      "e2cab4121d82a194b2f04837b8c18a1ce021e71cf6571b5ee515b0aba4bf23c1": {
-        "title": "卖身巨头还是独立扩张，朴朴超市会怎么选？",
-        "link": "https://www.tmtpost.com/8032117.html",
-        "published_date": "Thu, 18 Jun 2026 11:17:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.161576"
-      },
-      "1c9a9a5029e3b3e9fef592fb381d67c2ef27fd550092e7fd5085fd2ddfb469de": {
-        "title": "断网、停航、亏百万，中国商人重回伊朗",
-        "link": "https://www.tmtpost.com/8032243.html",
-        "published_date": "Thu, 18 Jun 2026 11:17:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.162430"
-      },
-      "581f26c0af673ab3fdd2b44a6d0f2be403786b3085465bc64b70d0b26ddf14b3": {
-        "title": "对话网易智企：不卖Token卖什么？一家ToB厂商的AI生存样本",
-        "link": "https://www.tmtpost.com/8031566.html",
-        "published_date": "Thu, 18 Jun 2026 11:06:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.163587"
-      },
-      "2ba9769f9c291302aa1ba57f17f6ce86174598b3ec7b5cb1b4643bf4b2b25b0d": {
-        "title": "小红书过“男”关",
-        "link": "https://www.tmtpost.com/8032471.html",
-        "published_date": "Thu, 18 Jun 2026 11:05:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.164233"
-      },
-      "37ff210d9c3eba8ec108cc5e81e98c1680e22caa061d2abd3e53945ecab4fb20": {
-        "title": "298元一顿星星人下午茶，泡泡玛特“杀”进甜品赛道",
-        "link": "https://www.tmtpost.com/8032850.html",
-        "published_date": "Thu, 18 Jun 2026 11:05:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.165200"
-      },
-      "26c4bbcc59106e555ae112794603bffe48ccaa86c712ecfd3d8146a2af38b6bf": {
-        "title": "梅西和佛得角，拯救世界杯",
-        "link": "https://www.tmtpost.com/8032203.html",
-        "published_date": "Thu, 18 Jun 2026 10:49:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.165829"
-      },
-      "76812de726db9ec26ffbc1c55c4d2b0d27353280659a8320d8b01d467f6a9f5b": {
-        "title": "Nothing Phone 杂谈：活下去再谈未来，然后呢？",
-        "link": "https://sspai.com/post/110442",
-        "published_date": "Thu, 18 Jun 2026 15:00:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.166982"
-      },
-      "873d7fd60174562e4a3653d22b59373507008efffc70f0ac77902a6f4a3c24c5": {
-        "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
-        "link": "https://sspai.com/post/111198",
-        "published_date": "Thu, 18 Jun 2026 11:30:00 GMT",
-        "first_seen": "2026-06-18T09:12:23.168450"
-      },
-      "2e47121c943f4d3c1f2bc23a39901afd8f44878c6a7aed64c4e68d03d0ad5f2f": {
-        "title": "派早报：Android 17 正式推送、微软发布 Surface 新品等",
-        "link": "https://sspai.com/post/111191",
-        "published_date": "Thu, 18 Jun 2026 08:38:00 GMT",
-        "first_seen": "2026-06-18T09:12:32.488944"
-      },
       "eea0bd4d51a2a9e8bfcc0a57ebce00cddbaddf710c15e3937679ae4a729160d8": {
         "title": "Momenta港股IPO备案获批：自动驾驶公司从技术叙事转向资本验证",
         "link": "https://www.tmtpost.com/8033628.html",
@@ -9404,13 +9236,61 @@
         "link": "https://sspai.com/post/112398",
         "published_date": "Sat, 18 Jul 2026 11:10:00 GMT",
         "first_seen": "2026-07-18T06:57:40.438288"
+      },
+      "57a0bbd24307446c8911062eafbbca2583ab195c10bf8cb1b5981d61aecac490": {
+        "title": "放弃日本后，澳洲人正疯狂涌向中国",
+        "link": "https://www.tmtpost.com/8069901.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.370305"
+      },
+      "ac87e2c9a0ad27a66b53eb946b694025a0a657878f0b08543a3b9b3a2d2df53e": {
+        "title": "徕芬，把电机做成“芯片”",
+        "link": "https://www.tmtpost.com/8070101.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.370418"
+      },
+      "2da82d8c22a26f1a0999d95c6f59966a7d4346620d5a0e4e6a48444023c25dbe": {
+        "title": "TRAE Work上线 40 万字的“AI 打工说明书”！一手实测在此",
+        "link": "https://www.tmtpost.com/8070209.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.370567"
+      },
+      "988113db6768141433968b235c1518ddb6efe14b7e2309af4186018129cc7d61": {
+        "title": "三次冲击，对应三种不同的价格信号",
+        "link": "https://www.tmtpost.com/8070249.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.370682"
+      },
+      "3e146d16178d8beb1e05fd4c9f526cd86e4ff18652434f18c9255f3707718d2b": {
+        "title": "一只猴卖20万！净利润飙涨超1300%，“猴茅”昭衍新药赚翻了",
+        "link": "https://www.tmtpost.com/8070243.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.370850"
+      },
+      "8bf3e4c6929322185a5cad0fc5ddb5070c3e0925829ec130bf817ef1228e6183": {
+        "title": "Uber与美团的代理人战争",
+        "link": "https://www.tmtpost.com/8070286.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.370977"
+      },
+      "3b9e8274f0211063a04b818823669cda5f76f2753c2237a75a6875168fd1ae00": {
+        "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
+        "link": "https://www.tmtpost.com/8070307.html",
+        "published_date": "Sat, 18 Jul 2026 15:32:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.371210"
+      },
+      "b4325e24a8fba9e8a0dd93da635240730fabdd487165685f168b723faff10eac": {
+        "title": "实测Kimi K3：强得意外，慢得着急",
+        "link": "https://www.tmtpost.com/8069817.html",
+        "published_date": "Sat, 18 Jul 2026 15:24:00 GMT",
+        "first_seen": "2026-07-18T09:19:09.371407"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-18T06:57:49.845012",
-    "Technology": "2026-07-18T06:57:49.725957",
-    "Finance": "2026-07-18T06:57:40.313475"
+    "AI": "2026-07-18T09:19:09.480610",
+    "Technology": "2026-07-18T09:19:09.387685",
+    "Finance": "2026-07-18T09:19:09.279124"
   }
 }

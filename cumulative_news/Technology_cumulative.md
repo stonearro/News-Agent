@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 10:46
+**最后更新时间**: 2026-07-20 23:52
+
+---
+
+## 🆕 最新更新 (2026-07-20 23:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [The Strategic Matchmaking of Apple and Qwen: Why a Marriage of Convenience Could Reshape China’s AI Market](https://www.tmtpost.com/8072827.html)
+**发布时间**: 2026-07-21 07:42
+
+#### [【钛晨报】国常会：分门别类完善服务业支持政策，系统推进“六张网”规划建设；事关资本市场，吴清发声，五大险资巨头集体表态；港交所考虑延长交易时间，取消午休？最新回应](https://www.tmtpost.com/8072626.html)
+**发布时间**: 2026-07-21 07:20
+
+#### [世界杯的终场哨，AI竞赛的发令枪](https://www.tmtpost.com/8071707.html)
+**发布时间**: 2026-07-20 19:55
+
+#### [YC掌门人最新分享：AI时代，永远不要做一次性工作](https://www.tmtpost.com/8071908.html)
+**发布时间**: 2026-07-20 18:42
+
+#### [城市牛马们破防了：一年挣的还没一只猴子多！](https://www.tmtpost.com/8072155.html)
+**发布时间**: 2026-07-20 18:41
+
+#### [台积电：赚钱逻辑变了](https://www.tmtpost.com/8072223.html)
+**发布时间**: 2026-07-20 18:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [神州数码发布企业AI流程系统与智算产品，尝试打通应用和算力两端](https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 19:59
+
+#### [国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型](https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 19:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/112543)
+**发布时间**: 2026-07-20 18:00
 
 ---
 

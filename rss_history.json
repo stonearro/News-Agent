@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1a74c1e1a5635dd02d4b6e7dd16ba82e685e24cc43169fecd7e65e9bac099573": {
-        "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-        "link": "https://www.qbitai.com/2026/06/437141.html",
-        "published_date": "Sun, 21 Jun 2026 04:46:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.930973"
-      },
       "6dd732c8dc154e3740fcfb002365f8dc6f14d417d23ab891af1a2285c8bab7f4": {
         "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
         "link": "https://www.qbitai.com/2026/06/437198.html",
@@ -1446,57 +1440,33 @@
         "link": "https://www.qbitai.com/2026/07/455979.html",
         "published_date": "Tue, 21 Jul 2026 05:44:00 GMT",
         "first_seen": "2026-07-21T07:36:05.480755"
+      },
+      "187c4901451663907f27bc43806e08b7450171b5df8a1b68d2f55134a6425fa9": {
+        "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+        "link": "https://www.qbitai.com/2026/07/456052.html",
+        "published_date": "Tue, 21 Jul 2026 09:39:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.132291"
+      },
+      "e93eb916dd2d55604bb5b6de04edd8cbcd1a1891c78a4cf7540f0e1977b77283": {
+        "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+        "link": "https://www.qbitai.com/2026/07/456026.html",
+        "published_date": "Tue, 21 Jul 2026 09:30:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.132424"
+      },
+      "f0e3a65e680e03e2c74febc9c44e70846661e428b33b8a1a7aae26c7bf7e9d0d": {
+        "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+        "link": "https://www.qbitai.com/2026/07/456021.html",
+        "published_date": "Tue, 21 Jul 2026 09:21:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.132600"
+      },
+      "4fe76bd9d1ab757c5b0dd1f774fc0621a1187c10eb573833c90f128ae1d242c7": {
+        "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
+        "link": "https://www.qbitai.com/2026/07/455998.html",
+        "published_date": "Tue, 21 Jul 2026 09:15:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.132863"
       }
     },
     "Technology": {
-      "bd3bec8b9df0a3020290cb0871b97c9ee0d2c5d33c87574315bc5af22d3b2f85": {
-        "title": "Plaud软件年化收入破1亿美元，硬件明星开始软件叙事 ｜出海参考",
-        "link": "https://www.tmtpost.com/8034874.html",
-        "published_date": "Sun, 21 Jun 2026 13:22:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.781655"
-      },
-      "9d79c0fef2a3bf6a2f918efdfeeef00cb8cb8618039aac9a8b920c0f69335e47": {
-        "title": "GPT-5.6倒计时：放弃单一API幻想，算力迭代再快也敌不过一纸合规",
-        "link": "https://www.tmtpost.com/8035108.html",
-        "published_date": "Sun, 21 Jun 2026 12:35:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.781849"
-      },
-      "6947ec20f33f918373a169c02ee92c6bac4d1f1618dd3b12bfbbf6e12e7307e1": {
-        "title": "全球航空业的奇特困境：客座率史上最高，但是飞机不够用了",
-        "link": "https://www.tmtpost.com/8035046.html",
-        "published_date": "Sun, 21 Jun 2026 10:01:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.782022"
-      },
-      "92820c8c3f5184e1f1e73bbd94a0d0e0a8ee024fe5a642fbe593e81365cb021a": {
-        "title": "年接待960万人次，清明上河园仍要去港股“找钱”",
-        "link": "https://www.tmtpost.com/8035033.html",
-        "published_date": "Sun, 21 Jun 2026 10:01:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.782232"
-      },
-      "8bfc9f9270283f03d02198f8aab23357507a2335faeb8e49bcd1dacfb2617566": {
-        "title": "AI 知识付费“出海”：一门生意的机会、风险与转折点",
-        "link": "https://www.tmtpost.com/8035065.html",
-        "published_date": "Sun, 21 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.782511"
-      },
-      "ee6fb7e7dac146daa2279eb2174d9eff8f5de9a7c536c33688848f7738973d47": {
-        "title": "Edge AI Daily 早报（6月21日）",
-        "link": "https://www.tmtpost.com/8035059.html",
-        "published_date": "Sun, 21 Jun 2026 08:56:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.782791"
-      },
-      "898a3969e72a02c128922942b03639098d531744db7804b22203ef2de16380e6": {
-        "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
-        "link": "https://sspai.com/post/110972",
-        "published_date": "Sun, 21 Jun 2026 10:30:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.783248"
-      },
-      "3bfb4f98e1bf94b3822bc090a1db9441d44e1453b0ed2b18c82554ce1002b679": {
-        "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
-        "link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 21 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-21T08:56:48.783825"
-      },
       "b7689d943eff3c1d80315f84e5dc0645b8df6975afa5344fb7070d4c16ffbd23": {
         "title": "【钛晨报】加快“人工智能+消费”发展，8部门联合部署；工行、农行、中行、建行、交行集体宣布，落地离岸人民币外汇试点交易；大众汽车加速推进业务重组，将削减约5万个岗位",
         "link": "https://www.tmtpost.com/8035425.html",
@@ -9794,13 +9764,133 @@
         "link": "https://sspai.com/post/112565",
         "published_date": "Tue, 21 Jul 2026 08:02:00 GMT",
         "first_seen": "2026-07-21T07:35:56.008643"
+      },
+      "29fcf6f875225ff2fe3ae7ef0538bbb3b9c729d29c949d3ff0eead434b64048e": {
+        "title": "茅台2026年两连涨：这不是品牌力，而是一场迟到的“追认”",
+        "link": "https://www.tmtpost.com/8071770.html",
+        "published_date": "Tue, 21 Jul 2026 18:05:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001587"
+      },
+      "1075edbeb364fd156b489738fb5dec67ceae7a5692db038182dd17d856c16444": {
+        "title": "男人的生意不好做，广药要赚女人的钱",
+        "link": "https://www.tmtpost.com/8074116.html",
+        "published_date": "Tue, 21 Jul 2026 17:55:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001600"
+      },
+      "8f4898032595f985e6c615d3a1047c6e31189eadcd811e446924244f3b193562": {
+        "title": "诺兰强势归来，《奥德赛》创多项纪录",
+        "link": "https://www.tmtpost.com/8073989.html",
+        "published_date": "Tue, 21 Jul 2026 17:54:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001611"
+      },
+      "f2818f984ce6e04ed3228cdb09f6c13b883ee700a74432ff7e16633e68b62748": {
+        "title": "西瓜，真的几分钱一斤了？",
+        "link": "https://www.tmtpost.com/8073722.html",
+        "published_date": "Tue, 21 Jul 2026 17:54:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001621"
+      },
+      "5e963250ed86d4f31b84206c30d2663ffc4daa2cae67794c3be48d02aadd3cf1": {
+        "title": "安踏跑得最快的，已经不是安踏和FILA",
+        "link": "https://www.tmtpost.com/8073976.html",
+        "published_date": "Tue, 21 Jul 2026 17:54:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001631"
+      },
+      "561e9b9ada4c2b6718653dd1c64e8551e7bb31e352e62c84b3c84b552bcd5a23": {
+        "title": "具身机器人进家，只差一套“情感世界模型”",
+        "link": "https://www.tmtpost.com/8073768.html",
+        "published_date": "Tue, 21 Jul 2026 17:22:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001641"
+      },
+      "e32f1963949a0ae0a226d4388fd6474119c4fd6894c474cf88660e357ecf62e6": {
+        "title": "美敦力重夺第一、雅培暴涨、强生憋大招：全球心血管巨头Q2财报大揭秘",
+        "link": "https://www.tmtpost.com/8072379.html",
+        "published_date": "Tue, 21 Jul 2026 17:22:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001652"
+      },
+      "17bd95ac48f3b03d4ab40ab7902be8f641251bc46ee5e7cc46663d43f54108e7": {
+        "title": "蚂蚁国际“曲线救国”",
+        "link": "https://www.tmtpost.com/8074042.html",
+        "published_date": "Tue, 21 Jul 2026 17:22:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001662"
+      },
+      "5671b6e32fd76745d6222df8fa6ada6aa9933fc1c0f63b1431e75f4760a6b006": {
+        "title": "不到一成赔付额，禾赛和图达通都没赢痛快",
+        "link": "https://www.tmtpost.com/8073832.html",
+        "published_date": "Tue, 21 Jul 2026 17:20:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001671"
+      },
+      "bc479a92599c6d9202165e2bae6cb5ecec34928e878a39c521d5add18101262d": {
+        "title": "千问进苹果，大模型开始「隐身」",
+        "link": "https://www.tmtpost.com/8073933.html",
+        "published_date": "Tue, 21 Jul 2026 17:14:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.370892"
+      },
+      "1eca974077e62f2dfc61c237d06fb400817b05768dd0d987f23dae4ae1311b59": {
+        "title": "机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+        "link": "https://www.tmtpost.com/8073956.html",
+        "published_date": "Tue, 21 Jul 2026 17:11:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.371417"
+      },
+      "a9db836d8f12c163e276d3302ae19fba1aa0055f96aeff1dab72606b8c2d6b62": {
+        "title": "林涌被一免到底，海通的账还没算完",
+        "link": "https://www.tmtpost.com/8073885.html",
+        "published_date": "Tue, 21 Jul 2026 17:07:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.371875"
+      },
+      "33d228c0d3046dd8ae2f9c6f9fd5f254e160bc682c25509033a36abae4720467": {
+        "title": "2026体育营销下半场：品牌不造势，开始“造宇宙”",
+        "link": "https://www.tmtpost.com/8073909.html",
+        "published_date": "Tue, 21 Jul 2026 16:56:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.372403"
+      },
+      "00852d0ce19a1c7fba0be9af1ad7723b3d3e1c93ff6a5ce551a34a37f933bcbe": {
+        "title": "2026WAIC收官，看见物理AI的落地与未来",
+        "link": "https://www.tmtpost.com/8073569.html",
+        "published_date": "Tue, 21 Jul 2026 16:56:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.372934"
+      },
+      "28136a50f6f0b5067d353f1cbd0e5162ae829eb3c83d6ef797749fb6aaac2df1": {
+        "title": "越疆科技：上会前夕遭联合创始人实名举报，九年累亏3.45亿不差钱仍募资补流｜IPO观察",
+        "link": "https://www.tmtpost.com/8073367.html",
+        "published_date": "Tue, 21 Jul 2026 16:55:00 GMT",
+        "first_seen": "2026-07-21T10:23:47.001557"
+      },
+      "cde177f9054ed18e5f51e282d5cf90a7377b52362a60d4c436037695f268bbaa": {
+        "title": "通往数据主权之路：本地优先计算面临的挑战与优先事项",
+        "link": "https://www.infoq.cn/article/p6lR4aHNP5N7mdmw3UiJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 17:21:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.374429"
+      },
+      "26ec242d8bd707373d8cbaad6433a71b7aa52ac604007c173193363d8fb10145": {
+        "title": "Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”",
+        "link": "https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 16:14:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.375506"
+      },
+      "f8d395883ba222634f8bff7b57d64d13ee2167356ba5cace7ad4522309349049": {
+        "title": "OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界",
+        "link": "https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 15:22:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.376428"
+      },
+      "a9c0d2f5c7d20923310048ad9c51276ff93e0b3dac0705cac565dd977c804475": {
+        "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
+        "link": "https://sspai.com/post/112582",
+        "published_date": "Tue, 21 Jul 2026 17:00:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.377452"
+      },
+      "64bd9e3e63c7ec3179539f880395553ebd8d7d8f0f3fdd715e28b1fec2dbb147": {
+        "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能",
+        "link": "https://sspai.com/post/112200",
+        "published_date": "Tue, 21 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-21T10:23:37.378573"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-21T07:36:05.487583",
-    "Technology": "2026-07-21T07:36:05.370124",
-    "Finance": "2026-07-21T07:35:55.866233"
+    "AI": "2026-07-21T10:23:47.140207",
+    "Technology": "2026-07-21T10:23:47.017655",
+    "Finance": "2026-07-21T10:23:37.258310"
   }
 }

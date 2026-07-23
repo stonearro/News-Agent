@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-23 07:30
+**最后更新时间**: 2026-07-23 10:15
+
+---
+
+## 🆕 最新更新 (2026-07-23 10:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯云发布首个“流程原生”研发智能体 CodeBuddy NPC](https://www.infoq.cn/article/w6DHDb3QUYPLC1vaU8z1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 18:01
+
+#### [Agent 越能干，安全越难做？](https://www.infoq.cn/video/G0R3FyRBpfeSsa2QqJIr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 17:08
+
+#### [AI用23秒，学走了老师傅的判断](https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 17:03
+
+#### [开发并部署一个既能让业务部门理解、又能真正满足开发者需求的平台](https://www.infoq.cn/article/dgIQlw6lQc0qEol7VQE4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 17:00
+
+#### [医疗与生命科学领导者必须回答的 10 个 Agentic AI 关键问题 ｜ 技术实践](https://www.infoq.cn/article/06XxocxibFHWsL53PPFc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 16:20
+
+#### [为什么决定法律 AI 成效的，是数据平台，而不是模型 ｜ 技术实践](https://www.infoq.cn/article/PZ5Xe45iTQlOXtZveBKU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 15:36
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [终关12.75亿元，长石资本完成硬科技三期基金募资](https://www.tmtpost.com/8075250.html)
+**发布时间**: 2026-07-23 17:49
+
+#### [英伟达PhysX奠基人张立华入局物理 AI，带队自研新一代物理世界模型Fysiverse｜独家](https://www.tmtpost.com/8076733.html)
+**发布时间**: 2026-07-23 17:49
+
+#### [乐事FIFA世界杯营销：如何打造完整的观赛体验？](https://www.tmtpost.com/8075416.html)
+**发布时间**: 2026-07-23 17:48
+
+#### [小红书称网传IPO传言均不属实，VIE合规争议背后的多重挑战](https://www.tmtpost.com/8075815.html)
+**发布时间**: 2026-07-23 17:11
+
+#### [算电协同如何书写“比特”与“瓦特”的双向奔赴？](https://www.tmtpost.com/8076778.html)
+**发布时间**: 2026-07-23 17:10
+
+#### [光盘之死](https://www.tmtpost.com/8076869.html)
+**发布时间**: 2026-07-23 16:53
+
+#### [卖一辆车只赚1150元，特斯拉也顶不住了](https://www.tmtpost.com/8076744.html)
+**发布时间**: 2026-07-23 16:46
+
+#### [梁文锋投资人闭门会实录（全）：DeepSeek的AGI之路与“克制”哲学](https://www.tmtpost.com/8076737.html)
+**发布时间**: 2026-07-23 16:42
+
+#### [谷歌加码AI投资两千亿，微软和亚马逊跟不跟？](https://www.tmtpost.com/8076699.html)
+**发布时间**: 2026-07-23 16:38
+
+#### [2026 WAIC是具身智能行业的一面照妖镜](https://www.tmtpost.com/8076681.html)
+**发布时间**: 2026-07-23 16:35
+
+#### [AI行业告别“最强模型”崇拜](https://www.tmtpost.com/8076672.html)
+**发布时间**: 2026-07-23 16:31
+
+#### [天不生机器人，物理AI如长夜？](https://www.tmtpost.com/8076150.html)
+**发布时间**: 2026-07-23 16:23
+
+#### [自动驾驶迈入运行安全时代，李骏院士：AI开车车企全责，车辆终身纳入安全监管](https://www.tmtpost.com/8076618.html)
+**发布时间**: 2026-07-23 16:22
+
+#### [AI手机，开始革自己的命](https://www.tmtpost.com/8076567.html)
+**发布时间**: 2026-07-23 16:13
+
+#### [从信息撮合到决策代理：满帮Agent的工程、信任与边界](https://www.tmtpost.com/8076600.html)
+**发布时间**: 2026-07-23 16:10
+
+#### [梁文锋的目标，好单一](https://www.tmtpost.com/8076593.html)
+**发布时间**: 2026-07-23 16:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈](https://sspai.com/post/112428)
+**发布时间**: 2026-07-23 15:00
 
 ---
 

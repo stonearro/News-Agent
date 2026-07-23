@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-23 00:02
+**最后更新时间**: 2026-07-23 07:30
+
+---
+
+## 🆕 最新更新 (2026-07-23 07:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [巨资豪赌世界杯，小红书赢了吗？](https://www.tmtpost.com/8076566.html)
+**发布时间**: 2026-07-23 15:12
+
+#### [涨价的老套路失效了，奢侈品还能从哪儿找增长？](https://www.tmtpost.com/8076400.html)
+**发布时间**: 2026-07-23 15:12
+
+#### [谢贤离世：他的一亿港元遗产，是如何积累的？](https://www.tmtpost.com/8076560.html)
+**发布时间**: 2026-07-23 15:11
+
+#### [2026光模块共识全押错：被淘汰的不是模块，是DSP](https://www.tmtpost.com/8074133.html)
+**发布时间**: 2026-07-23 15:02
+
+#### [一年吸金18亿，李宁前CEO掌舵，即将冲刺上市](https://www.tmtpost.com/8076384.html)
+**发布时间**: 2026-07-23 15:02
+
+#### [PrimalVerse完成数亿元种子轮融资，主攻4D世界模型基模｜独家](https://www.tmtpost.com/8076725.html)
+**发布时间**: 2026-07-23 14:45
+
+#### [3万店时代，鸣鸣很忙的增长确定性从何而来？](https://www.tmtpost.com/8076582.html)
+**发布时间**: 2026-07-23 13:45
+
+#### [懂知识、能执行，滴普科技选择做更“Work”的Agent](https://www.tmtpost.com/8075680.html)
+**发布时间**: 2026-07-23 12:58
+
+#### [凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界](https://www.tmtpost.com/8075832.html)
+**发布时间**: 2026-07-23 12:48
+
+#### [基金市场概况与资产配置观点（07.13—07.19）](https://www.tmtpost.com/8076616.html)
+**发布时间**: 2026-07-23 12:36
+
+#### [WAIC上，一家公司想给企业装上一颗会思考的大脑丨WAIC2026](https://www.tmtpost.com/8076568.html)
+**发布时间**: 2026-07-23 12:19
+
+#### [面壁200亿，壁垒有多厚](https://www.tmtpost.com/8076332.html)
+**发布时间**: 2026-07-23 12:12
+
+#### [净利润暴增3倍，谷歌让马斯克带着上天了](https://www.tmtpost.com/8076383.html)
+**发布时间**: 2026-07-23 12:09
+
+#### [3500万网约车司机助力滴滴充电市场登顶，特来电和星星充电们正在被“围剿”](https://www.tmtpost.com/8076376.html)
+**发布时间**: 2026-07-23 12:02
+
+#### [深圳项目闭店，文和友们的“光辉岁月”唱完了？](https://www.tmtpost.com/8076369.html)
+**发布时间**: 2026-07-23 12:01
+
+#### [48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”](https://www.tmtpost.com/8076405.html)
+**发布时间**: 2026-07-23 11:52
+
+#### [一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节](https://www.tmtpost.com/8075805.html)
+**发布时间**: 2026-07-23 11:48
+
+#### [郑纬民院士：国产算力的瓶颈不在芯片，在生态](https://www.tmtpost.com/8075814.html)
+**发布时间**: 2026-07-23 11:47
+
+#### [日赚1300万却倒贴1.8亿现金流，天华新能的“纸面富贵”藏不住了](https://www.tmtpost.com/8076381.html)
+**发布时间**: 2026-07-23 11:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑](https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 15:10
+
+#### [Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低](https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 13:25
+
+#### [Meta 开源 Brain2Qwerty v2：非侵入式脑机接口语句解码准确率达到 61%](https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 11:43
+
+#### [从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳](https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 10:00
+
+#### [从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践](https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 10:00
+
+#### [谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制](https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 09:48
+
+#### [30+ 家企业组团参展 WAIC，张江 AI 小镇藏不住了](https://www.infoq.cn/article/cKrPV6EdBMEoOb2mBvju?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-23 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [让 Windows 顺眼又省心：我的新设备配置经验](https://sspai.com/post/111300)
+**发布时间**: 2026-07-23 10:57
+
+#### [派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等](https://sspai.com/post/112647)
+**发布时间**: 2026-07-23 08:50
 
 ---
 

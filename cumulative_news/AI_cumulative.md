@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-22 10:18
+**最后更新时间**: 2026-07-22 23:55
+
+---
+
+## 🆕 最新更新 (2026-07-22 23:55)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/)
+**发布时间**: 2026-07-22 21:32
+
+#### [Towards a quantum computer that learns from its errors](https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/)
+**发布时间**: 2026-07-22 18:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [美图拿出1亿元，面向全行业寻找AI影像Builder](https://www.qbitai.com/2026/07/457223.html)
+**发布时间**: 2026-07-22 17:35
 
 ---
 

@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-23 23:56
+**最后更新时间**: 2026-07-24 07:28
+
+---
+
+## 🆕 最新更新 (2026-07-24 07:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话希捷俞康：AI规模化落地，存储正成为关键基础设施](https://www.tmtpost.com/8078367.html)
+**发布时间**: 2026-07-24 15:19
+
+#### [杨植麟和Kimi，拿了DeepSeek的旧剧本](https://www.tmtpost.com/8077581.html)
+**发布时间**: 2026-07-24 14:47
+
+#### [净利暴增4935%！市值缩水超610亿，天齐锂业怎么了？](https://www.tmtpost.com/8077926.html)
+**发布时间**: 2026-07-24 14:43
+
+#### [AI手机的“皇帝新衣”](https://www.tmtpost.com/8077783.html)
+**发布时间**: 2026-07-24 14:43
+
+#### [市值仅差18亿，地平线机器人与Momenta贴身肉搏](https://www.tmtpost.com/8077773.html)
+**发布时间**: 2026-07-24 14:43
+
+#### [算力短缺，巨头疯抢“超节点”](https://www.tmtpost.com/8077782.html)
+**发布时间**: 2026-07-24 14:43
+
+#### [小亏大赚，普通人的凸性投资完整路径](https://www.tmtpost.com/8077685.html)
+**发布时间**: 2026-07-24 14:31
+
+#### [泡泡玛特走向了IP最难的一步](https://www.tmtpost.com/8077767.html)
+**发布时间**: 2026-07-24 14:31
+
+#### [曦智科技沈亦晨：算力逼近物理极限，光将驱动AI基础设施变革](https://www.tmtpost.com/8078233.html)
+**发布时间**: 2026-07-24 14:23
+
+#### [广汽埃安如何安抚21万网约车司机的电池焦虑？](https://www.tmtpost.com/8078274.html)
+**发布时间**: 2026-07-24 14:16
+
+#### [不做通用大模型，这家公司凭什么在WAIC排起长队？](https://www.tmtpost.com/8077217.html)
+**发布时间**: 2026-07-24 14:06
+
+#### [对话芯展速许玮：“内存墙”下，AI缺的是GPU的“放大器”](https://www.tmtpost.com/8078123.html)
+**发布时间**: 2026-07-24 12:44
+
+#### [长鑫科技PE拆三层，一签赚多少你定](https://www.tmtpost.com/8078114.html)
+**发布时间**: 2026-07-24 12:05
+
+#### [特斯拉Q2利润腰斩，钱去哪了？](https://www.tmtpost.com/8077567.html)
+**发布时间**: 2026-07-24 12:05
+
+#### [印度工厂被“合资”，改写了vivo的全球化](https://www.tmtpost.com/8077487.html)
+**发布时间**: 2026-07-24 11:54
+
+#### [不卷coding，卷原生多模态世界模型：智象未来拿下15亿C轮融资？](https://www.tmtpost.com/8077595.html)
+**发布时间**: 2026-07-24 11:54
+
+#### [特斯拉利薄如纸，马斯克一把梭哈](https://www.tmtpost.com/8078148.html)
+**发布时间**: 2026-07-24 11:54
+
+#### [国资，不玩对赌了](https://www.tmtpost.com/8078156.html)
+**发布时间**: 2026-07-24 11:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio](https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 14:24
+
+#### [具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产](https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 13:41
+
+#### [Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据](https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 11:41
+
+#### [圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？](https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 10:58
+
+#### [精彩预告｜Agentic 时代，谁来重新定义数据库？](https://www.infoq.cn/video/AwphwhFcWrhs76k5RWhy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 10:00
+
+#### [你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践](https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 10:00
+
+#### [Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳](https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 10:00
+
+#### [Cloudera CTO：技术自主，始于开源架构](https://www.infoq.cn/article/JtSP2aYluESx55J8yr7e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 09:51
+
+#### [AWS Continuum 将为企业提供智能体代码安全解决方案](https://www.infoq.cn/article/efrkvfZ2bcbztDfThycu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 09:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！](https://sspai.com/post/112679)
+**发布时间**: 2026-07-24 11:00
+
+#### [派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等](https://sspai.com/post/112677)
+**发布时间**: 2026-07-24 08:33
 
 ---
 

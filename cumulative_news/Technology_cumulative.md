@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 07:28
+**最后更新时间**: 2026-07-24 10:10
+
+---
+
+## 🆕 最新更新 (2026-07-24 10:10)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GKE 安全蓝图加入云厂商 AI 安全框架阵营](https://www.infoq.cn/article/DXKamMhJKJeV7CkeExzo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 18:00
+
+#### [深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？](https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 17:30
+
+#### [从“卷模型”到“算总账”：AI 产业竞争开始拼什么 | 请回答 WAIC 2026](https://www.infoq.cn/article/SyHXRLS6AR3vI6VtVjDo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 16:45
+
+#### [开发者的 AI 助手升级了：Android Studio 支持多个 Agent 同时处理任务](https://www.infoq.cn/article/j227Ip5mPV4SQFuFX63C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 16:15
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Anthropic的中国门徒](https://www.tmtpost.com/8078358.html)
+**发布时间**: 2026-07-24 17:43
+
+#### [65亿美金抢55人、日薪50万！全球机器人抢人，彻底失控](https://www.tmtpost.com/8078129.html)
+**发布时间**: 2026-07-24 17:28
+
+#### [特斯拉Robotaxi正式上路：一场烧钱无度的“史诗级豪赌”](https://www.tmtpost.com/8078471.html)
+**发布时间**: 2026-07-24 17:28
+
+#### [跌掉2000亿后，中国半导体设备之王还能不能打？](https://www.tmtpost.com/8078103.html)
+**发布时间**: 2026-07-24 17:18
+
+#### [7-Eleven杀入新鲜零食赛道](https://www.tmtpost.com/8078179.html)
+**发布时间**: 2026-07-24 17:18
+
+#### [WAIC挤满“卖铲人”，但算力服务终究是少数人的游戏](https://www.tmtpost.com/8078009.html)
+**发布时间**: 2026-07-24 16:55
+
+#### [海外收入超90%，万兴科技为何要回国"卷"？｜WAIC2026](https://www.tmtpost.com/8078438.html)
+**发布时间**: 2026-07-24 16:35
+
+#### [旭阳新材IPO三问：分红疑云、资金去向、逆常识增长](https://www.tmtpost.com/8077989.html)
+**发布时间**: 2026-07-24 16:15
+
+#### [How Vivo’s Forced India Joint Venture Is Rewriting Chinese Tech Globalization](https://www.tmtpost.com/8078454.html)
+**发布时间**: 2026-07-24 16:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
+**发布时间**: 2026-07-24 15:00
 
 ---
 

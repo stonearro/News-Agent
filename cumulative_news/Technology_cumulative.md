@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 10:10
+**最后更新时间**: 2026-07-25 07:12
+
+---
+
+## 🆕 最新更新 (2026-07-25 07:12)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国货美妆何以高端⑥：国货美妆如何向资本讲好“高端故事”？](https://www.tmtpost.com/8079072.html)
+**发布时间**: 2026-07-25 14:53
+
+#### [做了10年民宿，忍不住“下山”做酒店......](https://www.tmtpost.com/8079254.html)
+**发布时间**: 2026-07-25 14:49
+
+#### [金风科技成风电界“黄埔军校”？原副总裁李飞履新容知日新，内卷之下行业人才正在分流](https://www.tmtpost.com/8079213.html)
+**发布时间**: 2026-07-25 14:49
+
+#### [《蜘蛛侠：崭新之日》有望助漫威重回巅峰](https://www.tmtpost.com/8078949.html)
+**发布时间**: 2026-07-25 14:48
+
+#### [Opus 5 反超 Fable 5，Anthropic 的定价牌局被打乱了？](https://www.tmtpost.com/8078939.html)
+**发布时间**: 2026-07-25 12:15
+
+#### [特斯拉重构资产负债表](https://www.tmtpost.com/8078954.html)
+**发布时间**: 2026-07-25 10:48
+
+#### [江淮汽车，成了高端但“埋”了牛散](https://www.tmtpost.com/8078952.html)
+**发布时间**: 2026-07-25 10:40
+
+#### [耐克“断网”重创经销商，超80亿渠道生意面临洗牌](https://www.tmtpost.com/8078920.html)
+**发布时间**: 2026-07-25 10:34
+
+#### [Seesaw、Manner、M Stand为何结出了不同的果实？](https://www.tmtpost.com/8078008.html)
+**发布时间**: 2026-07-25 10:27
+
+#### [中行老将谭炯履新，2万亿中国人保将迎新掌舵人](https://www.tmtpost.com/8078872.html)
+**发布时间**: 2026-07-25 10:17
+
+#### [Agent手机的三条路线与一场权力游戏](https://www.tmtpost.com/8078891.html)
+**发布时间**: 2026-07-25 10:13
+
+#### [Anthropic发布Opus 5，性能直逼Fable 5，价格却只有一半？！](https://www.tmtpost.com/8078944.html)
+**发布时间**: 2026-07-25 10:13
+
+#### [财富暴涨370多亿，苏州富豪却遭“海外小偷”光顾](https://www.tmtpost.com/8078846.html)
+**发布时间**: 2026-07-25 10:08
+
+#### [买不起大疆、影石的年轻人，排队租运动相机](https://www.tmtpost.com/8078914.html)
+**发布时间**: 2026-07-25 10:04
+
+#### [黄仁勋第一次发推，就联合微软、Meta等企业给中国开源模型说好话](https://www.tmtpost.com/8078942.html)
+**发布时间**: 2026-07-25 09:57
+
+#### [一年或少入账56亿，耐克“收权”，滔搏“遭殃”](https://www.tmtpost.com/8078835.html)
+**发布时间**: 2026-07-25 09:57
+
+#### [百川智能联创全员出走，王小川孤军奋战](https://www.tmtpost.com/8078868.html)
+**发布时间**: 2026-07-25 09:52
+
+#### [《八仙！》爆了，国产动画的“敢为”比完美更珍贵](https://www.tmtpost.com/8078786.html)
+**发布时间**: 2026-07-25 09:47
+
+#### [越疆科技过会了，但股权争议还没完](https://www.tmtpost.com/8078751.html)
+**发布时间**: 2026-07-25 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
+**发布时间**: 2026-07-25 11:09
+
+#### [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
+**发布时间**: 2026-07-24 17:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳](https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-25 10:00
+
+#### [GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍](https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-25 09:00
+
+#### [圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？](https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-25 08:00
+
+#### [“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持](https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 19:30
 
 ---
 

@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-25 23:55
+**最后更新时间**: 2026-07-26 07:39
+
+---
+
+## 🆕 最新更新 (2026-07-26 07:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全世界AI能力下降一万倍，只有我还是普通人](https://www.tmtpost.com/8079609.html)
+**发布时间**: 2026-07-26 15:35
+
+#### [Codex也断了:OpenAI三线齐崩，Agent时代的宕机账单怎么算](https://www.tmtpost.com/8079615.html)
+**发布时间**: 2026-07-26 15:35
+
+#### [携程51亿罚单之外的问题](https://www.tmtpost.com/8079636.html)
+**发布时间**: 2026-07-26 15:35
+
+#### [9500亿是纸面繁荣：SK海力士签的不是大单，是卖身契](https://www.tmtpost.com/8079637.html)
+**发布时间**: 2026-07-26 15:35
+
+#### [AI博主不能说的秘密："十分钟"炫技背后，是你买不起的Token账单](https://www.tmtpost.com/8079664.html)
+**发布时间**: 2026-07-26 15:34
+
+#### [“坑”了广汽，中创新航为何知错改错不认错？](https://www.tmtpost.com/8079701.html)
+**发布时间**: 2026-07-26 15:34
+
+#### [成都、合肥、青岛等40家国资密集投资氢能！一个40%企业面临消失的赛道，正在被重新定价](https://www.tmtpost.com/8079702.html)
+**发布时间**: 2026-07-26 15:34
+
+#### [Kimi夜店庆功背后：AI狂飙的逻辑，和我们正在失去的“慢”](https://www.tmtpost.com/8079711.html)
+**发布时间**: 2026-07-26 15:34
+
+#### [AI坑惨手机圈：大盘崩了，高通们也得靠涨价续命](https://www.tmtpost.com/8079723.html)
+**发布时间**: 2026-07-26 13:00
+
+#### [均价赶超BBA的极氪，陷入“海外锁车”风波](https://www.tmtpost.com/8079582.html)
+**发布时间**: 2026-07-26 09:31
+
+#### [Opus 5冲上第一，还需要Fable 5吗？](https://www.tmtpost.com/8079583.html)
+**发布时间**: 2026-07-26 09:31
+
+#### [特斯拉正在变成一家AI公司](https://www.tmtpost.com/8078858.html)
+**发布时间**: 2026-07-26 09:06
+
+#### [光模块的"科技股幻觉"：当芯片厂商开始定义游戏规则](https://www.tmtpost.com/8075155.html)
+**发布时间**: 2026-07-26 09:06
+
+#### [当AI学会“看人下菜碟”](https://www.tmtpost.com/8078572.html)
+**发布时间**: 2026-07-26 09:03
+
+#### [归零，重新出发：一位投资人的认知重构](https://www.tmtpost.com/8079652.html)
+**发布时间**: 2026-07-26 09:00
+
+#### [Edge AI Daily 早报（7月26日）](https://www.tmtpost.com/8079667.html)
+**发布时间**: 2026-07-26 07:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026](https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 15:03
+
+#### [先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026](https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 14:00
+
+#### [从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026](https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 10:00
+
+#### [Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳](https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 10:00
+
+#### [基于 Snowflake 扩展研究数据平台 ｜ Summit 2026](https://www.infoq.cn/video/GpMwjr8xkYwGHXLoDYs0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-25 11:00
+
+#### [最新发布：用 AI 构建面向 AI-Ready 管道的连接能力 ｜ Summit 2026](https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 16:00
 
 ---
 

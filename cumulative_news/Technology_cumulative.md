@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-27 08:25
+**最后更新时间**: 2026-07-27 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-27 23:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】《疾病预防控制“十五五”规划》印发，提出重大传染病防控6项任务；中上协：上半年全市场新增首发上市公司71家，首发募资总额705.74亿元；57个国家和3个国际组织确认参加今年进博会国家展](https://www.tmtpost.com/8081318.html)
+**发布时间**: 2026-07-28 07:20
+
+#### [英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个"掀桌子"的｜首发](https://www.tmtpost.com/8080916.html)
+**发布时间**: 2026-07-27 22:06
+
+#### [长鑫“芯王”加冕，朋友圈赛博贺喜背后](https://www.tmtpost.com/8081355.html)
+**发布时间**: 2026-07-27 22:04
+
+#### [亿田智能算力狂飙之惑：一边收缩变现，一边加码扩产](https://www.tmtpost.com/8081330.html)
+**发布时间**: 2026-07-27 21:53
+
+#### [嘉必优中报预亏过亿、明日起“戴帽”，海外双重冲击重创这家全球第二ARA龙头](https://www.tmtpost.com/8081276.html)
+**发布时间**: 2026-07-27 21:05
+
+#### [93亿拿下t9，李东生补上利润拼图](https://www.tmtpost.com/8080107.html)
+**发布时间**: 2026-07-27 19:20
+
+#### [中国经济十强省，正在“大洗牌”](https://www.tmtpost.com/8080363.html)
+**发布时间**: 2026-07-27 19:20
+
+#### [倒计时一周｜2026第二十届沙利文峰会8月4日上海启幕，共赴全球增长之约](https://www.tmtpost.com/8080942.html)
+**发布时间**: 2026-07-27 19:14
+
+#### [China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble](https://www.tmtpost.com/8081218.html)
+**发布时间**: 2026-07-27 19:12
+
+#### [新A股之王，市值冲高3.6万亿，长鑫到底贵不贵？](https://www.tmtpost.com/8081048.html)
+**发布时间**: 2026-07-27 18:43
+
+#### [注册资本8亿、成立不足3个月就卖，上药系这波操作，到底是“退出”还是“引资”？](https://www.tmtpost.com/8080529.html)
+**发布时间**: 2026-07-27 18:43
+
+#### [奶价3.04元，原奶寒冬终于要过去了？](https://www.tmtpost.com/8080800.html)
+**发布时间**: 2026-07-27 18:43
+
+#### [维谛技术田军：电链与冷链将重构AI算力基础设施](https://www.tmtpost.com/8080820.html)
+**发布时间**: 2026-07-27 18:19
+
+#### [腾讯网易暑假“龙虎斗”，压力究竟给了谁](https://www.tmtpost.com/8081041.html)
+**发布时间**: 2026-07-27 18:08
+
+#### [容大感光再抛5.9亿定增扩产：前序项目仍在路上，海外收入不足2%押注出海](https://www.tmtpost.com/8081021.html)
+**发布时间**: 2026-07-27 18:07
+
+#### [安筱鹏重磅新作 | 一场关于AI变局的深度追问](https://www.tmtpost.com/8080991.html)
+**发布时间**: 2026-07-27 17:53
+
+#### [重估AI](https://www.tmtpost.com/8080655.html)
+**发布时间**: 2026-07-27 17:43
+
+#### [一年赚走中国女人近5亿，曾被抛弃的性感巨头，重回第一](https://www.tmtpost.com/8080690.html)
+**发布时间**: 2026-07-27 17:43
+
+#### [可控核聚变/SMR一级市场投资解析](https://www.tmtpost.com/8074899.html)
+**发布时间**: 2026-07-27 17:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？](https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 18:03
+
+#### [企业架构师常犯的 5 个语义建模误区以及破解方法 ｜ 技术实践](https://www.infoq.cn/article/BjNkMC0utTMMzATPzkdC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 18:00
+
+#### [GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本](https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 17:14
+
+#### [从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳](https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 17:05
+
+#### [快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践](https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 16:55
+
+#### [从Token到任务：Agentic AI 如何改变基础设施的关注焦点](https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 16:51
+
+#### [圆桌访谈：为了钱包考虑，你必须关注的 Agent 基础设施](https://www.infoq.cn/video/ZTqtrHdYa75f8FhvVOIR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 16:27
+
+#### [跨境电商也“招” AI 员工了？模力工场×InfoQ×数势科技，共办龙岗跨境电商 AI 闭门峰会](https://www.infoq.cn/article/gkXGgedf2YZCM6mhxCv8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 16:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
+**发布时间**: 2026-07-27 17:34
 
 ---
 

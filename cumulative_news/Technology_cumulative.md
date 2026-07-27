@@ -1,7 +1,118 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-26 23:56
+**最后更新时间**: 2026-07-27 08:25
+
+---
+
+## 🆕 最新更新 (2026-07-27 08:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [跨境电商也“招”AI员工了？模力工场×InfoQ×数势科技，共办龙岗跨境电商AI闭门峰会](https://www.infoq.cn/article/gkXGgedf2YZCM6mhxCv8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 16:13
+
+#### [RSPack 2.0：性能提升、更精简的依赖项和 ESM 核心](https://www.infoq.cn/article/Pl99PqDrDO6abAIlm1jp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 15:56
+
+#### [亚马逊云科技推出 CloudFormation 快速模式，加快基础设施部署速度](https://www.infoq.cn/article/Fk5KPrsXATeIHJj8MVBW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 14:25
+
+#### [曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报](https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 11:46
+
+#### [昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动](https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 11:43
+
+#### [支持版本控制的 SQL 数据库 Dolt 发布 2.0 版，新增自动存储清理和压缩功能](https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 11:08
+
+#### [Snowflake CoCo 中的 Loop Engineering ｜ 技术实践](https://www.infoq.cn/article/APthBQXkUJjM3BkaXZCy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 10:00
+
+#### [全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？](https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 09:57
+
+#### [御三家都在押注的 Loops，代码怎么还是垃圾？](https://www.infoq.cn/article/JA9Xf4ldl8TkW9kYxv5x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 09:44
+
+#### [Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网](https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 09:34
+
+#### [亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台](https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-27 09:24
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [The Rise and Fall of Fang Xinghai: A Journalist's Recollections](https://www.tmtpost.com/8080849.html)
+**发布时间**: 2026-07-27 15:44
+
+#### [道通科技开放日验证空地一体巡检能力，具身智能商业化提速](https://www.tmtpost.com/8080534.html)
+**发布时间**: 2026-07-27 15:29
+
+#### [5元水饺、4元面馆，一批低价餐饮爆火，真能赚到钱吗？](https://www.tmtpost.com/8080747.html)
+**发布时间**: 2026-07-27 15:19
+
+#### [JD.com’s High-Stakes AI Pivot: Transforming a Heavy Logistics Network into Physical Intelligence](https://www.tmtpost.com/8080792.html)
+**发布时间**: 2026-07-27 15:05
+
+#### [被地摊截流生意，一批餐饮店开始“摆摊自救”](https://www.tmtpost.com/8080746.html)
+**发布时间**: 2026-07-27 14:46
+
+#### [茅台、伊利抢着入局的赛道，他在20多年前便押上全部身家](https://www.tmtpost.com/8080735.html)
+**发布时间**: 2026-07-27 14:41
+
+#### [如何破解大模型的“金鱼记忆”困境](https://www.tmtpost.com/8080178.html)
+**发布时间**: 2026-07-27 14:35
+
+#### [2026Q2家庭环境清洁、衣物清洁市场回顾](https://www.tmtpost.com/8080388.html)
+**发布时间**: 2026-07-27 14:17
+
+#### [当大品牌收回授权，经销商还能怎么活？](https://www.tmtpost.com/8080649.html)
+**发布时间**: 2026-07-27 13:54
+
+#### [N长鑫上市，医药股的最后一个“靴子”终于落地](https://www.tmtpost.com/8080586.html)
+**发布时间**: 2026-07-27 13:54
+
+#### [刮痧变拨筋，养生界“快招陷阱”来了？](https://www.tmtpost.com/8080380.html)
+**发布时间**: 2026-07-27 13:49
+
+#### [全球50强独占20席，中国酒店如何变得更值钱？](https://www.tmtpost.com/8080524.html)
+**发布时间**: 2026-07-27 13:48
+
+#### [GPT-6测试时“觉醒”，我们找到了测试系统的第一作者](https://www.tmtpost.com/8080536.html)
+**发布时间**: 2026-07-27 13:48
+
+#### [康哲药业：从卖药到造药，一个中国CSO的三十年](https://www.tmtpost.com/8080398.html)
+**发布时间**: 2026-07-27 13:37
+
+#### [工业AI走向自主执行，工程师该往哪走？｜钛度图闻](https://www.tmtpost.com/8079318.html)
+**发布时间**: 2026-07-27 12:57
+
+#### [下载增238%，会话增679% ，海外短剧用户有多沉迷：日均看37分钟](https://www.tmtpost.com/8078095.html)
+**发布时间**: 2026-07-27 11:37
+
+#### [智元、宇树扎堆开店，抢的是机器人市场的新入口](https://www.tmtpost.com/8080382.html)
+**发布时间**: 2026-07-27 11:37
+
+#### [县城人口持续流出，为何还要争抢大学落地？](https://www.tmtpost.com/8080355.html)
+**发布时间**: 2026-07-27 11:37
+
+#### [离开游戏行业的人都去哪了？](https://www.tmtpost.com/8080381.html)
+**发布时间**: 2026-07-27 11:37
+
+#### [大量使用AI，但没人聊AI，《功夫女足》做对了什么？](https://www.tmtpost.com/8080375.html)
+**发布时间**: 2026-07-27 11:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」](https://sspai.com/post/101668)
+**发布时间**: 2026-07-27 15:00
+
+#### [角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时](https://sspai.com/post/112705)
+**发布时间**: 2026-07-27 10:47
+
+#### [派早报：携程因滥用市场支配地位被罚 51.79 亿元](https://sspai.com/post/112769)
+**发布时间**: 2026-07-27 07:00
 
 ---
 

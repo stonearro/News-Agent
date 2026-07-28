@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-28 07:36
+**最后更新时间**: 2026-07-28 10:29
+
+---
+
+## 🆕 最新更新 (2026-07-28 10:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI人事变阵：阿里收权，腾讯整军，字节留人](https://www.tmtpost.com/8081194.html)
+**发布时间**: 2026-07-28 18:15
+
+#### [Kimi K3 开源：2.8 万亿参数的门槛与红利](https://www.tmtpost.com/8081260.html)
+**发布时间**: 2026-07-28 18:15
+
+#### [Claude给闭源军团再扣一分](https://www.tmtpost.com/8082306.html)
+**发布时间**: 2026-07-28 18:15
+
+#### [The Calculus of Unearned Value](https://www.tmtpost.com/8082377.html)
+**发布时间**: 2026-07-28 18:10
+
+#### [希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值](https://www.tmtpost.com/8081960.html)
+**发布时间**: 2026-07-28 17:32
+
+#### [7-ELEVEn便利“没忍住”](https://www.tmtpost.com/8081257.html)
+**发布时间**: 2026-07-28 17:29
+
+#### [LV的“信仰充值”，在中国彻底失效了](https://www.tmtpost.com/8080983.html)
+**发布时间**: 2026-07-28 17:04
+
+#### [撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星](https://www.tmtpost.com/8082130.html)
+**发布时间**: 2026-07-28 17:01
+
+#### [腾讯减持、电商拆分、人事集权，快手在下一盘什么棋？](https://www.tmtpost.com/8081244.html)
+**发布时间**: 2026-07-28 16:50
+
+#### [Sole Survivor: Inside Wang Xiaochuan’s Lone Gamble on Healthcare AI](https://www.tmtpost.com/8082100.html)
+**发布时间**: 2026-07-28 15:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [底座焕新：一次跑通复杂迁移、数据工程与智能开发 ｜Snowflake Discover AI 技术实战周](https://www.infoq.cn/video/6O7gpdxB3UHJigcLAb37?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 17:26
+
+#### [Hardwood：承诺无强制依赖的高速JVM Apache Parquet处理](https://www.infoq.cn/article/3xRJkEU4NiR1QgMIlsh8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包](https://sspai.com/post/112820)
+**发布时间**: 2026-07-28 17:00
+
+#### [能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码](https://sspai.com/post/112822)
+**发布时间**: 2026-07-28 16:40
+
+#### [从《奥德赛》观影聊聊 IMAX 影院的分类](https://sspai.com/post/112380)
+**发布时间**: 2026-07-28 15:00
 
 ---
 

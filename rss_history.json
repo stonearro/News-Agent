@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "2a8fdc62a97cbbfe35c46c8c287d57d8e7489b4adb50a68f6ea0e803e344a4f4": {
-        "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
-        "link": "https://www.qbitai.com/2026/06/439464.html",
-        "published_date": "Sun, 28 Jun 2026 06:04:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.717076"
-      },
       "f9a8a4402a877d2c559983fb274cbefe1a44414e0ed16785a91e41e5afbc1991": {
         "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
         "link": "https://www.qbitai.com/2026/06/439603.html",
@@ -1518,147 +1512,15 @@
         "link": "https://www.qbitai.com/2026/07/461517.html",
         "published_date": "Tue, 28 Jul 2026 01:21:00 GMT",
         "first_seen": "2026-07-28T07:36:34.669606"
+      },
+      "f602c175d90d4d24c2cad502679d9b0334cc4f71691ca31bda98fd80643ade9d": {
+        "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+        "link": "https://www.qbitai.com/2026/07/461949.html",
+        "published_date": "Tue, 28 Jul 2026 08:17:00 GMT",
+        "first_seen": "2026-07-28T10:29:31.336310"
       }
     },
     "Technology": {
-      "4dfeb80a88c7f058a3149d99d87cbed7bb079afb0dd4013db6a6aa6b6d3bf830": {
-        "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
-        "link": "https://sspai.com/post/110935",
-        "published_date": "Sun, 28 Jun 2026 15:00:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564702"
-      },
-      "59d6f0f59500f63fc9b24b3d49b6e4294ac2a268cdbfc03d1838e9ec37287fd4": {
-        "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
-        "link": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564618"
-      },
-      "5dae1825328319391a399dd98b427af92241825f00e4787fbb72ac621e0b9066": {
-        "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
-        "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Jun 2026 11:06:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564650"
-      },
-      "73f24aad22a1360bdda1b40ccd6f18efc465a6745742f26d13e24f3610c5f1a5": {
-        "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
-        "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564711"
-      },
-      "3cce8ae189e02f62dc7e4e7bfa67a3097ae8928ceeeca8e84bea5c7e4ffaf232": {
-        "title": "中国硬件科技股，正站在反弹的十字路口",
-        "link": "https://www.tmtpost.com/8042126.html",
-        "published_date": "Sun, 28 Jun 2026 12:56:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564663"
-      },
-      "11f66fd358937c8b550abac8321b8c85cf447d237866458c062f6dc36bcd3e12": {
-        "title": "Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”",
-        "link": "https://www.tmtpost.com/8044056.html",
-        "published_date": "Sun, 28 Jun 2026 10:23:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564674"
-      },
-      "55273505e2ba48c6017553931899b388da748510a096ef09f383bcbbb0eb3f80": {
-        "title": "【济安评级】养老金产品管理人评级披露（2026年5月）",
-        "link": "https://www.tmtpost.com/8044271.html",
-        "published_date": "Sun, 28 Jun 2026 10:13:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564683"
-      },
-      "5f3496691f2ff3addd67c73c19c93c703246933878e70483f76d0a9fcca32cb2": {
-        "title": "市值蒸发超1200亿，“古法黄金第一股”的高端梦，碎了",
-        "link": "https://www.tmtpost.com/8044193.html",
-        "published_date": "Sun, 28 Jun 2026 09:57:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564719"
-      },
-      "f36488036fde589b77e4e953427fcb6cc4b5d52224e0038163d1facafb174570": {
-        "title": "全球电商集体向\"退货党\"说不，免费无限退货的时代要结束了",
-        "link": "https://www.tmtpost.com/8044164.html",
-        "published_date": "Sun, 28 Jun 2026 09:57:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564727"
-      },
-      "9d470c303a2f103af56a7834281f70cedb4b303d7ce341f07c31843ae5dc87df": {
-        "title": "【ESG-V评级观察】A股价值体检：从责任治理走向可持续投资价值",
-        "link": "https://www.tmtpost.com/8044242.html",
-        "published_date": "Sun, 28 Jun 2026 09:48:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.233274"
-      },
-      "e1df6476d9feb15ca348c907bc8279c40c5ef47a5d3bf748a0e2589f66b423f5": {
-        "title": "【ESG-V评级观察】A股信任体检：从公益叙事走向利益相关方治理",
-        "link": "https://www.tmtpost.com/8044237.html",
-        "published_date": "Sun, 28 Jun 2026 09:47:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.233804"
-      },
-      "4b4cd70b1e24a1363e70c9883c17e538a19086a3f5dde862ad1ca9cbb83164f0": {
-        "title": "价值判断：涨停板的投资机会和风险提示（6月26日）｜上市公司观察",
-        "link": "https://www.tmtpost.com/8044232.html",
-        "published_date": "Sun, 28 Jun 2026 09:47:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.234424"
-      },
-      "86451a33af44a70b5020f0fc2461d9f4e1812098e196f7adf480478622133f43": {
-        "title": "蜜雪冰城的玩法，口子窖能复制吗？",
-        "link": "https://www.tmtpost.com/8044071.html",
-        "published_date": "Sun, 28 Jun 2026 09:30:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.234807"
-      },
-      "960e779552f6b866e7649c9bb3ca01e3cea6e5f8ab2a935a7319683e02809f98": {
-        "title": "DeepSeek开始造富",
-        "link": "https://www.tmtpost.com/8044065.html",
-        "published_date": "Sun, 28 Jun 2026 09:21:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.235135"
-      },
-      "5967bd52c8c66f7c24e660a461272de643afb40739438e088d341711c2c6abce": {
-        "title": "全网都说暑期会爆单，酒店老板坐不住了",
-        "link": "https://www.tmtpost.com/8044038.html",
-        "published_date": "Sun, 28 Jun 2026 09:14:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.235578"
-      },
-      "7278180d5c8660b835a9217858cde25b870d22a2c30883ecdf8a7efb1fb424c3": {
-        "title": "程序员的下一代，谁来培养？",
-        "link": "https://www.tmtpost.com/8044015.html",
-        "published_date": "Sun, 28 Jun 2026 09:09:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.235997"
-      },
-      "454c179e8682cffb63c7ba9928f2ba5b9a7bae43fd728baab00ff14ac7c118cf": {
-        "title": "白玉兰“神仙打架”的一年：于和伟 杨紫捧杯帝后、《太平年》成最大赢家",
-        "link": "https://www.tmtpost.com/8044045.html",
-        "published_date": "Sun, 28 Jun 2026 08:58:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.236906"
-      },
-      "2891fcddab17fd5c5040731d84d3500d36e2761226e634c350fe1e047dd2419a": {
-        "title": "小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”",
-        "link": "https://www.tmtpost.com/8043954.html",
-        "published_date": "Sun, 28 Jun 2026 08:52:00 GMT",
-        "first_seen": "2026-06-28T08:19:29.564692"
-      },
-      "0fed04c7b9f6f4bfdc49f411147ca04507c6156b3e6745a5efc1e205c2f74e8a": {
-        "title": "MLCC观察报告：食堂里的六张面孔",
-        "link": "https://www.tmtpost.com/8042774.html",
-        "published_date": "Sun, 28 Jun 2026 08:41:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.238280"
-      },
-      "f5fa86af91d52be1964c5691ef555cd624291e7bd8daeccd484a6da628126b93": {
-        "title": "Edge AI Daily 早报（6月28日）",
-        "link": "https://www.tmtpost.com/8044158.html",
-        "published_date": "Sun, 28 Jun 2026 08:34:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.239123"
-      },
-      "ecfc564f0fb126491a260dfd4785c9240522e55285c0d0aac3ba5210ffe0f39a": {
-        "title": "茉莉奶白出海美国风波的启示：合规比扩张更重要",
-        "link": "https://www.tmtpost.com/8042370.html",
-        "published_date": "Sun, 28 Jun 2026 08:33:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.239803"
-      },
-      "a118d5164e40ff3dd2b74298019749e560330a5f90c03a9ee16f204c80063cff": {
-        "title": "两只股票撑起的韩国股市，半年熔断 33 次",
-        "link": "https://www.tmtpost.com/8043991.html",
-        "published_date": "Sun, 28 Jun 2026 08:28:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.240626"
-      },
-      "5d708b7c6e3cf62ba78c4fba40b9a86dc6b322dcc3e51744b183c6c60112efbb": {
-        "title": "急眼的Anthropic炒作蒸馏，背后是叙事权之战",
-        "link": "https://www.tmtpost.com/8043972.html",
-        "published_date": "Sun, 28 Jun 2026 08:22:00 GMT",
-        "first_seen": "2026-06-28T08:19:20.241497"
-      },
       "a6ec80d01ff3618a345da3cc6438a38ecf9520b14c5e804f944f564ff69ea4f1": {
         "title": "【钛晨报】再添重磅里程碑，三条世界级高性能碳纤维生产线集中投产；报道称苹果寻求获准从长鑫存储购买内存芯片；三星电子和SK海力士明日将发布在韩大规模投资计划",
         "link": "https://www.tmtpost.com/8044545.html",
@@ -10256,13 +10118,103 @@
         "link": "https://sspai.com/post/112805",
         "published_date": "Tue, 28 Jul 2026 08:04:00 GMT",
         "first_seen": "2026-07-28T07:36:34.777508"
+      },
+      "7d541bff46b64ac749cb7fbb05364eb88a5489dd073b144d13571eb06147dd19": {
+        "title": "AI人事变阵：阿里收权，腾讯整军，字节留人",
+        "link": "https://www.tmtpost.com/8081194.html",
+        "published_date": "Tue, 28 Jul 2026 18:15:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702080"
+      },
+      "6a151d426474f67d4a59ce47752fcee746979fa0465e25297e190a2d8f13c5dc": {
+        "title": "Kimi K3 开源：2.8 万亿参数的门槛与红利",
+        "link": "https://www.tmtpost.com/8081260.html",
+        "published_date": "Tue, 28 Jul 2026 18:15:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702129"
+      },
+      "285634b1fa56db0410a840529a5ee7fa75bab22b59a04cef96ba4a2add187ef4": {
+        "title": "Claude给闭源军团再扣一分",
+        "link": "https://www.tmtpost.com/8082306.html",
+        "published_date": "Tue, 28 Jul 2026 18:15:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702137"
+      },
+      "9925309e53a4d158590c661533b34161082cd3db9a6fa569a2b2e76bb16d539f": {
+        "title": "The Calculus of Unearned Value",
+        "link": "https://www.tmtpost.com/8082377.html",
+        "published_date": "Tue, 28 Jul 2026 18:10:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702147"
+      },
+      "caab59f1ac115f0501881cd6fcfca8e4333b0905979676889b32d453ecf1d2b4": {
+        "title": "希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值",
+        "link": "https://www.tmtpost.com/8081960.html",
+        "published_date": "Tue, 28 Jul 2026 17:32:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702156"
+      },
+      "2268df5a0d3e2ff08d9f92f4dbe8cb5816e6f603088448204698b0d591d86fe0": {
+        "title": "7-ELEVEn便利“没忍住”",
+        "link": "https://www.tmtpost.com/8081257.html",
+        "published_date": "Tue, 28 Jul 2026 17:29:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702163"
+      },
+      "29d56d4611906526fe041f7549e86709441c539b500c21ec7d1019017a21e2fd": {
+        "title": "LV的“信仰充值”，在中国彻底失效了",
+        "link": "https://www.tmtpost.com/8080983.html",
+        "published_date": "Tue, 28 Jul 2026 17:04:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702171"
+      },
+      "79095e79e1141d576893370f17d84ab40a06ee8b38299601729868e975939063": {
+        "title": "撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星",
+        "link": "https://www.tmtpost.com/8082130.html",
+        "published_date": "Tue, 28 Jul 2026 17:01:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702179"
+      },
+      "f4e7ec1a819ba51e1807835175bd389cd722d2d016373a3ab03acf56004d24cf": {
+        "title": "腾讯减持、电商拆分、人事集权，快手在下一盘什么棋？",
+        "link": "https://www.tmtpost.com/8081244.html",
+        "published_date": "Tue, 28 Jul 2026 16:50:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702186"
+      },
+      "3051ce5cb5f76171c8a02f3850108828516807fe18b02b293c0788f6a3698c78": {
+        "title": "Sole Survivor: Inside Wang Xiaochuan’s Lone Gamble on Healthcare AI",
+        "link": "https://www.tmtpost.com/8082100.html",
+        "published_date": "Tue, 28 Jul 2026 15:24:00 GMT",
+        "first_seen": "2026-07-28T10:29:31.412273"
+      },
+      "075d545df58b8f729a59cb2c9836c0685d2375f17138beb6ef1114963d2363ce": {
+        "title": "底座焕新：一次跑通复杂迁移、数据工程与智能开发 ｜Snowflake Discover AI 技术实战周",
+        "link": "https://www.infoq.cn/video/6O7gpdxB3UHJigcLAb37?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 17:26:00 GMT",
+        "first_seen": "2026-07-28T10:29:40.702054"
+      },
+      "0c4522e1ef5326eda5278c8112105125bed9d68551e2739d23c75019d7abf54b": {
+        "title": "Hardwood：承诺无强制依赖的高速JVM Apache Parquet处理",
+        "link": "https://www.infoq.cn/article/3xRJkEU4NiR1QgMIlsh8?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 17:00:00 GMT",
+        "first_seen": "2026-07-28T10:29:31.413394"
+      },
+      "d7519d407241d13289ffdcefd6b78d412729ffe10176b7583988e77492c0577c": {
+        "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
+        "link": "https://sspai.com/post/112820",
+        "published_date": "Tue, 28 Jul 2026 17:00:00 GMT",
+        "first_seen": "2026-07-28T10:29:31.414066"
+      },
+      "80a58c3c22ae665cea64401510c0dc0a9b99f7de057420dc1647625e162de47e": {
+        "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
+        "link": "https://sspai.com/post/112822",
+        "published_date": "Tue, 28 Jul 2026 16:40:00 GMT",
+        "first_seen": "2026-07-28T10:29:31.414772"
+      },
+      "254c863f60159827d75e7bcdb1336fd83cecf378827efbd160caaf9ce347bc4e": {
+        "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
+        "link": "https://sspai.com/post/112380",
+        "published_date": "Tue, 28 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-28T10:29:31.415386"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-28T07:36:34.694887",
-    "Technology": "2026-07-28T07:36:44.079715",
-    "Finance": "2026-07-28T07:36:44.098586"
+    "AI": "2026-07-28T10:29:31.358235",
+    "Technology": "2026-07-28T10:29:40.705348",
+    "Finance": "2026-07-28T10:29:40.721324"
   }
 }

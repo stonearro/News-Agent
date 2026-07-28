@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-27 23:59
+**最后更新时间**: 2026-07-28 07:36
+
+---
+
+## 🆕 最新更新 (2026-07-28 07:36)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenTelemetry晋升为CNCF的最高成熟度项目](https://www.infoq.cn/article/VtCxtKByjAU54iVaSt6T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 15:28
+
+#### [谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”](https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 14:00
+
+#### [英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流](https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 11:22
+
+#### [甲骨文在未公开通知的情况下悄然将免费层Ampere A1计算配额减半](https://www.infoq.cn/article/0YV6CYGw8sskGUbEDVIa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 11:22
+
+#### [1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考](https://www.infoq.cn/video/Cpw9ye57OyQNHSKpem7T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 10:28
+
+#### [从超级顾问到 Agent 蜂群：AI Native 人才服务组织的共生进化｜AICon深圳](https://www.infoq.cn/article/2YUiVa3OsKab7LQ36LS9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 10:00
+
+#### [多区域架构中的权衡：延迟与成本](https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-28 09:24
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从家清到个护，切入出行赛道：蓝月亮的效率仗撬动经营拐点](https://www.tmtpost.com/8082027.html)
+**发布时间**: 2026-07-28 15:19
+
+#### [地平线会赚钱，Momenta会上市？](https://www.tmtpost.com/8081894.html)
+**发布时间**: 2026-07-28 15:10
+
+#### [东野圭吾：他以推理见众生、写人间](https://www.tmtpost.com/8081138.html)
+**发布时间**: 2026-07-28 14:00
+
+#### [武汉也在憋大招，8000亿的国产海力士要来了](https://www.tmtpost.com/8081171.html)
+**发布时间**: 2026-07-28 14:00
+
+#### [从Token到Action：北京走进物理AI时刻](https://www.tmtpost.com/8081728.html)
+**发布时间**: 2026-07-28 13:08
+
+#### [月耗万亿Token：金山办公为什么不自己训练大模型](https://www.tmtpost.com/8081855.html)
+**发布时间**: 2026-07-28 12:18
+
+#### [宁德时代的第三增长曲线，离不开 AI](https://www.tmtpost.com/8081191.html)
+**发布时间**: 2026-07-28 11:17
+
+#### [百度AI的验牌时刻到了](https://www.tmtpost.com/8081286.html)
+**发布时间**: 2026-07-28 11:17
+
+#### [基因治疗，与18岁少年之死](https://www.tmtpost.com/8081670.html)
+**发布时间**: 2026-07-28 11:17
+
+#### [押注田渊栋估值46.5亿美元的RSI后，嘉加资本郑泓说：硅谷创始人，请别爱上你的技术](https://www.tmtpost.com/8081563.html)
+**发布时间**: 2026-07-28 10:51
+
+#### [AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？](https://www.tmtpost.com/8081053.html)
+**发布时间**: 2026-07-28 10:51
+
+#### [耐克中国需要安踏徐阳](https://www.tmtpost.com/8081054.html)
+**发布时间**: 2026-07-28 10:14
+
+#### [寿司郎，正在成为十年前的海底捞](https://www.tmtpost.com/8081372.html)
+**发布时间**: 2026-07-28 09:56
+
+#### [不用挖山的“矿”，凭什么值8万亿？](https://www.tmtpost.com/8081581.html)
+**发布时间**: 2026-07-28 09:49
+
+#### [低GI食品凶猛，“攻陷”中产购物车](https://www.tmtpost.com/8081531.html)
+**发布时间**: 2026-07-28 09:36
+
+#### [AMD，撬动AI芯片的旧格局？](https://www.tmtpost.com/8076049.html)
+**发布时间**: 2026-07-28 09:30
+
+#### [长鑫赶上的是AI风口，还是DRAM又一个周期顶点？](https://www.tmtpost.com/8081521.html)
+**发布时间**: 2026-07-28 09:07
+
+#### [Edge AI Daily 早报（7月28日）](https://www.tmtpost.com/8081462.html)
+**发布时间**: 2026-07-28 08:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [索尼抛弃实体游戏光盘，谁成为了转型代价？](https://sspai.com/post/112774)
+**发布时间**: 2026-07-28 11:02
+
+#### [派早报：月之暗面开源 Kimi K3 模型等](https://sspai.com/post/112805)
+**发布时间**: 2026-07-28 08:04
 
 ---
 

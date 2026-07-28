@@ -1488,6 +1488,36 @@
         "link": "https://www.qbitai.com/2026/07/461392.html",
         "published_date": "Mon, 27 Jul 2026 08:54:00 GMT",
         "first_seen": "2026-07-27T23:59:07.473139"
+      },
+      "3cd82387517d0e9483f7a98e9fb78cad2b1c3e3ea734d9deb21e6912b983b445": {
+        "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+        "link": "https://www.qbitai.com/2026/07/461911.html",
+        "published_date": "Tue, 28 Jul 2026 05:46:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.668807"
+      },
+      "66869e0a5c749cc18c96dac74b61c2c303a11c1f2daa9cdbc5a7f93bfdc47732": {
+        "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+        "link": "https://www.qbitai.com/2026/07/461827.html",
+        "published_date": "Tue, 28 Jul 2026 05:25:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.668998"
+      },
+      "3dd78702f0a5e13987605c75b22faadfef08f542437d4f17f44ac5f6ac11fe9a": {
+        "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+        "link": "https://www.qbitai.com/2026/07/461650.html",
+        "published_date": "Tue, 28 Jul 2026 04:18:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.669188"
+      },
+      "ba06b992dc2246f57b9298fd0adef9d493202ae02667a0af3cd9b6f150f5f86d": {
+        "title": "智能体走向终端，个人AI时代正在到来",
+        "link": "https://www.qbitai.com/2026/07/461565.html",
+        "published_date": "Tue, 28 Jul 2026 01:38:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.669369"
+      },
+      "b9e80aea917f01cecc9103e7898243033a4f8a9928ce2a1e6be39755bea0c686": {
+        "title": "突发，翁荔离职Thinking Machines",
+        "link": "https://www.qbitai.com/2026/07/461517.html",
+        "published_date": "Tue, 28 Jul 2026 01:21:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.669606"
       }
     },
     "Technology": {
@@ -10064,13 +10094,175 @@
         "link": "https://sspai.com/post/112785",
         "published_date": "Mon, 27 Jul 2026 17:34:00 GMT",
         "first_seen": "2026-07-27T23:59:07.586000"
+      },
+      "19f0c8b84a30c22b3612838b4733029b631999776c6be8797bd6c26e26dd0203": {
+        "title": "OpenTelemetry晋升为CNCF的最高成熟度项目",
+        "link": "https://www.infoq.cn/article/VtCxtKByjAU54iVaSt6T?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 15:28:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076322"
+      },
+      "6e26fa378cd323b2c34b49736680c5fc5bf007fa0115d15a7baa9e1bf7a5a6f6": {
+        "title": "谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”",
+        "link": "https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076336"
+      },
+      "7c406731b7ce8e09bb2ef4faba76c79802e5d49b91090dcb3427afa5d49fd591": {
+        "title": "英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流",
+        "link": "https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 11:22:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076349"
+      },
+      "0ba89d644dd21633b80737d3ad5a0c476be13e30434c81bbb88961091d480efe": {
+        "title": "甲骨文在未公开通知的情况下悄然将免费层Ampere A1计算配额减半",
+        "link": "https://www.infoq.cn/article/0YV6CYGw8sskGUbEDVIa?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 11:22:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076360"
+      },
+      "8b5c612d1c127bc5dae2b38ada72011ea675c2066f561ccef30af4ae6eeae570": {
+        "title": "1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考",
+        "link": "https://www.infoq.cn/video/Cpw9ye57OyQNHSKpem7T?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 10:28:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076372"
+      },
+      "f1df2299111b8ca0503a088dfebb9f1b3ae0c68e2eb48a0081fa225d38ce8494": {
+        "title": "从超级顾问到 Agent 蜂群：AI Native 人才服务组织的共生进化｜AICon深圳",
+        "link": "https://www.infoq.cn/article/2YUiVa3OsKab7LQ36LS9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076385"
+      },
+      "47a3786782f405fd5bfbb34d59922fe1966006c852590e7661090b9275c6196b": {
+        "title": "多区域架构中的权衡：延迟与成本",
+        "link": "https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 09:24:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076395"
+      },
+      "a0da50ee1e5939a34ff27cfc45bd28809a69ef95ff11a97303f247c219b0d167": {
+        "title": "从家清到个护，切入出行赛道：蓝月亮的效率仗撬动经营拐点",
+        "link": "https://www.tmtpost.com/8082027.html",
+        "published_date": "Tue, 28 Jul 2026 15:19:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076407"
+      },
+      "69f415f90a2cb026212575000d1344b38af95c5cd5427b2558afa46906e4d7e5": {
+        "title": "地平线会赚钱，Momenta会上市？",
+        "link": "https://www.tmtpost.com/8081894.html",
+        "published_date": "Tue, 28 Jul 2026 15:10:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.764736"
+      },
+      "817b06683e28be912826897025cd5c31a8f66070f53d9acffefe5ea6c4587def": {
+        "title": "东野圭吾：他以推理见众生、写人间",
+        "link": "https://www.tmtpost.com/8081138.html",
+        "published_date": "Tue, 28 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.765127"
+      },
+      "935fd61017b402db4af6a222aa1a15764b6c58327eeda925cfe03c600d31937e": {
+        "title": "武汉也在憋大招，8000亿的国产海力士要来了",
+        "link": "https://www.tmtpost.com/8081171.html",
+        "published_date": "Tue, 28 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.765538"
+      },
+      "3cc694eb65ed428ac6a690cfcb721a320ce4774d250489f302a6798f3f0f0c62": {
+        "title": "从Token到Action：北京走进物理AI时刻",
+        "link": "https://www.tmtpost.com/8081728.html",
+        "published_date": "Tue, 28 Jul 2026 13:08:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.766140"
+      },
+      "263ce2dc5efe0fb5923a70bf5756e5e769c93a0098263babed81fd51dd55a26a": {
+        "title": "月耗万亿Token：金山办公为什么不自己训练大模型",
+        "link": "https://www.tmtpost.com/8081855.html",
+        "published_date": "Tue, 28 Jul 2026 12:18:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.766666"
+      },
+      "3c17c0fc1f781f96ab06005b8d11b9f7f0c867fbfecf3aac222d7dbf89d46cd1": {
+        "title": "宁德时代的第三增长曲线，离不开 AI",
+        "link": "https://www.tmtpost.com/8081191.html",
+        "published_date": "Tue, 28 Jul 2026 11:17:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.767222"
+      },
+      "2c2bda3ef8a28a04ec2ea1cdc284f3bc357947da6c2fd68d83753611ba7df363": {
+        "title": "百度AI的验牌时刻到了",
+        "link": "https://www.tmtpost.com/8081286.html",
+        "published_date": "Tue, 28 Jul 2026 11:17:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.767647"
+      },
+      "2d5b99eca9655ae72a42a44560234c654738623749a0e0dc24e997a3844724c4": {
+        "title": "基因治疗，与18岁少年之死",
+        "link": "https://www.tmtpost.com/8081670.html",
+        "published_date": "Tue, 28 Jul 2026 11:17:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.768129"
+      },
+      "a3b9ab87fa1d8687a3c5cb95fb04acf62aca6c1b039138ea799e839ff0da9ca3": {
+        "title": "押注田渊栋估值46.5亿美元的RSI后，嘉加资本郑泓说：硅谷创始人，请别爱上你的技术",
+        "link": "https://www.tmtpost.com/8081563.html",
+        "published_date": "Tue, 28 Jul 2026 10:51:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076278"
+      },
+      "ee8f9673bc3e38a3506d37ad81f697369a29b57656e4194012a84a9e1e8fd670": {
+        "title": "AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？",
+        "link": "https://www.tmtpost.com/8081053.html",
+        "published_date": "Tue, 28 Jul 2026 10:51:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.770028"
+      },
+      "8f9a8d49d0327c6fdcc6444b8eb07d20ac38fa87fb32bfa3f740ec7b2c02d13c": {
+        "title": "耐克中国需要安踏徐阳",
+        "link": "https://www.tmtpost.com/8081054.html",
+        "published_date": "Tue, 28 Jul 2026 10:14:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.770417"
+      },
+      "1020ef030cdd175f0bc92a8df85efa4473362aed78392858d654b7f6b4b72b3f": {
+        "title": "寿司郎，正在成为十年前的海底捞",
+        "link": "https://www.tmtpost.com/8081372.html",
+        "published_date": "Tue, 28 Jul 2026 09:56:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.771083"
+      },
+      "b4272696327c8512661bb6f8d11b193043f20ba14e8a17ce56a9bec7312484e0": {
+        "title": "不用挖山的“矿”，凭什么值8万亿？",
+        "link": "https://www.tmtpost.com/8081581.html",
+        "published_date": "Tue, 28 Jul 2026 09:49:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.771796"
+      },
+      "d23e064f42fd5d1645cced27afe97c693f78d3eb19795044d1f6fe59e5739e9b": {
+        "title": "低GI食品凶猛，“攻陷”中产购物车",
+        "link": "https://www.tmtpost.com/8081531.html",
+        "published_date": "Tue, 28 Jul 2026 09:36:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.772618"
+      },
+      "3234a7bcf52b3467ebc45843a556d4e5f262142bd77a6d88dd6b4ced00749a09": {
+        "title": "AMD，撬动AI芯片的旧格局？",
+        "link": "https://www.tmtpost.com/8076049.html",
+        "published_date": "Tue, 28 Jul 2026 09:30:00 GMT",
+        "first_seen": "2026-07-28T07:36:44.076307"
+      },
+      "66235c9ad5e3f3229b1f69a7188c1a1998b02154cd24d80f0b87d780b2968006": {
+        "title": "长鑫赶上的是AI风口，还是DRAM又一个周期顶点？",
+        "link": "https://www.tmtpost.com/8081521.html",
+        "published_date": "Tue, 28 Jul 2026 09:07:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.774362"
+      },
+      "75981d8b78fb1f759c0de81b5778518851cfbaac01c956a9394b2b6c8d98d0e7": {
+        "title": "Edge AI Daily 早报（7月28日）",
+        "link": "https://www.tmtpost.com/8081462.html",
+        "published_date": "Tue, 28 Jul 2026 08:14:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.775480"
+      },
+      "39dcd9a43494600088a332abc78795768b24984e349c611f02e1153b800107b6": {
+        "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
+        "link": "https://sspai.com/post/112774",
+        "published_date": "Tue, 28 Jul 2026 11:02:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.776332"
+      },
+      "30bd67897e206b89ce18d36d3cccf0a2eb4aa533bf9fe81d70907e79be6e9ac0": {
+        "title": "派早报：月之暗面开源 Kimi K3 模型等",
+        "link": "https://sspai.com/post/112805",
+        "published_date": "Tue, 28 Jul 2026 08:04:00 GMT",
+        "first_seen": "2026-07-28T07:36:34.777508"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-27T23:59:07.498102",
-    "Technology": "2026-07-27T23:59:16.980001",
-    "Finance": "2026-07-27T23:59:16.998522"
+    "AI": "2026-07-28T07:36:34.694887",
+    "Technology": "2026-07-28T07:36:44.079715",
+    "Finance": "2026-07-28T07:36:44.098586"
   }
 }

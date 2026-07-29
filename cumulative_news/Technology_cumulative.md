@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-28 23:55
+**最后更新时间**: 2026-07-29 07:40
+
+---
+
+## 🆕 最新更新 (2026-07-29 07:40)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [蓝盾光电“追光”并购：标的股权结构特殊，交易方配偶企业居下游](https://www.tmtpost.com/8083048.html)
+**发布时间**: 2026-07-29 14:25
+
+#### [猎奇智能：实控人股权低买高卖，业绩失速客户集中，资金充裕仍募资补流｜IPO观察](https://www.tmtpost.com/8083506.html)
+**发布时间**: 2026-07-29 14:21
+
+#### [石药创新，走出潜邸](https://www.tmtpost.com/8083385.html)
+**发布时间**: 2026-07-29 13:52
+
+#### [To Anthropic：闭海无边，开源是岸](https://www.tmtpost.com/8083352.html)
+**发布时间**: 2026-07-29 13:46
+
+#### [Kimi K3开放权重：技术报告能否回应Claude蒸馏质疑？](https://www.tmtpost.com/8083426.html)
+**发布时间**: 2026-07-29 13:42
+
+#### [AI游戏陪玩，是个伪需求吗？](https://www.tmtpost.com/8083351.html)
+**发布时间**: 2026-07-29 13:40
+
+#### [古瑞瓦特员工涉嫌在澳洲行贿，涉事经理在机场离境时被捕](https://www.tmtpost.com/8083282.html)
+**发布时间**: 2026-07-29 13:34
+
+#### [猎奇之外，《苏丹的游戏》还有什么？](https://www.tmtpost.com/8083132.html)
+**发布时间**: 2026-07-29 13:10
+
+#### [从赵露思做美妆，看明星品牌如何打破“短命”魔咒？](https://www.tmtpost.com/8083134.html)
+**发布时间**: 2026-07-29 12:31
+
+#### [黄仁勋组了个联盟，AI圈几乎全员到齐，只有这一家唱反调](https://www.tmtpost.com/8083127.html)
+**发布时间**: 2026-07-29 12:24
+
+#### [潮玩做手机链, 怎么就敢从3块包邮卖到129？](https://www.tmtpost.com/8083099.html)
+**发布时间**: 2026-07-29 12:12
+
+#### [从“普惠医疗”到“特色康养”：十五五规划下，民营医馆如何找到出路？](https://www.tmtpost.com/8082830.html)
+**发布时间**: 2026-07-29 12:11
+
+#### [AI浪潮狂奔VS算力供给失衡：走出规模陷阱，中国式算力基建如何突围？](https://www.tmtpost.com/8081552.html)
+**发布时间**: 2026-07-29 12:09
+
+#### [宁德时代的焦虑，和英伟达一模一样](https://www.tmtpost.com/8082769.html)
+**发布时间**: 2026-07-29 12:08
+
+#### [深度实测：阅文做付费漫剧App，图什么？](https://www.tmtpost.com/8083103.html)
+**发布时间**: 2026-07-29 12:07
+
+#### [脑机接口，风再起时](https://www.tmtpost.com/8082842.html)
+**发布时间**: 2026-07-29 12:03
+
+#### [三国游戏，离“黑神话时刻”还有多远？](https://www.tmtpost.com/8083100.html)
+**发布时间**: 2026-07-29 12:01
+
+#### [奢侈品卖不动，得物不得不干起租赁生意](https://www.tmtpost.com/8082874.html)
+**发布时间**: 2026-07-29 12:01
+
+#### [杭州迎来第二家香格里拉，却不再是“豪华酒店”](https://www.tmtpost.com/8082438.html)
+**发布时间**: 2026-07-29 12:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GPT“失控”被索赔1亿美元，微软反手扔王炸：新模型踩翻Mythos、价格砍半，还拉上“苦主”组了联盟](https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 14:00
+
+#### [全球六城联动，世界人工智能开源大赛（GOAI）线下宣讲即将启动](https://www.infoq.cn/article/LmqJqxbZBw9cUFY4Kb9c?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 13:48
+
+#### [最强模型“跳票”，市值一夜蒸发2000亿美元！谷歌连上三款“省油”模型，死磕每一个token的钱](https://www.infoq.cn/article/It5CxXxYowEE0pE7IKJU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 11:58
+
+#### [Netflix 如何打造 GenPage：一个用于构建个性化主页的生成式 AI 模型](https://www.infoq.cn/article/4M2Old24DsjxwT1ZIR3k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 11:53
+
+#### [黄仁勋首推引爆开源论战：Anthropic 员工催 CUDA、Windows 开源，吴恩达反击：你可以不开源，但别阻止别人](https://www.infoq.cn/article/BXOUaAvzZQpGrzMg3lDK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 11:22
+
+#### [“企业搞AI，老板要先用”！周鸿祎发布纳米Work，率先帮1000家小企业AI落地](https://www.infoq.cn/article/Ey2MtxSL1FaYWesfqLGE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 11:01
+
+#### [OpenSandbox：重新思考 Agent 时代的 Runtime](https://www.infoq.cn/article/ZTpvXKGjyzpNUaS9Gp3b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 10:47
+
+#### [模型越来越强之后，Infra 将被 AI 接管？](https://www.infoq.cn/article/wJRP0eEsTxoCxgatkDms?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 10:37
+
+#### [清华教授李升波提出具身智能破局新路线：物理原生智能是实用化答案，世界模型成核心](https://www.infoq.cn/article/ircg5ZZVmWMLFG7ElCd6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 10:30
+
+#### [打造自进化的编码伙伴：Qoder 记忆系统落地实践](https://www.infoq.cn/article/hlWZfVuq2Yub2EL9JYvu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 10:29
+
+#### [从多区域 AWS API 中移除隐藏的往返请求](https://www.infoq.cn/article/ND7YIcuCmbwKZXmtrFia?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 10:07
+
+#### [OPPO 端侧多模态大模型工程化实践｜AICon深圳](https://www.infoq.cn/article/ButxqDt3qZqzILoSZx4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 10:00
+
+#### [普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型](https://www.infoq.cn/article/jZ394NO5PIZIqNVbN4mD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 09:57
+
+#### [「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手](https://www.infoq.cn/video/ToLqXgzTqeDtE6dAGLRs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 09:44
+
+#### [「效率实战」用WorkBuddy搞定90%日常办公场景](https://www.infoq.cn/video/HYeFbBAkNC8v5tOU0XzS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 09:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」](https://sspai.com/post/112715)
+**发布时间**: 2026-07-29 11:00
+
+#### [派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等](https://sspai.com/post/112837)
+**发布时间**: 2026-07-29 08:39
 
 ---
 

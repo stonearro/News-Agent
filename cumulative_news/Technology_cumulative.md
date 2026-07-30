@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-29 23:58
+**最后更新时间**: 2026-07-30 07:32
+
+---
+
+## 🆕 最新更新 (2026-07-30 07:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [巨头AI资本支出增速放缓初现端倪，Meta和微软同日释放新信号](https://www.tmtpost.com/8085091.html)
+**发布时间**: 2026-07-30 14:42
+
+#### [当汽车拥有智能“大脑”，车企开始争夺“身体控制权”](https://www.tmtpost.com/8084927.html)
+**发布时间**: 2026-07-30 14:38
+
+#### [10倍牛股急速腰斩，宏和科技的“时差”泡沫与800倍PE算术陷阱 | 钛媒体研究](https://www.tmtpost.com/8084847.html)
+**发布时间**: 2026-07-30 13:58
+
+#### [飞渡科技：一家空间智能“隐形冠军”的显性时刻](https://www.tmtpost.com/8084554.html)
+**发布时间**: 2026-07-30 11:56
+
+#### [X9在高温中“趴窝”，小鹏的高端路还怎么走？](https://www.tmtpost.com/8084178.html)
+**发布时间**: 2026-07-30 11:24
+
+#### [携程认了51亿罚单，但杀熟的算法还在替你定价](https://www.tmtpost.com/8084483.html)
+**发布时间**: 2026-07-30 11:24
+
+#### [OpenAI为什么造耳机](https://www.tmtpost.com/8082260.html)
+**发布时间**: 2026-07-30 10:53
+
+#### [集采五年后，中国胰岛素“破茧”重生](https://www.tmtpost.com/8084144.html)
+**发布时间**: 2026-07-30 10:43
+
+#### [全硅谷拼了，只求保住中国大模型的使用权](https://www.tmtpost.com/8084420.html)
+**发布时间**: 2026-07-30 10:33
+
+#### [错过500亿遗憾离场，3万亿“共富”，长鑫上市背后的一些细节](https://www.tmtpost.com/8083998.html)
+**发布时间**: 2026-07-30 10:33
+
+#### [兆易创新跌倒，长鑫科技吃饱](https://www.tmtpost.com/8084279.html)
+**发布时间**: 2026-07-30 10:33
+
+#### [奥精医疗继承之战未了局：失去实控人，“董事会高度团结” |深度](https://www.tmtpost.com/8084555.html)
+**发布时间**: 2026-07-30 09:27
+
+#### [基金市场概况与资产配置观点（07.20—07.26）](https://www.tmtpost.com/8084655.html)
+**发布时间**: 2026-07-30 09:16
+
+#### [国产大模型，贵到用不起？](https://www.tmtpost.com/8084364.html)
+**发布时间**: 2026-07-30 09:13
+
+#### [独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化](https://www.tmtpost.com/8084310.html)
+**发布时间**: 2026-07-30 09:13
+
+#### [A股运营效率百强榜：谁能真正把资产转起来？](https://www.tmtpost.com/8084617.html)
+**发布时间**: 2026-07-30 09:00
+
+#### [上市公司TOP5济安评估（7月20日至7月26日）｜上市公司观察](https://www.tmtpost.com/8084609.html)
+**发布时间**: 2026-07-30 09:00
+
+#### [价值判断：跌停板的投资机会和风险提示（7月28日）｜上市公司观察](https://www.tmtpost.com/8084585.html)
+**发布时间**: 2026-07-30 08:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Agent 不是唯一答案，Expedia 用确定性工作流打造 AI 运维平台](https://www.infoq.cn/article/msL3K1DAsj3XIwLmd4tN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 14:00
+
+#### [用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构](https://www.infoq.cn/article/v9Vmgcy4RZvUIcxPEP77?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 10:51
+
+#### [首个突破90%成功率的桌面操作智能体！从堆模型到拼工程，实在Agent登顶OSWorld双冠](https://www.infoq.cn/article/4hUcQzeCeKm0wqkc4Zdc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 10:33
+
+#### [情报虾：跨平台情报信息全掌握！用skills一键扫荡小红书+微博+B站](https://www.infoq.cn/video/v1VMBH1RxmXyHvD6vo2d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 10:01
+
+#### [办公虾：秒级部署！用skills联动办公软件，效率翻倍](https://www.infoq.cn/video/s2ZOVJgO0ytfzxIAK7DB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 10:01
+
+#### [深度对话：AI 耳机下半场：从录音工具到办公 Agent 入口](https://www.infoq.cn/video/V6jFOIUOQtmruUil4WIA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 10:00
+
+#### [轻量化异构双臂 x VLA/世界模型：家庭服务具身机器人的落地实践｜AICon深圳](https://www.infoq.cn/article/SZaGmZI0g7INLtxalmvi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 10:00
+
+#### [GitLab 19.2 借助 AI 代理处理安全待办事项](https://www.infoq.cn/article/BSPHIPBaSTkEZT9eqgzL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
+**发布时间**: 2026-07-30 11:01
+
+#### [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
+**发布时间**: 2026-07-30 08:32
 
 ---
 

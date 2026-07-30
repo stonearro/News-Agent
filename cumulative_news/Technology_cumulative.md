@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-30 07:32
+**最后更新时间**: 2026-07-30 10:18
+
+---
+
+## 🆕 最新更新 (2026-07-30 10:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从个人记忆到团队资产：TencentDB Agent Memory 团队记忆版本解析 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/1s7xwm0Y6GaN8ff5rVyO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:53
+
+#### [1v1 对话：具身行业的“取巧”路，何时结束？](https://www.infoq.cn/video/Fb2cph8EEHQH3mGhkCCF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:33
+
+#### [告别 LEB128 的规范性陷阱，Bijou64 用结构设计解决安全问题](https://www.infoq.cn/article/bJwPR37hbb5stH238hyS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:19
+
+#### [从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”](https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:12
+
+#### [你真的驾驭好 AI Coding 了吗](https://www.infoq.cn/video/8FaZW1Rx2ffsrru6QYdw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 16:37
+
+#### [智能落地：把数据智能转化为业务成果 ｜Snowflake Discover AI 技术实战周](https://www.infoq.cn/video/8T9HbaCS6bVcwFZI69ug?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 16:05
+
+#### [合规不是枷锁：平台团队如何让开发者主动拥抱治理](https://www.infoq.cn/article/ZvMZl92BBuD4dDNDaJbW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 15:44
+
+#### [深度访谈｜第二次权力转移：当Agent拿走数据库的行动权](https://www.infoq.cn/article/B2GjIEBr0c1L0amoKmNf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 15:41
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [康宁喊"10倍光纤"，股价却暴跌18%——账算错了](https://www.tmtpost.com/8084880.html)
+**发布时间**: 2026-07-30 17:06
+
+#### [SK海力士崩了，苹果却冲上5万亿美元，AI投资逻辑变了？](https://www.tmtpost.com/8084827.html)
+**发布时间**: 2026-07-30 17:04
+
+#### [ADC的矿源耗竭了吗？](https://www.tmtpost.com/8084857.html)
+**发布时间**: 2026-07-30 17:04
+
+#### [中国销量下滑近三成，大众靠欧洲和降本守住1581亿欧元收入](https://www.tmtpost.com/8085277.html)
+**发布时间**: 2026-07-30 16:56
+
+#### [朴朴接入淘宝闪购之各取所需](https://www.tmtpost.com/8084185.html)
+**发布时间**: 2026-07-30 16:11
+
+#### [中国车企横扫欧洲，但被困在“电价枷锁”中](https://www.tmtpost.com/8084290.html)
+**发布时间**: 2026-07-30 16:11
+
+#### [皇家菲仕兰，陷进“铅超标罗生门”？](https://www.tmtpost.com/8084370.html)
+**发布时间**: 2026-07-30 16:11
+
+#### [撕掉“百吨级”标签，商业火箭发动机还剩什么？](https://www.tmtpost.com/8084556.html)
+**发布时间**: 2026-07-30 16:11
+
+#### [这家中国公司与国际工业巨头，要打通工业仿真与具身仿真](https://www.tmtpost.com/8085233.html)
+**发布时间**: 2026-07-30 16:02
+
+#### [How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence](https://www.tmtpost.com/8085252.html)
+**发布时间**: 2026-07-30 16:02
+
+#### [中国机器人，提前经历“大疆时刻”](https://www.tmtpost.com/8084201.html)
+**发布时间**: 2026-07-30 15:40
+
+#### [综合医药巨头拟以56.56亿元现金收购利尔化学23.5%股份；AI 服务商8.6亿元收购央企司库管理IT 企业；【并购一线】](https://www.tmtpost.com/8084890.html)
+**发布时间**: 2026-07-30 10:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
+**发布时间**: 2026-07-30 14:53
 
 ---
 

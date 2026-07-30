@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Jul 2026 10:16:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2026 10:18:28 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 23:56:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:58:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Code之父：Harness保质期只有半年，解开缰绳吧</title>
-      <link>https://www.qbitai.com/2026/07/463433.html</link>
-      <description>&lt;![CDATA[Claude Code之父：Harness保质期只有半年，解开缰绳吧]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463433.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>终端市场的下一个增长点，高通押在了“个人AI”上</title>
-      <link>https://www.qbitai.com/2026/07/463204.html</link>
-      <description>&lt;![CDATA[终端市场的下一个增长点，高通押在了“个人AI”上]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463204.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现</title>
-      <link>https://www.qbitai.com/2026/07/463297.html</link>
-      <description>&lt;![CDATA[GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 07:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463297.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>李飞飞的世界模型，终于开始训练机器人了</title>
-      <link>https://www.qbitai.com/2026/07/463217.html</link>
-      <description>&lt;![CDATA[李飞飞的世界模型，终于开始训练机器人了]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 07:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463217.html</guid>
+      <title>Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence</title>
+      <link>https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/</link>
+      <description>&lt;![CDATA[Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 20:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/</guid>
       <category>AI</category>
     </item>
   </channel>

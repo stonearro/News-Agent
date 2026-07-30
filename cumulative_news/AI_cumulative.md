@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-30 10:16
+**最后更新时间**: 2026-07-30 23:56
+
+---
+
+## 🆕 最新更新 (2026-07-30 23:56)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/)
+**发布时间**: 2026-07-30 20:36
 
 ---
 

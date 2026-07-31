@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 07:47
+**最后更新时间**: 2026-07-31 10:32
+
+---
+
+## 🆕 最新更新 (2026-07-31 10:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [民宿老板，快被这个暑期熬垮了？](https://www.tmtpost.com/8086913.html)
+**发布时间**: 2026-07-31 18:25
+
+#### [字节重构飞书，释放了什么信号？](https://www.tmtpost.com/8087110.html)
+**发布时间**: 2026-07-31 18:25
+
+#### [新能源车还有哪些反人类设计要“改邪归正”？](https://www.tmtpost.com/8087185.html)
+**发布时间**: 2026-07-31 18:21
+
+#### [国产电纸书涨成理财产品，年轻人不想接盘了](https://www.tmtpost.com/8087165.html)
+**发布时间**: 2026-07-31 18:21
+
+#### [门禁堵人，欠费曝光：数字化成了物业“跑路”元凶？](https://www.tmtpost.com/8087171.html)
+**发布时间**: 2026-07-31 18:15
+
+#### [软壳鼻祖猛犸象可能也要越来越贵了](https://www.tmtpost.com/8087191.html)
+**发布时间**: 2026-07-31 18:15
+
+#### [AI明星粉丝快40万了，真人明星要交出饭碗吗？](https://www.tmtpost.com/8087189.html)
+**发布时间**: 2026-07-31 18:15
+
+#### [CPE源峰全资收购猛犸象；慕思牵头成立数字人体与智慧睡眠创新联合体；阿迪达斯Q2大中华区营收同增15%；得物App上线租赁服务｜消研所周报](https://www.tmtpost.com/8086946.html)
+**发布时间**: 2026-07-31 18:14
+
+#### [家居巨头们的“血色黄昏”](https://www.tmtpost.com/8087199.html)
+**发布时间**: 2026-07-31 18:05
+
+#### [苏州，最被低估的城市，AI竞赛里的隐形冠军](https://www.tmtpost.com/8087225.html)
+**发布时间**: 2026-07-31 18:05
+
+#### [Claude封号后，她们开始抢救爱情](https://www.tmtpost.com/8087219.html)
+**发布时间**: 2026-07-31 18:05
+
+#### [飞书走出字节核心圈：一场酝酿了十个月的收编](https://www.tmtpost.com/8086823.html)
+**发布时间**: 2026-07-31 17:17
+
+#### [黑龙江关氏姐妹，又对葵花药业大动](https://www.tmtpost.com/8087047.html)
+**发布时间**: 2026-07-31 17:17
+
+#### [Q2 财报净亏 3.59 亿：Coinbase 大象转身能走多远？](https://www.tmtpost.com/8086906.html)
+**发布时间**: 2026-07-31 17:17
+
+#### [排队1小时、日销数十万，“丑萌”女孩成商场“爆单王”](https://www.tmtpost.com/8087112.html)
+**发布时间**: 2026-07-31 17:15
+
+#### [罗永浩“开炮”后：电视厂商沉默，平台借势营销](https://www.tmtpost.com/8087010.html)
+**发布时间**: 2026-07-31 17:13
+
+#### [胖东来，治不了传统商超的“病”](https://www.tmtpost.com/8086981.html)
+**发布时间**: 2026-07-31 17:06
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AIGC 的中场，我们需要创作领域的「Codex」](http://www.geekpark.net/news/368267)
+**发布时间**: 2026-07-31 18:07
+
+#### [无人机加了条腿，跳出了一个新硬件品类](http://www.geekpark.net/news/368257)
+**发布时间**: 2026-07-31 16:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [圆桌访谈：收官特别场——三天后再看 WAIC，AI 正在重写什么？](https://www.infoq.cn/video/J0le0eHEDZ0bYkovg4GM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:00
+
+#### [从金融专业到资深Builder：我如何借多Agent开发工作流，一周做出MVP、一个月上线](https://www.infoq.cn/article/DHDOQWmDXa4obvC4l99E?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 17:54
+
+#### [NVIDIA Vera Rubin 正式登场：从芯片卷到电网，只为压低每一个 Token 的成本](https://www.infoq.cn/article/3gb6NlxK6c0A9or5Zfbt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 17:16
+
+#### [为什么 Jotai 要重做 Store？一次高吞吐性能优化背后的架构取舍](https://www.infoq.cn/article/A3Kb4dOvDtMWXiAYet8x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 17:00
+
+#### [枫清科技高雪峰：AI正在进入材料研发与化工生产全流程](https://www.infoq.cn/article/zIm0P8HWsWHWuGC54BsU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 15:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
+**发布时间**: 2026-07-31 15:00
 
 ---
 

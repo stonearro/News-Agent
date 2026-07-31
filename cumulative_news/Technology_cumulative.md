@@ -1,7 +1,207 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-30 23:58
+**最后更新时间**: 2026-07-31 07:47
+
+---
+
+## 🆕 最新更新 (2026-07-31 07:47)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [自构建智能体：一项 LangChain4j 实验](https://www.infoq.cn/article/QSMNwS8RolhIE9sA2MbE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 15:41
+
+#### [GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据](https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 12:00
+
+#### [盯盘虾：让龙虾替你看盘！用skills实现财报抓取+异动告警自动化](https://www.infoq.cn/video/Emku5bsTgvr3BWj12gIM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 11:49
+
+#### [家教虾：提分不愁！用skills完成海量课件解析、智能出题，助力作业辅助与考](https://www.infoq.cn/video/U3E6bCFP9fgMYpEwxhKC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 11:49
+
+#### [AI浪潮中，如何定义自己的“确定性”之旅？](https://www.infoq.cn/article/PVdaiz9gRseK6wx54ajX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 11:39
+
+#### [微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了](https://www.infoq.cn/article/cWloUAofMHCLHpvscihh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 10:53
+
+#### [翁荔被爆重返OpenAI！两天前因身体原因从Thinking Machines Lab离职](https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 10:48
+
+#### [记者对话：请回答 WAIC 2026——期待 vs 现实](https://www.infoq.cn/video/v68qTCHUc29dEl8LBmr5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 10:11
+
+#### [让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/ylsc5EZdSya6DbkWwgdU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 10:00
+
+#### [企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进](https://www.infoq.cn/article/pvr2j4G3vxdy4Od9RGPb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 10:00
+
+#### [DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳](https://www.infoq.cn/article/M9l2eJdhQkbruQlETEbt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 10:00
+
+#### [React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”](https://www.infoq.cn/article/xeM23uOSNw0s7Q8xUCTp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [万泰生物真正的转折点，在2026到2027这两个冬天里](https://www.tmtpost.com/8086420.html)
+**发布时间**: 2026-07-31 15:21
+
+#### [一个25岁天才，一笔160亿美元的清仓](https://www.tmtpost.com/8086416.html)
+**发布时间**: 2026-07-31 15:21
+
+#### [豆包收编飞书，大厂猛攻AI办公](https://www.tmtpost.com/8086400.html)
+**发布时间**: 2026-07-31 15:21
+
+#### [海棠湾不相信永远：希尔顿回归背后的抢椅子游戏](https://www.tmtpost.com/8086283.html)
+**发布时间**: 2026-07-31 15:20
+
+#### [没两辆劳斯莱斯幻影，别想部署开源大模型](https://www.tmtpost.com/8086554.html)
+**发布时间**: 2026-07-31 15:15
+
+#### [爱心人寿刚创出历史最佳业绩，二季度就来了大反转](https://www.tmtpost.com/8085744.html)
+**发布时间**: 2026-07-31 15:15
+
+#### [小米澎程杀入增程腹地，汽车业务换了一套增长逻辑](https://www.tmtpost.com/8086602.html)
+**发布时间**: 2026-07-31 15:10
+
+#### [一瓶卖了52年的健康水，救不了70岁的澳尔滨](https://www.tmtpost.com/8085905.html)
+**发布时间**: 2026-07-31 15:10
+
+#### [滔搏够不着的县城，海澜之家替阿迪达斯摸了个遍](https://www.tmtpost.com/8086168.html)
+**发布时间**: 2026-07-31 15:02
+
+#### [上线即拿下畅销榜TOP 2，字节又来搜打撤抢人了](https://www.tmtpost.com/8086502.html)
+**发布时间**: 2026-07-31 14:56
+
+#### [吃喝住行全面升级，宠物经济“再进化”](https://www.tmtpost.com/8086363.html)
+**发布时间**: 2026-07-31 14:55
+
+#### [拆解与重构：江苏这个县级市与购物车较真了20多年](https://www.tmtpost.com/8086174.html)
+**发布时间**: 2026-07-31 14:55
+
+#### [“糖王”阿麦斯，山姆爆火背后的软肋](https://www.tmtpost.com/8086508.html)
+**发布时间**: 2026-07-31 14:52
+
+#### [酒店老板已经受不了住店的演唱会粉丝了](https://www.tmtpost.com/8086225.html)
+**发布时间**: 2026-07-31 14:48
+
+#### [豆包收飞书，钉钉降悟空，BAT想“锁死”AI打工人？](https://www.tmtpost.com/8086165.html)
+**发布时间**: 2026-07-31 14:48
+
+#### [佳云科技易主局：转让方“捡漏”19个月后溢价套现，接盘方8年IPO两度折戟](https://www.tmtpost.com/8086636.html)
+**发布时间**: 2026-07-31 14:24
+
+#### [UBTECH’s Humanlike Robot Bet Tests Whether Machines Can Become More Than Industrial Tools](https://www.tmtpost.com/8086616.html)
+**发布时间**: 2026-07-31 13:22
+
+#### [谢欣向下汇报，字节十年SaaS梦让位大模型](https://www.tmtpost.com/8086358.html)
+**发布时间**: 2026-07-31 13:00
+
+#### [钉钉、飞书，这次站在了一起](https://www.tmtpost.com/8086349.html)
+**发布时间**: 2026-07-31 13:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？](https://sspai.com/post/112833)
+**发布时间**: 2026-07-31 10:21
+
+#### [派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等](https://sspai.com/post/112930)
+**发布时间**: 2026-07-31 08:37
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [宇树科技 8 月 10 日开启 IPO 申购；字节 ToB 变阵：飞书豆包火山组织调整；马斯克称人类 5-7 年登陆火星 | 极客早知道](http://www.geekpark.net/news/368199)
+**发布时间**: 2026-07-31 09:18
+
+#### [OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产](http://www.geekpark.net/news/368198)
+**发布时间**: 2026-07-31 03:04
+
+#### [顶配预售价 30 万元，小米澎程不当「红米汽车」](http://www.geekpark.net/news/368196)
+**发布时间**: 2026-07-31 00:39
+
+#### [美国，封杀了中国扫地机](http://www.geekpark.net/news/368187)
+**发布时间**: 2026-07-30 17:13
+
+#### [三星二季度利润同比增长 18 倍；Deepmind 拆散重组诺奖项目团队；Hugging Face 披露 AI 入侵全过程报告](http://www.geekpark.net/news/368160)
+**发布时间**: 2026-07-30 08:51
+
+#### [不到一周，众筹 1000 万美金，3D 打印的「Game Changer」，出现了](http://www.geekpark.net/news/368150)
+**发布时间**: 2026-07-29 16:54
+
+#### [硅谷的「AI 加速精英」，开始真正担心他们造出了「天网」](http://www.geekpark.net/news/368144)
+**发布时间**: 2026-07-29 16:04
+
+#### [苹果市值首次突破 5 万亿美元；马斯克财富五天缩水 8800 亿；鸿蒙 HarmonyOS 7 百项更新曝光](http://www.geekpark.net/news/368104)
+**发布时间**: 2026-07-29 08:46
+
+#### [上市暴涨的长鑫存储，直接把美国股市干崩了](http://www.geekpark.net/news/368087)
+**发布时间**: 2026-07-28 15:39
+
+#### [为什么美国做不出顶尖开源模型？](http://www.geekpark.net/news/368088)
+**发布时间**: 2026-07-28 15:38
+
+#### [月之暗面开源 Kimi K3 模型，2.8 万亿参数；英伟达牵头成立开放安全 AI 联盟；QQ 宠物宣布回归，接入混元大模型｜极客早知道](http://www.geekpark.net/news/368055)
+**发布时间**: 2026-07-28 08:27
+
+#### [能实时改变的剧情、会行动的 AI 角色，Vivix 灵动时刻正式发布首个实时互动模型](http://www.geekpark.net/news/368018)
+**发布时间**: 2026-07-27 14:46
+
+#### [OpenAI 和 Anthropic，正在砸钱抢这个市场](http://www.geekpark.net/news/368019)
+**发布时间**: 2026-07-27 14:39
+
+#### [梁文锋不满会谈纪要外流，DeepSeek 第二轮融资紧急叫停；特斯拉 20 亿美金收购 AI 硬件公司；月之暗面 Kimi K3 庆功照流出](http://www.geekpark.net/news/367977)
+**发布时间**: 2026-07-27 08:36
+
+#### [被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单](http://www.geekpark.net/news/367975)
+**发布时间**: 2026-07-26 08:30
+
+#### [Google 投资《后室》片方 A24：AI 最难学会的，是别急着优化](http://www.geekpark.net/news/367974)
+**发布时间**: 2026-07-25 23:55
+
+#### [黄仁勋站在 AI 产业的十字路口呐喊：力挺开源](http://www.geekpark.net/news/367973)
+**发布时间**: 2026-07-25 23:43
+
+#### [Claude Opus 5 正式发布；智元机器人已启动上市流程；特斯拉官宣 Cybercab 接入集成星链｜极客早知道](http://www.geekpark.net/news/367971)
+**发布时间**: 2026-07-25 10:22
+
+#### [三星首发安卓阵营「阔折叠」，起售价 12999 元，力求复刻爆款](http://www.geekpark.net/news/367970)
+**发布时间**: 2026-07-25 02:00
+
+#### [Claude Opus 5 正式发布：官宣图 AI「翻车」，但它仍是最好的 Fable 5「平替」](http://www.geekpark.net/news/367969)
+**发布时间**: 2026-07-25 01:57
+
+#### [这可能是今年最值得报名的一场影像挑战赛](http://www.geekpark.net/news/367964)
+**发布时间**: 2026-07-24 17:37
+
+#### [从「视觉生成」到「世界生成」：智象未来三个月融资超 21 亿，跻身独角兽](http://www.geekpark.net/news/367939)
+**发布时间**: 2026-07-24 13:38
+
+#### [Kimi K3，已经撕裂了整个硅谷](http://www.geekpark.net/news/367921)
+**发布时间**: 2026-07-24 10:34
+
+#### [伪多 Agent 泛滥的出海圈，我们离真正的智能营销还差多远？](http://www.geekpark.net/news/367922)
+**发布时间**: 2026-07-24 10:32
+
+#### [任正非：τ定律是华为唯一出路；中国青年数学家王虹、邓煜获「数学界诺奖」；月之暗面负责人：Kimi K3 并非对现有模型蒸馏复刻](http://www.geekpark.net/news/367911)
+**发布时间**: 2026-07-24 08:53
+
+#### [AI 公司，集体走进视频播客](http://www.geekpark.net/news/367907)
+**发布时间**: 2026-07-23 18:53
+
+#### [AI Agent 要自己刷卡了，但「AI 支付宝」比想象中更难做，为什么？](http://www.geekpark.net/news/367887)
+**发布时间**: 2026-07-23 15:08
+
+#### [传 iPhone 18 Pro 开始量产；宇树科技王兴兴：具身 GPT 最快 2、3 年到来；黄仁勋：无需害怕中国开源模型｜极客早知道](http://www.geekpark.net/news/367834)
+**发布时间**: 2026-07-23 08:13
+
+#### [一次测试，逼 OpenAI 最高模型，黑进了全球最大 AI 开源平台](http://www.geekpark.net/news/367818)
+**发布时间**: 2026-07-22 16:24
+
+#### [深度体验 LibTV Agent：忘记工具，进入 AI 创作的心流](http://www.geekpark.net/news/367815)
+**发布时间**: 2026-07-22 16:20
 
 ---
 

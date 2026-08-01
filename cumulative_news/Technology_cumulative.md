@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 23:59
+**最后更新时间**: 2026-08-01 07:26
+
+---
+
+## 🆕 最新更新 (2026-08-01 07:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考](https://www.tmtpost.com/8087586.html)
+**发布时间**: 2026-08-01 14:31
+
+#### [谁在成为人形机器人的Tier 1？](https://www.tmtpost.com/8087356.html)
+**发布时间**: 2026-08-01 10:18
+
+#### [少投入不是苹果的免死金牌](https://www.tmtpost.com/8087406.html)
+**发布时间**: 2026-08-01 10:18
+
+#### [AI 重构公司，字节肢解飞书，豆包接驳抖音](https://www.tmtpost.com/8087238.html)
+**发布时间**: 2026-08-01 10:08
+
+#### [ChinaJoy的确一年不如一年](https://www.tmtpost.com/8087712.html)
+**发布时间**: 2026-08-01 10:06
+
+#### [AI来了，大厂中层不好混了](https://www.tmtpost.com/8087825.html)
+**发布时间**: 2026-08-01 09:56
+
+#### [Seedance 2.5，要给机器人打工了](https://www.tmtpost.com/8087245.html)
+**发布时间**: 2026-08-01 09:56
+
+#### [阿里距离AI Coding两连冠只差5个月](https://www.tmtpost.com/8087204.html)
+**发布时间**: 2026-08-01 09:56
+
+#### [华尔街最著名的“乌鸦嘴”，这次又盯上了英伟达](https://www.tmtpost.com/8087840.html)
+**发布时间**: 2026-08-01 09:46
+
+#### [Edge AI Daily 早报（8月1日）](https://www.tmtpost.com/8087806.html)
+**发布时间**: 2026-08-01 08:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了](https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 14:05
+
+#### [Quick BI 数据分析智能体的可靠工程实践｜AICon深圳](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 10:00
+
+#### [硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务](https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
+**发布时间**: 2026-08-01 12:54
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿](http://www.geekpark.net/news/368270)
+**发布时间**: 2026-08-01 08:42
 
 ---
 

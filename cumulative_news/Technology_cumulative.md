@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 09:54
+**最后更新时间**: 2026-08-02 07:29
+
+---
+
+## 🆕 最新更新 (2026-08-02 07:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球语音大模型，角逐方向盘后的麦克风](https://www.tmtpost.com/8088265.html)
+**发布时间**: 2026-08-02 12:45
+
+#### [重庆上市公司价值重估：汽车与环保抬升上限，医药与传统产业分化加剧](https://www.tmtpost.com/8088415.html)
+**发布时间**: 2026-08-02 12:23
+
+#### [A股规模实力百强榜：谁构筑了资本市场的经营基本盘？](https://www.tmtpost.com/8088411.html)
+**发布时间**: 2026-08-02 12:22
+
+#### [价值判断：涨停板的投资机会和风险提示（7月31日）｜上市公司观察](https://www.tmtpost.com/8088406.html)
+**发布时间**: 2026-08-02 12:21
+
+#### [【数智周报】长鑫科技市值登顶A股；字节调整飞书、火山、豆包组织架构；Kimi K3开源上线即爆火](https://www.tmtpost.com/8081682.html)
+**发布时间**: 2026-08-02 11:53
+
+#### [新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档](https://www.tmtpost.com/8088337.html)
+**发布时间**: 2026-08-02 10:43
+
+#### [信任资产：上市公司最容易被低估的市值底座](https://www.tmtpost.com/8088342.html)
+**发布时间**: 2026-08-02 09:45
+
+#### [如果这不是公关：为什么请伯南克可能是Anthropic的最优解？](https://www.tmtpost.com/8088340.html)
+**发布时间**: 2026-08-02 09:45
+
+#### [上市以来中报首亏，卖火腿的莆田富商能靠“追光”逆袭吗？](https://www.tmtpost.com/8088238.html)
+**发布时间**: 2026-08-02 08:25
+
+#### [Seedance2.5来了，字节能打败自己吗？](https://www.tmtpost.com/8088164.html)
+**发布时间**: 2026-08-02 08:25
+
+#### [WorkBuddy给腾讯长脸了](https://www.tmtpost.com/8088161.html)
+**发布时间**: 2026-08-02 08:22
+
+#### [这种工业副产品半年暴涨2倍多，上游利润翻倍，下游开工腰斩](https://www.tmtpost.com/8087536.html)
+**发布时间**: 2026-08-02 08:18
+
+#### [Edge AI Daily 早报（8月2日）](https://www.tmtpost.com/8088267.html)
+**发布时间**: 2026-08-02 08:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳](https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-02 10:00
+
+#### [用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写](https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-02 09:11
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布](http://www.geekpark.net/news/368277)
+**发布时间**: 2026-08-02 09:13
 
 ---
 

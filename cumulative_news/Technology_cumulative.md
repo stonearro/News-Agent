@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-02 23:53
+**最后更新时间**: 2026-08-03 08:24
+
+---
+
+## 🆕 最新更新 (2026-08-03 08:24)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Amazon EKS 新增升级后 7 天内回滚 Kubernetes 版本的功能](https://www.infoq.cn/article/5si5hgXIKQjbwFwyJ5aC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 16:09
+
+#### [软件从现实开始：知识驱动计算（KDC）的Reality First主张](https://www.infoq.cn/article/JWP8LYvuoD0tmFelLRq4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 15:22
+
+#### [Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为](https://www.infoq.cn/article/0j39GYLo41A3VMv9BoOi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 14:30
+
+#### [寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报](https://www.infoq.cn/article/pR6wfSjXI1X0VwZmWAjg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 12:01
+
+#### [AWS 计费系统故障：用户收到数万亿美元账单预估，自家成本告警却未能阻止问题扩大](https://www.infoq.cn/article/ogvAbgp1eFp6ddoommVh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 11:56
+
+#### [Altman 带着GPT-6进白宫？OpenAI 新模型曝光，或成美国首批过审模型](https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 11:55
+
+#### [阿里Qwen3.8正式发布：2.4T规模，自主编程16天搓出一个Hermes Agent](https://www.infoq.cn/article/XG7GeBthC6eKO5Rejf02?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 11:52
+
+#### [Cloudflare详解统一数据平台：计费工作负载占查询的53%](https://www.infoq.cn/article/LplzGjI7YFsYiz5hqfl8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 10:22
+
+#### [浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程](https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [25岁Open AI神童：基金开4倍杠杆，一夜爆仓450亿美元](https://www.tmtpost.com/8087041.html)
+**发布时间**: 2026-08-03 15:27
+
+#### [抢下170亿大市场！罗氏对决拜耳、再生元，眼科江湖要变天](https://www.tmtpost.com/8081509.html)
+**发布时间**: 2026-08-03 15:27
+
+#### [智元冲刺港股IPO，备战具身智能淘汰赛](https://www.tmtpost.com/8088777.html)
+**发布时间**: 2026-08-03 15:27
+
+#### [海外Biotech，来港交所“抢钱”了](https://www.tmtpost.com/8088619.html)
+**发布时间**: 2026-08-03 15:27
+
+#### [测绘科学，或许是具身智能数据问题的终极解法](https://www.tmtpost.com/8089121.html)
+**发布时间**: 2026-08-03 14:32
+
+#### [The Industrial Architecture That Tesla Cannot Unplug](https://www.tmtpost.com/8089055.html)
+**发布时间**: 2026-08-03 12:04
+
+#### [“散装山姆”挤满打工人，9.9小绿瓶成断货王，单季爆卖544亿](https://www.tmtpost.com/8088960.html)
+**发布时间**: 2026-08-03 11:31
+
+#### [卖掉约1670亿港元英国资产，别让李嘉诚“跑了”？](https://www.tmtpost.com/8088652.html)
+**发布时间**: 2026-08-03 11:31
+
+#### [字节ToB变阵，一次新AI入口之争](https://www.tmtpost.com/8088903.html)
+**发布时间**: 2026-08-03 11:31
+
+#### [2026年ACCA-XNAI年度研讨会召开 | AI时代商业重构与人机共进成焦点](https://www.tmtpost.com/8088763.html)
+**发布时间**: 2026-08-03 10:43
+
+#### [18种场景、0个标签，小米澎程的身份焦虑](https://www.tmtpost.com/8088648.html)
+**发布时间**: 2026-08-03 10:30
+
+#### [A股IDC的幻觉与真相：一门收租生意，被成长股估值谋杀](https://www.tmtpost.com/8088803.html)
+**发布时间**: 2026-08-03 10:30
+
+#### [低价流量卡退场：整治行业乱象，莫回避运营商自身病灶](https://www.tmtpost.com/8088626.html)
+**发布时间**: 2026-08-03 10:19
+
+#### [OpenAI 不靠最贵的模型卖钱了](https://www.tmtpost.com/8088845.html)
+**发布时间**: 2026-08-03 10:11
+
+#### [量贩零食真的更贵吗？我们去三个渠道买了30款产品算了算](https://www.tmtpost.com/8088595.html)
+**发布时间**: 2026-08-03 10:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [职人专访 #001：少数派背后的理想主义](https://sspai.com/post/112966)
+**发布时间**: 2026-08-03 14:03
+
+#### [角落新声｜两平米、两个角落，安放两个自己](https://sspai.com/post/112551)
+**发布时间**: 2026-08-03 10:52
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能](http://www.geekpark.net/news/368278)
+**发布时间**: 2026-08-03 08:13
 
 ---
 

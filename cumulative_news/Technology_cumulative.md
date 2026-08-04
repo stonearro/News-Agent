@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-04 00:03
+**最后更新时间**: 2026-08-04 07:34
+
+---
+
+## 🆕 最新更新 (2026-08-04 07:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [金茂又开始独立搞酒店了……](https://www.tmtpost.com/8089513.html)
+**发布时间**: 2026-08-04 14:53
+
+#### [打开你的手机，韩国政府正在帮你亏钱](https://www.tmtpost.com/8090421.html)
+**发布时间**: 2026-08-04 14:48
+
+#### [物理AI不是下一个风口，而是下一轮工业革命](https://www.tmtpost.com/8090414.html)
+**发布时间**: 2026-08-04 14:41
+
+#### [泽璟制药：一份漂亮的半年报，一个大跌的交易日](https://www.tmtpost.com/8090391.html)
+**发布时间**: 2026-08-04 14:36
+
+#### [马斯克，又悄悄做出一个独角兽](https://www.tmtpost.com/8090389.html)
+**发布时间**: 2026-08-04 14:31
+
+#### [别只盯着欧美巨头，印度这个新产业5年翻3倍，已成中国出海最大变数](https://www.tmtpost.com/8090364.html)
+**发布时间**: 2026-08-04 14:28
+
+#### [自动驾驶下半场，决胜逻辑早已跳出“唯规模论”？](https://www.tmtpost.com/8089028.html)
+**发布时间**: 2026-08-04 14:22
+
+#### [一个季度多签960亿：Meta把未来20年的机房都租了，谁来兜底？](https://www.tmtpost.com/8089647.html)
+**发布时间**: 2026-08-04 14:16
+
+#### [喊了好久的 “AI选秀元年”，真来了](https://www.tmtpost.com/8090410.html)
+**发布时间**: 2026-08-04 14:12
+
+#### [资本加注引爆前夜，眼科手术机器人首证倒计时](https://www.tmtpost.com/8090361.html)
+**发布时间**: 2026-08-04 14:03
+
+#### [湖南老哥给李宁、阿迪造鞋，一年卖出5000多万双](https://www.tmtpost.com/8090327.html)
+**发布时间**: 2026-08-04 13:58
+
+#### [排队3小时、月销百万杯，茶饮市场又出爆款](https://www.tmtpost.com/8090184.html)
+**发布时间**: 2026-08-04 13:54
+
+#### [光芯解码-企业突围篇：赛道核心玩家大盘点](https://www.tmtpost.com/8090088.html)
+**发布时间**: 2026-08-04 13:54
+
+#### [药明康德，又上调了](https://www.tmtpost.com/8090141.html)
+**发布时间**: 2026-08-04 13:54
+
+#### [投资人拆解脑机接口：不是所有“技术领先”都值得下注](https://www.tmtpost.com/8090362.html)
+**发布时间**: 2026-08-04 13:52
+
+#### [AI越狱、硅谷慌了，人类到底在害怕什么？](https://www.tmtpost.com/8090237.html)
+**发布时间**: 2026-08-04 13:46
+
+#### [MNC并购大分歧：有人从容收手，有人加速狂奔](https://www.tmtpost.com/8090074.html)
+**发布时间**: 2026-08-04 13:46
+
+#### [千问办公来了，Agent开始争抢企业的任务分配权](https://www.tmtpost.com/8090369.html)
+**发布时间**: 2026-08-04 12:28
+
+#### [汽车产业全球化进入新阶段，GNEV2026将共探合作新路径](https://www.tmtpost.com/8089985.html)
+**发布时间**: 2026-08-04 12:27
+
+#### [嘉立创IPO：950万工程师生态背后，硬件创新基础设施的长期价值重估](https://www.tmtpost.com/8090186.html)
+**发布时间**: 2026-08-04 11:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent 记忆，不能只靠聊天记录](https://www.infoq.cn/article/qm3RHL133SESFZJGrmeA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 14:37
+
+#### [以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限](https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 14:15
+
+#### [Java 近期新闻：简单 JSON API、JEPs for JDK 28、Oracle CPUs、Embabel 1.0、Azul Payara、Helidon](https://www.infoq.cn/article/bARNOrjTARc9O7BuwVUE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 10:52
+
+#### [MUSA开发者大赛丨算子挑战赛S2赛季正式开启！](https://www.infoq.cn/article/ehgQiIVRtg3fyyz2wMh9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 10:47
+
+#### [中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”](https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 10:00
+
+#### [给 Agent 装上方向盘和刹车，Harness 时代的工程新范式](https://www.infoq.cn/article/QxdM6J3uFpZA0CXgNhDq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 09:59
+
+#### [微软发布 .NET 11 Preview 6，带来语言和框架更新](https://www.infoq.cn/article/kfoq3gzKdqawG7Q3uVYd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜成年的快乐，是可以将角落铺满全家](https://sspai.com/post/112738)
+**发布时间**: 2026-08-04 10:59
+
+#### [派早报：MiniMax H3 开源、Qwen3.8-Max 发布等](https://sspai.com/post/113053)
+**发布时间**: 2026-08-04 08:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传新 iPhone 最高涨价 1350 元；阿里发 Qwen3.8，2.4 万亿参数；DuckDuckGo 推「反科技」太阳镜](http://www.geekpark.net/news/368341)
+**发布时间**: 2026-08-04 08:08
 
 ---
 

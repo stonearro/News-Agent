@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-03 08:24
+**最后更新时间**: 2026-08-04 00:03
+
+---
+
+## 🆕 最新更新 (2026-08-04 00:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（8月4日）](https://www.tmtpost.com/8089843.html)
+**发布时间**: 2026-08-04 07:51
+
+#### [【钛晨报】李强签署国务院令，公布修订后的《集成电路布图设计保护条例》；针对跨境、跨币种业务新增流动性管理要求，券商流动性管理迎新规；月之暗面回应港股IPO传闻：消息不实](https://www.tmtpost.com/8089688.html)
+**发布时间**: 2026-08-04 07:20
+
+#### [老股东高价套现离场，新东家用并购贷接盘：欣天科技控制权易主背后的"冰与火"](https://www.tmtpost.com/8089630.html)
+**发布时间**: 2026-08-03 20:19
+
+#### [对话博登智能赵捷：十亿订单在手，具身智能最缺的仍是高质量数据](https://www.tmtpost.com/8085920.html)
+**发布时间**: 2026-08-03 19:48
+
+#### [第三方线上号卡渠道全面关停：行业洗牌之后呢？](https://www.tmtpost.com/8088251.html)
+**发布时间**: 2026-08-03 19:47
+
+#### [奔图科技切入清扫机器人赛道，打通“制造+安全”双引擎，开启第二增长曲线](https://www.tmtpost.com/8089565.html)
+**发布时间**: 2026-08-03 19:33
+
+#### [AI科研范式革命：花200美元即可攻克一道数学世纪难题](https://www.tmtpost.com/8089368.html)
+**发布时间**: 2026-08-03 19:13
+
+#### [SpaceX解禁前72小时](https://www.tmtpost.com/8089331.html)
+**发布时间**: 2026-08-03 18:42
+
+#### [字节AI开始合围](https://www.tmtpost.com/8089007.html)
+**发布时间**: 2026-08-03 18:41
+
+#### [怎么看待AI大回调，大摩120页研报深度解读](https://www.tmtpost.com/8089205.html)
+**发布时间**: 2026-08-03 18:40
+
+#### [董宇辉没有舒适圈](https://www.tmtpost.com/8089258.html)
+**发布时间**: 2026-08-03 18:28
+
+#### [MiniMax，拼命游过斩杀线](https://www.tmtpost.com/8089114.html)
+**发布时间**: 2026-08-03 18:28
+
+#### [卖烘焙厂、关大店、开折扣店，盒马在算一笔大账](https://www.tmtpost.com/8089210.html)
+**发布时间**: 2026-08-03 18:28
+
+#### [【书评】五百年全球化进程中，中国是怎么从“旁观者”坐到主桌的？](https://www.tmtpost.com/8089145.html)
+**发布时间**: 2026-08-03 18:26
+
+#### [泽璟制药的“成年礼”](https://www.tmtpost.com/8089415.html)
+**发布时间**: 2026-08-03 18:15
+
+#### [小鹏的物理AI前夜：机器人一号位出走，X9召回拷问量产基本功](https://www.tmtpost.com/8089399.html)
+**发布时间**: 2026-08-03 18:15
+
+#### [AI花钱大赛：亚马逊收钱，苹果在买单](https://www.tmtpost.com/8089011.html)
+**发布时间**: 2026-08-03 18:15
+
+#### [揭秘2026年全球GEO数据：AI 会怎么对待你的品牌？](https://www.tmtpost.com/8089001.html)
+**发布时间**: 2026-08-03 17:56
+
+#### [互联网又回到了拉帮结派的时代](https://www.tmtpost.com/8089093.html)
+**发布时间**: 2026-08-03 17:56
+
+#### [万益蓝WONDERLAB首获“蓝帽子”资质，解密10亿瓶销量背后的科学循证力量](https://www.tmtpost.com/8089052.html)
+**发布时间**: 2026-08-03 17:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [WAIC趋势复盘：AI 的下半场，到底拼什么？](https://www.infoq.cn/article/sHcr52JDQidMuKcDHYGB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 18:15
+
+#### [GitHub Copilot CLI在重新设计的终端UI中新增选项卡与免配置文件的工具设置](https://www.infoq.cn/article/wybFeXucFGaobN7wQjev?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 18:00
+
+#### [200个任务、1700万帧！大晓开源L5级具身数据集ACE-Data-0，把真实家庭变成机器人的物理世界教材](https://www.infoq.cn/article/KlOeH3DoO10hQixeYQvM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 17:57
+
+#### [用DeepSeek-TUI+玩转+Vibe+Coding](https://www.infoq.cn/video/PPO5ZN9pTtS5WCqgohgz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 16:35
+
+#### [WorkBuddy精选高价值场景全解析](https://www.infoq.cn/video/VA74X3wdGNzrCE6cVk1J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-03 16:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/113040)
+**发布时间**: 2026-08-03 18:09
+
+#### [把折叠屏外屏做成手机后：iKKO MindOne Pro 体验](https://sspai.com/post/112685)
+**发布时间**: 2026-08-03 15:35
 
 ---
 

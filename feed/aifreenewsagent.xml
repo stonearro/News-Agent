@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 23:57:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 23:59:37 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 07:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:36:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills</title>
-      <link>https://www.qbitai.com/2026/08/466386.html</link>
-      <description>&lt;![CDATA[开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466386.html</guid>
+      <title>微软叫停Tokenmaxxing！预算卡死，超限自负</title>
+      <link>https://www.qbitai.com/2026/08/466739.html</link>
+      <description>&lt;![CDATA[微软叫停Tokenmaxxing！预算卡死，超限自负]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 06:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466739.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了</title>
+      <link>https://www.qbitai.com/2026/08/466553.html</link>
+      <description>&lt;![CDATA[老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 05:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466553.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报</title>
+      <link>https://www.qbitai.com/2026/08/466454.html</link>
+      <description>&lt;![CDATA[倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 04:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466454.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-04 23:59
+**最后更新时间**: 2026-08-05 07:36
+
+---
+
+## 🆕 最新更新 (2026-08-05 07:36)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [开出AI界最高薪的Anthropic，抱怨员工为钱而来？全网“阴阳”：和你死活反开源一样](https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 15:25
+
+#### [谷歌连发三模型，把机器人调教成“全能打工人”！几小时速配、从头控到脚，还能“组团”开干](https://www.infoq.cn/article/Zx9Z9etgapBsdOL9FtW1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 15:19
+
+#### [GPT-5.6价格暴降，最低打两折！网友隔空点A社：该你了](https://www.infoq.cn/article/KROGtjyegHRSKCSNS70o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 15:17
+
+#### [机器人进厂要提速了！光轮智能与西门子探索工业仿真进入机器学习的新路径](https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 15:13
+
+#### [亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索](https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 14:26
+
+#### [一种用于管理 AI 变革步伐的演进式架构模式](https://www.infoq.cn/article/h5Huo1l8Buyv0t8DXz6L?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 12:00
+
+#### [用Skill Hub一键调用技能，重塑 AI Agent 实战力](https://www.infoq.cn/video/b52zg9lZJ6dguds0SxaO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 11:51
+
+#### [腾讯会议AI实战指南：随时随地记录，对话即生产力](https://www.infoq.cn/video/YIVxVxU010vgJ6VON2LE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 11:50
+
+#### [为什么 AI 视频，需要“懂生成”的画质增强](https://www.infoq.cn/article/Vv9R7T4i9XfrDOjbiVPr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 11:06
+
+#### [AI 根因分析从模型推理转向上下文工程](https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 10:24
+
+#### [从工具调用到生产级 Data Agent：Context 与治理闭环｜AICon深圳](https://www.infoq.cn/article/2djLJTOiQuAjeriOthao?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 10:00
+
+#### [FDE 又不够了](https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 09:35
+
+#### [GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0](https://www.infoq.cn/article/4rVt0Kd7LZeHP1krbeTf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 09:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [上会前夕撤回30亿可转债申请，子公司立案风波打断申通快递融资计划](https://www.tmtpost.com/8092255.html)
+**发布时间**: 2026-08-05 14:38
+
+#### [离开200亿星海图，清华博导做机器人，雷军追着给他投资](https://www.tmtpost.com/8091178.html)
+**发布时间**: 2026-08-05 12:22
+
+#### [AI时代，依然是药明康德的“黄金时代”](https://www.tmtpost.com/8091097.html)
+**发布时间**: 2026-08-05 11:35
+
+#### [决战视频AI：字节快手玩生态，独立厂商拼差异](https://www.tmtpost.com/8090914.html)
+**发布时间**: 2026-08-05 11:35
+
+#### [Shoppers Try AI Buying Chats Widely but Rarely Trust the Matches](https://www.tmtpost.com/8092071.html)
+**发布时间**: 2026-08-05 11:35
+
+#### [29 秒视频教会机器人新技能，清华北理工自变量联合开源 HOST](https://www.tmtpost.com/8091702.html)
+**发布时间**: 2026-08-05 11:35
+
+#### [瘦身之后利润翻了5倍，维密中国把内衣价格打下来了](https://www.tmtpost.com/8090890.html)
+**发布时间**: 2026-08-05 11:22
+
+#### [打官司、挖人，苹果和OpenAI的硬件大战才刚开始](https://www.tmtpost.com/8091859.html)
+**发布时间**: 2026-08-05 10:27
+
+#### [工业具身智能已经进厂发挥价值了丨ToB产业观察](https://www.tmtpost.com/8090638.html)
+**发布时间**: 2026-08-05 10:20
+
+#### [AI带火挖掘机，土木狗有救了？](https://www.tmtpost.com/8091864.html)
+**发布时间**: 2026-08-05 10:11
+
+#### [毒圈缩圈：AI大模型的“斩杀线”还在上移](https://www.tmtpost.com/8091516.html)
+**发布时间**: 2026-08-05 10:05
+
+#### [大厂抢滩AI办公](https://www.tmtpost.com/8091801.html)
+**发布时间**: 2026-08-05 09:48
+
+#### [张一鸣为什么把50%的时间给了Seed？](https://www.tmtpost.com/8091612.html)
+**发布时间**: 2026-08-05 09:38
+
+#### [4万亿电网投资：设备商狂欢背后，一笔迟到的"追债账"](https://www.tmtpost.com/8090205.html)
+**发布时间**: 2026-08-05 09:38
+
+#### [一个月9款旗舰，大模型进入“月抛”时代？](https://www.tmtpost.com/8091348.html)
+**发布时间**: 2026-08-05 09:38
+
+#### [Edge AI Daily 早报（8月5日）](https://www.tmtpost.com/8091747.html)
+**发布时间**: 2026-08-05 08:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」](https://sspai.com/post/112891)
+**发布时间**: 2026-08-05 10:15
+
+#### [派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等](https://sspai.com/post/113087)
+**发布时间**: 2026-08-05 08:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [鸿蒙智行发布「竹知了」相关情况说明；小红书封禁 AI 毒动画，未成年陪聊等 10 万账号；马斯克财富缩水2.45万亿元｜极客早知道](http://www.geekpark.net/news/368389)
+**发布时间**: 2026-08-05 08:13
 
 ---
 

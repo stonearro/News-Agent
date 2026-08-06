@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-05 23:55
+**最后更新时间**: 2026-08-06 07:36
+
+---
+
+## 🆕 最新更新 (2026-08-06 07:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [消失的百亿市值：椰子水第一股做错了什么？](https://www.tmtpost.com/8093313.html)
+**发布时间**: 2026-08-06 15:12
+
+#### [西数又不香了？](https://www.tmtpost.com/8093740.html)
+**发布时间**: 2026-08-06 15:09
+
+#### [AI金属：AI基础设施建设浪潮下的金属原材料产业研究（中）](https://www.tmtpost.com/8092055.html)
+**发布时间**: 2026-08-06 15:09
+
+#### [Qwen3.8，是千问办公的“塞尔达”吗？](https://www.tmtpost.com/8093742.html)
+**发布时间**: 2026-08-06 15:08
+
+#### [车企卷起直播拆车，我们消费者看热闹也要看门道](https://www.tmtpost.com/8093780.html)
+**发布时间**: 2026-08-06 15:08
+
+#### [物理AI重塑智驾](https://www.tmtpost.com/8093743.html)
+**发布时间**: 2026-08-06 15:00
+
+#### [安徽不只有“最牛风投城市”，更是消费的“隐藏大佬”](https://www.tmtpost.com/8093827.html)
+**发布时间**: 2026-08-06 14:57
+
+#### [谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？](https://www.tmtpost.com/8093802.html)
+**发布时间**: 2026-08-06 14:57
+
+#### [从小作坊到年入34亿，“始祖鸟对手”被中国资本买了，要成“中产新宠”？](https://www.tmtpost.com/8093793.html)
+**发布时间**: 2026-08-06 14:56
+
+#### [细思极恐，Agent学会给自己办假身份了……](https://www.tmtpost.com/8093636.html)
+**发布时间**: 2026-08-06 13:40
+
+#### [大部分中国老板都是同一类人](https://www.tmtpost.com/8093659.html)
+**发布时间**: 2026-08-06 13:34
+
+#### [卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌](https://www.tmtpost.com/8093334.html)
+**发布时间**: 2026-08-06 13:30
+
+#### [谷歌AI大换血，背后究竟发生了什么？](https://www.tmtpost.com/8093622.html)
+**发布时间**: 2026-08-06 13:23
+
+#### [饮品一哥“换人”，农夫山泉超越康师傅](https://www.tmtpost.com/8093590.html)
+**发布时间**: 2026-08-06 13:16
+
+#### [星巴克卖身、库迪踩刹车，只有瑞幸不敢停](https://www.tmtpost.com/8093499.html)
+**发布时间**: 2026-08-06 13:12
+
+#### [欧美销量腰斩，中国却逆势暴增，50元“小甜水”被年轻人买成顶流](https://www.tmtpost.com/8093466.html)
+**发布时间**: 2026-08-06 13:07
+
+#### [第一批炒具身智能的股票，已经跌惨了](https://www.tmtpost.com/8093427.html)
+**发布时间**: 2026-08-06 13:01
+
+#### [AI狂飙，电工为何成了“香饽饽”？](https://www.tmtpost.com/8093419.html)
+**发布时间**: 2026-08-06 12:59
+
+#### [AI金属：AI基础设施建设浪潮下的金属原材料产业研究（下）](https://www.tmtpost.com/8092056.html)
+**发布时间**: 2026-08-06 12:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路](https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 14:39
+
+#### [别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难](https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 14:34
+
+#### [MCP 迎来最大更新：重回上古时代HTTP](https://www.infoq.cn/article/Lb94jI4ma9w0X9u0Ez6F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 14:18
+
+#### [Claude Code之父：每半年清空一次claude.md、skills和hooks，模型自己会想办法](https://www.infoq.cn/article/hUTEb0LSzFUTyib1AJ4W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 14:07
+
+#### [Cloudflare 推出 Meerkat，实现全球强一致性协调](https://www.infoq.cn/article/TzPsuyR3J7MlCA6vDwCx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 13:21
+
+#### [Terraform 推出基于 HCL 的策略即代码框架 tfpolicy](https://www.infoq.cn/article/ciBqgGa8fJIjYJdVaiq6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 11:00
+
+#### [刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业](https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 10:59
+
+#### [蚂蚁灵光闪应用数据架构首次公开，OceanBase披露关键实践](https://www.infoq.cn/article/ix9IT7I9LmH2X0w5xQck?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 10:55
+
+#### [AWS 推出免费沙箱环境，可直接体验 Workshop](https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 09:21
+
+#### [从 Coding 到 Running：Al Native SRE Agent 的工程实践 （CloudQ ）｜AICon深圳](https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜音乐，刻在时光里的私人地图](https://sspai.com/post/113017)
+**发布时间**: 2026-08-06 10:14
+
+#### [派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
+**发布时间**: 2026-08-06 08:42
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传 DeepSeek 重启融资；华为余承东：手机之后可能都要大规模涨价；首例破坏 AI 模型刑案宣判，程序员「删库跑路」获刑](http://www.geekpark.net/news/368444)
+**发布时间**: 2026-08-06 08:30
 
 ---
 

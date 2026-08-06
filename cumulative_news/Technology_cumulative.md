@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 07:36
+**最后更新时间**: 2026-08-06 10:33
+
+---
+
+## 🆕 最新更新 (2026-08-06 10:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一扇门被关上，中国具身智能产业正破窗](https://www.tmtpost.com/8093205.html)
+**发布时间**: 2026-08-06 18:15
+
+#### [哥伦比亚也该把山浩拉到中国溜溜了](https://www.tmtpost.com/8094175.html)
+**发布时间**: 2026-08-06 18:07
+
+#### [00后坐上中国机器人牌桌之后](https://www.tmtpost.com/8094155.html)
+**发布时间**: 2026-08-06 18:07
+
+#### [国产新能源进入阵痛期](https://www.tmtpost.com/8092682.html)
+**发布时间**: 2026-08-06 18:01
+
+#### [SpaceX上市后首份财报引发暴跌？理想中的万亿营收太空AI公司，正在靠地面AI云挣钱](https://www.tmtpost.com/8093971.html)
+**发布时间**: 2026-08-06 18:01
+
+#### [蚂蚁灵波拟募资15亿，“具身大脑”的吸引力在提升？](https://www.tmtpost.com/8094094.html)
+**发布时间**: 2026-08-06 17:45
+
+#### [AI办公大战，卖模型的DeepSeek们怎么活？](https://www.tmtpost.com/8094022.html)
+**发布时间**: 2026-08-06 17:45
+
+#### [“撂下”万达系董事职务，王思聪跑村委会开公司？](https://www.tmtpost.com/8092736.html)
+**发布时间**: 2026-08-06 17:45
+
+#### [最赚钱的光模块，为什么排队去香港借钱](https://www.tmtpost.com/8091646.html)
+**发布时间**: 2026-08-06 17:45
+
+#### [扎克伯格“对标”梁文峰](https://www.tmtpost.com/8094034.html)
+**发布时间**: 2026-08-06 17:41
+
+#### [大厂抢滩办公入口：AI正在吃掉Office](https://www.tmtpost.com/8094048.html)
+**发布时间**: 2026-08-06 17:37
+
+#### [连卖AI的微软也扛不住了，token被限额，AI进度缓慢](https://www.tmtpost.com/8094038.html)
+**发布时间**: 2026-08-06 17:37
+
+#### [NVIDIA Turns to Chinese Base-Station Makers to Push AI Computing to the Network Edge](https://www.tmtpost.com/8094065.html)
+**发布时间**: 2026-08-06 17:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 248｜少数派的编辑们最近买了啥？](https://sspai.com/post/113139)
+**发布时间**: 2026-08-06 17:30
+
+#### [TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验](https://sspai.com/post/112916)
+**发布时间**: 2026-08-06 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素](https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 17:19
+
+#### [从“工具”到“搭档”：如何用WorkBuddy重塑法律工作流](https://www.infoq.cn/video/RYBfw8RsGiotaxfYQuqZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 17:06
+
+#### [2026 Data+AI 中场纪实：Snowflake 本体论、企业级智能体与 Agent 的认知跃迁](https://www.infoq.cn/video/LewDgzMqquG1yO8UYv0W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 16:30
+
+#### [如何在技能与子代理之间做出恰当的选择](https://www.infoq.cn/article/BjFl6lKjTi2FEZNMxyb5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 16:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [这枚不到 5 克的戒指，藏着 AI 交互的未来](http://www.geekpark.net/news/368497)
+**发布时间**: 2026-08-06 17:02
+
+#### [从会聊天到能管钱：Agent 进入交易时代](http://www.geekpark.net/news/368494)
+**发布时间**: 2026-08-06 15:53
+
+#### [谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S](http://www.geekpark.net/news/368495)
+**发布时间**: 2026-08-06 15:51
 
 ---
 

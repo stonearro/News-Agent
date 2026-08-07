@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 10:33
+**最后更新时间**: 2026-08-07 01:45
+
+---
+
+## 🆕 最新更新 (2026-08-07 01:45)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare推出用于自治Worker部署的临时账户](https://www.infoq.cn/article/6q0ACAlcmf7vmpIcJb09?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 09:28
+
+#### [角色边界重塑，全栈取代分工：快手AI生产力体系成形](https://www.infoq.cn/article/Gj6j8QtZhgeuqedeUEft?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 18:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [零食量贩步入精耕时代](https://www.tmtpost.com/8094374.html)
+**发布时间**: 2026-08-07 09:28
+
+#### [谷歌AI大地震：一天失去四位核心科学家，4.6万亿美元巨头的重构之路](https://www.tmtpost.com/8094778.html)
+**发布时间**: 2026-08-07 08:34
+
+#### [Edge AI Daily 早报（8月7日）](https://www.tmtpost.com/8094750.html)
+**发布时间**: 2026-08-07 08:24
+
+#### [【钛晨报】工信部印发民爆行业"十五五"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元](https://www.tmtpost.com/8094590.html)
+**发布时间**: 2026-08-07 07:20
+
+#### [Autonomous Driving Rebuilds Itself Around Models That Predict the Physical World](https://www.tmtpost.com/8094739.html)
+**发布时间**: 2026-08-07 07:12
+
+#### [股东精准减持1.4亿后，业绩重压下魅视科技紧急跨界磷化铟](https://www.tmtpost.com/8094513.html)
+**发布时间**: 2026-08-06 20:55
+
+#### [宇树600亿上市，具身赛道有了定价之锚](https://www.tmtpost.com/8094474.html)
+**发布时间**: 2026-08-06 20:33
+
+#### [百济神州中报超预期交卷：泽布替尼登顶全球，为何股价高开低走丨看财报](https://www.tmtpost.com/8094400.html)
+**发布时间**: 2026-08-06 20:07
+
+#### [字节年内二开全员会：承认语言模型落后，转向To B，重仓年轻人](https://www.tmtpost.com/8094419.html)
+**发布时间**: 2026-08-06 20:00
+
+#### [凯旺科技2.86亿落子液冷散热，连亏三年下的跨界自救成效待考丨并购一线](https://www.tmtpost.com/8094341.html)
+**发布时间**: 2026-08-06 19:13
+
+#### [独家｜自变量已秘密递表，第三代机器人将在Q4面市](https://www.tmtpost.com/8094329.html)
+**发布时间**: 2026-08-06 18:35
+
+#### [AI原生组织：谁思考、谁执行、谁负责、谁进化](https://www.tmtpost.com/8094183.html)
+**发布时间**: 2026-08-06 18:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道](http://www.geekpark.net/news/368504)
+**发布时间**: 2026-08-07 08:18
+
+#### [对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场](http://www.geekpark.net/news/368503)
+**发布时间**: 2026-08-06 20:52
 
 ---
 

@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 01:45
+**最后更新时间**: 2026-08-07 06:08
+
+---
+
+## 🆕 最新更新 (2026-08-07 06:08)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [维信诺的边界实验：当OLED大厂决定走进ChinaJoy](https://www.tmtpost.com/8095080.html)
+**发布时间**: 2026-08-07 13:44
+
+#### [3.6万家瑞幸，正在“围剿”瑞幸](https://www.tmtpost.com/8094431.html)
+**发布时间**: 2026-08-07 12:35
+
+#### [苹果压价，被长鑫拒绝了](https://www.tmtpost.com/8094412.html)
+**发布时间**: 2026-08-07 12:35
+
+#### [贝恩资本接盘贡茶](https://www.tmtpost.com/8095028.html)
+**发布时间**: 2026-08-07 12:33
+
+#### [忙着搞钱的智元，把罗剑岚弄丢了](https://www.tmtpost.com/8094310.html)
+**发布时间**: 2026-08-07 11:39
+
+#### [实测腾讯WorkBuddy：能力及格，但生态真香](https://www.tmtpost.com/8094441.html)
+**发布时间**: 2026-08-07 11:36
+
+#### [China's Startup X2 Robotics Files for a HK IPO, Third-Generation Robot Will Hit the Market in Q4](https://www.tmtpost.com/8094916.html)
+**发布时间**: 2026-08-07 10:08
+
+#### [第一批做FDE的人，离高薪差远了](https://www.tmtpost.com/8094851.html)
+**发布时间**: 2026-08-07 09:32
+
+#### [DeepSeek V4 Flash低价斩杀线背后：当梁文锋也卷不动算力账单（含实测）](https://www.tmtpost.com/8094216.html)
+**发布时间**: 2026-08-07 09:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税](https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 13:33
+
+#### [HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复](https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:53
+
+#### [HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验](https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:53
+
+#### [DevEco CLI 快速入门：让 AI Agent 更懂 HarmonyOS 应用开发](https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:53
+
+#### [DNS 战场再起变化：Cloudflare 开始挑战 AWS Route 53](https://www.infoq.cn/article/B2JUs2zafHE0fE0AYaNY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:28
+
+#### [HBM 不够用了，AI SSD 迎来爆发前夜](https://www.infoq.cn/article/sQW5F63ZP4QMyhlWAzQi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:38
+
+#### [AI 视频降本的三种做法，只有一种不牺牲画质](https://www.infoq.cn/article/HqthsfSNK4bQYqOSh6Ni?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:29
+
+#### [荣耀 YOYO 智能体的产品化实践｜AICon深圳](https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜从合租到整租，我在客厅听见了自己的声音](https://sspai.com/post/113144)
+**发布时间**: 2026-08-07 10:15
+
+#### [派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
+**发布时间**: 2026-08-07 08:51
 
 ---
 

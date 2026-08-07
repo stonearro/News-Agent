@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 06:08
+**最后更新时间**: 2026-08-07 08:50
+
+---
+
+## 🆕 最新更新 (2026-08-07 08:50)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力](https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 16:25
+
+#### [从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索](https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 16:12
+
+#### [黎曼动力携手光轮智能与诺亦腾机器人，推进2026年百万小时具身智能数据建设](https://www.infoq.cn/article/hI2W3XTUo2GNylxSXDC8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 15:18
+
+#### [最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案](https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 15:00
+
+#### [从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳](https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [闪迪比英伟达还赚钱](https://www.tmtpost.com/8094460.html)
+**发布时间**: 2026-08-07 16:16
+
+#### [DeepSeek预告API涨价，AI低价红利落幕](https://www.tmtpost.com/8094414.html)
+**发布时间**: 2026-08-07 16:16
+
+#### [锴威特16.5亿收购大客户：“小吞大”背后的股权接力与对赌反差](https://www.tmtpost.com/8095185.html)
+**发布时间**: 2026-08-07 15:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [\[限时优惠\] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
+**发布时间**: 2026-08-07 15:39
 
 ---
 

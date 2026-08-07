@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Aug 2026 06:06:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 06:08:34 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 08:48:00 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:51:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频</title>
-      <link>https://www.qbitai.com/2026/08/467877.html</link>
-      <description>&lt;![CDATA[阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467877.html</guid>
+      <title>阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力</title>
+      <link>https://www.qbitai.com/2026/08/468324.html</link>
+      <description>&lt;![CDATA[阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 07:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468324.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了</title>
-      <link>https://www.qbitai.com/2026/08/467879.html</link>
-      <description>&lt;![CDATA[刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467879.html</guid>
+      <title>AI批量轰炸苹果bug赏金计划，审核团队已下线</title>
+      <link>https://www.qbitai.com/2026/08/466738.html</link>
+      <description>&lt;![CDATA[AI批量轰炸苹果bug赏金计划，审核团队已下线]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 06:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466738.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作</title>
-      <link>https://www.qbitai.com/2026/08/467871.html</link>
-      <description>&lt;![CDATA[蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 03:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467871.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI SSD：大模型推理的存储范式转移</title>
-      <link>https://www.qbitai.com/2026/08/467840.html</link>
-      <description>&lt;![CDATA[AI SSD：大模型推理的存储范式转移]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 02:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467840.html</guid>
+      <title>openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境</title>
+      <link>https://www.qbitai.com/2026/08/468305.html</link>
+      <description>&lt;![CDATA[openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 06:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468305.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 08:50
+**最后更新时间**: 2026-08-07 23:31
+
+---
+
+## 🆕 最新更新 (2026-08-07 23:31)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新](http://www.geekpark.net/news/368563)
+**发布时间**: 2026-08-07 23:25
+
+#### [Fitbit Air 手环深度体验：「无屏」只是手段，模型能力才是护城河](http://www.geekpark.net/news/368562)
+**发布时间**: 2026-08-07 23:24
+
+#### [AI Agent 手机下半场，「国标」L3 只是起点](http://www.geekpark.net/news/368561)
+**发布时间**: 2026-08-07 23:22
+
+#### [DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观](http://www.geekpark.net/news/368556)
+**发布时间**: 2026-08-07 17:56
+
+#### [打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线](http://www.geekpark.net/news/368553)
+**发布时间**: 2026-08-07 17:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”](https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 22:07
+
+#### [蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%](https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 18:16
+
+#### [10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026](https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 18:09
+
+#### [蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题](https://www.infoq.cn/article/B6WtPNGNH0d5LolB1ED2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 18:06
+
+#### [告别旧 Renderer！.NET MAUI 正式迈向 Handler 架构时代](https://www.infoq.cn/article/sbMEk7BQoWXRcl5ZFvkD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 17:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [MAIA ACTIVE黑龙江首店即将启幕；东鹏饮料上半年净利润28.67亿元，同增20.72%；宝洁集团2026财年大中华区重回增长｜消研所周报](https://www.tmtpost.com/8095593.html)
+**发布时间**: 2026-08-07 19:10
+
+#### [膜分离产业链调查：当"工程商"试图变成"材料商"，谁赚到了钱？](https://www.tmtpost.com/8095008.html)
+**发布时间**: 2026-08-07 19:01
+
+#### [谷歌的告别：大模型正在进入“车库时代”](https://www.tmtpost.com/8095060.html)
+**发布时间**: 2026-08-07 19:00
+
+#### [12万台冰箱海外召回：格兰仕的成本账算错了什么](https://www.tmtpost.com/8095215.html)
+**发布时间**: 2026-08-07 18:59
+
+#### [一签7.5万、估值609亿，机构投资人都在疯抢宇树科技？](https://www.tmtpost.com/8094702.html)
+**发布时间**: 2026-08-07 18:58
+
+#### [【硅基全链透视・终篇】硅料成博弈筹码，硅基产业自主提速](https://www.tmtpost.com/8094985.html)
+**发布时间**: 2026-08-07 18:58
+
+#### [张一鸣以退为进](https://www.tmtpost.com/8095013.html)
+**发布时间**: 2026-08-07 18:58
+
+#### [拆解“AI办公入口战”底层：怎么做才能成为最终赢家？](https://www.tmtpost.com/8095412.html)
+**发布时间**: 2026-08-07 18:29
+
+#### [马斯克划定“斩杀线”，无法阻挡中国版SpaceX逆势突围](https://www.tmtpost.com/8094572.html)
+**发布时间**: 2026-08-07 18:29
+
+#### [大观资本创始人韦海军出任语生科学导师：AI出海，需要回归商业常识](https://www.tmtpost.com/8095583.html)
+**发布时间**: 2026-08-07 18:26
+
+#### [腾讯是在“赛马”，还是在打造 “Agent工厂”？](https://www.tmtpost.com/8094467.html)
+**发布时间**: 2026-08-07 18:24
+
+#### [DeepSeek重启融资，三年市值对齐腾讯？](https://www.tmtpost.com/8095300.html)
+**发布时间**: 2026-08-07 17:47
+
+#### [我在星巴克13年，看着她变成另一家公司](https://www.tmtpost.com/8095321.html)
+**发布时间**: 2026-08-07 17:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113191)
+**发布时间**: 2026-08-07 17:52
 
 ---
 

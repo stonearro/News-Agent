@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 23:31
+**最后更新时间**: 2026-08-08 05:38
+
+---
+
+## 🆕 最新更新 (2026-08-08 05:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Shopify赢麻了](https://www.tmtpost.com/8096066.html)
+**发布时间**: 2026-08-08 11:10
+
+#### [光伏遭遇内外夹击，八大巨头同签行业倡议书，特朗普再次挥舞关税大棒，价格战到底能不能结束了？](https://www.tmtpost.com/8096059.html)
+**发布时间**: 2026-08-08 11:02
+
+#### [A股不赚API赚，梁文锋永远不亏](https://www.tmtpost.com/8096002.html)
+**发布时间**: 2026-08-08 10:57
+
+#### [“看别人脸色”终结了，绿色燃料产能已占全球近八成，中国这次终于夺回话语权](https://www.tmtpost.com/8096064.html)
+**发布时间**: 2026-08-08 10:52
+
+#### [AI博主站上风口](https://www.tmtpost.com/8096014.html)
+**发布时间**: 2026-08-08 10:48
+
+#### [寒武纪：上半年暴赚23亿，下半年看交付](https://www.tmtpost.com/8096056.html)
+**发布时间**: 2026-08-08 10:48
+
+#### [3.6万家门店，瑞幸撞上天花板？](https://www.tmtpost.com/8095964.html)
+**发布时间**: 2026-08-08 10:28
+
+#### [三个小时，王兴兴和宇树“努力”回应一切](https://www.tmtpost.com/8095642.html)
+**发布时间**: 2026-08-08 10:27
+
+#### [3年做到30亿美元，90后字节前高管，要去香港敲钟了](https://www.tmtpost.com/8095618.html)
+**发布时间**: 2026-08-08 10:27
+
+#### [又送走一任行长，北部湾银行IPO计划依旧原地踏步](https://www.tmtpost.com/8095872.html)
+**发布时间**: 2026-08-08 10:14
+
+#### [中年男人最爱的传奇游戏，还是太赚钱了](https://www.tmtpost.com/8095738.html)
+**发布时间**: 2026-08-08 10:03
+
+#### [从PPT到生产线，巨头们跨过具身智能“理想国”](https://www.tmtpost.com/8095622.html)
+**发布时间**: 2026-08-08 09:58
+
+#### [年薪千万不如估值百亿，AI大神“看不上”大厂](https://www.tmtpost.com/8095177.html)
+**发布时间**: 2026-08-08 09:52
+
+#### [河北阿那亚酒店卖到3000块一晚，可馋死广州九龙湖了](https://www.tmtpost.com/8095740.html)
+**发布时间**: 2026-08-08 09:46
+
+#### [工龄三个月的年轻人，挤满了折扣零食店](https://www.tmtpost.com/8095860.html)
+**发布时间**: 2026-08-08 09:46
+
+#### [小米前高管押注的咖啡机器人赛道，要用10万家门店PK瑞幸们？](https://www.tmtpost.com/8095842.html)
+**发布时间**: 2026-08-08 09:34
+
+#### [聊聊DeepSeek涨价：低价是手段，不是目的](https://www.tmtpost.com/8095791.html)
+**发布时间**: 2026-08-08 09:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳](https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-08 10:00
+
+#### [AWS Lambda 取消代码存储配额，别误会：函数大小限制没变](https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-08 08:37
+
+#### [MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了](https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-08 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道](http://www.geekpark.net/news/368565)
+**发布时间**: 2026-08-08 08:40
 
 ---
 

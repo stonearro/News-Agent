@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Aug 2026 05:42:00 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2026 05:44:21 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:25:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI</title>
-      <link>https://www.qbitai.com/2026/08/468782.html</link>
-      <description>&lt;![CDATA[当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 03:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468782.html</guid>
+      <title>180万刀，连亚马逊都烧不起Claude了</title>
+      <link>https://www.qbitai.com/2026/08/469010.html</link>
+      <description>&lt;![CDATA[180万刀，连亚马逊都烧不起Claude了]]&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469010.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了</title>
-      <link>https://www.qbitai.com/2026/08/468766.html</link>
-      <description>&lt;![CDATA[Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 03:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468766.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>爆料：哈萨比斯原本要和Jeff Dean一起走！</title>
-      <link>https://www.qbitai.com/2026/08/468715.html</link>
-      <description>&lt;![CDATA[爆料：哈萨比斯原本要和Jeff Dean一起走！]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 03:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468715.html</guid>
+      <title>GPT-5.6和Fable联手，解决了一道悬了25年的数学难题</title>
+      <link>https://www.qbitai.com/2026/08/468913.html</link>
+      <description>&lt;![CDATA[GPT-5.6和Fable联手，解决了一道悬了25年的数学难题]]&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 09:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468913.html</guid>
       <category>AI</category>
     </item>
   </channel>

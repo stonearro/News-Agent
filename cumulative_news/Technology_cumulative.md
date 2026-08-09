@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-08 23:22
+**最后更新时间**: 2026-08-09 05:44
+
+---
+
+## 🆕 最新更新 (2026-08-09 05:44)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器](http://www.geekpark.net/news/368579)
+**发布时间**: 2026-08-09 12:28
+
+#### [苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍](http://www.geekpark.net/news/368577)
+**发布时间**: 2026-08-09 07:56
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [谷歌AI 10年权力斗争落幕，皮查伊杯酒释兵权](https://www.tmtpost.com/8096485.html)
+**发布时间**: 2026-08-09 11:32
+
+#### [工厂待建，销售借力先声与济川，普祺医药再战港股IPO](https://www.tmtpost.com/8096492.html)
+**发布时间**: 2026-08-09 11:32
+
+#### [4元一杯的星巴克，还是没能偷家库迪瑞幸](https://www.tmtpost.com/8096567.html)
+**发布时间**: 2026-08-09 11:32
+
+#### [宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家](https://www.tmtpost.com/8096400.html)
+**发布时间**: 2026-08-09 11:23
+
+#### [特斯拉开放Model S/X设计资料：不是开源，是给'三柱合一'帝国铺第一块砖"](https://www.tmtpost.com/8096108.html)
+**发布时间**: 2026-08-09 11:12
+
+#### [苹果给阿里提了一个醒](https://www.tmtpost.com/8096547.html)
+**发布时间**: 2026-08-09 11:00
+
+#### [Jeff Dean离职谷歌首次亮相回答：AI的下一个十年是什么](https://www.tmtpost.com/8096544.html)
+**发布时间**: 2026-08-09 10:15
+
+#### [Edge AI Daily 早报（8月9日）](https://www.tmtpost.com/8096504.html)
+**发布时间**: 2026-08-09 08:28
+
+#### [Cambricon Turns a Profit Surge into an Inventory Test](https://www.tmtpost.com/8096505.html)
+**发布时间**: 2026-08-09 07:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI给10亿用户免费换上GPT-5.6](https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-09 10:23
+
+#### [从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳](https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-09 10:00
 
 ---
 

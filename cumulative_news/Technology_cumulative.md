@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 09:12
+**最后更新时间**: 2026-08-10 23:29
+
+---
+
+## 🆕 最新更新 (2026-08-10 23:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行印发"十五五"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上](https://www.tmtpost.com/8098284.html)
+**发布时间**: 2026-08-11 07:20
+
+#### [Franchise Operators Struggle as Meituan and Alibaba Densify Instant Neighborhood Depots](https://www.tmtpost.com/8098406.html)
+**发布时间**: 2026-08-11 07:05
+
+#### [字节高调转To B，为何回避To B主舞台？](https://www.tmtpost.com/8098332.html)
+**发布时间**: 2026-08-10 23:13
+
+#### [股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕](https://www.tmtpost.com/8098227.html)
+**发布时间**: 2026-08-10 20:48
+
+#### [天广实：22年无产品商业化，累亏超18亿，两轮定增后再募资3.49亿｜IPO观察](https://www.tmtpost.com/8097690.html)
+**发布时间**: 2026-08-10 19:33
+
+#### [汽水音乐翻过了网易云的那道墙](https://www.tmtpost.com/8096734.html)
+**发布时间**: 2026-08-10 18:46
+
+#### [我们在瑞幸的二季报，看到了增速见顶的信号](https://www.tmtpost.com/8097225.html)
+**发布时间**: 2026-08-10 18:46
+
+#### [换台电脑数据就丢了？千问办公Qwen3.8的精致与局限](https://www.tmtpost.com/8096868.html)
+**发布时间**: 2026-08-10 18:46
+
+#### [秋天的第一场架，在奶茶店开打](https://www.tmtpost.com/8096810.html)
+**发布时间**: 2026-08-10 18:46
+
+#### [长鑫IPO一步登顶三万亿：安徽「延迟满足」性格的胜利](https://www.tmtpost.com/8082275.html)
+**发布时间**: 2026-08-10 18:45
+
+#### [出境锁车风波，折射出怎样的智驾隐患？](https://www.tmtpost.com/8095085.html)
+**发布时间**: 2026-08-10 18:45
+
+#### [王兴兴的低调劝退，挡不住宇树的疯狂定价](https://www.tmtpost.com/8097913.html)
+**发布时间**: 2026-08-10 18:44
+
+#### [200亿身家，王兴兴告别王兴兴](https://www.tmtpost.com/8097139.html)
+**发布时间**: 2026-08-10 18:44
+
+#### [金徽酒补税8381万，下一个会是“茅五泸洋”吗？](https://www.tmtpost.com/8096877.html)
+**发布时间**: 2026-08-10 18:44
+
+#### [Ant Group Units Seek Independent Capital as AI and Global Businesses Step Forward](https://www.tmtpost.com/8097997.html)
+**发布时间**: 2026-08-10 18:18
+
+#### [ChinaJoy第二十三年：当漫展不再是漫展](https://www.tmtpost.com/8097317.html)
+**发布时间**: 2026-08-10 17:55
+
+#### [一张迟到的年报，照出中信消金的三处裂缝](https://www.tmtpost.com/8097840.html)
+**发布时间**: 2026-08-10 17:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
+**发布时间**: 2026-08-10 21:50
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/113283)
+**发布时间**: 2026-08-10 18:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了](http://www.geekpark.net/news/368638)
+**发布时间**: 2026-08-10 20:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？](https://www.infoq.cn/article/5qWsLD6JV8N2zDgGuhK9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 17:29
+
+#### [微软正式发布 Agent Framework Harness 和 Hosted Agents](https://www.infoq.cn/article/aDEJegvNSKwvue2JZ0yI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 17:14
 
 ---
 

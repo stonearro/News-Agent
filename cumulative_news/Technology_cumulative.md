@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 06:09
+**最后更新时间**: 2026-08-10 09:12
+
+---
+
+## 🆕 最新更新 (2026-08-10 09:12)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [熊孩子用AI做了个浏览器狂刷短视频，父母是该哭还是该笑？](https://www.tmtpost.com/8097618.html)
+**发布时间**: 2026-08-10 17:09
+
+#### [232亿，中产最爱的“贵族水”被卖了](https://www.tmtpost.com/8097685.html)
+**发布时间**: 2026-08-10 17:09
+
+#### [故障检出率高逾20倍，中创新航的“老三”危机](https://www.tmtpost.com/8097676.html)
+**发布时间**: 2026-08-10 17:09
+
+#### [互联网公司老板，死攥自家股票](https://www.tmtpost.com/8097652.html)
+**发布时间**: 2026-08-10 17:07
+
+#### [马斯克的芯片梦，要靠这个清华人来落地](https://www.tmtpost.com/8097612.html)
+**发布时间**: 2026-08-10 17:05
+
+#### [覆铜板背后的隐形“纳米粉”，年缺口2.6万吨，谁在卡位？](https://www.tmtpost.com/8097583.html)
+**发布时间**: 2026-08-10 16:56
+
+#### [AI正在接管餐饮业，但90%的餐饮人还没准备好](https://www.tmtpost.com/8097561.html)
+**发布时间**: 2026-08-10 16:56
+
+#### [2026上半年速冻食品市场趋势洞察](https://www.tmtpost.com/8097222.html)
+**发布时间**: 2026-08-10 16:55
+
+#### [黄金一周暴涨7%之后，我劝你先别冲动](https://www.tmtpost.com/8097415.html)
+**发布时间**: 2026-08-10 15:10
+
+#### [吃了30年渠道红利的旺旺，败给9.9元清仓价](https://www.tmtpost.com/8097399.html)
+**发布时间**: 2026-08-10 15:03
+
+#### [具身智能的大脑，200亿一张门票](https://www.tmtpost.com/8097290.html)
+**发布时间**: 2026-08-10 14:58
+
+#### [【Fintech 周报】A股最年轻行长诞生；黄金ETF7月以来揽金超百亿；7月银行共罚没1.45亿元](https://www.tmtpost.com/8097473.html)
+**发布时间**: 2026-08-10 14:50
+
+#### [DeepSeek涨价，阿里抽成：大客户会买账还是跑路？](https://www.tmtpost.com/8097408.html)
+**发布时间**: 2026-08-10 14:49
+
+#### [小蓝灯禁用引发的智驾合规之问](https://www.tmtpost.com/8097401.html)
+**发布时间**: 2026-08-10 14:48
+
+#### [家庭机器人的最大误判：把“进家”等同于“做家务”](https://www.tmtpost.com/8097388.html)
+**发布时间**: 2026-08-10 14:43
+
+#### [河北93年小伙卖“预制房”，3年卖出3000套，年销过亿](https://www.tmtpost.com/8097314.html)
+**发布时间**: 2026-08-10 14:43
+
+#### [475米高楼的酒店梦，为何迟迟落不了地？](https://www.tmtpost.com/8097397.html)
+**发布时间**: 2026-08-10 14:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [04年连续创业者、华为天才少年同台！DGP地心引力集结机器人最强后浪，40余家资本现场“爆灯”](https://www.infoq.cn/article/CrdrxQXcaPcUPTFW8usa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 16:33
+
+#### [HubSpot 采用规则引擎架构对 JITA 授权机制进行了重新设计](https://www.infoq.cn/article/S2WFg2MRuLmZE1s27lf8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 16:00
+
+#### [AI推理规模上升后，华为开始重新定义“存储”的位置](https://www.infoq.cn/article/qBHKWa0AabfP0Fs8rGrk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 15:24
+
+#### [行业新选手登场！中科慧思一口气发三款灵巧手新品，机器人也能组乐队现场演奏](https://www.infoq.cn/article/6EXTXyTt834kMGkiqqDT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 15:20
+
+#### [33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事](https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 14:26
+
+#### [破局“数据困境”：橡木果发布全球首个“具身本能模型”Natus AGE-0，获招商局创投与蔚来资本天使轮投资](https://www.infoq.cn/article/dXkqWgtLOtDEl82dzQR6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 14:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [顶尖 AI 人才，不敢结婚](http://www.geekpark.net/news/368625)
+**发布时间**: 2026-08-10 16:32
+
+#### [美国本土直播带货，长出一头 200 亿美元「巨兽」](http://www.geekpark.net/news/368627)
+**发布时间**: 2026-08-10 16:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [写给「跑两步就喘」的你：调整跑步姿势，舒适开跑](https://sspai.com/post/113115)
+**发布时间**: 2026-08-10 15:00
 
 ---
 

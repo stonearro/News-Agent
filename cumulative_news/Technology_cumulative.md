@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-09 23:25
+**最后更新时间**: 2026-08-10 06:09
+
+---
+
+## 🆕 最新更新 (2026-08-10 06:09)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期新闻：OpenJDK JEP、Jakarta EE、GraalVM、TornadoVM、Micronaut、Quarkus、JobRunr、Maven](https://www.infoq.cn/article/ETcjHcLADeCISiah5RfU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 13:26
+
+#### [通过保持变更局部性实现演进式架构](https://www.infoq.cn/article/ImsUql5IsVBqgcKp1aAh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 11:00
+
+#### [智能互动 Agent 在快手商业场景的落地实践｜AICon深圳](https://www.infoq.cn/article/KCw3ZLsEJcNYFegzd7dx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 10:00
+
+#### [微软发布搭载原生 Go 编译器的 TypeScript 7.0，构建速度提升 10 倍](https://www.infoq.cn/article/ciQHX2larGoSlHspZ9VK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 09:57
+
+#### [宇树科技今日申购，或出一批90后千万富豪；字节拟训练超5万亿参数模型，张一鸣：反对蒸馏；数百管理层被裁难找下家，猎头：没那么多岗｜AI周报](https://www.infoq.cn/article/xWWwhH3iPjwRakLOQiXQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 09:31
+
+#### [涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气](https://www.infoq.cn/article/FEcOI8kYoGuFYq39acEo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-10 09:25
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Tighter U.S. Rules on New Robot Vacuums Force Chinese Makers to Reassess the Market](https://www.tmtpost.com/8097395.html)
+**发布时间**: 2026-08-10 13:19
+
+#### [苹果测试长鑫存储，存储器市场在释放什么信号](https://www.tmtpost.com/8097379.html)
+**发布时间**: 2026-08-10 13:05
+
+#### [“新新三样”火了：中国制造的三级跳，跳出了什么？](https://www.tmtpost.com/8097093.html)
+**发布时间**: 2026-08-10 12:04
+
+#### [AI算力资本开支估算：3-4万亿美元算得出来，但兑现条件极其苛刻](https://www.tmtpost.com/8097205.html)
+**发布时间**: 2026-08-10 12:03
+
+#### [10部门联合整治，药店的“好日子”到头了？](https://www.tmtpost.com/8097212.html)
+**发布时间**: 2026-08-10 12:03
+
+#### [当“奥德修斯”遇见算法](https://www.tmtpost.com/8097213.html)
+**发布时间**: 2026-08-10 11:43
+
+#### [宇树科技上市，具身智能开始第一次“清场”](https://www.tmtpost.com/8097114.html)
+**发布时间**: 2026-08-10 10:59
+
+#### [中国电建河北院中标后被取消资格，19亿盐穴储能项目变成“煮熟的鸭子飞了”](https://www.tmtpost.com/8097088.html)
+**发布时间**: 2026-08-10 10:59
+
+#### [消失十年的前首富突然回国，2.2亿抄底上海酒店](https://www.tmtpost.com/8097208.html)
+**发布时间**: 2026-08-10 10:58
+
+#### [国产重组带状疱疹疫苗，跨不过GSK](https://www.tmtpost.com/8097165.html)
+**发布时间**: 2026-08-10 10:55
+
+#### [巨头们竞逐AI办公，AI手机尴尬了](https://www.tmtpost.com/8097113.html)
+**发布时间**: 2026-08-10 10:24
+
+#### [唯有技术立豪华，中国豪车市场开始换座次](https://www.tmtpost.com/8095165.html)
+**发布时间**: 2026-08-10 10:17
+
+#### [万店信仰，正在失灵](https://www.tmtpost.com/8097110.html)
+**发布时间**: 2026-08-10 10:15
+
+#### [长沙徐州联手拿下“国字号”，能否实现1+1＞2？](https://www.tmtpost.com/8097082.html)
+**发布时间**: 2026-08-10 10:12
+
+#### [又一批减重药的倒下](https://www.tmtpost.com/8097109.html)
+**发布时间**: 2026-08-10 10:07
+
+#### [OpenAI都撤了，AI浏览器只剩一条窄路](https://www.tmtpost.com/8096969.html)
+**发布时间**: 2026-08-10 10:07
+
+#### [广州首店背后，茶颜悦色的供应链账本](https://www.tmtpost.com/8096967.html)
+**发布时间**: 2026-08-10 10:07
+
+#### [当特朗普用多晶硅关税逼马斯克上轨道：AI+机器人全栈税的到期日](https://www.tmtpost.com/8096937.html)
+**发布时间**: 2026-08-10 10:02
+
+#### [大瓶啤酒，卖疯了](https://www.tmtpost.com/8096927.html)
+**发布时间**: 2026-08-10 10:02
+
+#### [Edge AI Daily 早报（8月10日）](https://www.tmtpost.com/8096942.html)
+**发布时间**: 2026-08-10 09:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
+**发布时间**: 2026-08-10 11:00
+
+#### [派早报：央视曝光酒店评级标识消费陷阱](https://sspai.com/post/113268)
+**发布时间**: 2026-08-10 07:08
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道](http://www.geekpark.net/news/368581)
+**发布时间**: 2026-08-10 08:16
 
 ---
 

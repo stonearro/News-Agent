@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-11 05:51
+**最后更新时间**: 2026-08-11 08:47
+
+---
+
+## 🆕 最新更新 (2026-08-11 08:47)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face](https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 16:36
+
+#### [腾讯WorkBuddy升级多端同步，支持手机远程授权和停止电脑端任务](https://www.infoq.cn/article/kSqvyjVIwTvXsumYgRtf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 14:28
+
+#### [让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践](https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 14:18
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」](http://www.geekpark.net/news/368667)
+**发布时间**: 2026-08-11 15:30
+
+#### [Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型](http://www.geekpark.net/news/368665)
+**发布时间**: 2026-08-11 15:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?](https://www.tmtpost.com/8099034.html)
+**发布时间**: 2026-08-11 15:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
+**发布时间**: 2026-08-11 13:59
 
 ---
 

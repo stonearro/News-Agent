@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-11 05:49
+**最后更新时间**: 2026-08-11 23:32
+
+---
+
+## 🆕 最新更新 (2026-08-11 23:32)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Advancing AMIE towards expert-level audio-visual clinical consultations](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/)
+**发布时间**: 2026-08-11 17:04
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布](https://www.qbitai.com/2026/08/470674.html)
+**发布时间**: 2026-08-11 13:57
+
+#### [一家新能源大厂，如何撑起全球最大AI算力超级单体？](https://www.qbitai.com/2026/08/470621.html)
+**发布时间**: 2026-08-11 11:36
+
+#### [谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”](https://www.qbitai.com/2026/08/470576.html)
+**发布时间**: 2026-08-11 09:24
 
 ---
 

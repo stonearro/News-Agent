@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 23:29
+**最后更新时间**: 2026-08-11 05:51
+
+---
+
+## 🆕 最新更新 (2026-08-11 05:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [超导量子计算距离规模化、工程化落地还有多远？丨ToB产业观察](https://www.tmtpost.com/8098852.html)
+**发布时间**: 2026-08-11 13:37
+
+#### [10万亿参数大模型，注定要被关进笼子里](https://www.tmtpost.com/8098885.html)
+**发布时间**: 2026-08-11 13:12
+
+#### [1200亿美元之上，中国服务器厂商重新排位](https://www.tmtpost.com/8098021.html)
+**发布时间**: 2026-08-11 12:56
+
+#### [一台88cm的机器人，凭什么让你把TA当家人？](https://www.tmtpost.com/8098628.html)
+**发布时间**: 2026-08-11 12:55
+
+#### [A股估值榜：再平衡进行时](https://www.tmtpost.com/8098463.html)
+**发布时间**: 2026-08-11 12:45
+
+#### [美国法官一纸禁令，药明康德市值冲破5900亿](https://www.tmtpost.com/8098729.html)
+**发布时间**: 2026-08-11 12:45
+
+#### [当AI成为中间介质，究竟是谁在帮品牌讲故事？](https://www.tmtpost.com/8097477.html)
+**发布时间**: 2026-08-11 12:07
+
+#### [拼多多上线“最快明天达”，主要面向多多买菜业务](https://www.tmtpost.com/8098781.html)
+**发布时间**: 2026-08-11 11:52
+
+#### [对话橡木果机器人姜峣：让机器人像人一样，凭“本能”干活](https://www.tmtpost.com/8098687.html)
+**发布时间**: 2026-08-11 11:15
+
+#### [豆包多收 4% 佣金：AI 流量贵在哪？](https://www.tmtpost.com/8098474.html)
+**发布时间**: 2026-08-11 11:03
+
+#### [国产FPGA，机会来了](https://www.tmtpost.com/8098056.html)
+**发布时间**: 2026-08-11 10:53
+
+#### [只失业了一秒钟！离开谷歌后，“AI教父”创业了](https://www.tmtpost.com/8098009.html)
+**发布时间**: 2026-08-11 10:31
+
+#### [宇树IPO，谁都输不起](https://www.tmtpost.com/8098378.html)
+**发布时间**: 2026-08-11 10:09
+
+#### [算法费减免为0，元气森林鲸吞无人零售？](https://www.tmtpost.com/8097996.html)
+**发布时间**: 2026-08-11 10:09
+
+#### [2026，跨境电商奔向“Agent 2 Agent”时刻](https://www.tmtpost.com/8098002.html)
+**发布时间**: 2026-08-11 10:09
+
+#### [AI吃掉SaaS利润后：Zoho为什么自研服务器](https://www.tmtpost.com/8098550.html)
+**发布时间**: 2026-08-11 09:54
+
+#### [半年融资250亿，灵巧手还没跑出“标准手”](https://www.tmtpost.com/8098473.html)
+**发布时间**: 2026-08-11 09:43
+
+#### [IonQ、D‑Wave财报落地，小型量子计算标的仍值得关注](https://www.tmtpost.com/8098504.html)
+**发布时间**: 2026-08-11 09:21
+
+#### [5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产](https://www.tmtpost.com/8098476.html)
+**发布时间**: 2026-08-11 09:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [eslint-rspack-plugin 5.0.0 以纯 ESM 包的形式发布，与 Rstack 生态系统保持一致](https://www.infoq.cn/article/MfAOXCR6RxQG515xW7HH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 13:21
+
+#### [开源共生 先锋同行｜世界人工智能开源大赛（GOAI）全球六城巡回宣讲活动圆满收官](https://www.infoq.cn/article/FisL2qoucPCr9v55Xpp8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 12:34
+
+#### [HashiCorp 发布 Vault Kubernetes 密钥管理功能的公开测试版](https://www.infoq.cn/article/eXUYjgSomYtprPMpbIPd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 10:27
+
+#### [DORA：AI 辅助软件开发的团队画像与能力模型，帮助团队将研究成果落地](https://www.infoq.cn/article/1oV8oaYwzU15W5BdSL7C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 10:21
+
+#### [企业 AI Native 研发流程升级与重塑｜AICon深圳](https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 10:00
+
+#### [开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流](https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你](https://sspai.com/post/113288)
+**发布时间**: 2026-08-11 12:00
+
+#### [不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍](https://sspai.com/post/113263)
+**发布时间**: 2026-08-11 10:17
+
+#### [派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
+**发布时间**: 2026-08-11 08:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [千问 App 推出付费服务，办公助理最高一年 1499 元；豆包酒店订单开收 12% 服务费；拼多多上线「最快明日达」｜极客早知道](http://www.geekpark.net/news/368640)
+**发布时间**: 2026-08-11 08:48
 
 ---
 

@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 06:10
+**最后更新时间**: 2026-08-12 09:06
+
+---
+
+## 🆕 最新更新 (2026-08-12 09:06)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI Content Matches Human Output Online, and a Detection Industry Rises to Keep Pace](https://www.tmtpost.com/8100694.html)
+**发布时间**: 2026-08-12 16:51
+
+#### [第一批All in AI的大学生，正在重塑影视就业链](https://www.tmtpost.com/8100493.html)
+**发布时间**: 2026-08-12 16:44
+
+#### [创新药连续两次上新闻联播，国家定调“新新三样”，释放了什么信号？](https://www.tmtpost.com/8099930.html)
+**发布时间**: 2026-08-12 16:43
+
+#### [三年营收涨15倍的万岁山，救得了恒大投资千亿元的烂尾项目吗？](https://www.tmtpost.com/8099533.html)
+**发布时间**: 2026-08-12 16:43
+
+#### [第一批火的AI艺人，已经撞上了真人明星的壁](https://www.tmtpost.com/8100533.html)
+**发布时间**: 2026-08-12 16:37
+
+#### [一颗电容，让16.8万台呼吸机被FDA列为最高等级召回，7月31日，美国FDA干了一件看似自相矛盾的](https://www.tmtpost.com/8100531.html)
+**发布时间**: 2026-08-12 16:37
+
+#### [频繁“翻车”后，看关于AI短剧广告的未来](https://www.tmtpost.com/8100282.html)
+**发布时间**: 2026-08-12 16:37
+
+#### [冷冻烘焙兴起：一场关于性价比的新实验](https://www.tmtpost.com/8100516.html)
+**发布时间**: 2026-08-12 16:33
+
+#### [AI漫剧正在成为网文IP的低成本试映场吗？](https://www.tmtpost.com/8100485.html)
+**发布时间**: 2026-08-12 16:33
+
+#### [日本开始“补课”人形机器人，但无法复制中国模式](https://www.tmtpost.com/8100526.html)
+**发布时间**: 2026-08-12 16:28
+
+#### [Lululemon的“新对手”：一季吸金46亿，“加拿大优衣库”被疯抢](https://www.tmtpost.com/8100511.html)
+**发布时间**: 2026-08-12 16:20
+
+#### [老铺黄金跑输金价大盘，是“天灾”还是“人祸”？](https://www.tmtpost.com/8100515.html)
+**发布时间**: 2026-08-12 16:20
+
+#### [为什么小酒馆正在沦为“夜间弃子”？](https://www.tmtpost.com/8100124.html)
+**发布时间**: 2026-08-12 15:26
+
+#### [做空印度的不是AI，是数字时代的能力斩杀面](https://www.tmtpost.com/8100322.html)
+**发布时间**: 2026-08-12 15:15
+
+#### [特斯拉为什么拆Model S/ X 产线，推进Optimus量产？](https://www.tmtpost.com/8100084.html)
+**发布时间**: 2026-08-12 15:11
+
+#### [语音输入法，叩响AI世界大门？](https://www.tmtpost.com/8100215.html)
+**发布时间**: 2026-08-12 15:07
+
+#### [美国丛珊机构们，提前开抢OA上市的慈善红利](https://www.tmtpost.com/8100192.html)
+**发布时间**: 2026-08-12 15:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [面壁智能正式启动IPO：中信证券辅导，端侧模型走向资本市场](https://www.infoq.cn/article/hMG80lZUX1kaJWpr58g1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 16:48
+
+#### [SkiaSharp 4 连发多个版本：GPU 渲染提速，WebAssembly 支持升级](https://www.infoq.cn/article/pKprBfc9MPLZVaNpMQgg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 15:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
+**发布时间**: 2026-08-12 15:00
 
 ---
 

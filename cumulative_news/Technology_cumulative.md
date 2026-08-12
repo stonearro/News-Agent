@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-11 23:34
+**最后更新时间**: 2026-08-12 06:10
+
+---
+
+## 🆕 最新更新 (2026-08-12 06:10)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [千条广告“抢”一个 30 秒位置，平台如何实时做出选择？](https://www.infoq.cn/article/LDrAypWCIbNuL3XS30PE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 13:30
+
+#### [群青智能联合创始人&CEO 吴哲明博士确认出席AICon深圳，将分享“从真实产线定义智能——工业具身智能的物理 AI 闭环”](https://www.infoq.cn/article/b1V6WF6iUajJpND8VmCE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 11:43
+
+#### [DoorDash使用Envoy和Valkey构建了1.5M RPS的代理缓存，可用性达99.99999%](https://www.infoq.cn/article/4pXftxRySRf5FB5hJK9o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 11:32
+
+#### [小扎万字长文炮轰闭源：蒸馏无罪，Meta 正式重回开源模型路线](https://www.infoq.cn/article/9sy33cA91Fp8z5mlOvNu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 10:43
+
+#### [Cloudflare发现了hyper HTTP/1实现中的竞态条件问题并进行了修复](https://www.infoq.cn/article/FbaA82tNKyG25aHVejHU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 10:28
+
+#### [机器人大脑之争进入深水区：为什么物理世界需要从头设计模型](https://www.infoq.cn/article/rcSr7bVQFB9Uskadg74T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 10:19
+
+#### [让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践 ｜ 技术实践](https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 17:19
+
+#### [为 Agentic Enterprise 实现 ROI：企业高管需要关注的 3 个关键因素 ｜ 技术趋势](https://www.infoq.cn/article/fe63sMOT127Pu7QpHP3a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 17:19
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百丽时尚：企业 AI 应用建设落地实践——从协同在线到 AI 原生](https://www.tmtpost.com/8095183.html)
+**发布时间**: 2026-08-12 13:10
+
+#### [长时储能产业化的新节点，比拼的逻辑变了](https://www.tmtpost.com/8099232.html)
+**发布时间**: 2026-08-12 11:54
+
+#### [核电的景气长周期里，铀是最紧的那一环](https://www.tmtpost.com/8100004.html)
+**发布时间**: 2026-08-12 11:34
+
+#### [人工智能怎么能做广告？](https://www.tmtpost.com/8100002.html)
+**发布时间**: 2026-08-12 11:30
+
+#### [桌面办公Agent卡位战：谁先占领你的电脑？](https://www.tmtpost.com/8099969.html)
+**发布时间**: 2026-08-12 11:24
+
+#### [钟睒睒和吴晓波，都不是真的“恨”电商](https://www.tmtpost.com/8099919.html)
+**发布时间**: 2026-08-12 11:16
+
+#### [医疗AI的下一道门槛，不是准确率](https://www.tmtpost.com/8099916.html)
+**发布时间**: 2026-08-12 11:13
+
+#### [不到2万亿美元的SpaceX还是“白菜价”？](https://www.tmtpost.com/8099842.html)
+**发布时间**: 2026-08-12 11:09
+
+#### [算力即资产，还是算力即生产力，中美AI路径分岔](https://www.tmtpost.com/8098622.html)
+**发布时间**: 2026-08-12 11:09
+
+#### [10万亿参数大模型还没影，字节先造了个一级部门](https://www.tmtpost.com/8099914.html)
+**发布时间**: 2026-08-12 11:02
+
+#### [净利翻倍，工业富联还是“代工厂”吗？](https://www.tmtpost.com/8099835.html)
+**发布时间**: 2026-08-12 11:02
+
+#### [费大厨“小炒肉大王”争议背后，有一门疯狂的生意](https://www.tmtpost.com/8098926.html)
+**发布时间**: 2026-08-12 11:02
+
+#### [互联网大厂已经安静了半年](https://www.tmtpost.com/8099909.html)
+**发布时间**: 2026-08-12 11:00
+
+#### [新能源企业扎堆REITs，规模已超100亿，啥是REITs？为什么新能源都要进来？行业逻辑又变了？](https://www.tmtpost.com/8099891.html)
+**发布时间**: 2026-08-12 10:57
+
+#### [天猫请AI顶流段宴拍广告，配音演员先找上门了](https://www.tmtpost.com/8099890.html)
+**发布时间**: 2026-08-12 10:56
+
+#### [储能反杀光伏，2026 Q2 中企海外项目数首超光伏，96% 砸向一带一路，巴基斯坦只是冰山一角](https://www.tmtpost.com/8099889.html)
+**发布时间**: 2026-08-12 10:55
+
+#### [多抗开始被“清算”了？](https://www.tmtpost.com/8099877.html)
+**发布时间**: 2026-08-12 10:53
+
+#### [面壁智能200亿估值疑云：谁在买单，谁在定价？](https://www.tmtpost.com/8099664.html)
+**发布时间**: 2026-08-12 10:53
+
+#### [TikTok Shop的印尼"后院"，起火了](https://www.tmtpost.com/8099629.html)
+**发布时间**: 2026-08-12 10:48
+
+#### [沪上阿姨两日暴跌31亿，解禁窗口突袭新茶饮](https://www.tmtpost.com/8099619.html)
+**发布时间**: 2026-08-12 10:44
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈](http://www.geekpark.net/news/368707)
+**发布时间**: 2026-08-12 11:39
+
+#### [林俊旸创办 AI 公司，估值20亿美元；Gemini 月活用户达 10 亿；Manus 宣布恢复独立运营](http://www.geekpark.net/news/368700)
+**发布时间**: 2026-08-12 08:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
+**发布时间**: 2026-08-12 11:04
+
+#### [派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
+**发布时间**: 2026-08-12 08:44
 
 ---
 

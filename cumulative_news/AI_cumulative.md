@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-12 09:04
+**最后更新时间**: 2026-08-12 23:32
+
+---
+
+## 🆕 最新更新 (2026-08-12 23:32)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵](https://www.qbitai.com/2026/08/471254.html)
+**发布时间**: 2026-08-12 13:46
+
+#### [Anthropic CEO整天神神叨叨，投资人受不了了](https://www.qbitai.com/2026/08/471162.html)
+**发布时间**: 2026-08-12 13:38
+
+#### [国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键](https://www.qbitai.com/2026/08/471049.html)
+**发布时间**: 2026-08-12 13:10
+
+#### [紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力](https://www.qbitai.com/2026/08/471030.html)
+**发布时间**: 2026-08-12 10:54
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
+**发布时间**: 2026-08-12 09:51
 
 ---
 

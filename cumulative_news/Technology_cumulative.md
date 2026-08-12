@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 09:06
+**最后更新时间**: 2026-08-12 23:35
+
+---
+
+## 🆕 最新更新 (2026-08-12 23:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行最新定调：综合运用并适时调整货币政策工具，保持流动性充裕；二季度新AI产品影响105亿利润，腾讯总裁回应；荣耀发布首款机器人手机](https://www.tmtpost.com/8101406.html)
+**发布时间**: 2026-08-13 07:20
+
+#### [主业失血、解禁临门，君逸数码算力转型“三箭齐发”，时机值得细看](https://www.tmtpost.com/8101147.html)
+**发布时间**: 2026-08-12 18:56
+
+#### [独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口](https://www.tmtpost.com/8100764.html)
+**发布时间**: 2026-08-12 18:21
+
+#### [张一鸣的「慢」，和整个行业的「快」](https://www.tmtpost.com/8100294.html)
+**发布时间**: 2026-08-12 18:20
+
+#### [AI重演1873年：老百姓正悄悄成为算力的接盘者](https://www.tmtpost.com/8100186.html)
+**发布时间**: 2026-08-12 18:15
+
+#### [豆包收12%佣金，第一批做GEO的酒店偷偷笑了](https://www.tmtpost.com/8099531.html)
+**发布时间**: 2026-08-12 18:15
+
+#### [东鹏饮料，摸到了天花板](https://www.tmtpost.com/8099397.html)
+**发布时间**: 2026-08-12 18:15
+
+#### [罗森们，二次元基因觉醒](https://www.tmtpost.com/8099366.html)
+**发布时间**: 2026-08-12 18:13
+
+#### [彭迦信回购腾讯音乐](https://www.tmtpost.com/8100028.html)
+**发布时间**: 2026-08-12 18:09
+
+#### [大鹏是中国的乔丹·皮尔吗？](https://www.tmtpost.com/8099464.html)
+**发布时间**: 2026-08-12 18:09
+
+#### [4S店集体“爆改”：卖车亏百万，如今改卖服装、烧烤与人形机器人](https://www.tmtpost.com/8099407.html)
+**发布时间**: 2026-08-12 18:09
+
+#### [这种“AI散热材料”告急，稀土管制是源头](https://www.tmtpost.com/8100661.html)
+**发布时间**: 2026-08-12 18:09
+
+#### [钟睒睒再次炮轰平台经济 反垄断监管之下的渠道博弈](https://www.tmtpost.com/8100540.html)
+**发布时间**: 2026-08-12 18:08
+
+#### [宁德时代退一步，理想切一层](https://www.tmtpost.com/8099518.html)
+**发布时间**: 2026-08-12 18:06
+
+#### [上线“明天达”，拼多多打响时效战](https://www.tmtpost.com/8100698.html)
+**发布时间**: 2026-08-12 18:06
+
+#### [210万沉默患者，能否改变一家Biotech的命运？](https://www.tmtpost.com/8100765.html)
+**发布时间**: 2026-08-12 18:06
+
+#### [估值20亿美元，AI大神林俊旸创业，红杉、腾讯抢着投](https://www.tmtpost.com/8100926.html)
+**发布时间**: 2026-08-12 18:05
+
+#### [IPO前夜，OpenAI的「生意人」先走了](https://www.tmtpost.com/8100230.html)
+**发布时间**: 2026-08-12 17:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？](https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 18:07
+
+#### [Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的](https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 17:22
+
+#### [别再所有人平分AI算力：顶级模型给资深工程师才省钱，新人刷题式成长已失效](https://www.infoq.cn/article/YBCpst8secs3xWqZwWLe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-12 17:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
+**发布时间**: 2026-08-12 17:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新](http://www.geekpark.net/news/368744)
+**发布时间**: 2026-08-12 17:24
+
+#### [AI 入口，开始收费](http://www.geekpark.net/news/368740)
+**发布时间**: 2026-08-12 17:14
 
 ---
 

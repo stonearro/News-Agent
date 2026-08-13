@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-13 06:13
+**最后更新时间**: 2026-08-13 09:07
+
+---
+
+## 🆕 最新更新 (2026-08-13 09:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [核药史上最大并购，与竞争规则的改写](https://www.tmtpost.com/8101727.html)
+**发布时间**: 2026-08-13 17:01
+
+#### [Families Drive Hours for Digital Visions of Places That Do Not Exist](https://www.tmtpost.com/8102154.html)
+**发布时间**: 2026-08-13 16:22
+
+#### [阅文爆产，红果收割](https://www.tmtpost.com/8101693.html)
+**发布时间**: 2026-08-13 16:21
+
+#### [小鹏换了一种造车方式](https://www.tmtpost.com/8101631.html)
+**发布时间**: 2026-08-13 16:21
+
+#### [东南亚电商的利润幻觉：GMV增长为何换不来利润](https://www.tmtpost.com/8101815.html)
+**发布时间**: 2026-08-13 15:30
+
+#### [腾讯A⁠I开始算回报：从增强旧业务，到寻找下一门新生意](https://www.tmtpost.com/8101476.html)
+**发布时间**: 2026-08-13 15:30
+
+#### [腾讯AI不再“观望”](https://www.tmtpost.com/8101606.html)
+**发布时间**: 2026-08-13 15:30
+
+#### [AI ROI的真正鸿沟：不是技术差距，而是组织与客户旅程的错配](https://www.tmtpost.com/8101528.html)
+**发布时间**: 2026-08-13 15:30
+
+#### [0.1 分性能差，60倍价格差：不甘“平替”，DeepSeek双杀硅谷](https://www.tmtpost.com/8101961.html)
+**发布时间**: 2026-08-13 15:30
+
+#### [资本热捧Vibe Coding：企业估值狂飙，赛道出现分化](https://www.tmtpost.com/8102019.html)
+**发布时间**: 2026-08-13 14:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新](http://www.geekpark.net/news/368777)
+**发布时间**: 2026-08-13 16:55
+
+#### [「美国豆包手机」全系涨价，新东西全留给了 Gemini](http://www.geekpark.net/news/368766)
+**发布时间**: 2026-08-13 14:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [软件不是文件：KDC 的知识工程主张](https://www.infoq.cn/article/N43yEF08JflwxI0S0Uec?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 16:53
+
+#### [少开会、讲契约：平台团队如何降低跨团队协作成本？](https://www.infoq.cn/article/2uH7CYREyZV2VOqCesSV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 16:08
+
+#### [鸿蒙元服务的“体验密码” | 从京东到深圳万象城，看技术底层如何让服务直达用户](https://www.infoq.cn/article/idSeoMsu4WCrNlxYNC5H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 15:56
+
+#### [TanStack Table V9测试版：Tree-Shakable特性、TanStack Store状态与更低内存的使用](https://www.infoq.cn/article/sw9Wgh5VPpzpuUmQvFo1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 14:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从原理出发，高效搞定夏日营养冷食](https://sspai.com/prime/story/summer-cold-meal-guide)
+**发布时间**: 2026-08-13 16:01
+
+#### [TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
+**发布时间**: 2026-08-13 15:01
 
 ---
 

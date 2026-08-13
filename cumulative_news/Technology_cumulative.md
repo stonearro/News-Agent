@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 23:35
+**最后更新时间**: 2026-08-13 06:13
+
+---
+
+## 🆕 最新更新 (2026-08-13 06:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [微信，要用AI杀死社交吗？](https://www.tmtpost.com/8101419.html)
+**发布时间**: 2026-08-13 13:28
+
+#### [房东“暴力涨租”，“吓跑”胖东来](https://www.tmtpost.com/8101374.html)
+**发布时间**: 2026-08-13 12:32
+
+#### [瑞士生物科技企业Bioscibex研发一次性摇摆式生物反应器，简化细胞培养流程 | 瑞士创新100强](https://www.tmtpost.com/8101919.html)
+**发布时间**: 2026-08-13 12:32
+
+#### [燃油车进入倒计时，他们困在职业瓶颈里](https://www.tmtpost.com/8101369.html)
+**发布时间**: 2026-08-13 12:15
+
+#### [谁在给可乐“判死刑”](https://www.tmtpost.com/8101860.html)
+**发布时间**: 2026-08-13 12:15
+
+#### [具身智能公司，没有学会怎么花钱｜钛媒体深度](https://www.tmtpost.com/8101874.html)
+**发布时间**: 2026-08-13 12:03
+
+#### [北大、NTU等推出世界动作模型ω-0，重塑人形机器人的居家作业模式](https://www.tmtpost.com/8101182.html)
+**发布时间**: 2026-08-13 11:44
+
+#### [被AI“邪典”投喂的一代，儿童动画变成了“毒药”](https://www.tmtpost.com/8101313.html)
+**发布时间**: 2026-08-13 11:44
+
+#### [淘宝闪购归队，外卖大战的无限游戏和有限子弹](https://www.tmtpost.com/8101125.html)
+**发布时间**: 2026-08-13 11:10
+
+#### [腾讯迈入奥德赛期](https://www.tmtpost.com/8101796.html)
+**发布时间**: 2026-08-13 11:07
+
+#### [阅文AI转型，成功了一半？](https://www.tmtpost.com/8101121.html)
+**发布时间**: 2026-08-13 11:07
+
+#### [2026下半年漫剧：IP运营成发展重点，超六成S级爆款由IP改编](https://www.tmtpost.com/8100468.html)
+**发布时间**: 2026-08-13 11:07
+
+#### [物理AI时代的产业逻辑推演——AIDC算力底座](https://www.tmtpost.com/8101800.html)
+**发布时间**: 2026-08-13 11:07
+
+#### [腾讯Q2：当AI投入开始改写利润表](https://www.tmtpost.com/8101859.html)
+**发布时间**: 2026-08-13 11:05
+
+#### [银行理财市场分析（2026年二季度）](https://www.tmtpost.com/8101853.html)
+**发布时间**: 2026-08-13 10:57
+
+#### [一个千亿赛道的“社死”时刻](https://www.tmtpost.com/8100943.html)
+**发布时间**: 2026-08-13 10:50
+
+#### [DeepSeek-V4-Pro正式版实测：山不在高，有“梁”则灵](https://www.tmtpost.com/8101755.html)
+**发布时间**: 2026-08-13 10:50
+
+#### [单项致胜：五星股票型基金产品深度参考（2026年二季度）](https://www.tmtpost.com/8101823.html)
+**发布时间**: 2026-08-13 10:38
+
+#### [浙江上市公司价值重估：制造业与数字科技抬升上限，产业链分化加剧](https://www.tmtpost.com/8101786.html)
+**发布时间**: 2026-08-13 10:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure Cosmos DB 严重漏洞曝光：一条查询可攻破所有租户数据库](https://www.infoq.cn/article/L9IqUuWzSB4zgP0PBqG2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 11:53
+
+#### [与运行时无关的 AI 工作流：一种兼顾生产环境稳定性和快速评估迭代的模式](https://www.infoq.cn/article/Za8vaFWPCM7LtuRfhDmD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 11:06
+
+#### [智象未来 (HiDream.ai)算法科学家潘滢炜博士确认出席AICon深圳，将分享“从 Token 预测到状态预测：迈向世界模型的原生全模态之路”](https://www.infoq.cn/article/9d9Oik3uZpqfjbfElZaq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-13 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
+**发布时间**: 2026-08-13 11:18
+
+#### [派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
+**发布时间**: 2026-08-13 08:14
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道](http://www.geekpark.net/news/368747)
+**发布时间**: 2026-08-13 08:14
 
 ---
 

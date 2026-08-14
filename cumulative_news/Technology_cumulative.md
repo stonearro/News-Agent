@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-13 23:35
+**最后更新时间**: 2026-08-14 06:10
+
+---
+
+## 🆕 最新更新 (2026-08-14 06:10)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 正在重塑故障处理流程，但棘手问题仍需人类解决](https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 13:54
+
+#### [走进 CTO 圆桌：构建 AI 原生组织的工程领导者经验分享 | 技术趋势](https://www.infoq.cn/article/cFMO2oN8SyaR9vuUVUeQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 11:30
+
+#### [AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案](https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 10:35
+
+#### [Uno Platform 6.6 发布：Android 启动性能最高提升 61%](https://www.infoq.cn/article/s1HsC9y7mPAAXRN4VgYs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 10:20
+
+#### [涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”](https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了](http://www.geekpark.net/news/368809)
+**发布时间**: 2026-08-14 12:17
+
+#### [DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元](http://www.geekpark.net/news/368789)
+**发布时间**: 2026-08-14 08:52
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [82亿市值、10.96亿定增，硕贝德押注三大热门赛道的激进赌局](https://www.tmtpost.com/8103346.html)
+**发布时间**: 2026-08-14 12:03
+
+#### [李健上任 600 天，荣耀造了台华为没造过的手机](https://www.tmtpost.com/8103083.html)
+**发布时间**: 2026-08-14 11:07
+
+#### [美的再花16亿“输血”合康新能， 500亿能源目标的第一步，能走稳吗？](https://www.tmtpost.com/8102956.html)
+**发布时间**: 2026-08-14 11:02
+
+#### [不得不说，《原神》还是你大爷](https://www.tmtpost.com/8103079.html)
+**发布时间**: 2026-08-14 10:58
+
+#### [6家注册资本千万的药企要被注销了，医药流通的“大洗牌”来了](https://www.tmtpost.com/8103075.html)
+**发布时间**: 2026-08-14 10:54
+
+#### [“美国版豆包手机”，弱爆了](https://www.tmtpost.com/8103074.html)
+**发布时间**: 2026-08-14 10:51
+
+#### [“阿福医生版”上线，蚂蚁集团的新赌局](https://www.tmtpost.com/8103073.html)
+**发布时间**: 2026-08-14 10:45
+
+#### [储能融资租赁接连爆雷，千亿金租公司总裁被带走，交银金租、长江金租齐齐起诉，576亿赛道亮起红灯](https://www.tmtpost.com/8102934.html)
+**发布时间**: 2026-08-14 10:40
+
+#### [商业火箭“一公斤两万元”，真的有这么便宜吗？](https://www.tmtpost.com/8102783.html)
+**发布时间**: 2026-08-14 10:34
+
+#### [Grok 4.6上了牌桌，马斯克还差一部《奥德赛》](https://www.tmtpost.com/8102937.html)
+**发布时间**: 2026-08-14 10:24
+
+#### [AI救活了马桶企业？股价一年暴涨120%，靠AI芯片赚疯了](https://www.tmtpost.com/8102908.html)
+**发布时间**: 2026-08-14 10:24
+
+#### [株洲搞风电，凭什么？](https://www.tmtpost.com/8103037.html)
+**发布时间**: 2026-08-14 10:24
+
+#### [西北首家希尔顿再更名，神秘业主仍未亮相](https://www.tmtpost.com/8103070.html)
+**发布时间**: 2026-08-14 10:14
+
+#### [摩尔线程：国产GPU最接近"翻过雪山"的时刻](https://www.tmtpost.com/8102974.html)
+**发布时间**: 2026-08-14 10:14
+
+#### [金龙鱼，仍未等到第二曲线](https://www.tmtpost.com/8102831.html)
+**发布时间**: 2026-08-14 10:01
+
+#### [5000亿美元涌向算力：英伟达想要给AI装上金融杠杆](https://www.tmtpost.com/8102827.html)
+**发布时间**: 2026-08-14 09:57
+
+#### [闭店率7.6%！存量厮杀时代，药店开始押注健康驿站丨行业风向标](https://www.tmtpost.com/8102655.html)
+**发布时间**: 2026-08-14 09:56
+
+#### [为什么董宇辉、黄子韬都来做卫生巾？](https://www.tmtpost.com/8102819.html)
+**发布时间**: 2026-08-14 09:52
+
+#### [业绩报喜，涨幅垫底，浦发银行有点尴尬](https://www.tmtpost.com/8102681.html)
+**发布时间**: 2026-08-14 09:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [声擎×少数派｜「角落新声」征文活动获奖结果公布](https://sspai.com/post/111709)
+**发布时间**: 2026-08-14 11:44
+
+#### [App+1 | 把图标收进格子，DeskBox 让桌面整洁有序](https://sspai.com/post/112279)
+**发布时间**: 2026-08-14 10:54
+
+#### [派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态](https://sspai.com/post/113434)
+**发布时间**: 2026-08-14 08:52
 
 ---
 

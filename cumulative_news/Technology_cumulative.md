@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 06:10
+**最后更新时间**: 2026-08-14 09:07
+
+---
+
+## 🆕 最新更新 (2026-08-14 09:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从洛天依到方桃子：2.5次元偶像的进化之路](https://www.tmtpost.com/8103667.html)
+**发布时间**: 2026-08-14 16:59
+
+#### [吊打SpaceX，史上最大IPO要来了？](https://www.tmtpost.com/8103633.html)
+**发布时间**: 2026-08-14 16:56
+
+#### [订阅越来越难成为一门独立的好生意](https://www.tmtpost.com/8103582.html)
+**发布时间**: 2026-08-14 16:52
+
+#### [诺兰不完全指南：疾病的时代与时代的疾病](https://www.tmtpost.com/8103502.html)
+**发布时间**: 2026-08-14 16:49
+
+#### [港元稳定币「大撤退」](https://www.tmtpost.com/8103499.html)
+**发布时间**: 2026-08-14 16:41
+
+#### [实测京东实时流式视频编辑模型，AI终于可以边播边改视频了吗？](https://www.tmtpost.com/8101981.html)
+**发布时间**: 2026-08-14 16:40
+
+#### [赵露思一分钟带货千万，ALO的中国故事才刚翻开第一页](https://www.tmtpost.com/8103437.html)
+**发布时间**: 2026-08-14 16:33
+
+#### [宝鸡首富，给重庆添了一个IPO](https://www.tmtpost.com/8103444.html)
+**发布时间**: 2026-08-14 16:33
+
+#### [打工人买爆“拼好菜”：最低1块5，爆款月销200万](https://www.tmtpost.com/8103238.html)
+**发布时间**: 2026-08-14 16:28
+
+#### [联想搞钱的方式，变了](https://www.tmtpost.com/8103418.html)
+**发布时间**: 2026-08-14 16:28
+
+#### [219倍，宇树科技的估值折叠](https://www.tmtpost.com/8103349.html)
+**发布时间**: 2026-08-14 16:17
+
+#### [零跑朱江明闯入了无人区](https://www.tmtpost.com/8103333.html)
+**发布时间**: 2026-08-14 16:17
+
+#### [谷歌AI人事动荡：全栈是护城河，也是纷争的起源](https://www.tmtpost.com/8103323.html)
+**发布时间**: 2026-08-14 16:17
+
+#### [竞速县域：县城不再等货来，开始挑品牌了](https://www.tmtpost.com/8100200.html)
+**发布时间**: 2026-08-14 16:16
+
+#### [工业智能体“拼落地”，谁能真正上产线？](https://www.tmtpost.com/8103269.html)
+**发布时间**: 2026-08-14 16:13
+
+#### [销量下滑，新品腰斩：这个夏天，冰淇淋“冷”了](https://www.tmtpost.com/8103251.html)
+**发布时间**: 2026-08-14 16:11
+
+#### [绕过搜索，微信Agent会复刻竞价排名吗？](https://www.tmtpost.com/8103215.html)
+**发布时间**: 2026-08-14 16:11
+
+#### [万科泊寓，补上“第四条腿”](https://www.tmtpost.com/8102405.html)
+**发布时间**: 2026-08-14 16:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [InfoQ 2026 年趋势报告：文化与方法论篇](https://www.infoq.cn/article/ZiLdF4HaE2o3ieYydQQv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 15:17
+
+#### [“写代码从来都不是难点”，这是对全世界所有程序员的严重侮辱](https://www.infoq.cn/article/gkOdbZGI6RXGmN09pIeK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:55
+
+#### [Zig 创始人直言，Bun 靠 Claude 生成的 Rust 重构版是“没人把关的烂代码”](https://www.infoq.cn/article/5JAOs4xARzjGb5sj2LxG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:54
+
+#### [Claude Code没有“魔法”](https://www.infoq.cn/article/aVJlp0XApUkyu6CNLOkL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:44
+
+#### [DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件](https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:38
+
+#### [从“工具”到“同事”——AI 时代的产品进化](https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:37
+
+#### [DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了](https://www.infoq.cn/article/XpFUaftcEE3iLgGzYGZi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:34
+
+#### [从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞](https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:28
+
+#### [Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”](https://www.infoq.cn/article/4t8SKMGI28buD345I2Ta?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 14:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
+**发布时间**: 2026-08-14 15:00
 
 ---
 

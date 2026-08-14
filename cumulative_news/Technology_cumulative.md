@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 09:07
+**最后更新时间**: 2026-08-14 23:16
+
+---
+
+## 🆕 最新更新 (2026-08-14 23:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事](https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-15 00:19
+
+#### [Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线](https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-15 00:01
+
+#### [AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷](https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 23:41
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI](https://www.tmtpost.com/8104183.html)
+**发布时间**: 2026-08-14 21:29
+
+#### [Robotruck重新升温，无人货运开始算经济账](https://www.tmtpost.com/8100924.html)
+**发布时间**: 2026-08-14 18:55
+
+#### [ALO天猫、微信官方渠道上线；NikeSKIMS品牌将于今秋登录上海；晚晚入驻淘宝创立个人女装品牌；李宁否认签约法国球星姆巴佩｜消研所周报](https://www.tmtpost.com/8104054.html)
+**发布时间**: 2026-08-14 18:54
+
+#### [重启人生的Manus，能重启AI出海的游戏规则吗？](https://www.tmtpost.com/8102509.html)
+**发布时间**: 2026-08-14 18:41
+
+#### [康师傅，是怎么被农夫山泉反超的？](https://www.tmtpost.com/8103266.html)
+**发布时间**: 2026-08-14 18:39
+
+#### [联想决定“浮盈加仓”](https://www.tmtpost.com/8103246.html)
+**发布时间**: 2026-08-14 18:39
+
+#### [李开复老师又卖书了](https://www.tmtpost.com/8102428.html)
+**发布时间**: 2026-08-14 18:39
+
+#### [矿产资源保护主义（系列四）：从禁矿试水到五维收紧，印尼镍政策走向国家控制](https://www.tmtpost.com/8103935.html)
+**发布时间**: 2026-08-14 18:31
+
+#### [OpenAI关掉Atlas，AI浏览器输给了谁？](https://www.tmtpost.com/8103854.html)
+**发布时间**: 2026-08-14 18:31
+
+#### [拉夫劳伦爱涨价，代购货要更贵了](https://www.tmtpost.com/8103884.html)
+**发布时间**: 2026-08-14 18:31
+
+#### [国产Wi-Fi芯片，迎来最好时代](https://www.tmtpost.com/8102413.html)
+**发布时间**: 2026-08-14 18:31
+
+#### [瑞幸即享，群敌围攻](https://www.tmtpost.com/8103915.html)
+**发布时间**: 2026-08-14 18:25
+
+#### [二十年没出过问题的清风，怎么就栽在了一张纸上？](https://www.tmtpost.com/8103932.html)
+**发布时间**: 2026-08-14 18:25
+
+#### [中国GLP-1：比美国更惨烈的战场](https://www.tmtpost.com/8103859.html)
+**发布时间**: 2026-08-14 17:42
+
+#### [全球面板霸主，无人接盘](https://www.tmtpost.com/8103853.html)
+**发布时间**: 2026-08-14 17:36
+
+#### [AI做空老铺黄金](https://www.tmtpost.com/8103852.html)
+**发布时间**: 2026-08-14 17:33
+
+#### [7亿年薪也留不住，AI天才余家辉，离开Meta创业](https://www.tmtpost.com/8103821.html)
+**发布时间**: 2026-08-14 17:33
+
+#### [马斯克与腾讯，踏进了同一条河流](https://www.tmtpost.com/8103823.html)
+**发布时间**: 2026-08-14 17:28
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [这家靠全景起步的公司，正在逐步让用户「忘掉相机」](http://www.geekpark.net/news/368847)
+**发布时间**: 2026-08-14 18:44
+
+#### [阿里云，接得住中国智驾吗？](http://www.geekpark.net/news/368846)
+**发布时间**: 2026-08-14 18:02
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
+**发布时间**: 2026-08-14 17:50
 
 ---
 

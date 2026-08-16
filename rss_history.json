@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "86cc31b2200b9045355b44411608e6674c8eb5bd1463ea11832749bb1fb6ad3d": {
-        "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
-        "link": "https://www.qbitai.com/2026/07/452914.html",
-        "published_date": "Fri, 17 Jul 2026 08:09:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.792703"
-      },
       "46472dc7de94c3ab278f58be206b155ff084276b56baa05a9b9b5a4d6bda4f49": {
         "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
         "link": "https://www.qbitai.com/2026/07/453352.html",
@@ -1488,105 +1482,27 @@
         "link": "https://www.qbitai.com/2026/08/473947.html",
         "published_date": "Sun, 16 Aug 2026 05:28:00 GMT",
         "first_seen": "2026-08-16T08:21:29.752629"
+      },
+      "4a96d6e06bcaa4f342e229425479ec7d4cbb0bb1ffa9980ec701acf48ec7550f": {
+        "title": "杭州95后小伙，5亿买走硅谷城堡",
+        "link": "https://www.qbitai.com/2026/08/474245.html",
+        "published_date": "Sun, 16 Aug 2026 11:51:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.220708"
+      },
+      "e29e8142c74ee7d87ff2b8cdc47b58e52f4a14ef04d03ae955ca2b0e22d98877": {
+        "title": "李飞飞最新访谈：AI咋能代替人呢？",
+        "link": "https://www.qbitai.com/2026/08/474140.html",
+        "published_date": "Sun, 16 Aug 2026 10:45:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.220805"
+      },
+      "dfdf8a12e3e8c9c001f723927874800a78d03dfe297e8cfbc672a2367d40be5a": {
+        "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+        "link": "https://www.qbitai.com/2026/08/474064.html",
+        "published_date": "Sun, 16 Aug 2026 10:36:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.220904"
       }
     },
     "Technology": {
-      "6ee03dbfb54bcf5306021a9a1a900930a248793e4faa74d5ecdea8eafa4e01c5": {
-        "title": "加密行业，全员卷入 AI 军备竞赛",
-        "link": "https://www.tmtpost.com/8068948.html",
-        "published_date": "Fri, 17 Jul 2026 17:36:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673089"
-      },
-      "af41d64f908494540660f5d2b8736a9f887429fc0b6927dfcf1aead60013e99f": {
-        "title": "北美AI短剧市场：大厂的游戏，中小公司纯靠赌？",
-        "link": "https://www.tmtpost.com/8069234.html",
-        "published_date": "Fri, 17 Jul 2026 17:36:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673101"
-      },
-      "56c36390a40968bf04743a999bb75db5c98244792fb1911808a877b90ffef574": {
-        "title": "王坚：下一代基础模型，不在语言，而在科学数据",
-        "link": "https://www.tmtpost.com/8069227.html",
-        "published_date": "Fri, 17 Jul 2026 17:31:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673111"
-      },
-      "6a89ee789a363a75bbe094d61d087eec805a20f2d756d79ea61b7c2502269909": {
-        "title": "OpenAI降价75%，奥特曼称是被DeepSeek逼的？",
-        "link": "https://www.tmtpost.com/8069117.html",
-        "published_date": "Fri, 17 Jul 2026 17:20:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673120"
-      },
-      "0aebe63787b7fb96e83f0306b360f2654c930baa65b94e017d3bdb64924956ee": {
-        "title": "从盈利到最高预亏18亿，赛力斯怎么了？",
-        "link": "https://www.tmtpost.com/8069081.html",
-        "published_date": "Fri, 17 Jul 2026 17:20:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673128"
-      },
-      "72397571f27fe31e3d5ef4f3cb48c57c56d62f511509ba3ed05909a58b18ba8f": {
-        "title": "阿里向左，字节向右",
-        "link": "https://www.tmtpost.com/8069113.html",
-        "published_date": "Fri, 17 Jul 2026 17:20:00 GMT",
-        "first_seen": "2026-07-17T09:52:27.371943"
-      },
-      "8ca688ebb8adabd10c92eb03f06e4f425b5b6e42299782b7d3efb68e0c4e2275": {
-        "title": "资本抛弃阿胶，扎堆气血即食零食？",
-        "link": "https://www.tmtpost.com/8069134.html",
-        "published_date": "Fri, 17 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673137"
-      },
-      "26a2f7a7ff9978c7cad1aef04ed0084841b112c470e29c6274d5168f230c93ce": {
-        "title": "固态变压器的产业拐点：样品已出，规模部署仍卡在成本与可靠性",
-        "link": "https://www.tmtpost.com/8069126.html",
-        "published_date": "Fri, 17 Jul 2026 17:14:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673145"
-      },
-      "beb36f0f0f5f6288416d8dd1712a3b608b6330ec93975a3dbcd004ce0f6e40fe": {
-        "title": "贴牌套路下的“AI研学”，又要催生一批网红科创城市了",
-        "link": "https://www.tmtpost.com/8069120.html",
-        "published_date": "Fri, 17 Jul 2026 17:14:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673153"
-      },
-      "79a578acd1d8868482058d76a55ad3dcd5c2df5b54e0eaa4edc6e75217914c29": {
-        "title": "Token大厂，年亏3亿",
-        "link": "https://www.tmtpost.com/8069114.html",
-        "published_date": "Fri, 17 Jul 2026 17:14:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673160"
-      },
-      "33f725239bfc659869f0c9b4ef420d6224485e00f247a4c216f718ab3160ef7e": {
-        "title": "红果试水“AI续写”，互动内容的下一站是UGC？",
-        "link": "https://www.tmtpost.com/8068893.html",
-        "published_date": "Fri, 17 Jul 2026 16:15:00 GMT",
-        "first_seen": "2026-07-17T09:52:27.373484"
-      },
-      "3a9885347f988b312a5f6b87e17d8211c97314ae054f2ed2d86fb78c4a9009c1": {
-        "title": "Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market",
-        "link": "https://www.tmtpost.com/8069058.html",
-        "published_date": "Fri, 17 Jul 2026 16:04:00 GMT",
-        "first_seen": "2026-07-17T09:52:27.374388"
-      },
-      "722c56eecdb6b0ee0e77cc6d05c949192b26760fbaf1961744edc865e75db988": {
-        "title": "Momenta市值超过地平线，余凯还坐得住吗？",
-        "link": "https://www.tmtpost.com/8068879.html",
-        "published_date": "Fri, 17 Jul 2026 16:01:00 GMT",
-        "first_seen": "2026-07-17T09:52:27.374897"
-      },
-      "b01e72da4fa96e07645ca2e445fc527f3eafe5a2a367390c5150f4fb4077d327": {
-        "title": "悦鲜活登陆新加坡，君乐宝能讲好出海故事吗",
-        "link": "https://www.tmtpost.com/8067865.html",
-        "published_date": "Fri, 17 Jul 2026 15:56:00 GMT",
-        "first_seen": "2026-07-17T09:52:27.375310"
-      },
-      "be2923f1a91735cf96df10ebfbc3e8461f2795f0dfa4576c9890eed18c6f9caa": {
-        "title": "亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面",
-        "link": "https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 17:00:00 GMT",
-        "first_seen": "2026-07-17T09:52:36.673061"
-      },
-      "98724843520f5404e3685ad9cb4d377c9b1d23e30bf8dc2e9f35f78e3b8fbb05": {
-        "title": "具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……",
-        "link": "https://sspai.com/post/112430",
-        "published_date": "Fri, 17 Jul 2026 15:00:00 GMT",
-        "first_seen": "2026-07-17T09:52:27.377305"
-      },
       "ab1bae60c26d5bf742d6e5cc5cc7d7231c6fbe83b2794d35361db96ad4d73048": {
         "title": "浙江美大拟易主，夏氏家族套现13亿，成立10天新公司接盘",
         "link": "https://www.tmtpost.com/8069698.html",
@@ -11276,13 +11192,61 @@
         "link": "https://sspai.com/post/113495",
         "published_date": "Sun, 16 Aug 2026 12:48:00 GMT",
         "first_seen": "2026-08-16T08:21:29.606911"
+      },
+      "81b53e6216dca3743d1287b38c7856dfe7ee2afe8c0dbd2758b088ef52425894": {
+        "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
+        "link": "https://www.tmtpost.com/8105230.html",
+        "published_date": "Sun, 16 Aug 2026 22:40:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.104252"
+      },
+      "6462bcb419ab7fc6af54150163a5b24d636c966cf8c0b11ccde014b597a277d1": {
+        "title": "光模块没有死，但\"可插拔\"死了：英伟达CPO量产的产业链账",
+        "link": "https://www.tmtpost.com/8104976.html",
+        "published_date": "Sun, 16 Aug 2026 21:31:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.104418"
+      },
+      "b7fb8ef3429dd107499786e3d3e464335a520202fa215ef56d3c2fe4ac5ee744": {
+        "title": "服务器订单大超预期后，联想会走上Oracle的老路吗？",
+        "link": "https://www.tmtpost.com/8105005.html",
+        "published_date": "Sun, 16 Aug 2026 21:31:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.104565"
+      },
+      "c190dbc0a49191136549ed8d0c57025f6f4d77c251b275d6f7f794486e084247": {
+        "title": "星链之后，马斯克为什么又盯上了太空算力？",
+        "link": "https://www.tmtpost.com/8105159.html",
+        "published_date": "Sun, 16 Aug 2026 21:18:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.104695"
+      },
+      "8e96c42d6dcc3bace3a9b4cdbece784f0b0a5c0eff98ff6a53fa87dd86848511": {
+        "title": "机器人赛道进入洗牌期",
+        "link": "https://www.tmtpost.com/8104953.html",
+        "published_date": "Sun, 16 Aug 2026 21:18:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.104808"
+      },
+      "9b925ff16ef4a3ecba212974773de60f02d225115ee7b9b778b4f5ce1dbdcbcc": {
+        "title": "超节点绕行英伟达：国产算力换了一条赛道",
+        "link": "https://www.tmtpost.com/8104729.html",
+        "published_date": "Sun, 16 Aug 2026 21:18:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.104975"
+      },
+      "4e5b90cc66256f10d696a1b496dc5c42d83239d7530953a7cf419d5b5cb6ad44": {
+        "title": "【数智周报】  华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
+        "link": "https://www.tmtpost.com/8104888.html",
+        "published_date": "Sun, 16 Aug 2026 20:08:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.105403"
+      },
+      "d9687d12d07d5c201f7cd28301b48210bc3d633be72ab121409a59b430e58da3": {
+        "title": "0.019%！高凯技术中签率出炉，打新难度直追宇树科技",
+        "link": "https://www.tmtpost.com/8105063.html",
+        "published_date": "Sun, 16 Aug 2026 09:26:00 GMT",
+        "first_seen": "2026-08-16T23:14:56.105685"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-16T08:21:29.759463",
-    "Technology": "2026-08-16T08:21:29.622141",
-    "Finance": "2026-08-16T08:21:29.640242"
+    "AI": "2026-08-16T23:14:56.226386",
+    "Technology": "2026-08-16T23:14:56.118211",
+    "Finance": "2026-08-16T23:14:56.132926"
   }
 }

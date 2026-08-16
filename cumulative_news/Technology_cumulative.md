@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-15 23:14
+**最后更新时间**: 2026-08-16 05:25
+
+---
+
+## 🆕 最新更新 (2026-08-16 05:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中国科技板块的资金偏好正在改变：为什么是硬件先拿到钱](https://www.tmtpost.com/8104860.html)
+**发布时间**: 2026-08-16 10:26
+
+#### [lululemon的对手ALO来了，只是有点晚](https://www.tmtpost.com/8104920.html)
+**发布时间**: 2026-08-16 10:02
+
+#### [阿里股价回升，阿里云AI对公司长期估值影响究竟有多大？](https://www.tmtpost.com/8104764.html)
+**发布时间**: 2026-08-16 08:52
+
+#### [420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？](https://www.tmtpost.com/8104757.html)
+**发布时间**: 2026-08-16 08:48
+
+#### [Edge AI Daily 早报（8月16日）](https://www.tmtpost.com/8104869.html)
+**发布时间**: 2026-08-16 08:45
+
+#### [“破戒”评论被指“开黄腔”，比格比萨老板遭流量反噬？](https://www.tmtpost.com/8104754.html)
+**发布时间**: 2026-08-16 08:42
+
+#### [史上最大 IPO 倒计时：五岁 Anthropic， 2 万亿美元凭什么？](https://www.tmtpost.com/8104736.html)
+**发布时间**: 2026-08-16 08:35
+
+#### [美团不做线下药店，像是一场经精心计算的“缓兵之计”](https://www.tmtpost.com/8104718.html)
+**发布时间**: 2026-08-16 08:26
+
+#### [万亿市场之后：当中国美妆不再只回答“凭什么便宜”](https://www.tmtpost.com/8104717.html)
+**发布时间**: 2026-08-16 08:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳](https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-16 10:00
+
+#### [一份数据，多种用途：Spotify 用 RAP 打通分析与在线服务](https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-16 10:00
+
+#### [MCP 走向无状态，开发者追问：这不就又变回 API 了吗？](https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-16 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭](http://www.geekpark.net/news/368854)
+**发布时间**: 2026-08-16 09:15
 
 ---
 

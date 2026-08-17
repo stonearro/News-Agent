@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-16 23:12
+**最后更新时间**: 2026-08-17 23:15
+
+---
+
+## 🆕 最新更新 (2026-08-17 23:15)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
+**发布时间**: 2026-08-17 10:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”](https://www.qbitai.com/2026/08/474537.html)
+**发布时间**: 2026-08-17 09:30
+
+#### [人形机器人开始打国球了！两台机器人完整打完11分制比赛](https://www.qbitai.com/2026/08/474518.html)
+**发布时间**: 2026-08-17 09:04
+
+#### [菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想](https://www.qbitai.com/2026/08/474381.html)
+**发布时间**: 2026-08-17 08:36
+
+#### [快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用](https://www.qbitai.com/2026/08/474361.html)
+**发布时间**: 2026-08-17 08:26
+
+#### [终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成](https://www.qbitai.com/2026/08/474334.html)
+**发布时间**: 2026-08-17 07:39
 
 ---
 

@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-17 08:36
+**最后更新时间**: 2026-08-17 23:17
+
+---
+
+## 🆕 最新更新 (2026-08-17 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [李书福退出吉利汽车董事会，“一个吉利”开始整合权力](https://www.tmtpost.com/8106176.html)
+**发布时间**: 2026-08-17 20:06
+
+#### [智谱 VS Deepseek，两条分叉的自进化树](https://www.tmtpost.com/8105866.html)
+**发布时间**: 2026-08-17 19:04
+
+#### [AI为主人插队踢飞第一名，千万别让黄牛知道](https://www.tmtpost.com/8105869.html)
+**发布时间**: 2026-08-17 19:04
+
+#### [左手推Harness，右手涨价：DeepSeek为何把开发者往外推？](https://www.tmtpost.com/8105986.html)
+**发布时间**: 2026-08-17 19:04
+
+#### [马斯克华人前高管，5亿拿下硅谷豪宅，AI正批量制造富豪？](https://www.tmtpost.com/8105983.html)
+**发布时间**: 2026-08-17 19:04
+
+#### [利好连发，股价滞涨：特锐德仍需努力](https://www.tmtpost.com/8105980.html)
+**发布时间**: 2026-08-17 19:04
+
+#### [月薪4.5万招聘首店店总，朴朴5000平线下模式仍待验证](https://www.tmtpost.com/8105973.html)
+**发布时间**: 2026-08-17 19:04
+
+#### [AI订单涌入，万国数据上调全年业绩指引，今年投100亿元扩建数据中心｜看财报](https://www.tmtpost.com/8105732.html)
+**发布时间**: 2026-08-17 18:29
+
+#### [狂飙的AI，成了手机“斩杀线”上涨的新幌子？](https://www.tmtpost.com/8101636.html)
+**发布时间**: 2026-08-17 18:12
+
+#### [茶特调出圈一年，喜茶把竞争推向上游](https://www.tmtpost.com/8105130.html)
+**发布时间**: 2026-08-17 18:11
+
+#### [AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察](https://www.tmtpost.com/8105860.html)
+**发布时间**: 2026-08-17 17:42
+
+#### [Alibaba Sells Its Gaming Unit to Trustar Capital as It Sharpens Focus on AI](https://www.tmtpost.com/8105947.html)
+**发布时间**: 2026-08-17 17:07
+
+#### [一杯奶茶的幻觉经济学](https://www.tmtpost.com/8105672.html)
+**发布时间**: 2026-08-17 16:49
+
+#### [AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI](https://www.tmtpost.com/8103184.html)
+**发布时间**: 2026-08-17 16:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势](https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 18:47
+
+#### [技术风向变了？2026 年，数据库领域国际顶会都在研究什么？](https://www.infoq.cn/article/UJt7EQIZJaWe1dFZkD6F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 17:14
+
+#### [npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节](https://www.infoq.cn/article/5bfbkX6WIN3iKO6FlJwO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 16:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/113544)
+**发布时间**: 2026-08-17 18:14
 
 ---
 

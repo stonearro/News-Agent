@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "dcf239a1b9d3ed507f1410f067a868cfa88eb15794dc35bb7749b2ab45cc13e6": {
-        "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
-        "link": "https://www.qbitai.com/2026/07/453705.html",
-        "published_date": "Sat, 18 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.475525"
-      },
       "7a526e724d4fc4a2c62eafdf5aded424b0f42fc5adba84bdd26975c9967b7b50": {
         "title": "WAIC看了一圈，这家公司的机器人在认真打工",
         "link": "https://www.qbitai.com/2026/07/454040.html",
@@ -1410,57 +1404,27 @@
         "link": "https://www.qbitai.com/2026/08/474064.html",
         "published_date": "Sun, 16 Aug 2026 10:36:00 GMT",
         "first_seen": "2026-08-16T23:14:56.220904"
+      },
+      "a869908e055d6c23bf314649f911a8df1d81782bab5f8a149dccbc661857fb2b": {
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "published_date": "Mon, 17 Aug 2026 10:34:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.657246"
+      },
+      "1b3b70e3c460d2b6b1a68ce5493432caf4a55d20a07112b5d213c81f6d8d85c2": {
+        "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+        "link": "https://www.qbitai.com/2026/08/474537.html",
+        "published_date": "Mon, 17 Aug 2026 09:30:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.657438"
+      },
+      "1d1a4436a314f7bb8595ccaac5b978a0c1fabb154f99cafe694d91632829ed37": {
+        "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+        "link": "https://www.qbitai.com/2026/08/474518.html",
+        "published_date": "Mon, 17 Aug 2026 09:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.657591"
       }
     },
     "Technology": {
-      "57a0bbd24307446c8911062eafbbca2583ab195c10bf8cb1b5981d61aecac490": {
-        "title": "放弃日本后，澳洲人正疯狂涌向中国",
-        "link": "https://www.tmtpost.com/8069901.html",
-        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.370305"
-      },
-      "ac87e2c9a0ad27a66b53eb946b694025a0a657878f0b08543a3b9b3a2d2df53e": {
-        "title": "徕芬，把电机做成“芯片”",
-        "link": "https://www.tmtpost.com/8070101.html",
-        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.370418"
-      },
-      "2da82d8c22a26f1a0999d95c6f59966a7d4346620d5a0e4e6a48444023c25dbe": {
-        "title": "TRAE Work上线 40 万字的“AI 打工说明书”！一手实测在此",
-        "link": "https://www.tmtpost.com/8070209.html",
-        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.370567"
-      },
-      "988113db6768141433968b235c1518ddb6efe14b7e2309af4186018129cc7d61": {
-        "title": "三次冲击，对应三种不同的价格信号",
-        "link": "https://www.tmtpost.com/8070249.html",
-        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.370682"
-      },
-      "3e146d16178d8beb1e05fd4c9f526cd86e4ff18652434f18c9255f3707718d2b": {
-        "title": "一只猴卖20万！净利润飙涨超1300%，“猴茅”昭衍新药赚翻了",
-        "link": "https://www.tmtpost.com/8070243.html",
-        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.370850"
-      },
-      "8bf3e4c6929322185a5cad0fc5ddb5070c3e0925829ec130bf817ef1228e6183": {
-        "title": "Uber与美团的代理人战争",
-        "link": "https://www.tmtpost.com/8070286.html",
-        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.370977"
-      },
-      "3b9e8274f0211063a04b818823669cda5f76f2753c2237a75a6875168fd1ae00": {
-        "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
-        "link": "https://www.tmtpost.com/8070307.html",
-        "published_date": "Sat, 18 Jul 2026 15:32:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.371210"
-      },
-      "b4325e24a8fba9e8a0dd93da635240730fabdd487165685f168b723faff10eac": {
-        "title": "实测Kimi K3：强得意外，慢得着急",
-        "link": "https://www.tmtpost.com/8069817.html",
-        "published_date": "Sat, 18 Jul 2026 15:24:00 GMT",
-        "first_seen": "2026-07-18T09:19:09.371407"
-      },
       "94fa46e1b92476768a08fe6b0f43f736bf9ce4ffa770260afd6f7124380d0d88": {
         "title": "中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”",
         "link": "https://www.tmtpost.com/8070543.html",
@@ -11222,13 +11186,121 @@
         "link": "http://www.geekpark.net/news/368897",
         "published_date": "Mon, 17 Aug 2026 13:54:00 GMT",
         "first_seen": "2026-08-17T08:36:21.358858"
+      },
+      "262a39ca9f258841aed46a66b215aedaa49ae16dbfae449af237642f0c6bf9ce": {
+        "title": "李书福退出吉利汽车董事会，“一个吉利”开始整合权力",
+        "link": "https://www.tmtpost.com/8106176.html",
+        "published_date": "Mon, 17 Aug 2026 20:06:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507549"
+      },
+      "475b5ad0ea58ac78350e45fc92da2bce8be0c4586ef530205520fd3e78c8d7f2": {
+        "title": "智谱 VS Deepseek，两条分叉的自进化树",
+        "link": "https://www.tmtpost.com/8105866.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507558"
+      },
+      "6e25a4535b9a47024b916490276429f8dbead8dff7e494942f84f12775581ddc": {
+        "title": "AI为主人插队踢飞第一名，千万别让黄牛知道",
+        "link": "https://www.tmtpost.com/8105869.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507566"
+      },
+      "ac23e77b1afb00fd81f629a0c9a1ce5e264f178bce4000bcdac885cb2c32a376": {
+        "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
+        "link": "https://www.tmtpost.com/8105986.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507574"
+      },
+      "b0ad31ac0892a9161cbabc7d30aa156597b6164da9cb9654c0ae8788b055da71": {
+        "title": "马斯克华人前高管，5亿拿下硅谷豪宅，AI正批量制造富豪？",
+        "link": "https://www.tmtpost.com/8105983.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507582"
+      },
+      "88547c6d22098c6282c50eefb4ee40fe090897a590380d7a1d44430736408624": {
+        "title": "利好连发，股价滞涨：特锐德仍需努力",
+        "link": "https://www.tmtpost.com/8105980.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507589"
+      },
+      "dd175b47dcc404fef0fe1576a19d6b9e5483341847f0d9d1d67c0e78f9ee6029": {
+        "title": "月薪4.5万招聘首店店总，朴朴5000平线下模式仍待验证",
+        "link": "https://www.tmtpost.com/8105973.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.137682"
+      },
+      "a8d63550005f784e7bf02ce15193b56d9ba6facea9fd9f7de15ae175aab6d9dc": {
+        "title": "AI订单涌入，万国数据上调全年业绩指引，今年投100亿元扩建数据中心｜看财报",
+        "link": "https://www.tmtpost.com/8105732.html",
+        "published_date": "Mon, 17 Aug 2026 18:29:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507598"
+      },
+      "81493644e836298130fe468a4b3ddee7fd16f8ee22eccfd83797ebe8d6bc4db0": {
+        "title": "狂飙的AI，成了手机“斩杀线”上涨的新幌子？",
+        "link": "https://www.tmtpost.com/8101636.html",
+        "published_date": "Mon, 17 Aug 2026 18:12:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.138506"
+      },
+      "3c66dc1ed797edc1ce2f5ede3e4b90c7b340125005ba32aafde93d0e2510174b": {
+        "title": "茶特调出圈一年，喜茶把竞争推向上游",
+        "link": "https://www.tmtpost.com/8105130.html",
+        "published_date": "Mon, 17 Aug 2026 18:11:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.138846"
+      },
+      "dc4f873bcc1d9ea8e7b4b1b738e2ffd12e17af8718facb1deab4935a70ebdedd": {
+        "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
+        "link": "https://www.tmtpost.com/8105860.html",
+        "published_date": "Mon, 17 Aug 2026 17:42:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.139295"
+      },
+      "e1777a8438cb6ebbcda8a90f466caaa58d5efd2195c3c9ddc01fc51fdd4185be": {
+        "title": "Alibaba Sells Its Gaming Unit to Trustar Capital as It Sharpens Focus on AI",
+        "link": "https://www.tmtpost.com/8105947.html",
+        "published_date": "Mon, 17 Aug 2026 17:07:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.140139"
+      },
+      "17604e66ad39d41ff3c6361d75a1a1acf61d50b4fafe74d87d7109fb8536b5d5": {
+        "title": "一杯奶茶的幻觉经济学",
+        "link": "https://www.tmtpost.com/8105672.html",
+        "published_date": "Mon, 17 Aug 2026 16:49:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.140432"
+      },
+      "f0e1659d60ae4db3aea493a5b0f6398284a987838ff56b173933b6ba2c27571f": {
+        "title": "AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI",
+        "link": "https://www.tmtpost.com/8103184.html",
+        "published_date": "Mon, 17 Aug 2026 16:49:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.141049"
+      },
+      "6d9ecad3d01b0b5c93b6289fcc370882753f61dbdff4b02a638c9fa91b672e5b": {
+        "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "link": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 17 Aug 2026 18:47:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507484"
+      },
+      "72e34e3132bed619ea7128acf3abb5362e51a1b163326f3e8fcb4482a97c3f5b": {
+        "title": "技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+        "link": "https://www.infoq.cn/article/UJt7EQIZJaWe1dFZkD6F?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 17 Aug 2026 17:14:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507527"
+      },
+      "1a2b0c60dcce3c0948d0f12c96ccc2337d7c0fef473036766b6ff127d08f31eb": {
+        "title": "npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+        "link": "https://www.infoq.cn/article/5bfbkX6WIN3iKO6FlJwO?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 17 Aug 2026 16:53:00 GMT",
+        "first_seen": "2026-08-17T23:17:39.507539"
+      },
+      "cebab48a6197c1bca0d596d6d33e19c56844a58d9464a9352ad09989e4d11961": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/113544",
+        "published_date": "Mon, 17 Aug 2026 18:14:00 GMT",
+        "first_seen": "2026-08-17T23:17:30.144138"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-17T08:36:30.974592",
-    "Technology": "2026-08-17T08:36:30.829402",
-    "Finance": "2026-08-17T08:36:30.850145"
+    "AI": "2026-08-17T23:17:39.664518",
+    "Technology": "2026-08-17T23:17:39.525698",
+    "Finance": "2026-08-17T23:17:39.545715"
   }
 }

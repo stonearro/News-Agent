@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-16 23:14
+**最后更新时间**: 2026-08-17 05:30
+
+---
+
+## 🆕 最新更新 (2026-08-17 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里甩卖游戏帝国，一切只为AGI？](https://www.tmtpost.com/8105655.html)
+**发布时间**: 2026-08-17 13:15
+
+#### [监管穿透时代，谁来为A股“关键少数”系上安全带？](https://www.tmtpost.com/8104142.html)
+**发布时间**: 2026-08-17 13:04
+
+#### [【Fintech 周报】银行能办结婚证了；37家险资豪掷10.3亿获配宇树科技；多位明星持证开播卖保险](https://www.tmtpost.com/8105607.html)
+**发布时间**: 2026-08-17 12:53
+
+#### [算力之后是语料：AI的新瓶颈正在重塑内容产业的定价权？](https://www.tmtpost.com/8105410.html)
+**发布时间**: 2026-08-17 12:28
+
+#### [150+人团队，腾讯投资的国产3A大作，制作人:在最好的时代尽力而为](https://www.tmtpost.com/8105576.html)
+**发布时间**: 2026-08-17 12:28
+
+#### [一级市场已经不能叫“回暖”了，这是“盛夏”｜暨2026年H1先锋榜发布](https://www.tmtpost.com/8105515.html)
+**发布时间**: 2026-08-17 12:18
+
+#### [显卡涨疯了，但涨的不是 GPU——是显存](https://www.tmtpost.com/8105330.html)
+**发布时间**: 2026-08-17 12:09
+
+#### [扶稳坐好，世界模型，元年已到](https://www.tmtpost.com/8105530.html)
+**发布时间**: 2026-08-17 11:29
+
+#### [棋盘上的G7，一场悬而未决的转身](https://www.tmtpost.com/8105262.html)
+**发布时间**: 2026-08-17 11:10
+
+#### [口服PCSK9，预期大分化](https://www.tmtpost.com/8105194.html)
+**发布时间**: 2026-08-17 10:07
+
+#### [永辉还没走出泥潭](https://www.tmtpost.com/8105173.html)
+**发布时间**: 2026-08-17 09:54
+
+#### [大厂校招狂卷AI，应届生懵了](https://www.tmtpost.com/8105332.html)
+**发布时间**: 2026-08-17 09:44
+
+#### [SK海力士：2027年将爆发最严重存储荒](https://www.tmtpost.com/8105210.html)
+**发布时间**: 2026-08-17 09:44
+
+#### [Pony.ai and Uber Set Their Sights on More Than 2,000 Robotaxis in Europe](https://www.tmtpost.com/8105342.html)
+**发布时间**: 2026-08-17 08:55
+
+#### [Edge AI Daily 早报（8月17日）](https://www.tmtpost.com/8105300.html)
+**发布时间**: 2026-08-17 08:49
+
+#### [【钛晨报】跨国公司本外币跨境资金集中运营业务将推广至全国；1600亿翻倍牛股，签下超亿元芯片合同；今年以来最贵新股，定于8月18日上市](https://www.tmtpost.com/8105146.html)
+**发布时间**: 2026-08-17 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vibe check：你的AI产品真的能落地吗](https://www.infoq.cn/article/urRl1WXpPSQQd1A9hN5f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 12:14
+
+#### [调用成功不等于判断正确：KDC 的行动治理主张](https://www.infoq.cn/article/ViFwzzK2B2ifEIgXaSTC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 12:05
+
+#### [Instacart 推出 Blueberry AI 助手，帮助值班工程师处理线上故障](https://www.infoq.cn/article/6xG6wLBUuqjPdRrf8r7I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 12:01
+
+#### [甲骨文企业AI战略曝光：Agent进数据库、GPU跑满、多云砍掉流量费](https://www.infoq.cn/article/7wuQJXJqFVR3rZb8Usyg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 10:57
+
+#### [Dropbox 集成 MCP 与 Dash，将安全设计与代码审查连接起来](https://www.infoq.cn/article/JEaC9PfmAENVHbijfm05?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 10:48
+
+#### [盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳](https://www.infoq.cn/article/jOPScUAQrlfpNwDAhaOL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 10:00
+
+#### [Netflix详述其基于Triton与vLLM的内部LLM服务平台](https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 09:56
+
+#### [中行回应“Token贷”：已投放3户800万元；头部AI大厂员工：90小时工作制成常态；宇树科技中签者不敢发朋友圈：怕被嫉妒｜AI 周报](https://www.infoq.cn/article/GzEYHpjhJafhihcYc58x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 09:46
+
+#### [编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试](https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 09:44
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注](http://www.geekpark.net/news/368887)
+**发布时间**: 2026-08-17 11:28
+
+#### [闭门、举牌、真话，这场路演有点不一样](http://www.geekpark.net/news/368885)
+**发布时间**: 2026-08-17 11:26
+
+#### [问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑](http://www.geekpark.net/news/368859)
+**发布时间**: 2026-08-17 08:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [成年人包里的唯一一支笔：模块笔入门导购](https://sspai.com/post/113445)
+**发布时间**: 2026-08-17 11:00
+
+#### [派早报：😭（放声大哭）成为最流行 emoji](https://sspai.com/post/113524)
+**发布时间**: 2026-08-17 06:54
 
 ---
 

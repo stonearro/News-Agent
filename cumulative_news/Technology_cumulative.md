@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-17 05:30
+**最后更新时间**: 2026-08-17 08:36
+
+---
+
+## 🆕 最新更新 (2026-08-17 08:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“耐心资本”大迁徙：泰康保险少帅陈奕伦的宇树赌局](https://www.tmtpost.com/8105749.html)
+**发布时间**: 2026-08-17 15:55
+
+#### [OpenAI解散风险团队，冲刺史上最大IPO：先把安全放下](https://www.tmtpost.com/8105814.html)
+**发布时间**: 2026-08-17 15:43
+
+#### [用一座磨坊，彻底讲透AI到底是什么？](https://www.tmtpost.com/8105536.html)
+**发布时间**: 2026-08-17 15:39
+
+#### [躺赢30年的旺旺，总算醒了](https://www.tmtpost.com/8105571.html)
+**发布时间**: 2026-08-17 15:25
+
+#### [Liblib冲击上市，大模型“中间商”值30亿美元？](https://www.tmtpost.com/8105360.html)
+**发布时间**: 2026-08-17 15:25
+
+#### [Token未来更贵还是更便宜？定价权之争白热化](https://www.tmtpost.com/8101913.html)
+**发布时间**: 2026-08-17 13:39
+
+#### [真正考验星巴克中国的时候到了](https://www.tmtpost.com/8105625.html)
+**发布时间**: 2026-08-17 13:25
+
+#### [物理AI的操作系统战争——谁在定义机器人的「小脑」？](https://www.tmtpost.com/8105533.html)
+**发布时间**: 2026-08-17 13:25
+
+#### [烟蒂，腾盛博药](https://www.tmtpost.com/8105585.html)
+**发布时间**: 2026-08-17 13:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [我们如何使用 CoCo 和 Streamlit，让长期规划实现对话式交互 | 技术趋势](https://www.infoq.cn/article/fpxjBGx9mj52yzMoZ8Ty?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 15:38
+
+#### [渲染内存降95%、GC卡顿率降90%：KMP 是怎么在鸿蒙上跑起来的](https://www.infoq.cn/article/M7RAkplwuMQrs72dSYfj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 15:27
+
+#### [WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队](https://www.infoq.cn/article/77NthDLZNgqTgBuMKsQh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 15:15
+
+#### [从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B](https://www.infoq.cn/article/MljtE2Xk6hVkd061LY7k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 14:56
+
+#### [AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则](https://www.infoq.cn/article/FzWV9Jzv2CPK8yjLPxdA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 14:34
+
+#### [当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式](https://www.infoq.cn/article/FEdxCeBCNO8DENqbGNZ0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-17 13:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [分享我知识管理 12 年来最重要的经验：INL 结构](https://sspai.com/post/113368)
+**发布时间**: 2026-08-17 15:00
+
+#### [当陶瓷水杯遇上像素屏：PixelMug 体验](https://sspai.com/post/113448)
+**发布时间**: 2026-08-17 13:55
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [被 AI 碾压 30 年后，人们重新爱上了下棋](http://www.geekpark.net/news/368897)
+**发布时间**: 2026-08-17 13:54
 
 ---
 

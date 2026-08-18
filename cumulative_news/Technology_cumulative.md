@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-17 23:17
+**最后更新时间**: 2026-08-18 05:26
+
+---
+
+## 🆕 最新更新 (2026-08-18 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海底捞叫停宠物友好：携宠进店，到底谁在赚钱](https://www.tmtpost.com/8107114.html)
+**发布时间**: 2026-08-18 13:07
+
+#### [AI做电影，远比想象中难](https://www.tmtpost.com/8107015.html)
+**发布时间**: 2026-08-18 13:02
+
+#### [长辈模式，困住3.23亿中国老人](https://www.tmtpost.com/8106987.html)
+**发布时间**: 2026-08-18 12:56
+
+#### [变天，住宅楼下开餐馆，最高罚10万](https://www.tmtpost.com/8106967.html)
+**发布时间**: 2026-08-18 12:50
+
+#### [OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮](https://www.tmtpost.com/8106969.html)
+**发布时间**: 2026-08-18 12:47
+
+#### [荣耀的高端化焦虑，Robot Phone能解吗？](https://www.tmtpost.com/8106914.html)
+**发布时间**: 2026-08-18 12:47
+
+#### [被生产出来的排队：网红餐饮背后的造浪链条](https://www.tmtpost.com/8106962.html)
+**发布时间**: 2026-08-18 12:47
+
+#### [一年吸金超10亿的商场“顶流”，一夜之间不再是“大王”](https://www.tmtpost.com/8106946.html)
+**发布时间**: 2026-08-18 12:40
+
+#### [文远知行在变好，但韩旭还没说服市场](https://www.tmtpost.com/8106821.html)
+**发布时间**: 2026-08-18 12:39
+
+#### [沦为“抢饭食堂”的行政酒廊：可以烂，但不能被清算](https://www.tmtpost.com/8106580.html)
+**发布时间**: 2026-08-18 11:19
+
+#### [旺旺不旺的锅，糖背不起](https://www.tmtpost.com/8106509.html)
+**发布时间**: 2026-08-18 11:17
+
+#### [阿里“大生态”退潮，AI成唯一主线](https://www.tmtpost.com/8106658.html)
+**发布时间**: 2026-08-18 11:13
+
+#### [小龙虾降价也卖不动了吗？](https://www.tmtpost.com/8106654.html)
+**发布时间**: 2026-08-18 11:09
+
+#### [《牛来》在海外爆火，竟成了老外眼里的“人类艺术之光”？](https://www.tmtpost.com/8106541.html)
+**发布时间**: 2026-08-18 11:02
+
+#### [磷酸铁锂龙头湖南裕能最新赴港递表，比亚迪和宁德时代此前双双减持，业绩已缩水八成](https://www.tmtpost.com/8106540.html)
+**发布时间**: 2026-08-18 10:59
+
+#### [夫妻店养大的汇通达，要抢夫妻店的生意？](https://www.tmtpost.com/8106484.html)
+**发布时间**: 2026-08-18 10:53
+
+#### [从“像人”到“超人”，IPO前夜宇树悄然变化的传播策略](https://www.tmtpost.com/8106294.html)
+**发布时间**: 2026-08-18 10:48
+
+#### [武汉人的白月光汽水，终究是“败”了](https://www.tmtpost.com/8106401.html)
+**发布时间**: 2026-08-18 10:46
+
+#### [长安基金成立15年规模不足百亿，新东家入主一周即换帅](https://www.tmtpost.com/8106304.html)
+**发布时间**: 2026-08-18 10:46
+
+#### [假如用AI搓一部《牛来》，得花多少钱？](https://www.tmtpost.com/8106427.html)
+**发布时间**: 2026-08-18 10:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepSeek Harness 怎么入门？这套极简教程用一个项目给你讲清楚](https://www.infoq.cn/article/1EP0hwuqRzccrWArR7GJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 12:43
+
+#### [GitHub 加固默认安全策略，延时防护与软件包签名之争引热议](https://www.infoq.cn/article/t0bchRo0KBVZFRTPwPXt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 11:46
+
+#### [模型跑起来之后：视觉 AI 还需要哪些系统能力？](https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 11:17
+
+#### [Cloudflare 推出 Precursor，通过持续性行为分析识别恶意机器人与 AI 自动化程序](https://www.infoq.cn/article/7QNfsJhpgskMtVllCpWJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 10:58
+
+#### [Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中](https://www.infoq.cn/article/sjSVpfSFB3cQwzP3lMHZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 10:38
+
+#### [Agentic AI 在普惠健康险的创新与实践｜AICon深圳](https://www.infoq.cn/article/3MxCwCyMpwcWjpvKJ7u4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [7月音乐精选：夏天赠予我们的 9张专辑](https://sspai.com/post/113454)
+**发布时间**: 2026-08-18 10:52
+
+#### [派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等](https://sspai.com/post/113566)
+**发布时间**: 2026-08-18 08:04
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板](http://www.geekpark.net/news/368932)
+**发布时间**: 2026-08-18 09:15
+
+#### [宇树发布「机器超人」：原地跳高 2m；豆包上线新功能，手机可远程控制电脑；吉利汽车架构调整，李书福辞任董事会主席｜极客早知道](http://www.geekpark.net/news/368929)
+**发布时间**: 2026-08-18 07:55
 
 ---
 

@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-18 05:26
+**最后更新时间**: 2026-08-18 08:28
+
+---
+
+## 🆕 最新更新 (2026-08-18 08:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [共识之外：Linux 生态系统中 AI 政策的碎片化现象](https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 16:15
+
+#### [阿里云的野心，不在 Agent Builder](https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 15:32
+
+#### [豆包视频通话升级，火山引擎多模态传输系统提供技术支撑](https://www.infoq.cn/article/kJK3qG9m7UEYtf7siCgU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 14:46
+
+#### [Stripe 利用 Graph Search 和状态机实现数据库修复自动化](https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 14:00
+
+#### [世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选](https://www.infoq.cn/article/gC7CU8lbYmha1QPMvqP7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-18 13:22
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行风控逻辑开始"看Token不看砖头"了](https://www.tmtpost.com/8106372.html)
+**发布时间**: 2026-08-18 16:10
+
+#### [从厨师到高管，黄仁勋女儿四年薪资暴涨670%](https://www.tmtpost.com/8107359.html)
+**发布时间**: 2026-08-18 16:10
+
+#### [3 个月亏掉 100 亿美元，DAT 公司开始回归理性](https://www.tmtpost.com/8107344.html)
+**发布时间**: 2026-08-18 16:10
+
+#### [腾讯的AI Capex，还可以更高](https://www.tmtpost.com/8106867.html)
+**发布时间**: 2026-08-18 16:04
+
+#### [AI中转站的生死一梦](https://www.tmtpost.com/8107107.html)
+**发布时间**: 2026-08-18 15:50
+
+#### [AI代码过剩后，给代码“冲厕所”的公司贵了十倍](https://www.tmtpost.com/8107004.html)
+**发布时间**: 2026-08-18 15:47
+
+#### [年费2100元，英超开始做自己的「Netflix」](https://www.tmtpost.com/8107003.html)
+**发布时间**: 2026-08-18 15:47
+
+#### [WorkBuddy们，正在终结钉钉、飞书、企业微信的旧战争](https://www.tmtpost.com/8107000.html)
+**发布时间**: 2026-08-18 15:47
+
+#### [GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者](https://www.tmtpost.com/8106430.html)
+**发布时间**: 2026-08-18 13:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会](https://sspai.com/post/113564)
+**发布时间**: 2026-08-18 15:05
+
+#### [App+1 | 让任务栏更有用：WindowSill](https://sspai.com/post/113438)
+**发布时间**: 2026-08-18 14:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [TikTok带货博主卷疯快递：三天，从深圳到伦敦](http://www.geekpark.net/news/368962)
+**发布时间**: 2026-08-18 13:56
 
 ---
 

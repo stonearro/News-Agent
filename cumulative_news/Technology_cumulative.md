@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-18 23:17
+**最后更新时间**: 2026-08-19 05:24
+
+---
+
+## 🆕 最新更新 (2026-08-19 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Municipal Capital Tries to Turn AI Tokens into a Metered Utility](https://www.tmtpost.com/8108581.html)
+**发布时间**: 2026-08-19 13:03
+
+#### [对话前DeepMind曹原：AI for Science爆发，一个新时代到来了](https://www.tmtpost.com/8107695.html)
+**发布时间**: 2026-08-19 11:41
+
+#### [姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞](https://www.tmtpost.com/8108451.html)
+**发布时间**: 2026-08-19 11:36
+
+#### [AI能拆解动作，却拆不出那个"咔哒一声"：从泳池到企业软件，同一个真相](https://www.tmtpost.com/8105748.html)
+**发布时间**: 2026-08-19 11:35
+
+#### [AI疯狂生成一切，审美降级之下什么才是核心竞争力？](https://www.tmtpost.com/8107603.html)
+**发布时间**: 2026-08-19 11:11
+
+#### [市值4449亿，人形机器人第一股来了！](https://www.tmtpost.com/8108353.html)
+**发布时间**: 2026-08-19 11:11
+
+#### [2026社渠金奖开启「年度社交电商健康营养品牌」评选](https://www.tmtpost.com/8107433.html)
+**发布时间**: 2026-08-19 11:01
+
+#### [AI GRAVITY｜AIMX Singapore 2026重磅回归，8月共赴新加坡AI创新之约](https://www.tmtpost.com/8107472.html)
+**发布时间**: 2026-08-19 11:00
+
+#### [导弹产能持续扩张，洛克希德、RTX等9只军工股值得关注](https://www.tmtpost.com/8108453.html)
+**发布时间**: 2026-08-19 10:56
+
+#### [暴涨629.44%，宇树IPO了](https://www.tmtpost.com/8108371.html)
+**发布时间**: 2026-08-19 10:52
+
+#### [百度和小米，都到了换挡关口](https://www.tmtpost.com/8108368.html)
+**发布时间**: 2026-08-19 10:52
+
+#### [王兴兴的2016](https://www.tmtpost.com/8108355.html)
+**发布时间**: 2026-08-19 10:52
+
+#### [WRC前夜，晚上10点，机器人和人都还没下班](https://www.tmtpost.com/8108250.html)
+**发布时间**: 2026-08-19 10:52
+
+#### [红灯停表之后，外卖平台还要从哪里抢时间？](https://www.tmtpost.com/8108041.html)
+**发布时间**: 2026-08-19 10:33
+
+#### [开盘大涨500%，宇树从来不被理解](https://www.tmtpost.com/8108317.html)
+**发布时间**: 2026-08-19 10:32
+
+#### [从610亿到4400亿，只用了开盘一分钟：宇树给机器人行业立了根“锚”？](https://www.tmtpost.com/8108360.html)
+**发布时间**: 2026-08-19 10:23
+
+#### [宇树科技IPO！“卖铲人”绿的谐波，能否撑起近700亿估值？](https://www.tmtpost.com/8108147.html)
+**发布时间**: 2026-08-19 10:14
+
+#### [小米，被低估了吗？](https://www.tmtpost.com/8108208.html)
+**发布时间**: 2026-08-19 10:14
+
+#### [固收+基金深度掘金：济安金信2026Q2市场洞察与精选策略](https://www.tmtpost.com/8108352.html)
+**发布时间**: 2026-08-19 10:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Valhalla 项目首次预览：JEP 401 重新定义 Java 对象的 == 运算符](https://www.infoq.cn/article/8grNo7eCm3Rly0NV8bcS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 12:25
+
+#### [Embabel智能体框架发布1.0版本](https://www.infoq.cn/article/5LJARsierf0NbH3Rc6wc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 11:14
+
+#### [让 Agent 真正驱动销售增长——FDE 模式下的业务流重构实战｜AICon深圳](https://www.infoq.cn/article/vrlSsJUrdpfGqsj3CTZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克带火的太空算力领域，传一个 800MB 模型上天要四周](http://www.geekpark.net/news/369013)
+**发布时间**: 2026-08-19 12:02
+
+#### [黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store](http://www.geekpark.net/news/369003)
+**发布时间**: 2026-08-19 10:33
+
+#### [苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道](http://www.geekpark.net/news/368995)
+**发布时间**: 2026-08-19 08:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | Inkive：把纸质书上划好的线存进 Obsidian](https://sspai.com/post/111936)
+**发布时间**: 2026-08-19 10:54
+
+#### [派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等](https://sspai.com/post/113607)
+**发布时间**: 2026-08-19 08:30
 
 ---
 

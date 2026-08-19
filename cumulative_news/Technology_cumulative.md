@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 05:24
+**最后更新时间**: 2026-08-19 23:22
+
+---
+
+## 🆕 最新更新 (2026-08-19 23:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从作业帮AI超级老师，看教育AI应用落地的更多可能](https://www.tmtpost.com/8109259.html)
+**发布时间**: 2026-08-19 20:49
+
+#### [沃客非凡二闯港交所：一门印尼街头的好生意，却难成资本爱听的新故事 | IPO观察](https://www.tmtpost.com/8108904.html)
+**发布时间**: 2026-08-19 20:09
+
+#### [和而泰半年报：汇兑吞掉三成利润，汽车电子难掩主业承压 | 看财报](https://www.tmtpost.com/8109300.html)
+**发布时间**: 2026-08-19 20:05
+
+#### [支付宝何以不再执念DAU](https://www.tmtpost.com/8109230.html)
+**发布时间**: 2026-08-19 19:07
+
+#### [对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能](https://www.tmtpost.com/8109017.html)
+**发布时间**: 2026-08-19 18:36
+
+#### [腾讯AI大氪金](https://www.tmtpost.com/8108898.html)
+**发布时间**: 2026-08-19 18:11
+
+#### [ByteDance Quietly Shuts Down Its Short-Lived Paid Novel App](https://www.tmtpost.com/8109004.html)
+**发布时间**: 2026-08-19 17:56
+
+#### [告别“堆卡”：2026，中国算力开启“Token价值产出”大考](https://www.tmtpost.com/8108840.html)
+**发布时间**: 2026-08-19 17:54
+
+#### [异类王兴兴](https://www.tmtpost.com/8108486.html)
+**发布时间**: 2026-08-19 17:54
+
+#### [《奥德赛》是诺兰的「大师一跃」](https://www.tmtpost.com/8108902.html)
+**发布时间**: 2026-08-19 17:25
+
+#### [宇树科技笑了，半导体股民们都哭了](https://www.tmtpost.com/8108530.html)
+**发布时间**: 2026-08-19 17:25
+
+#### [苹果牵手阿里、特斯拉绑定字节：全球AI下半场，中国坐庄了？](https://www.tmtpost.com/8108375.html)
+**发布时间**: 2026-08-19 17:24
+
+#### [李书福在巅峰退场](https://www.tmtpost.com/8108257.html)
+**发布时间**: 2026-08-19 17:01
+
+#### [朱雀三号回收成功，但离真正复用还有多远？](https://www.tmtpost.com/8108150.html)
+**发布时间**: 2026-08-19 17:00
+
+#### [Anthropic冲刺史上最大IPO](https://www.tmtpost.com/8108083.html)
+**发布时间**: 2026-08-19 16:30
+
+#### [DeepSeek涨价，“价格屠夫”梁文锋“收刀”](https://www.tmtpost.com/8108024.html)
+**发布时间**: 2026-08-19 16:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI爬虫涌入电商，安全防线正在从“拦截”转向“判断”](https://www.infoq.cn/article/61DFAJiVlqlaWQXi9kzA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 20:32
+
+#### [中国“机器人第一股”来了，宇树科技开盘暴涨 620%](https://www.infoq.cn/article/Ae1KpZ9eIJD2V4DcQ0Au?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 20:19
+
+#### [OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子](https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 20:14
+
+#### [CPU 迎来高光时刻：解读 Arm 在超大规模云计算市场增长背后的逻辑](https://www.infoq.cn/article/7G2xADmzVapd9x8lIaY5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 20:10
+
+#### [Pinterest 如何通过集中式 Terraform 管道在大规模环境中保障 AWS 基础设施的安全](https://www.infoq.cn/article/0AR0FaYEllc9tk7iWu9U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 17:41
+
+#### [2026 世界杯：一个通过与 CoCo 对话构建的实时应用 | 技术实践](https://www.infoq.cn/article/ZZYxRqKglT4RpYO454K3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 17:12
+
+#### [AI for Science进入新阶段：机器人正在成为科研新基础设施](https://www.infoq.cn/article/LrAzoZZQiecRCtyVX1u9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 16:22
+
+#### [Java 近期新闻：Shenandoah GC、TeamCity CVE、A2A Java SDK、Camel、Gradle、GlassFish](https://www.infoq.cn/article/aJvM0NaOObTK34dOAUTC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 16:11
+
+#### [明道云举办首届 Real AI Contest，面向真实落地的企业 AI 应用](https://xie.infoq.cn/article/6724ff083cc2192487d818695?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 15:50
+
+#### [网易传媒 AI 另辟赛道：近千亿研发，蜜蜂AI杀入年轻人社区](https://www.infoq.cn/article/eUqDCgNhzkbNpNxS7dYI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 15:02
+
+#### [Canva 分享了基于 S3 的架构，用于管理数亿个会话的会话撤销](https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 14:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线](http://www.geekpark.net/news/369051)
+**发布时间**: 2026-08-19 20:29
+
+#### [宇树往事](http://www.geekpark.net/news/369047)
+**发布时间**: 2026-08-19 20:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
+**发布时间**: 2026-08-19 17:39
+
+#### [《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
+**发布时间**: 2026-08-19 15:20
 
 ---
 

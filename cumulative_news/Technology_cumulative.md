@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 23:22
+**最后更新时间**: 2026-08-20 05:25
+
+---
+
+## 🆕 最新更新 (2026-08-20 05:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元](https://www.infoq.cn/article/u2O9k3QiZkeIbqJ7GsPw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 12:50
+
+#### [从中文到小语种都能无痕修改，美图影像研究院（MT Lab）提出全新场景文本编辑方案 | ICML 2026](https://www.infoq.cn/article/PuaPuRIjd35ItQSVCOK1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 11:10
+
+#### [蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳](https://www.infoq.cn/article/FjAtSWXLEfY3Iu4ThvJM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 10:00
+
+#### [保存历史不等于形成记忆：KDC 的长期运行主张](https://www.infoq.cn/article/EF97eR5oivR50UqIINsP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 10:00
+
+#### [随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性](https://www.infoq.cn/article/ELr08T70hyUzfUolgw5g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 09:16
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [狂卖10亿片“小星星”，大品牌抢着入局，年轻人带火一个新品类](https://www.tmtpost.com/8110055.html)
+**发布时间**: 2026-08-20 11:30
+
+#### [SK-II扛住了利润，但救得了“廉颇老矣”的宝洁吗？](https://www.tmtpost.com/8110049.html)
+**发布时间**: 2026-08-20 11:30
+
+#### [硅谷VC闭门课：判断AI创业公司的五个维度](https://www.tmtpost.com/8108556.html)
+**发布时间**: 2026-08-20 10:34
+
+#### [暴涨的莫德纳：一场等了四年的mRNA正名之战](https://www.tmtpost.com/8109999.html)
+**发布时间**: 2026-08-20 10:33
+
+#### [平安银行何以“重回增长”](https://www.tmtpost.com/8109034.html)
+**发布时间**: 2026-08-20 10:28
+
+#### [他们闯过奥德赛之夏](https://www.tmtpost.com/8109988.html)
+**发布时间**: 2026-08-20 10:26
+
+#### [IIT研究的问题，比想象中要严重](https://www.tmtpost.com/8109927.html)
+**发布时间**: 2026-08-20 10:22
+
+#### [河南文旅界 “胖东来”，开始“调改”全国景区](https://www.tmtpost.com/8109915.html)
+**发布时间**: 2026-08-20 10:20
+
+#### [芯原股份半年亏6亿，市值一个多月蒸发近千亿](https://www.tmtpost.com/8109341.html)
+**发布时间**: 2026-08-20 10:20
+
+#### [贝达药业“滑铁卢”？](https://www.tmtpost.com/8109899.html)
+**发布时间**: 2026-08-20 10:20
+
+#### [王兴兴进入奥德赛时期，呼唤梁文锋](https://www.tmtpost.com/8109609.html)
+**发布时间**: 2026-08-20 10:12
+
+#### [请不要再说跨国药械巨头在中国赚不到钱了](https://www.tmtpost.com/8109631.html)
+**发布时间**: 2026-08-20 10:11
+
+#### [一条死鳗的“复活”](https://www.tmtpost.com/8109681.html)
+**发布时间**: 2026-08-20 10:10
+
+#### [跨界搞能源必定撞墙？传艺科技发布半年报，国内键盘第一跑去造钠电池，净利暴跌48.86%](https://www.tmtpost.com/8109857.html)
+**发布时间**: 2026-08-20 10:10
+
+#### [具身智能的“iPhone时刻”尚未到来丨直击WRC2026](https://www.tmtpost.com/8109850.html)
+**发布时间**: 2026-08-20 10:07
+
+#### [净利大跌76%，市值缩水超190亿，韩束没能“拯救”上美股份](https://www.tmtpost.com/8109638.html)
+**发布时间**: 2026-08-20 10:04
+
+#### [Seedance 2.5来了，但行业真的准备好了吗？](https://www.tmtpost.com/8109148.html)
+**发布时间**: 2026-08-20 09:50
+
+#### [暑期爆火的运动相机：买就吃灰，租才真香](https://www.tmtpost.com/8109026.html)
+**发布时间**: 2026-08-20 09:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「广告位」时代已死，智能体商业开收「中介费」](http://www.geekpark.net/news/369078)
+**发布时间**: 2026-08-20 11:26
+
+#### [睡觉时往脑袋上通电，4000 个美国人抢着买单](http://www.geekpark.net/news/369077)
+**发布时间**: 2026-08-20 11:14
+
+#### [中国首次实现火箭陆地回收；宇树上市，市值最高超 4000 亿；蔡明同款机器人亮相，9.9 万元｜极客早知道](http://www.geekpark.net/news/369056)
+**发布时间**: 2026-08-20 08:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
+**发布时间**: 2026-08-20 10:41
+
+#### [派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
+**发布时间**: 2026-08-20 08:46
 
 ---
 

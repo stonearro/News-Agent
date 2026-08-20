@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-20 05:25
+**最后更新时间**: 2026-08-20 08:30
+
+---
+
+## 🆕 最新更新 (2026-08-20 08:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践](https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 16:12
+
+#### [Buildpacks 将容器加固控制点从 Dockerfile 中移出](https://www.infoq.cn/article/8EPJjIlk5WwgiXphjxEW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 15:39
+
+#### [将可理解性作为架构特性：无法理解的系统无法安全演进](https://www.infoq.cn/article/d5mWBGZxB2l2vRTO8wFU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [疫苗的东风终于来了](https://www.tmtpost.com/8110363.html)
+**发布时间**: 2026-08-20 15:45
+
+#### [陈冠希开餐厅？潮牌配猪扒饭，“凝结冰室”闯入茶餐厅赛道](https://www.tmtpost.com/8110343.html)
+**发布时间**: 2026-08-20 15:45
+
+#### [DeepSeek里长出了个“鲸鱼娘”](https://www.tmtpost.com/8110298.html)
+**发布时间**: 2026-08-20 15:45
+
+#### [合肥“跳预言家”的20年](https://www.tmtpost.com/8110153.html)
+**发布时间**: 2026-08-20 15:45
+
+#### [中博聚力再度加码月之暗面](https://www.tmtpost.com/8109509.html)
+**发布时间**: 2026-08-20 15:39
+
+#### [成都车展硬派越野变形记](https://www.tmtpost.com/8110293.html)
+**发布时间**: 2026-08-20 15:33
+
+#### [DeepSeek Harness 背后，梁文锋的野心](https://www.tmtpost.com/8110077.html)
+**发布时间**: 2026-08-20 15:33
+
+#### [旺旺和欧派，两个学霸考砸了？](https://www.tmtpost.com/8110261.html)
+**发布时间**: 2026-08-20 15:33
+
+#### [远信储能：前五大客户贡献超九成收入，经营现金流大起大落｜IPO观察](https://www.tmtpost.com/8105462.html)
+**发布时间**: 2026-08-20 14:48
+
+#### [云动智能：留存利润再度转负，客户依赖严重，申报前夕多家机构集中转让股权｜IPO观察](https://www.tmtpost.com/8105490.html)
+**发布时间**: 2026-08-20 14:46
+
+#### [2026，AI落地要先闯过的三个关口](https://www.tmtpost.com/8108615.html)
+**发布时间**: 2026-08-20 14:44
+
+#### [优邦科技：股权转让价差悬殊，临申报股东集中套现，募资补流存争议｜IPO观察](https://www.tmtpost.com/8110323.html)
+**发布时间**: 2026-08-20 14:43
+
+#### [当无人驾驶开始领“工资”，AI司机订阅能成为L4的新生意吗？](https://www.tmtpost.com/8110263.html)
+**发布时间**: 2026-08-20 13:43
+
+#### [存储巨头集体回购，“超级周期”走到哪一步了？](https://www.tmtpost.com/8110150.html)
+**发布时间**: 2026-08-20 13:43
+
+#### [MiniMax Design用Agent串联多模型，争夺专业内容生产入口](https://www.tmtpost.com/8110191.html)
+**发布时间**: 2026-08-20 13:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567)
+**发布时间**: 2026-08-20 15:25
 
 ---
 

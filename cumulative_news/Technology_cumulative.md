@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-20 08:30
+**最后更新时间**: 2026-08-20 23:24
+
+---
+
+## 🆕 最新更新 (2026-08-20 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [mRNA癌症疫苗首次闯过三期大关：千亿赛道启幕，A股卡位战提前打响丨行业风向标](https://www.tmtpost.com/8110835.html)
+**发布时间**: 2026-08-20 22:37
+
+#### [AI 办公混战，腾讯百度抢先](https://www.tmtpost.com/8109247.html)
+**发布时间**: 2026-08-20 19:05
+
+#### [百度搭子追WorkBuddy，不能只拼“干活”](https://www.tmtpost.com/8109452.html)
+**发布时间**: 2026-08-20 19:03
+
+#### [国内游戏卷不动了，出海成为行业最后的增量战场？](https://www.tmtpost.com/8110668.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [935亿热钱与冷水：宇树成为具身智能最后一只神股？](https://www.tmtpost.com/8109234.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [美的系“悍将不悍”？殷必彤是哪类高管？](https://www.tmtpost.com/8109206.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [屏幕增加、海报减少，分众为什么开始清理低效点位？](https://www.tmtpost.com/8109001.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [章子怡，一笔投资回报130倍](https://www.tmtpost.com/8110705.html)
+**发布时间**: 2026-08-20 18:53
+
+#### [阿里前员工做AI出海，被全球豪门资本疯抢](https://www.tmtpost.com/8110660.html)
+**发布时间**: 2026-08-20 18:53
+
+#### [阿里AI进入分化期：云业务加速兑现，应用业务等待商业模式｜ 看财报](https://www.tmtpost.com/8110834.html)
+**发布时间**: 2026-08-20 18:43
+
+#### [高乐股份：连续七年亏损底色未改，67亿算力大单转型成效待考 | 看财报](https://www.tmtpost.com/8110708.html)
+**发布时间**: 2026-08-20 18:40
+
+#### [Practical AI Video Takes Root in Chinese Workshops While Spectacle Recedes](https://www.tmtpost.com/8110818.html)
+**发布时间**: 2026-08-20 18:17
+
+#### [84岁“香料大王”三闯IPO，香奈儿、迪奥都离不开他](https://www.tmtpost.com/8110621.html)
+**发布时间**: 2026-08-20 17:42
+
+#### [新茶饮能讲的故事不多了](https://www.tmtpost.com/8110590.html)
+**发布时间**: 2026-08-20 17:42
+
+#### [摩根大通预警粮食危机：当前农产品涨的是预期，减产冲击在2027年](https://www.tmtpost.com/8110420.html)
+**发布时间**: 2026-08-20 17:42
+
+#### [拆解Anthropic：押注 coding 的公司很多，为什么它先吃到复利？](https://www.tmtpost.com/8110602.html)
+**发布时间**: 2026-08-20 17:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理](https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 19:03
+
+#### [AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力](https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 18:00
+
+#### [CloudFlare 预览网页 WebMCP 自动支持功能](https://www.infoq.cn/article/pKbwv6YkdSE1UdCiKl2F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
+**发布时间**: 2026-08-20 17:30
 
 ---
 

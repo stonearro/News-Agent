@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-21 08:30
+**最后更新时间**: 2026-08-21 23:15
+
+---
+
+## 🆕 最新更新 (2026-08-21 23:15)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)
+**发布时间**: 2026-08-21 17:02
+
+#### [How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
+**发布时间**: 2026-08-21 10:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [最大运力自动驾驶轻卡落地，来自无人车巨头](https://www.qbitai.com/2026/08/476778.html)
+**发布时间**: 2026-08-21 11:47
+
+#### [明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景](https://www.qbitai.com/2026/08/476733.html)
+**发布时间**: 2026-08-21 09:44
+
+#### [雷鸟iO发布：两天续航、全天候主动式AI，轻至34g](https://www.qbitai.com/2026/08/476628.html)
+**发布时间**: 2026-08-21 09:00
+
+#### [机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作](https://www.qbitai.com/2026/08/476596.html)
+**发布时间**: 2026-08-21 07:17
 
 ---
 

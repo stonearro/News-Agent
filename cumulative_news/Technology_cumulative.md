@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-21 08:35
+**最后更新时间**: 2026-08-21 23:18
+
+---
+
+## 🆕 最新更新 (2026-08-21 23:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“割裂”的市场：十万亿级中国银发经济的真实地图丨行业风向标](https://www.tmtpost.com/8112352.html)
+**发布时间**: 2026-08-21 21:09
+
+#### [王振辉重返京东，先接住外卖大战的沉没成本](https://www.tmtpost.com/8111529.html)
+**发布时间**: 2026-08-21 18:51
+
+#### [用AI治疗癌症！背后巨头Moderna，股价暴涨177%](https://www.tmtpost.com/8112046.html)
+**发布时间**: 2026-08-21 18:49
+
+#### [吴妈劝大家别害怕](https://www.tmtpost.com/8111959.html)
+**发布时间**: 2026-08-21 18:49
+
+#### [硅基负极材料的“窄门”](https://www.tmtpost.com/8111920.html)
+**发布时间**: 2026-08-21 18:49
+
+#### [“大疆教父”李泽湘，第4个机器人IPO来了](https://www.tmtpost.com/8112070.html)
+**发布时间**: 2026-08-21 18:28
+
+#### [一线调研：谁在为农夫山泉的“印钞机”负重前行？](https://www.tmtpost.com/8111937.html)
+**发布时间**: 2026-08-21 18:28
+
+#### [Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？](https://www.tmtpost.com/8111837.html)
+**发布时间**: 2026-08-21 18:12
+
+#### [在B站看完红果全集之后](https://www.tmtpost.com/8111785.html)
+**发布时间**: 2026-08-21 18:12
+
+#### [电脑手机“养”不活的维修人，拼命挤进机器人行业](https://www.tmtpost.com/8112057.html)
+**发布时间**: 2026-08-21 18:12
+
+#### [阿里的游戏梦，卖了100亿](https://www.tmtpost.com/8111539.html)
+**发布时间**: 2026-08-21 17:53
+
+#### [腾讯“测试中”的Agent钱包，被亚马逊抢先了](https://www.tmtpost.com/8111610.html)
+**发布时间**: 2026-08-21 17:53
+
+#### [具身机器人的万亿狂欢，在等待工厂的一张复购单](https://www.tmtpost.com/8111584.html)
+**发布时间**: 2026-08-21 17:53
+
+#### [“龙餐馆”出海，百年还没通关](https://www.tmtpost.com/8111615.html)
+**发布时间**: 2026-08-21 17:53
+
+#### [10亿美金开局，今年这个赛道几乎都融到钱了](https://www.tmtpost.com/8111730.html)
+**发布时间**: 2026-08-21 17:53
+
+#### [具身大佬，为这几个问题“吵翻”了](https://www.tmtpost.com/8111784.html)
+**发布时间**: 2026-08-21 17:53
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米](https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 19:41
+
+#### [DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛](https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 19:34
+
+#### [材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化](https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 19:31
+
+#### [本地运行、支持视觉与工具调用：Meta 开源智能体模型](https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 17:00
+
+#### [视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地](https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 16:55
+
+#### [不跟风、不堆模型，百度靠什么突围AI办公赛道？](https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 16:47
+
+#### [Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？](https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 14:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [MiniMax，做视频领域的 Claude Code 的野心已经藏不住了](http://www.geekpark.net/news/369201)
+**发布时间**: 2026-08-21 18:58
+
+#### [从单点突破到全数 SOTA，阿里打响「模型团战」第一枪](http://www.geekpark.net/news/369200)
+**发布时间**: 2026-08-21 18:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
+**发布时间**: 2026-08-21 18:08
 
 ---
 

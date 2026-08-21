@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-20 23:24
+**最后更新时间**: 2026-08-21 05:30
+
+---
+
+## 🆕 最新更新 (2026-08-21 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [甲骨文吴承杨：AI落地，我们的目标是让客户看到可复用的成效](https://www.tmtpost.com/8108078.html)
+**发布时间**: 2026-08-21 13:15
+
+#### [天下没有免费的Deepseek](https://www.tmtpost.com/8110595.html)
+**发布时间**: 2026-08-21 13:11
+
+#### [瑞幸的下半场，可能不在门店里](https://www.tmtpost.com/8095928.html)
+**发布时间**: 2026-08-21 13:08
+
+#### [平台经济的“含实量”被严重低估了](https://www.tmtpost.com/8111299.html)
+**发布时间**: 2026-08-21 13:08
+
+#### [「算力」成为新一代「房产」](https://www.tmtpost.com/8111576.html)
+**发布时间**: 2026-08-21 12:23
+
+#### [山姆，终于又开始干正事了](https://www.tmtpost.com/8101843.html)
+**发布时间**: 2026-08-21 12:13
+
+#### [AI基建大决战](https://www.tmtpost.com/8111160.html)
+**发布时间**: 2026-08-21 12:13
+
+#### [宇树4400亿市值狂欢之后，六个需要验证的信号](https://www.tmtpost.com/8111159.html)
+**发布时间**: 2026-08-21 12:12
+
+#### [WRC2026：机器人产业的竞争，正在从本体转向大脑](https://www.tmtpost.com/8111037.html)
+**发布时间**: 2026-08-21 11:24
+
+#### [“AI4S”进入深水区，国产算力如何满足需求？丨ToB产业观察](https://www.tmtpost.com/8111478.html)
+**发布时间**: 2026-08-21 11:10
+
+#### [DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Ag](https://www.tmtpost.com/8111019.html)
+**发布时间**: 2026-08-21 10:41
+
+#### [段永平又买回了没看懂的阿里](https://www.tmtpost.com/8110984.html)
+**发布时间**: 2026-08-21 10:41
+
+#### [爱回收Q2收入增长32.4%，存储红利还能吃多久？｜看财报](https://www.tmtpost.com/8111215.html)
+**发布时间**: 2026-08-21 10:38
+
+#### [宇树4449亿封神：人形机器人的时代，正式开盘](https://www.tmtpost.com/8110854.html)
+**发布时间**: 2026-08-21 10:10
+
+#### [英伟达、SK海力士：必须拿下CPO！](https://www.tmtpost.com/8110816.html)
+**发布时间**: 2026-08-21 10:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [初级岗位消失、高级人才断层：下一代高级工程师从哪里来？](https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 12:00
+
+#### [“Anthropic不再是AI圈的信仰”](https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 11:04
+
+#### [撞名Anthropic的“外挂”刷屏：让“DeepSeek V4‑Pro碾压 Fable 5”但无人能复现，Token开销反而翻倍](https://www.infoq.cn/article/MKDQBpGhC5Uu3pB4kMbC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 11:01
+
+#### [OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网](https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 10:25
+
+#### [Rust 再下一城：Astro 7 重写编译器与 Markdown 流水线](https://www.infoq.cn/article/D6IBeGO6rqVCjBDv1qwj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 09:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验](https://sspai.com/post/113586)
+**发布时间**: 2026-08-21 11:05
+
+#### [派早报：华为发布 Pura X View、享界 G9 等多款新品](https://sspai.com/post/113666)
+**发布时间**: 2026-08-21 07:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [曝周杰伦将代言 vivo 手机；华为「阔直板」手机曝光；柯洁透露战胜 AI 秘诀：装弱智｜极客早知道](http://www.geekpark.net/news/369114)
+**发布时间**: 2026-08-21 08:05
 
 ---
 

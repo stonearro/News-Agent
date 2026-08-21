@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-21 05:30
+**最后更新时间**: 2026-08-21 08:35
+
+---
+
+## 🆕 最新更新 (2026-08-21 08:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里的AI账，第一次算这么清楚](https://www.tmtpost.com/8111363.html)
+**发布时间**: 2026-08-21 16:11
+
+#### [阿里狂投，只为 “中国版谷歌”？](https://www.tmtpost.com/8111354.html)
+**发布时间**: 2026-08-21 16:11
+
+#### [造AI的人比用AI的人更分裂：李飞飞捅破了这层窗户纸](https://www.tmtpost.com/8111815.html)
+**发布时间**: 2026-08-21 16:11
+
+#### [AI智能体之间也会“传染”：Anthropic揭示“思维病毒”](https://www.tmtpost.com/8108120.html)
+**发布时间**: 2026-08-21 14:53
+
+#### [“50元巨款”，撑起一座消费地标](https://www.tmtpost.com/8111003.html)
+**发布时间**: 2026-08-21 13:38
+
+#### [AI忙落地，Harness能否成为“终极武器”？](https://www.tmtpost.com/8111633.html)
+**发布时间**: 2026-08-21 13:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vercel v0 API 正式发布：支持 MCP、流式响应和自动部署](https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-21 14:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资](http://www.geekpark.net/news/369162)
+**发布时间**: 2026-08-21 14:15
+
+#### [小红书悄悄开源发布了自己的大模型，内容平台也要造底座](http://www.geekpark.net/news/369161)
+**发布时间**: 2026-08-21 14:12
 
 ---
 

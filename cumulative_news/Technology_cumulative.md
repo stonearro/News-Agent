@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 08:25
+**最后更新时间**: 2026-08-23 23:15
+
+---
+
+## 🆕 最新更新 (2026-08-23 23:15)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻](http://www.geekpark.net/news/369223)
+**发布时间**: 2026-08-23 22:35
+
+#### [世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」](http://www.geekpark.net/news/369221)
+**发布时间**: 2026-08-23 22:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [豆包将推WorkBuddy类产品，飞书十年积累正在组件化](https://www.tmtpost.com/8113359.html)
+**发布时间**: 2026-08-23 20:31
+
+#### [银行理财五星管理人评级报告 （2026年7月）](https://www.tmtpost.com/8113345.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [在试错中求索：一套本土行业分类的突围之路](https://www.tmtpost.com/8113337.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察](https://www.tmtpost.com/8113335.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察](https://www.tmtpost.com/8113330.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [泰康保险人事调整，陈东升卸任CEO](https://www.tmtpost.com/8113372.html)
+**发布时间**: 2026-08-23 09:47
+
+#### [身着工服却不知道在给谁打工？642份涉骑手劳动争议判决背后](https://www.tmtpost.com/8113375.html)
+**发布时间**: 2026-08-23 07:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩](https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-23 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
+**发布时间**: 2026-08-23 15:25
 
 ---
 

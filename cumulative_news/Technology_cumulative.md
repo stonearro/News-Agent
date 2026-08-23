@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-22 23:15
+**最后更新时间**: 2026-08-23 05:26
+
+---
+
+## 🆕 最新更新 (2026-08-23 05:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [享界G9的野心：把硬派SUV卖给更多豪华车用户](https://www.tmtpost.com/8112877.html)
+**发布时间**: 2026-08-23 12:39
+
+#### [阿里又到了换剑时刻](https://www.tmtpost.com/8113147.html)
+**发布时间**: 2026-08-23 11:28
+
+#### [427万辆召回，没有一款油车：第一性原理失守的车门把手](https://www.tmtpost.com/8113238.html)
+**发布时间**: 2026-08-23 11:28
+
+#### [世界模型站上风口，机器人距离“真正干活”还有多远？](https://www.tmtpost.com/8113119.html)
+**发布时间**: 2026-08-23 11:11
+
+#### [捷报接二连三，迎接个性化免疫疗法的大时代](https://www.tmtpost.com/8113108.html)
+**发布时间**: 2026-08-23 11:11
+
+#### [26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话](https://www.tmtpost.com/8111128.html)
+**发布时间**: 2026-08-23 10:42
+
+#### [阿里吴泳铭：别怕，Capex三年回本](https://www.tmtpost.com/8113081.html)
+**发布时间**: 2026-08-23 10:36
+
+#### [Edge AI Daily 早报（8月23日）](https://www.tmtpost.com/8113186.html)
+**发布时间**: 2026-08-23 08:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [PostgreSQL 太难懂？有人把它做成了城市模拟器](https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-23 11:25
+
+#### [事故频发并不意味着可靠性下降](https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-23 09:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [让 PC 与 HomePod 互联：音频串流工具 WinAirCast](https://sspai.com/post/113002)
+**发布时间**: 2026-08-23 11:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络](http://www.geekpark.net/news/369215)
+**发布时间**: 2026-08-23 08:20
 
 ---
 

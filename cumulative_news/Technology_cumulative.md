@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 05:33
+**最后更新时间**: 2026-08-24 08:40
+
+---
+
+## 🆕 最新更新 (2026-08-24 08:40)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【Fintech 周报】多家银行积存金克价涨破1000元；民生人寿否认董事长因“生肖不和”裁员](https://www.tmtpost.com/8114520.html)
+**发布时间**: 2026-08-24 16:06
+
+#### [谷子餐厅的漂亮饭，年轻人为什么抢着买单？](https://www.tmtpost.com/8114568.html)
+**发布时间**: 2026-08-24 15:56
+
+#### [DeepSeek Harness来了：AI开始制造AI了？](https://www.tmtpost.com/8114523.html)
+**发布时间**: 2026-08-24 15:56
+
+#### [全球汽车供应链进入了“中国时间”？](https://www.tmtpost.com/8114527.html)
+**发布时间**: 2026-08-24 15:56
+
+#### [铜箔龙头龙电华鑫登陆纽交所：行业迎来周期反转，高端锂电与AI算力铜箔双线增长](https://www.tmtpost.com/8114452.html)
+**发布时间**: 2026-08-24 15:06
+
+#### [AI偶像，不能照搬真人明星的逻辑](https://www.tmtpost.com/8114355.html)
+**发布时间**: 2026-08-24 14:26
+
+#### [阿里800亿、小米425亿：科技产业正在从屏幕走向现实](https://www.tmtpost.com/8114333.html)
+**发布时间**: 2026-08-24 14:25
+
+#### [武汉即将迎来史上最大IPO](https://www.tmtpost.com/8114331.html)
+**发布时间**: 2026-08-24 14:25
+
+#### [10万内的电车越来越强了，你还会看油车吗？](https://www.tmtpost.com/8114252.html)
+**发布时间**: 2026-08-24 14:25
+
+#### [2026Q2乳制品市场回顾](https://www.tmtpost.com/8114146.html)
+**发布时间**: 2026-08-24 14:25
+
+#### [电车之后，中国乳业也“换道超车”了](https://www.tmtpost.com/8113513.html)
+**发布时间**: 2026-08-24 14:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算](https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 15:43
+
+#### [“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router](https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 14:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球](http://www.geekpark.net/news/369283)
+**发布时间**: 2026-08-24 15:25
+
+#### [AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？](http://www.geekpark.net/news/369273)
+**发布时间**: 2026-08-24 15:17
+
+#### [DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新](http://www.geekpark.net/news/369278)
+**发布时间**: 2026-08-24 15:14
+
+#### [形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判](http://www.geekpark.net/news/369264)
+**发布时间**: 2026-08-24 14:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563)
+**发布时间**: 2026-08-24 15:14
 
 ---
 

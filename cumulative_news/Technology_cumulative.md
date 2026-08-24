@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 23:15
+**最后更新时间**: 2026-08-24 05:33
+
+---
+
+## 🆕 最新更新 (2026-08-24 05:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [在闲鱼卖AI，普通人的搞钱天堂？](https://www.tmtpost.com/8114147.html)
+**发布时间**: 2026-08-24 12:25
+
+#### [腾讯在 AI 时代的船票，不是 WorkBuddy](https://www.tmtpost.com/8114162.html)
+**发布时间**: 2026-08-24 12:19
+
+#### [具身江湖志（二）：谁拿走了最聪明的钱？](https://www.tmtpost.com/8114154.html)
+**发布时间**: 2026-08-24 12:10
+
+#### [具身江湖志（一）：学术派下山记](https://www.tmtpost.com/8114148.html)
+**发布时间**: 2026-08-24 12:10
+
+#### [WRC 2026：机器人的“试用期”结束了？](https://www.tmtpost.com/8113903.html)
+**发布时间**: 2026-08-24 12:08
+
+#### [快手要成可灵的“子公司”了](https://www.tmtpost.com/8114071.html)
+**发布时间**: 2026-08-24 12:08
+
+#### [脱单也靠AI，“赛博媒婆”拿到1500万元天使融资](https://www.tmtpost.com/8114111.html)
+**发布时间**: 2026-08-24 12:08
+
+#### [Alibaba Raises HK$80 Billion for AI After Reporting Faster Cloud Growth and Heavier Spending](https://www.tmtpost.com/8114144.html)
+**发布时间**: 2026-08-24 11:57
+
+#### [谁在为泡泡玛特的下跌买单](https://www.tmtpost.com/8113950.html)
+**发布时间**: 2026-08-24 11:55
+
+#### [苹果折叠iPhone，华为掰直Pura X：两种选择指向一个答案](https://www.tmtpost.com/8113955.html)
+**发布时间**: 2026-08-24 11:55
+
+#### [具身智能的攻坚战：陪伴机器人需要翻越哪些技术高墙？](https://www.tmtpost.com/8113992.html)
+**发布时间**: 2026-08-24 10:39
+
+#### [大品牌守不住价，小品牌走不动量，超市散装何以失守？](https://www.tmtpost.com/8113769.html)
+**发布时间**: 2026-08-24 10:06
+
+#### [下一个五年，湖南能不能靠机器人“突围”？](https://www.tmtpost.com/8113900.html)
+**发布时间**: 2026-08-24 10:03
+
+#### [21.6亿光伏合同“宁赔不签”，央企集体弃标背后是算不过来的经济账](https://www.tmtpost.com/8113878.html)
+**发布时间**: 2026-08-24 10:03
+
+#### [年产500万辆，“三蹦子”蹦出海外，背后是一个县城在操盘](https://www.tmtpost.com/8113874.html)
+**发布时间**: 2026-08-24 09:53
+
+#### [组件电池收入暴增600%，8年亏掉105亿的老牌光伏企业又翻身了](https://www.tmtpost.com/8113849.html)
+**发布时间**: 2026-08-24 09:53
+
+#### [阿丽拉“地标”深圳，奢华度假为何集体进城？](https://www.tmtpost.com/8113693.html)
+**发布时间**: 2026-08-24 09:53
+
+#### [AI医疗：千亿赛道，谁在领跑？](https://www.tmtpost.com/8113701.html)
+**发布时间**: 2026-08-24 09:51
+
+#### [百年股市的残酷真相：4%的公司创造了全部财富](https://www.tmtpost.com/8113667.html)
+**发布时间**: 2026-08-24 09:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub 公开预览 Stacked Pull Requests 功能](https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 12:19
+
+#### [Netflix 开源了一个用于因果推理的智能代理工作流](https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 10:44
+
+#### [完全相信AI代码的Uncle Bob，坦诚这条路还没走通](https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 10:16
+
+#### [DeepSeek 再度调价；英伟达AI服务器涨价超 15%；“AI红娘”承诺三年不结婚就退款，前 Kimi搜索负责人创业目标：拉高10%结婚率 | AI周报](https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 10:11
+
+#### [从现实到反馈：KDC 完整工程模型全景](https://www.infoq.cn/article/6zto2Zd1cdiODGyBcf6r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 10:00
+
+#### [Cloudflare WriteGuard 为 MCP 服务器提供了精细化的安全控制](https://www.infoq.cn/article/1pa8asW4xOs6y2GYfl8T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 09:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制](https://sspai.com/post/112983)
+**发布时间**: 2026-08-24 11:30
+
+#### [派早报：九家车企召回近 430 万辆不易识别应急拉手汽车](https://sspai.com/post/113767)
+**发布时间**: 2026-08-24 07:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军](http://www.geekpark.net/news/369224)
+**发布时间**: 2026-08-24 08:40
 
 ---
 

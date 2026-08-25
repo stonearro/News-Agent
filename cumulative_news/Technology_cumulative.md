@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-25 05:27
+**最后更新时间**: 2026-08-25 08:35
+
+---
+
+## 🆕 最新更新 (2026-08-25 08:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [四位掌权者，四种命运：美国四大AI巨头全景](https://www.tmtpost.com/8115955.html)
+**发布时间**: 2026-08-25 16:21
+
+#### [AI Moves Deeper Into Hospitals, but Who Pays Remains the Hard Question](https://www.tmtpost.com/8116017.html)
+**发布时间**: 2026-08-25 16:09
+
+#### [从1.1元出厂价到9.9美元售价，华北产业带想拿回“控价权”｜ 出海参考](https://www.tmtpost.com/8114673.html)
+**发布时间**: 2026-08-25 15:10
+
+#### [车市下行周期逆势增长20%，科大讯飞做对了什么？](https://www.tmtpost.com/8115040.html)
+**发布时间**: 2026-08-25 14:31
+
+#### [中国商业航天，开启整星出口新节点](https://www.tmtpost.com/8115859.html)
+**发布时间**: 2026-08-25 14:06
+
+#### [风雪唐古拉，海尔智家AI科技走进极地考场](https://www.tmtpost.com/8115136.html)
+**发布时间**: 2026-08-25 13:49
+
+#### [对话张朝阳：AI狂奔，为什么要做“反效率”内容](https://www.tmtpost.com/8115155.html)
+**发布时间**: 2026-08-25 13:44
+
+#### [上海这栋楼，正在批量制造“一人公司”](https://www.tmtpost.com/8115834.html)
+**发布时间**: 2026-08-25 13:43
+
+#### [算力风口之下：电子布淘金潮，泥沙俱现](https://www.tmtpost.com/8115074.html)
+**发布时间**: 2026-08-25 13:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [主要前沿模型提供商采用水印技术以满足欧盟法规要求](https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-25 16:16
+
+#### [Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发](https://www.infoq.cn/article/9UoCxEhRcFG5ovFxTkXS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-25 14:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
+**发布时间**: 2026-08-25 15:00
 
 ---
 

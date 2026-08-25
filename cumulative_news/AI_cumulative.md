@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-25 08:33
+**最后更新时间**: 2026-08-25 23:18
+
+---
+
+## 🆕 最新更新 (2026-08-25 23:18)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)
+**发布时间**: 2026-08-25 19:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划](https://www.qbitai.com/2026/08/479314.html)
+**发布时间**: 2026-08-25 09:31
 
 ---
 

@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 23:18
+**最后更新时间**: 2026-08-25 05:27
+
+---
+
+## 🆕 最新更新 (2026-08-25 05:27)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [《有头有脸的大模型公司，集体搞起「匿名公测」》](http://www.geekpark.net/news/369324)
+**发布时间**: 2026-08-25 13:14
+
+#### [TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道](http://www.geekpark.net/news/369303)
+**发布时间**: 2026-08-25 08:25
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [营收47亿、净利暴增477%，重估大普微的稀缺价值](https://www.tmtpost.com/8115617.html)
+**发布时间**: 2026-08-25 12:38
+
+#### [世界模型离通用还有多远？](https://www.tmtpost.com/8114742.html)
+**发布时间**: 2026-08-25 12:06
+
+#### [被智谱封号的会员，有多少是被冤枉的？](https://www.tmtpost.com/8097104.html)
+**发布时间**: 2026-08-25 11:33
+
+#### [港股史上最大增发：阿里 800 亿港元押注 AI](https://www.tmtpost.com/8115058.html)
+**发布时间**: 2026-08-25 11:30
+
+#### [从被冷落到全球疯建：核电为什么重回风口？](https://www.tmtpost.com/8115547.html)
+**发布时间**: 2026-08-25 11:30
+
+#### [月销10万、市值不如蔚小理，零跑怎么了？](https://www.tmtpost.com/8115648.html)
+**发布时间**: 2026-08-25 10:55
+
+#### [日赚3.7亿！长江存储递表，“双子星”即将A股会师](https://www.tmtpost.com/8115394.html)
+**发布时间**: 2026-08-25 10:55
+
+#### [豪华破局，增长落定：赛力斯跑通了高端化最核心的一段路 | 看财报](https://www.tmtpost.com/8115316.html)
+**发布时间**: 2026-08-25 10:20
+
+#### [100块遛一天，北京家长把机器人大会当成亲子乐园](https://www.tmtpost.com/8115012.html)
+**发布时间**: 2026-08-25 10:03
+
+#### [AI算力通胀时代：英伟达服务器涨价超15%，成本传导冲击云厂商利润率](https://www.tmtpost.com/8115543.html)
+**发布时间**: 2026-08-25 09:59
+
+#### [Keep不自由：讲AI故事，做传统生意](https://www.tmtpost.com/8115479.html)
+**发布时间**: 2026-08-25 09:47
+
+#### [WRC2026观察：“明线”是落地，“暗线”是数据](https://www.tmtpost.com/8115370.html)
+**发布时间**: 2026-08-25 09:47
+
+#### [募资 330 亿！全球存储第三，科创板史上最大 IPO来了](https://www.tmtpost.com/8114872.html)
+**发布时间**: 2026-08-25 09:40
+
+#### [地址决定货色：电商AB货的分级生意](https://www.tmtpost.com/8115466.html)
+**发布时间**: 2026-08-25 09:16
+
+#### [顶固集创净利暴增16倍：主业亏超两千万，跨界并购同日折戟 | 看财报](https://www.tmtpost.com/8114702.html)
+**发布时间**: 2026-08-25 08:37
+
+#### [Edge AI Daily 早报（8月25日）](https://www.tmtpost.com/8115451.html)
+**发布时间**: 2026-08-25 08:05
+
+#### [Tesla Adds a Chinese Large Model to Its China Cars for the First Time](https://www.tmtpost.com/8115448.html)
+**发布时间**: 2026-08-25 07:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 将 CI 管道转变为 TypeScript 工作流](https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-25 12:12
+
+#### [Snowflake Summit 2026：Whatnot 如何将超高速增长中的数据转化为清晰的业务洞察 | 技术趋势](https://www.infoq.cn/article/9a0qIhdK6QBwSEh1KQyY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-25 10:52
+
+#### [SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot](https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-25 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙](https://sspai.com/post/112442)
+**发布时间**: 2026-08-25 11:13
+
+#### [派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
+**发布时间**: 2026-08-25 08:28
 
 ---
 

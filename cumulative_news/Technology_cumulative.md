@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-26 05:28
+**最后更新时间**: 2026-08-26 08:35
+
+---
+
+## 🆕 最新更新 (2026-08-26 08:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”](https://www.infoq.cn/article/vS7tpsLPdevZhMKdtxei?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 16:26
+
+#### [不懂算法的工厂老兵，在 AMD 锐龙 AI Max+ 395上跑出工业智能体](https://www.infoq.cn/article/RJDrRaDC1drafw0Kvoki?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 16:00
+
+#### [WhatsApp 测试 AI 反诈：消息无需上传云端](https://www.infoq.cn/article/wAVlMqVg7fqPjXAyFDjC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 15:00
+
+#### [535B 大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺](https://www.infoq.cn/article/y7KTOS9YbBz0OcoyiweQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 14:51
+
+#### [企业级多智能体架构搭建与应用能力·人才培养项目](https://www.infoq.cn/minibook/NZapvO5FpWP185SRLjvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 14:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [易慕峰生物：无产品商业化，短时间股权价差引争议｜IPO观察](https://www.tmtpost.com/8117047.html)
+**发布时间**: 2026-08-26 16:19
+
+#### [把城市变成机器人的“试验场”，长沙的具身智能实验](https://www.tmtpost.com/8116730.html)
+**发布时间**: 2026-08-26 14:47
+
+#### [扫地机器人：增长还在，故事得换了](https://www.tmtpost.com/8117338.html)
+**发布时间**: 2026-08-26 14:47
+
+#### [华能水电利润降了5%：来水不背锅，折旧才是主因](https://www.tmtpost.com/8117332.html)
+**发布时间**: 2026-08-26 14:46
+
+#### [穿越周期的钱大妈：社区生鲜的稳健增长样本](https://www.tmtpost.com/8117259.html)
+**发布时间**: 2026-08-26 14:07
+
+#### [前剪映负责人张琪智创业，OJO拿下顺为、联想创投近亿元天使轮](https://www.tmtpost.com/8117242.html)
+**发布时间**: 2026-08-26 13:42
+
+#### [具身江湖志（三）：机器人的草根阶层](https://www.tmtpost.com/8117181.html)
+**发布时间**: 2026-08-26 13:36
+
+#### [美日时隔28年再度联手"救市"：日元升值重塑全球大类资产定价范式](https://www.tmtpost.com/8117180.html)
+**发布时间**: 2026-08-26 13:25
+
+#### [Your Delivery Address May Decide What Quality of Goods You Get in China](https://www.tmtpost.com/8117264.html)
+**发布时间**: 2026-08-26 13:23
+
+#### [估值1000亿，智能戒指冲刺IPO，但官司已经找上门来了](https://www.tmtpost.com/8117149.html)
+**发布时间**: 2026-08-26 13:17
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？](http://www.geekpark.net/news/369401)
+**发布时间**: 2026-08-26 16:02
+
+#### [离开剪映后创业，她想把一支设计团队装进 AI 工作台](http://www.geekpark.net/news/369395)
+**发布时间**: 2026-08-26 15:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总](https://sspai.com/post/113851)
+**发布时间**: 2026-08-26 15:11
 
 ---
 

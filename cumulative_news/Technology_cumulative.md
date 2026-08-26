@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-25 23:20
+**最后更新时间**: 2026-08-26 05:28
+
+---
+
+## 🆕 最新更新 (2026-08-26 05:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [C# 终于支持带标签的 break！.NET 11 Preview 7 新特性速览](https://www.infoq.cn/article/WrkYpTecRlcybb4t056x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 13:16
+
+#### [Netflix详述如何扩展其实时服务地图](https://www.infoq.cn/article/T0CGyJc70O4ss6H2OCj9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 11:11
+
+#### [技术革命：为 Agentic AI 时代做好准备 | 技术趋势](https://www.infoq.cn/article/8ouuK09WuWA7Up35W9vb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 10:20
+
+#### [Grab 借助 AI 代理将机械性分析的工作量从 44% 降至 30%](https://www.infoq.cn/article/LqdtQ5sKYcEAzhCNNToE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 10:10
+
+#### [“额度想重置就重置，不问财务”，Codex Tibo首曝幕后：产品没做好，就补偿用户](https://www.infoq.cn/article/Ztjb9xolQG8qFThbgxBD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 09:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一批商业化Biotech的消亡](https://www.tmtpost.com/8116930.html)
+**发布时间**: 2026-08-26 13:12
+
+#### [养老社区里的AI试验](https://www.tmtpost.com/8114556.html)
+**发布时间**: 2026-08-26 13:07
+
+#### [330亿，长江存储背后有高人](https://www.tmtpost.com/8116960.html)
+**发布时间**: 2026-08-26 13:05
+
+#### [没有厨房的“幽灵生意”，这次彻底凉了](https://www.tmtpost.com/8117131.html)
+**发布时间**: 2026-08-26 13:05
+
+#### [腾讯强由它强，网易只想守好自己的一亩三分地](https://www.tmtpost.com/8117010.html)
+**发布时间**: 2026-08-26 11:15
+
+#### [WRC2026逛下来，机器人步入青少年期](https://www.tmtpost.com/8116992.html)
+**发布时间**: 2026-08-26 11:15
+
+#### [所有不想送欢迎水果的酒店，不如改送Token券](https://www.tmtpost.com/8116877.html)
+**发布时间**: 2026-08-26 10:01
+
+#### [实测豆包工作：WorkBuddy迎来最强对手？](https://www.tmtpost.com/8116841.html)
+**发布时间**: 2026-08-26 10:00
+
+#### [章建平75亿押注中际旭创，百亿“牛散”们有何底牌](https://www.tmtpost.com/8116287.html)
+**发布时间**: 2026-08-26 09:58
+
+#### [潮玩文创店，冰火两重天](https://www.tmtpost.com/8116731.html)
+**发布时间**: 2026-08-26 09:58
+
+#### [商业航天的人才竞争，为什么提前到了大学课堂？](https://www.tmtpost.com/8116703.html)
+**发布时间**: 2026-08-26 09:53
+
+#### [电商直播间，挤满时薪5毛的“金币猎人”](https://www.tmtpost.com/8116623.html)
+**发布时间**: 2026-08-26 09:53
+
+#### [Alibaba and ByteDance Exit Gaming Assets as Capital Shifts Toward AI](https://www.tmtpost.com/8116899.html)
+**发布时间**: 2026-08-26 09:53
+
+#### [985硕士不离职得“打螺丝”？百亿车灯龙头被曝“劝退”应届生](https://www.tmtpost.com/8116582.html)
+**发布时间**: 2026-08-26 09:30
+
+#### [小鹏机器人，站在了C位](https://www.tmtpost.com/8116493.html)
+**发布时间**: 2026-08-26 09:26
+
+#### [国产量检测要开始用EUV了](https://www.tmtpost.com/8116348.html)
+**发布时间**: 2026-08-26 09:19
+
+#### [雄安“一人公司”涌动：被大厂裁员的P7，用AI组装自己的“资本梦”](https://www.tmtpost.com/8116290.html)
+**发布时间**: 2026-08-26 09:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在正镶白旗，用五天共同生活理解现代牧场](https://sspai.com/post/113714)
+**发布时间**: 2026-08-26 10:39
+
+#### [派早报：Apple 发布新款 Mac mini 和 Mac Studio 等](https://sspai.com/post/113847)
+**发布时间**: 2026-08-26 08:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道](http://www.geekpark.net/news/369355)
+**发布时间**: 2026-08-26 08:10
 
 ---
 

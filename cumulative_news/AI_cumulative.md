@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-26 08:33
+**最后更新时间**: 2026-08-27 04:10
+
+---
+
+## 🆕 最新更新 (2026-08-27 04:10)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI](https://www.qbitai.com/2026/08/480005.html)
+**发布时间**: 2026-08-27 02:46
+
+#### [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
+**发布时间**: 2026-08-27 01:45
+
+#### [神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡](https://www.qbitai.com/2026/08/479919.html)
+**发布时间**: 2026-08-26 16:48
+
+#### [AI视频应用井喷，美图打开新的增长空间](https://www.qbitai.com/2026/08/479895.html)
+**发布时间**: 2026-08-26 10:18
+
+#### [小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势](https://www.qbitai.com/2026/08/479811.html)
+**发布时间**: 2026-08-26 10:17
+
+#### [硅谷今日最热具身模型！不用后训练，看一遍就学会](https://www.qbitai.com/2026/08/479834.html)
+**发布时间**: 2026-08-26 10:07
+
+#### [达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子](https://www.qbitai.com/2026/08/479808.html)
+**发布时间**: 2026-08-26 09:17
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
+**发布时间**: 2026-08-26 18:42
 
 ---
 

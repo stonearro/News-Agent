@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-26 08:35
+**最后更新时间**: 2026-08-27 04:12
+
+---
+
+## 🆕 最新更新 (2026-08-27 04:12)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从数字化到AI：企业数智跃迁的路径、实践与挑战 | 2026 ITValue Summit前瞻：AI系统落地系列直播②](https://www.tmtpost.com/8118639.html)
+**发布时间**: 2026-08-27 12:08
+
+#### [DeepSeek一张涨价单，繁荣了一条产业链？](https://www.tmtpost.com/8118103.html)
+**发布时间**: 2026-08-27 11:52
+
+#### [腾讯汤道生，为“慢”作答](https://www.tmtpost.com/8118158.html)
+**发布时间**: 2026-08-27 11:52
+
+#### [AI的账单，不只由科技公司买单](https://www.tmtpost.com/8118214.html)
+**发布时间**: 2026-08-27 11:52
+
+#### [一周卖出2个亿后，ALO 不想和 Lululemon 当对手了](https://www.tmtpost.com/8118087.html)
+**发布时间**: 2026-08-27 11:35
+
+#### [DeepSeek调价之后，谁走出了斩杀线？](https://www.tmtpost.com/8118102.html)
+**发布时间**: 2026-08-27 11:34
+
+#### [薇诺娜还在为贝泰妮抗鼎](https://www.tmtpost.com/8118184.html)
+**发布时间**: 2026-08-27 11:34
+
+#### [家医签约「绑」上专科医生——273号文到底在改什么？](https://www.tmtpost.com/8118219.html)
+**发布时间**: 2026-08-27 11:34
+
+#### [「点头」：一旦执行可以交给AI，人还剩下什么](https://www.tmtpost.com/8116759.html)
+**发布时间**: 2026-08-27 11:02
+
+#### [B端收入涨7倍反超C端，MiniMax换了个活法 ｜ 看财报](https://www.tmtpost.com/8118586.html)
+**发布时间**: 2026-08-27 10:43
+
+#### [茉莉奶白的速度与账本：年开近千家店，首批加盟商开始退出](https://www.tmtpost.com/8118045.html)
+**发布时间**: 2026-08-27 10:09
+
+#### [基金市场概况与资产配置观点（08.17—08.23）](https://www.tmtpost.com/8118564.html)
+**发布时间**: 2026-08-27 10:08
+
+#### [烧钱与营收并进，DeepSeek被曝前七个月收入4.75亿元，Minimax连夜披露ARR暴涨500%](https://www.tmtpost.com/8118394.html)
+**发布时间**: 2026-08-27 10:08
+
+#### [OpenAI自研芯片将击穿英伟达CUDA护城河？](https://www.tmtpost.com/8117324.html)
+**发布时间**: 2026-08-27 10:07
+
+#### [MiniMax开始靠别人赚钱](https://www.tmtpost.com/8118437.html)
+**发布时间**: 2026-08-27 09:48
+
+#### [【机构调研】上市公司TOP5穹顶评估（8月17日至8月23日）](https://www.tmtpost.com/8118514.html)
+**发布时间**: 2026-08-27 09:43
+
+#### [资本市场深层底座创新探索 ——济安金信行业分类标准的理论、实践与逻辑审视](https://www.tmtpost.com/8118501.html)
+**发布时间**: 2026-08-27 09:39
+
+#### [价值判断：涨停板的投资机会和风险提示（8月25日｜上市公司观察](https://www.tmtpost.com/8118499.html)
+**发布时间**: 2026-08-27 09:39
+
+#### [特斯拉的产线还未投产，Figure已交付350台机器人](https://www.tmtpost.com/8118474.html)
+**发布时间**: 2026-08-27 09:38
+
+#### [AI抢走的第一份工作，如何变成一场大萧条？](https://www.tmtpost.com/8118487.html)
+**发布时间**: 2026-08-27 09:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群](https://www.infoq.cn/article/p8qELFuWcdBic11PXG72?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 12:00
+
+#### [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 10:28
+
+#### [ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻](https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 10:27
+
+#### [“我们把同一个应用构建了两次”：Harper 挑战 Vercel，性能最高相差 14 倍](https://www.infoq.cn/article/jbOa8ChckHTgVVKh5AKb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 10:10
+
+#### [如何把 Agent 的判断与行动变成可恢复的软件事实 | KDC 工程补篇](https://www.infoq.cn/article/AkgUFEFE4uG7WIlqaO2g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 10:00
+
+#### [英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级](https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 17:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
+**发布时间**: 2026-08-27 11:01
+
+#### [派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
+**发布时间**: 2026-08-27 07:33
+
+#### [装了啥特别篇：少数派编辑部最近都 vibe 了啥？](https://sspai.com/prime/story/zhuanglesha-260826)
+**发布时间**: 2026-08-26 15:59
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道](http://www.geekpark.net/news/369414)
+**发布时间**: 2026-08-27 08:27
 
 ---
 

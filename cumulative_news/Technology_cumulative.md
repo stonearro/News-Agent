@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-27 04:12
+**最后更新时间**: 2026-08-27 16:04
+
+---
+
+## 🆕 最新更新 (2026-08-27 16:04)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“全球AI药物递送第一股”的半年考：134倍营收，成色几何](https://www.tmtpost.com/8119542.html)
+**发布时间**: 2026-08-27 22:06
+
+#### [营收降27.43%、扣非降88.54%，天臣医疗进入“换挡窗口期”丨看财报](https://www.tmtpost.com/8119399.html)
+**发布时间**: 2026-08-27 21:54
+
+#### [新车密集接棒，理想汽车的盈利修复押在四季度](https://www.tmtpost.com/8119600.html)
+**发布时间**: 2026-08-27 21:51
+
+#### [中科电气：营收增四成利润腰斩，24亿定增扩产成效待考 | 看财报](https://www.tmtpost.com/8119260.html)
+**发布时间**: 2026-08-27 21:07
+
+#### [HBM正在被重新定义](https://www.tmtpost.com/8117979.html)
+**发布时间**: 2026-08-27 18:25
+
+#### [AI办公之争：腾讯、阿里、字节在牌桌上亮出的第一张牌，是各自的组织架构](https://www.tmtpost.com/8118691.html)
+**发布时间**: 2026-08-27 18:20
+
+#### [营收暴涨106%，却先跌3%：英伟达的超预期，为什么不及格？](https://www.tmtpost.com/8118750.html)
+**发布时间**: 2026-08-27 18:20
+
+#### [AI开小号骗人，被大学生抓包了](https://www.tmtpost.com/8118757.html)
+**发布时间**: 2026-08-27 18:20
+
+#### [874亿，全球最大AI开源社区要卖了](https://www.tmtpost.com/8118864.html)
+**发布时间**: 2026-08-27 18:20
+
+#### [商汤的6亿利润，从哪来？](https://www.tmtpost.com/8118945.html)
+**发布时间**: 2026-08-27 18:20
+
+#### [燃油车4S店倒闭后，销冠们开始重新学卖车](https://www.tmtpost.com/8119195.html)
+**发布时间**: 2026-08-27 18:20
+
+#### [苏讯新材：低研发却维持高毛利，大额分红后再募资补流引争议｜IPO观察](https://www.tmtpost.com/8117192.html)
+**发布时间**: 2026-08-27 17:53
+
+#### [9亿美元刷新机器人融资纪录，资本开始抢注“物理AI”门票](https://www.tmtpost.com/8118268.html)
+**发布时间**: 2026-08-27 17:38
+
+#### [上半年盈利再增17%，透过新乳业看乳企的进化 | 看财报](https://www.tmtpost.com/8119107.html)
+**发布时间**: 2026-08-27 17:35
+
+#### [China's Tech Giants Pour Billions in AI Infrastructure in Q2](https://www.tmtpost.com/8119172.html)
+**发布时间**: 2026-08-27 17:20
+
+#### [Beyond the Filter: Inside Meitu’s High-Stakes Shift from Photo Retouching to AI Productivity](https://www.tmtpost.com/8119121.html)
+**发布时间**: 2026-08-27 16:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼](http://www.geekpark.net/news/369478)
+**发布时间**: 2026-08-27 19:57
+
+#### [影响了两代人后，Meta 被判赔 180 亿美元](http://www.geekpark.net/news/369463)
+**发布时间**: 2026-08-27 15:33
+
+#### [129 亿美元，英伟达拿下 Hugging Face](http://www.geekpark.net/news/369458)
+**发布时间**: 2026-08-27 15:09
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
+**发布时间**: 2026-08-27 18:00
+
+#### [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
+**发布时间**: 2026-08-27 15:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [世界人工智能开源大赛（GOAI）初赛评审结果暨晋级名单公告](https://www.infoq.cn/article/Y410fSRGi67fUrNUuzYb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 17:56
+
+#### [给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系](https://www.infoq.cn/article/QqDSrCEGWitk7kkJg7Kj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 17:52
+
+#### [大模型推理加速全链路：内存管理、编译优化、量化与并行策略](https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 17:47
+
+#### [Cloudflare 利用 AI 智能体将 Astro GitHub 问题减少 85%](https://www.infoq.cn/article/iJu3eUyEhEI373KeYhYN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 17:00
+
+#### [Azure DevOps Remote MCP 服务器正式发布，暂不支持 Claude、ChatGPT 及 Cursor](https://www.infoq.cn/article/SvTBvljtvGctvWPQRqr7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 15:27
+
+#### [不做手机缩小版：AI 健康记录迁到手腕，要跨过哪些工程鸿沟？](https://www.infoq.cn/article/9TmFlNIk6EamqpvJIOkI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 15:10
+
+#### [研发投入增长40%，拼多多的增长逻辑变了](https://www.infoq.cn/article/ktdCqUp8DUg22Y9lKiOQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 14:57
+
+#### [非结构化数据的结构化处理：基于 Snowflake Cortex AI Functions | 技术实践](https://www.infoq.cn/article/Xw6Nlqq7N2J0CKA0ehx8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 14:02
+
+#### [Aspire 13.5 正式发布：终端进入仪表板，TypeScript AppHost 转正](https://www.infoq.cn/article/cV1s25pv0lLTvYB9diU3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-27 13:33
+
+#### [一个工厂老兵，在 AMD 锐龙 AI Max+ 395上跑出工业智能体](https://www.infoq.cn/article/RJDrRaDC1drafw0Kvoki?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-26 16:00
 
 ---
 

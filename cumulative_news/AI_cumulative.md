@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-27 16:01
+**最后更新时间**: 2026-08-28 06:27
+
+---
+
+## 🆕 最新更新 (2026-08-28 06:27)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移](https://www.qbitai.com/2026/08/480227.html)
+**发布时间**: 2026-08-28 04:09
+
+#### [智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持](https://www.qbitai.com/2026/08/480223.html)
+**发布时间**: 2026-08-28 04:06
+
+#### [高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景](https://www.qbitai.com/2026/08/480208.html)
+**发布时间**: 2026-08-28 03:45
+
+#### [34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及](https://www.qbitai.com/2026/08/480202.html)
+**发布时间**: 2026-08-28 03:03
+
+#### [全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力](https://www.qbitai.com/2026/08/480083.html)
+**发布时间**: 2026-08-28 02:48
+
+#### [HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄](https://www.qbitai.com/2026/08/480186.html)
+**发布时间**: 2026-08-28 01:40
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
+**发布时间**: 2026-08-27 17:37
 
 ---
 

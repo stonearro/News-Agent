@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-27 16:04
+**最后更新时间**: 2026-08-28 06:29
+
+---
+
+## 🆕 最新更新 (2026-08-28 06:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启](https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 14:20
+
+#### [Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎](https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 14:00
+
+#### [从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 12:31
+
+#### [S3 兼容不代表具备 S3 级别的安全性](https://www.infoq.cn/article/xr3L0bkiFZGzYmtZwscB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 12:30
+
+#### [从数据格式到完整引擎：2026 数据库系统演进趋势与 TDSQL 实践 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/7Idl1NaRyb6MPku1W1Vv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 12:07
+
+#### [你的 Agent 已经上线生产环境，下一步怎么办？ | 技术实践](https://www.infoq.cn/article/mKFB15kPm6Uw8fNG4Y7e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 11:53
+
+#### [1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后](https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 11:43
+
+#### [智谱认领“牛来”模型，实测：“牛马”友好](https://www.infoq.cn/article/sTYSudHtvkbNJvuSbp31?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 11:32
+
+#### [谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊](https://www.infoq.cn/article/MCTm2NvWob0ZHulXe0AQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 10:58
+
+#### [Cloudflare 将工程规范改造为 AI 强制执行的管控系统](https://www.infoq.cn/article/TEgX02zINMmLVbYPyP0N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 10:53
+
+#### [曝英伟达129 亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic](https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 09:29
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [品质护城河再验证，解码周黑鸭半年报高增长价值逻辑](https://www.tmtpost.com/8120351.html)
+**发布时间**: 2026-08-28 14:19
+
+#### [信维通信“拐点”初现：扣非增长22%，新业务渐次起量 | 看财报](https://www.tmtpost.com/8120258.html)
+**发布时间**: 2026-08-28 14:02
+
+#### [Hugging Face 130亿美元探价：不缺钱的“卖身”悬疑与分发层中立悖论](https://www.tmtpost.com/8120237.html)
+**发布时间**: 2026-08-28 12:31
+
+#### [时代落幕，彩电一哥康佳主动宣布退市](https://www.tmtpost.com/8120240.html)
+**发布时间**: 2026-08-28 12:31
+
+#### [商场掀起板前潮，多品牌扎堆入局，餐饮消费逻辑正发生转变](https://www.tmtpost.com/8120261.html)
+**发布时间**: 2026-08-28 12:31
+
+#### [扫地机双雄，出海续命](https://www.tmtpost.com/8120272.html)
+**发布时间**: 2026-08-28 12:31
+
+#### [卖1000万赚15万，中国餐饮何时告别“自虐式经营”？](https://www.tmtpost.com/8120260.html)
+**发布时间**: 2026-08-28 12:23
+
+#### [翰森在创新药化上走在恒瑞前面了？](https://www.tmtpost.com/8120103.html)
+**发布时间**: 2026-08-28 12:21
+
+#### [收入普涨，股价却集体崩跌：Q2互联网广告的真相不在财报里](https://www.tmtpost.com/8120114.html)
+**发布时间**: 2026-08-28 12:21
+
+#### [隐世也“入市”，北外滩到底还有多少酒店库存？](https://www.tmtpost.com/8120136.html)
+**发布时间**: 2026-08-28 12:20
+
+#### [700个Agent串联起来，成立了一家“地下公司”](https://www.tmtpost.com/8120181.html)
+**发布时间**: 2026-08-28 12:09
+
+#### [跨圈KPOP、玩IP混搭，球星卡迎来破圈时刻？](https://www.tmtpost.com/8120128.html)
+**发布时间**: 2026-08-28 12:09
+
+#### [机器人卖出去4万台之后，供应链能接住万亿市场需求么？](https://www.tmtpost.com/8119874.html)
+**发布时间**: 2026-08-28 11:46
+
+#### [英伟达129亿美元买下Hugging Face，开源社区终究逃不过委身巨头的宿命？](https://www.tmtpost.com/8120096.html)
+**发布时间**: 2026-08-28 10:59
+
+#### [算力高增，回报待验，英伟达财报进入兑现窗口](https://www.tmtpost.com/8120124.html)
+**发布时间**: 2026-08-28 10:07
+
+#### [拿下一半中国市场后，国货美妆为何 “大而不富”？](https://www.tmtpost.com/8119243.html)
+**发布时间**: 2026-08-28 10:02
+
+#### [“果链女王”投了个00后，已干成百亿独角兽](https://www.tmtpost.com/8119371.html)
+**发布时间**: 2026-08-28 09:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」](http://www.geekpark.net/news/369508)
+**发布时间**: 2026-08-28 13:10
+
+#### [特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道](http://www.geekpark.net/news/369481)
+**发布时间**: 2026-08-28 08:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [全球首款阔直板探索计划：华为 Pura X View 新品有奖体验](https://sspai.com/post/113883)
+**发布时间**: 2026-08-28 12:00
+
+#### [桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验](https://sspai.com/post/113909)
+**发布时间**: 2026-08-28 09:56
+
+#### [派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等](https://sspai.com/post/113922)
+**发布时间**: 2026-08-28 08:29
 
 ---
 

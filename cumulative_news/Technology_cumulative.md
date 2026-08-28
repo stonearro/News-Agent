@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-28 06:29
+**最后更新时间**: 2026-08-28 19:51
+
+---
+
+## 🆕 最新更新 (2026-08-28 19:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [上海医药中报利润冰火反差背后，巨头转型遇现实考题丨看财报](https://www.tmtpost.com/8121190.html)
+**发布时间**: 2026-08-28 21:46
+
+#### [豆包工作的办公棋局：飞书与豆包的合流](https://www.tmtpost.com/8121252.html)
+**发布时间**: 2026-08-28 20:51
+
+#### [农夫山泉上半年茶饮料收入增长30.1%；古茗上半年营收增长31.9%，门店超1.4万家；滔搏获Sierra Designs中国市场独家运营权｜消研所周报](https://www.tmtpost.com/8121016.html)
+**发布时间**: 2026-08-28 20:32
+
+#### [18个月造一款车？监管给“造车竞速”划出质量底线](https://www.tmtpost.com/8120572.html)
+**发布时间**: 2026-08-28 20:32
+
+#### [万和电气：内外承压下业绩失速，全员信背后的改革成效待验证 | 看财报](https://www.tmtpost.com/8120829.html)
+**发布时间**: 2026-08-28 18:43
+
+#### [零售收入追上酒店，亚朵为什么更离不开“房间”？](https://www.tmtpost.com/8119447.html)
+**发布时间**: 2026-08-28 18:26
+
+#### [机器人运动会：智元、天工、银河通用赢麻了](https://www.tmtpost.com/8119366.html)
+**发布时间**: 2026-08-28 18:26
+
+#### [宇树、拓斯达、越疆的上半年，藏着具身智能商业化的真实进度条](https://www.tmtpost.com/8118715.html)
+**发布时间**: 2026-08-28 18:18
+
+#### [首尔没有“新茶饮”，只有昂贵的尝鲜](https://www.tmtpost.com/8120821.html)
+**发布时间**: 2026-08-28 18:12
+
+#### [全球煤炭“边际定价”时代：不足15%的市场如何决定煤价？](https://www.tmtpost.com/8120800.html)
+**发布时间**: 2026-08-28 18:12
+
+#### [机器人运动会落幕后，回看智元的冠军之路](https://www.tmtpost.com/8120500.html)
+**发布时间**: 2026-08-28 17:37
+
+#### [光本位科技完成数十亿元融资，估值达到近200亿元](https://www.tmtpost.com/8120301.html)
+**发布时间**: 2026-08-28 17:34
+
+#### [运动会大赢家智元，能复刻宇树4千亿神话吗？](https://www.tmtpost.com/8120094.html)
+**发布时间**: 2026-08-28 16:47
+
+#### [Cheaper AI Inference Drives Record Infrastructure Spending](https://www.tmtpost.com/8120746.html)
+**发布时间**: 2026-08-28 16:44
+
+#### [白酒新周期：从“三高”到“三低”](https://www.tmtpost.com/8120687.html)
+**发布时间**: 2026-08-28 16:25
+
+#### [哦，原来家庭机器人，就是给音箱插几条腿](https://www.tmtpost.com/8120420.html)
+**发布时间**: 2026-08-28 16:25
+
+#### [美图渴望重返青春](https://www.tmtpost.com/8120412.html)
+**发布时间**: 2026-08-28 16:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Coding 自由之后，人开始成为最大的瓶颈](http://www.geekpark.net/news/369547)
+**发布时间**: 2026-08-28 21:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [下一层抽象：从UX角度思考Agentic OS的样貌](https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 18:00
+
+#### [DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构](https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 17:00
+
+#### [圆桌讨论：研究型人才培养与数据库未来发展方向](https://www.infoq.cn/video/kJ0ARKZePg80FpGY1J3Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 16:55
+
+#### [Token消耗减少75%，千问办公创造了新的“省钱模式”](https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 16:54
+
+#### [数据库测试、测评：进展与展望 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/SD7eGfAXrr5K0spls5LO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 16:35
+
+#### [腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯](https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 16:09
+
+#### [大模型和硬件之间，长出了一层新生意](https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 15:57
+
+#### [2026年中国企业AI转型洞察报告](https://www.infoq.cn/minibook/oYXpDApcpvvgHIOzIOXp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 15:53
+
+#### [规模化 AI 代码审查：LinkedIn 的多智能体方案](https://www.infoq.cn/article/A0CMcU7UVsMQreKPcKOw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-28 15:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113944)
+**发布时间**: 2026-08-28 17:44
+
+#### [开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理](https://sspai.com/post/68623)
+**发布时间**: 2026-08-28 15:04
 
 ---
 

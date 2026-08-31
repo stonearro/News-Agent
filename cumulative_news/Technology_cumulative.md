@@ -1,7 +1,150 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-31 01:07
+**最后更新时间**: 2026-08-31 11:22
+
+---
+
+## 🆕 最新更新 (2026-08-31 11:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Hy4Preview，更“姚顺雨”了](https://www.tmtpost.com/8122948.html)
+**发布时间**: 2026-08-31 19:13
+
+#### [英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了](https://www.tmtpost.com/8122952.html)
+**发布时间**: 2026-08-31 19:13
+
+#### [豆包工作开始加速字节的Token飞轮](https://www.tmtpost.com/8123032.html)
+**发布时间**: 2026-08-31 19:13
+
+#### [混元Hy4 preview上线即排队，能消解腾讯的AI焦虑吗？](https://www.tmtpost.com/8123051.html)
+**发布时间**: 2026-08-31 19:13
+
+#### [智慧家居的深水区，一场开源鸿蒙生态的新战役](https://www.tmtpost.com/8123086.html)
+**发布时间**: 2026-08-31 18:13
+
+#### [【Fintech 周报】智能体支付应用自律公约发布；拉卡拉终止港股IPO](https://www.tmtpost.com/8122996.html)
+**发布时间**: 2026-08-31 17:19
+
+#### [从5.5个月到24个月：霸王茶姬加盟商的回本账](https://www.tmtpost.com/8122875.html)
+**发布时间**: 2026-08-31 17:00
+
+#### [AGI军令状前，MiniMax 和智谱的最后一份中报](https://www.tmtpost.com/8122866.html)
+**发布时间**: 2026-08-31 17:00
+
+#### [深度研判：mRNA肿瘤疫苗的胜负手，不在mRNA](https://www.tmtpost.com/8122553.html)
+**发布时间**: 2026-08-31 16:16
+
+#### [股价暴跌后，眼科明星公司开启“自救”](https://www.tmtpost.com/8122604.html)
+**发布时间**: 2026-08-31 16:16
+
+#### [独家｜字节豆包2.2推迟发布，Coding疯狂补课](https://www.tmtpost.com/8122882.html)
+**发布时间**: 2026-08-31 16:16
+
+#### [达芬奇全新手术机器人获批！杀入奥林巴斯腹地](https://www.tmtpost.com/8122837.html)
+**发布时间**: 2026-08-31 16:16
+
+#### [解读物理AI第一股”的底色](https://www.tmtpost.com/8122870.html)
+**发布时间**: 2026-08-31 16:16
+
+#### [利润、现金流双位数增长，以岭药业创新成果进入兑现期 | 看财报](https://www.tmtpost.com/8122888.html)
+**发布时间**: 2026-08-31 16:10
+
+#### [线上卖到60亿以后，女装品牌为什么还要去线下开店？](https://www.tmtpost.com/8120663.html)
+**发布时间**: 2026-08-31 15:20
+
+#### [卖水不如卖茶？大盘量缩，但头部玩家靠茶赚得更多了](https://www.tmtpost.com/8121546.html)
+**发布时间**: 2026-08-31 15:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从出片到出海：AI MediaKit 重塑短剧全链路生产力](https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 18:27
+
+#### [AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践](https://www.infoq.cn/article/l88X1azz8wfwphDyECoP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:48
+
+#### [智能体适应度函数：将演进式架构扩展至确定性规则之外](https://www.infoq.cn/article/8iWWrov7bkk1hz5CcFft?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:45
+
+#### [AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践](https://www.infoq.cn/article/sDyQxrWR6zDPJuLX4FA8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:39
+
+#### [当数采设备不再稀缺，具身数据下一步拼什么？](https://www.infoq.cn/article/D2r6SJ2oYVAXGMBkPcRM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:04
+
+#### [OpenClaw 从意外爆红到“无人问津”：一个开源 AI Agent 的八个月过山车](https://www.infoq.cn/article/4KQHJC49t8J8FPqaEVLv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:27
+
+#### [“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱](https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:19
+
+#### [“烂代码”转正？Bun稳定版终落地：跳票一个半月，2900个问题清零](https://www.infoq.cn/article/olsG3w9zkyKRqbQesB1g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:14
+
+#### [不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法](https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:03
+
+#### [坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了](https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:03
+
+#### [Rx.NET 7.0 拆分 Windows UI 支持，大幅缩减应用部署体积](https://www.infoq.cn/article/tiJTwoTI7Z0pI6huyRPW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:00
+
+#### [Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成](https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:56
+
+#### [自研Runtime、Agent Loop、Infra：一家通用Agent公司的全栈赌注](https://www.infoq.cn/article/NUGYDLvivgYXMV9u637z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:47
+
+#### [Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事](https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:20
+
+#### [OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款](https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:16
+
+#### [Kubeflow扩展了AI功能，项目临近CNCF毕业](https://www.infoq.cn/article/grb2X7v7fr6kUNuuRkvt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 13:31
+
+#### [Netflix采用云原生作业队列系统Kueue替代内部解决方案](https://www.infoq.cn/article/d1qT2acYJodVCcKaBe4u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 12:00
+
+#### [长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报](https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 10:20
+
+#### [InfoQ 2026 年云计算与 DevOps 趋势报告](https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 09:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/114041)
+**发布时间**: 2026-08-31 18:05
+
+#### [家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方](https://sspai.com/prime/story/)
+**发布时间**: 2026-08-31 17:09
+
+#### [屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能](https://sspai.com/post/114027)
+**发布时间**: 2026-08-31 14:57
+
+#### [全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
+**发布时间**: 2026-08-31 10:53
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道](http://www.geekpark.net/news/369559)
+**发布时间**: 2026-08-31 16:40
+
+#### [OpenAI 内部，AI 建立了三代「文明」](http://www.geekpark.net/news/369610)
+**发布时间**: 2026-08-31 15:16
+
+#### [人类，越来越难理解 AI](http://www.geekpark.net/news/369609)
+**发布时间**: 2026-08-31 15:12
+
+#### [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](http://www.geekpark.net/news/369608)
+**发布时间**: 2026-08-31 15:09
+
+#### [编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结](http://www.geekpark.net/news/369517)
+**发布时间**: 2026-08-31 09:14
 
 ---
 

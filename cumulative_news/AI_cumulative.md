@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-31 11:16
+**最后更新时间**: 2026-09-01 01:32
+
+---
+
+## 🆕 最新更新 (2026-09-01 01:32)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+**发布时间**: 2026-08-31 17:19
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」](https://www.qbitai.com/2026/08/481928.html)
+**发布时间**: 2026-08-31 13:20
 
 ---
 

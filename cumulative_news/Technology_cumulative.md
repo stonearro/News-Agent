@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-01 01:38
+**最后更新时间**: 2026-09-01 09:44
+
+---
+
+## 🆕 最新更新 (2026-09-01 09:44)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS 发布 Aws-Bench，用于评估云任务中的智能代理](https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 16:22
+
+#### [机器人的下一站，或许是乐高化](https://www.infoq.cn/article/UtCRvV8lbVcxda606JVq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 15:18
+
+#### [通过操作 DRAM 控制器寄存器可突破 CPU 内存隔离机制](https://www.infoq.cn/article/G5CDMcK3tU0h71LzUlyo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 15:00
+
+#### [shadcn 通过新推出的聊天组件将对话基础组件引入了 shadcn/ui](https://www.infoq.cn/article/TKOvaxoX6xF5yWHJ7dYg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 13:17
+
+#### [从2999份作品出发：GOAI四大赛道的AI创新观察](https://www.infoq.cn/article/fovhGGuNSwa7tG44WBFm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 12:54
+
+#### [Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相对滞后](https://www.infoq.cn/article/Su2betkPUhxX0JTVazBi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 11:55
+
+#### [智元的“夺冠方法论”](https://www.infoq.cn/article/Ql9rmriHMYtauB4R53Kw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 10:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI液冷服务器急交付，卡点或在中国制造的一条焊缝里](https://www.tmtpost.com/8124529.html)
+**发布时间**: 2026-09-01 16:13
+
+#### [百丽十二年数智化复盘：先把企业工程化，再让AI 读懂它丨2026 ITValue Summit 前瞻：AI系统落地系列直播③](https://www.tmtpost.com/8123419.html)
+**发布时间**: 2026-09-01 15:14
+
+#### [Jobber 的中国空位：当 Agent 遇上三人疏通队，社区 SaaS 的千亿缝隙](https://www.tmtpost.com/8124281.html)
+**发布时间**: 2026-09-01 14:44
+
+#### [用AI，谈一场身心俱疲的恋爱](https://www.tmtpost.com/8124305.html)
+**发布时间**: 2026-09-01 14:44
+
+#### [瑞士生物科技企业Aukera Therapeutics研发针对RAPTOR蛋白的高选择性小分子抑制剂](https://www.tmtpost.com/8124032.html)
+**发布时间**: 2026-09-01 14:33
+
+#### [具身江湖志（五）：离新闻头条最近的小脑派](https://www.tmtpost.com/8124307.html)
+**发布时间**: 2026-09-01 14:33
+
+#### [具身江湖志（四）：它们，把机器人的大脑做实](https://www.tmtpost.com/8124306.html)
+**发布时间**: 2026-09-01 14:33
+
+#### [特朗普宣布与梯瓦等9家公司达成药品定价协议](https://www.tmtpost.com/8124389.html)
+**发布时间**: 2026-09-01 14:24
+
+#### [机器人的“通用”迷局，场景进入才是头道门槛](https://www.tmtpost.com/8124272.html)
+**发布时间**: 2026-09-01 13:41
+
+#### [三家上市公司的命，绑在了一盘“菜”上？](https://www.tmtpost.com/8124081.html)
+**发布时间**: 2026-09-01 12:42
+
+#### [机场大屏上的AI云暗战：新云，正迎来它的时代](https://www.tmtpost.com/8119048.html)
+**发布时间**: 2026-09-01 12:41
+
+#### [独家｜扩散语言模型杀进端侧：Agent跑快5倍，GPT的“下一代替代者”出现了？](https://www.tmtpost.com/8124156.html)
+**发布时间**: 2026-09-01 12:34
+
+#### [楼花时代的终结](https://www.tmtpost.com/8124096.html)
+**发布时间**: 2026-09-01 12:30
+
+#### [再次卖爆的维密，正在抛弃自己](https://www.tmtpost.com/8124102.html)
+**发布时间**: 2026-09-01 12:26
+
+#### [全球酒店巨头杀入，1500亿疗愈酒店为何难撕“割韭菜”标签？](https://www.tmtpost.com/8124104.html)
+**发布时间**: 2026-09-01 12:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
+**发布时间**: 2026-09-01 15:18
+
+#### [开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
+**发布时间**: 2026-09-01 15:00
 
 ---
 

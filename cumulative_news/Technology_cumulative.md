@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-01 09:44
+**最后更新时间**: 2026-09-02 00:44
+
+---
+
+## 🆕 最新更新 (2026-09-02 00:44)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线](http://www.geekpark.net/news/369690)
+**发布时间**: 2026-09-02 08:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海淀的血脉和中关村的接力——万千气象看北京](https://www.tmtpost.com/8125165.html)
+**发布时间**: 2026-09-02 08:06
+
+#### [一个人，十五年，他想重写医疗AI的底层逻辑](https://www.tmtpost.com/8125079.html)
+**发布时间**: 2026-09-02 07:41
+
+#### [【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元](https://www.tmtpost.com/8125054.html)
+**发布时间**: 2026-09-02 07:20
+
+#### [歌礼制药半年亏3.2亿：押注GLP‑1赛道，烧钱阵痛与专利风险双双袭来丨看财报](https://www.tmtpost.com/8124983.html)
+**发布时间**: 2026-09-01 22:20
+
+#### [从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline](https://www.tmtpost.com/8124037.html)
+**发布时间**: 2026-09-01 22:07
+
+#### [A Moment of Truth for Sony in China After Black Myth: Wukong](https://www.tmtpost.com/8125008.html)
+**发布时间**: 2026-09-01 20:54
+
+#### [当玛雅与安第斯来到北京#万千气象看北京#](https://www.tmtpost.com/8123551.html)
+**发布时间**: 2026-09-01 20:46
+
+#### [中国汽车出海，最难的已经不是把车卖出去](https://www.tmtpost.com/8124780.html)
+**发布时间**: 2026-09-01 18:58
+
+#### [2000亿，淄博首富刚刚敲钟了](https://www.tmtpost.com/8124157.html)
+**发布时间**: 2026-09-01 18:04
+
+#### [智飞生物这次可能抱不上默沙东的大腿了](https://www.tmtpost.com/8124758.html)
+**发布时间**: 2026-09-01 18:04
+
+#### [美团终于赚钱了，但有一半或是友商“送”的](https://www.tmtpost.com/8123622.html)
+**发布时间**: 2026-09-01 18:00
+
+#### [比亚迪终于等来业绩拐点？](https://www.tmtpost.com/8123435.html)
+**发布时间**: 2026-09-01 18:00
+
+#### [马年里小马智行的隐忧](https://www.tmtpost.com/8124144.html)
+**发布时间**: 2026-09-01 17:59
+
+#### [宇树“腰斩”，智元凭什么开价更高？](https://www.tmtpost.com/8124107.html)
+**发布时间**: 2026-09-01 17:58
+
+#### [升级后的DeepSeek，为何总爱深思熟虑？](https://www.tmtpost.com/8124043.html)
+**发布时间**: 2026-09-01 17:58
+
+#### [IFA 2026前瞻：机器人走秀、AI家电乱斗，中国品牌决战欧洲](https://www.tmtpost.com/8124658.html)
+**发布时间**: 2026-09-01 17:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？](https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 21:24
+
+#### [OpenClaw 迎来史上最大更新：933 名贡献者、超 1.6万次 PR 提交！打开浏览器就能用](https://www.infoq.cn/article/9RS84kmpRvz4IqRUbNoe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 20:03
+
+#### [3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了](https://www.infoq.cn/article/Um4rVTweSFXAiwdGLFVB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:57
+
+#### [压缩不再只是归档：从直接计算到在线更新](https://www.infoq.cn/video/SjoEujMNOJphYVSMtGCK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:54
+
+#### [1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走](https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:54
+
+#### [谷歌 HEIR 项目旨在让同态加密推理成为可以一键实现的功能](https://www.infoq.cn/article/S6ATgchCiYMHpPaTPzer?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:34
+
+#### [VoidZero 发布 Vite+ Beta 版：通过单条命令即可调用的一体化 Web 工具链](https://www.infoq.cn/article/u57OGmqCgNX26LClSDef?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
+**发布时间**: 2026-09-01 17:00
 
 ---
 

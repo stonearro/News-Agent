@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-01 01:32
+**最后更新时间**: 2026-09-02 00:43
+
+---
+
+## 🆕 最新更新 (2026-09-02 00:43)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Mapping global methane emissions from space with deep learning](https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/)
+**发布时间**: 2026-09-01 18:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径](https://www.qbitai.com/2026/09/482512.html)
+**发布时间**: 2026-09-01 12:02
+
+#### [GitHub最热架构图Agent，开发者故事看哭了](https://www.qbitai.com/2026/09/482469.html)
+**发布时间**: 2026-09-01 08:26
+
+#### [急急急用电！马斯克开造燃气轮机叶片](https://www.qbitai.com/2026/09/482451.html)
+**发布时间**: 2026-09-01 08:24
+
+#### [A社化身A割！Claude官宣永久提额25%，结果到手反而少17%](https://www.qbitai.com/2026/09/482406.html)
+**发布时间**: 2026-09-01 08:15
+
+#### [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
+**发布时间**: 2026-09-01 05:12
+
+#### [AIVC只是前菜！复旦提出生命算子，统一生命建模](https://www.qbitai.com/2026/09/482300.html)
+**发布时间**: 2026-09-01 04:12
 
 ---
 

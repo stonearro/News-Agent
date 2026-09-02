@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-02 00:44
+**最后更新时间**: 2026-09-02 09:15
+
+---
+
+## 🆕 最新更新 (2026-09-02 09:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [盖茨用6000字劝AI慢一点，却劝来了7500亿的油门](https://www.tmtpost.com/8124978.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [靠着欢朋，希尔顿在华安心“养老”？](https://www.tmtpost.com/8125029.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！](https://www.tmtpost.com/8125170.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [炸了！“指纹芯片一哥”原总裁，栽在9.8万上](https://www.tmtpost.com/8125384.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [单月收入9亿，够智谱敬自己一杯了](https://www.tmtpost.com/8125056.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [下沉之王古茗，越来越像瑞幸](https://www.tmtpost.com/8125145.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [新势力8月销量：零跑向上、鸿蒙向下、理想反弹](https://www.tmtpost.com/8125529.html)
+**发布时间**: 2026-09-02 16:42
+
+#### [市值暴涨10倍之后，库克卸任苹果CEO，新掌门能打赢AI之战吗？](https://www.tmtpost.com/8124769.html)
+**发布时间**: 2026-09-02 15:47
+
+#### [CEO与员工薪资最高相差23倍，零食公司薪酬大起底](https://www.tmtpost.com/8125571.html)
+**发布时间**: 2026-09-02 15:47
+
+#### [连LV系的基金也看上Hyrox了](https://www.tmtpost.com/8124944.html)
+**发布时间**: 2026-09-02 15:47
+
+#### [英伟达涨价背后，ASIC要被认真对待了](https://www.tmtpost.com/8124934.html)
+**发布时间**: 2026-09-02 15:47
+
+#### [6只当下值得买入的股息贵族股](https://www.tmtpost.com/8125646.html)
+**发布时间**: 2026-09-02 12:45
+
+#### [当家庭AI消费成为共识，不同集团（06090.HK）高增长背后的价值](https://www.tmtpost.com/8125431.html)
+**发布时间**: 2026-09-02 12:02
+
+#### [对话范承工：模型同质化时代，记忆才是AI真正的护城河](https://www.tmtpost.com/8123503.html)
+**发布时间**: 2026-09-02 12:00
+
+#### [拥有海量数据，工业AI却为何跑不出来？](https://www.tmtpost.com/8125446.html)
+**发布时间**: 2026-09-02 11:54
+
+#### [大模型厂商，正忙着自备“干粮”](https://www.tmtpost.com/8124383.html)
+**发布时间**: 2026-09-02 11:53
+
+#### [Fable 5.1来了！Anthropic再秀肌肉](https://www.tmtpost.com/8125252.html)
+**发布时间**: 2026-09-02 11:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0](https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 16:06
+
+#### [优化平台工程规模，构建组织真正需要的平台](https://www.infoq.cn/article/PybEXW1fiP1O5vfteYdL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 14:22
+
+#### [倒计时21天！GOAI进入决赛月，120强全力冲刺](https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 14:21
+
+#### [Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台](https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 13:00
+
+#### [Fable 5.1 正式发布：性能翻倍、Agent成本下降45%，Anthropic 把顶级模型送进真实世界](https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 12:00
+
+#### [一次空指针问题引发的 Spring 生命周期思考](https://www.infoq.cn/article/eWdhZ7b2DjRetvtzcl7k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 11:52
+
+#### [关于 JDK 27 和 JDK 28，我们目前都知道些什么](https://www.infoq.cn/article/kJeDyClZsPiCEJFuGswL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 11:22
+
+#### [Claude越狱后，Anthropic停掉训练、150人紧急转岗](https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 09:42
+
+#### [如何让数据库更容易暴露 Bug？](https://www.infoq.cn/video/O8p3IB5iTYxpJ4OKgOQ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 09:30
+
+#### [随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格](https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 09:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
+**发布时间**: 2026-09-02 15:22
+
+#### [众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
+**发布时间**: 2026-09-02 11:00
+
+#### [派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等](https://sspai.com/post/114093)
+**发布时间**: 2026-09-02 07:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型](http://www.geekpark.net/news/369724)
+**发布时间**: 2026-09-02 14:59
+
+#### [从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价](http://www.geekpark.net/news/369719)
+**发布时间**: 2026-09-02 14:54
+
+#### [硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文](http://www.geekpark.net/news/369718)
+**发布时间**: 2026-09-02 14:49
 
 ---
 

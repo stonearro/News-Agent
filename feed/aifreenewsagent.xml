@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Sep 2026 00:43:00 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 00:45:09 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 09:13:00 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:15:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mapping global methane emissions from space with deep learning</title>
-      <link>https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</link>
-      <description>&lt;![CDATA[Mapping global methane emissions from space with deep learning]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</guid>
+      <title>还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍</title>
+      <link>https://www.qbitai.com/2026/09/483104.html</link>
+      <description>&lt;![CDATA[还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483104.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径</title>
-      <link>https://www.qbitai.com/2026/09/482512.html</link>
-      <description>&lt;![CDATA[3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482512.html</guid>
+      <title>阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一</title>
+      <link>https://www.qbitai.com/2026/09/483101.html</link>
+      <description>&lt;![CDATA[阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483101.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局</title>
+      <link>https://www.qbitai.com/2026/09/483097.html</link>
+      <description>&lt;![CDATA[前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483097.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资</title>
+      <link>https://www.qbitai.com/2026/09/482967.html</link>
+      <description>&lt;![CDATA[企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 02:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482967.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线</title>
+      <link>https://www.qbitai.com/2026/09/482652.html</link>
+      <description>&lt;![CDATA[Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 02:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482652.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>香港首个真实开放场景服务机器人落地兰桂坊</title>
+      <link>https://www.qbitai.com/2026/09/482855.html</link>
+      <description>&lt;![CDATA[香港首个真实开放场景服务机器人落地兰桂坊]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 02:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482855.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS</title>
+      <link>https://www.qbitai.com/2026/09/482699.html</link>
+      <description>&lt;![CDATA[巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 01:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482699.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>李飞飞发布：全球首个多模态世界模型</title>
+      <link>https://www.qbitai.com/2026/09/482586.html</link>
+      <description>&lt;![CDATA[李飞飞发布：全球首个多模态世界模型]]&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 01:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482586.html</guid>
       <category>AI</category>
     </item>
   </channel>

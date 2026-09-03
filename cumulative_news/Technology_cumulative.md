@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-03 00:55
+**最后更新时间**: 2026-09-03 09:22
+
+---
+
+## 🆕 最新更新 (2026-09-03 09:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施](https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 17:19
+
+#### [3个月拿下 3000 star，只因我们比 MinerU 多做了这件事](https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 17:09
+
+#### [李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界](https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 16:49
+
+#### [Omdia最新市场研究报告：OceanBase位居亚太分布式数据库市场第一](https://www.infoq.cn/article/dICPOgXYkvE9HcA1KpUv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 16:37
+
+#### [AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度](https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 16:20
+
+#### [亚马逊云科技推出规范驱动组合：数据工作流不再靠复制代码](https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 16:16
+
+#### [Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力](https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 14:05
+
+#### [超越偏移量延迟：PB 级规模下 Hudi 数据湖流水线的队列等待时间计算](https://www.infoq.cn/article/1qWhPgQVFTBcz8arxCCk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 12:10
+
+#### [GuanceDB 3.1：从 Bloom 过滤走向全字段倒排，重塑千亿级可观测性数据秒级查询体验](https://www.infoq.cn/article/yghIuWdN8M9vQyYeGuHl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 12:05
+
+#### [BMC 漏洞致数千台服务器面临硬件级入侵风险](https://www.infoq.cn/article/PfVEf7xZJBSkrYib9R8z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 10:40
+
+#### [Cursor 推出 Origin：面向智能体的 GitHub 替代方案](https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 09:09
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [老铺黄金二手折价腰斩，本土黄金珠宝品牌的奢侈化困局](https://www.tmtpost.com/8125598.html)
+**发布时间**: 2026-09-03 17:07
+
+#### [山下有松与Coach的竞争，像极了当年瑞幸与星巴克的样子](https://www.tmtpost.com/8127152.html)
+**发布时间**: 2026-09-03 16:51
+
+#### [配售800亿，阿里要如何重绘增长地图](https://www.tmtpost.com/8127343.html)
+**发布时间**: 2026-09-03 16:49
+
+#### [外卖大战周年财报复盘：三张利润表，三种胜利](https://www.tmtpost.com/8127162.html)
+**发布时间**: 2026-09-03 16:48
+
+#### [FTC 打亚马逊不是反垄断，是一场用"无刻度标尺"收编算法时代的阳谋](https://www.tmtpost.com/8127161.html)
+**发布时间**: 2026-09-03 16:47
+
+#### [美国抽紧全球铜库存，德银：铜市场或面临十年一遇挤仓时刻](https://www.tmtpost.com/8126083.html)
+**发布时间**: 2026-09-03 16:40
+
+#### [WorkBuddy 交出 “半条命”](https://www.tmtpost.com/8126809.html)
+**发布时间**: 2026-09-03 16:40
+
+#### [苹果换帅：市值翻了13倍，AI还欠着账](https://www.tmtpost.com/8126223.html)
+**发布时间**: 2026-09-03 16:40
+
+#### [美团外卖二季度率先上岸，但三季度还有考验](https://www.tmtpost.com/8126134.html)
+**发布时间**: 2026-09-03 16:40
+
+#### [对赌压身、创始人离场，钱大妈再冲港交所](https://www.tmtpost.com/8126145.html)
+**发布时间**: 2026-09-03 16:40
+
+#### [阿里在抄摩尔，腾讯在抄自己](https://www.tmtpost.com/8126711.html)
+**发布时间**: 2026-09-03 16:36
+
+#### [“运动科技第一股”暴跌96%，靠卖瑜伽垫养家，半年入账4.8亿](https://www.tmtpost.com/8127182.html)
+**发布时间**: 2026-09-03 16:31
+
+#### [谷歌连发三款Flash，以“机海战术”再度加码AI企业端基本盘](https://www.tmtpost.com/8127200.html)
+**发布时间**: 2026-09-03 16:31
+
+#### [财商祖师爷欠了85亿，《穷爸爸富爸爸》背后的百亿帝国](https://www.tmtpost.com/8127219.html)
+**发布时间**: 2026-09-03 16:31
+
+#### [对话方言：富人返贫的3个陷阱，价值投资的3个谬误](https://www.tmtpost.com/8126996.html)
+**发布时间**: 2026-09-03 16:22
+
+#### [外资零售开启在华“二次进化”](https://www.tmtpost.com/8125582.html)
+**发布时间**: 2026-09-03 14:31
+
+#### [医美上游最赚钱的逻辑，失效了](https://www.tmtpost.com/8126803.html)
+**发布时间**: 2026-09-03 13:35
+
+#### [康诺亚冲刺回A：不缺钱的Biotech，为什么要换一张牌桌？](https://www.tmtpost.com/8126922.html)
+**发布时间**: 2026-09-03 13:35
+
+#### [Gemini 3.8 Flash：谷歌把价格战打进了token消耗层](https://www.tmtpost.com/8126955.html)
+**发布时间**: 2026-09-03 13:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
+**发布时间**: 2026-09-03 15:00
+
+#### [当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
+**发布时间**: 2026-09-03 11:32
+
+#### [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
+**发布时间**: 2026-09-03 08:31
+
+#### [除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
+**发布时间**: 2026-09-02 17:40
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了](http://www.geekpark.net/news/369768)
+**发布时间**: 2026-09-03 14:05
+
+#### [智谱和 MiniMax，把大模型做成了两种生意](http://www.geekpark.net/news/369775)
+**发布时间**: 2026-09-03 13:54
+
+#### [当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向](http://www.geekpark.net/news/369777)
+**发布时间**: 2026-09-03 13:30
+
+#### [AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」](http://www.geekpark.net/news/369767)
+**发布时间**: 2026-09-03 12:52
 
 ---
 

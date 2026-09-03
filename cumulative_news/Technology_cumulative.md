@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-02 09:15
+**最后更新时间**: 2026-09-03 00:55
+
+---
+
+## 🆕 最新更新 (2026-09-03 00:55)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [存力接棒算力：AI智能体把存储推上主战场](https://www.tmtpost.com/8123421.html)
+**发布时间**: 2026-09-03 08:29
+
+#### [Edge AI Daily 早报（9月3日）](https://www.tmtpost.com/8126450.html)
+**发布时间**: 2026-09-03 08:13
+
+#### [【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯](https://www.tmtpost.com/8126299.html)
+**发布时间**: 2026-09-03 07:20
+
+#### [渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报](https://www.tmtpost.com/8125053.html)
+**发布时间**: 2026-09-02 21:49
+
+#### [China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”](https://www.tmtpost.com/8126318.html)
+**发布时间**: 2026-09-02 21:37
+
+#### [AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察](https://www.tmtpost.com/8124464.html)
+**发布时间**: 2026-09-02 21:34
+
+#### [Humanoid Robots Still Can’t Prop up Geek+](https://www.tmtpost.com/8126302.html)
+**发布时间**: 2026-09-02 21:31
+
+#### [库克和特努斯谁更难？](https://www.tmtpost.com/8124886.html)
+**发布时间**: 2026-09-02 18:55
+
+#### [Claude Desktop 被 Ollama 偷梁换柱](https://www.tmtpost.com/8125118.html)
+**发布时间**: 2026-09-02 18:54
+
+#### [库克最后一天，和他的苹果15年](https://www.tmtpost.com/8125977.html)
+**发布时间**: 2026-09-02 18:53
+
+#### [苹果新任CEO特努斯的四张考卷](https://www.tmtpost.com/8125937.html)
+**发布时间**: 2026-09-02 18:53
+
+#### [大A正从互联网大厂偷偷挖公关](https://www.tmtpost.com/8125931.html)
+**发布时间**: 2026-09-02 18:53
+
+#### [Keep的AI棋局](https://www.tmtpost.com/8125756.html)
+**发布时间**: 2026-09-02 18:53
+
+#### [AI公司请达人说好话，得加钱了](https://www.tmtpost.com/8125729.html)
+**发布时间**: 2026-09-02 17:58
+
+#### [Claude Fable 5.1发布：跑分翻倍是面子，思考块"上锁"才是里子](https://www.tmtpost.com/8125528.html)
+**发布时间**: 2026-09-02 17:58
+
+#### [制造业有了本体，大模型就能落地吗 | 智造观察](https://www.tmtpost.com/8125160.html)
+**发布时间**: 2026-09-02 17:52
+
+#### [AI公司终于赚钱了，商汤做对了什么？](https://www.tmtpost.com/8125570.html)
+**发布时间**: 2026-09-02 17:45
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道](http://www.geekpark.net/news/369745)
+**发布时间**: 2026-09-03 08:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器](https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 23:44
+
+#### [当 AI 开始重写负载，数据库该如何重新设计？](https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 18:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？](https://sspai.com/post/114084)
+**发布时间**: 2026-09-02 17:40
 
 ---
 

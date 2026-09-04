@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-03 09:20
+**最后更新时间**: 2026-09-04 00:35
+
+---
+
+## 🆕 最新更新 (2026-09-04 00:35)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [新版GPT Image 2.5已经能伪造GPT-6发布会了](https://www.qbitai.com/2026/09/483948.html)
+**发布时间**: 2026-09-03 21:57
+
+#### [刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代](https://www.qbitai.com/2026/09/483898.html)
+**发布时间**: 2026-09-03 21:50
+
+#### [“没有Token的CS学生，应立即退学”](https://www.qbitai.com/2026/09/483839.html)
+**发布时间**: 2026-09-03 11:32
+
+#### [腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场](https://www.qbitai.com/2026/09/483786.html)
+**发布时间**: 2026-09-03 11:25
+
+#### [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://www.qbitai.com/2026/09/483189.html)
+**发布时间**: 2026-09-03 10:18
+
+#### [陈大年复出，入局大模型](https://www.qbitai.com/2026/09/483600.html)
+**发布时间**: 2026-09-03 10:13
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Transfer learning for genomic prediction in underrepresented populations](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)
+**发布时间**: 2026-09-03 18:20
+
+#### [A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)
+**发布时间**: 2026-09-03 16:00
 
 ---
 

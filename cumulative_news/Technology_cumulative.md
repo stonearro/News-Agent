@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-04 00:37
+**最后更新时间**: 2026-09-04 09:16
+
+---
+
+## 🆕 最新更新 (2026-09-04 09:16)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话 Sharpa 李一帆：通用机器人要么全能，要么无能](http://www.geekpark.net/news/369851)
+**发布时间**: 2026-09-04 16:37
+
+#### [梅卡曼德上市，具身智能又跑出一家百亿公司](http://www.geekpark.net/news/369850)
+**发布时间**: 2026-09-04 16:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [几百位CXO AI实践的物理蒸馏与泛化——数字价值年会首日议程已来，答案未定](https://www.tmtpost.com/8127859.html)
+**发布时间**: 2026-09-04 16:19
+
+#### [傲拓科技：低研发、高毛利并存，上会前剔除1.6亿元补流项目｜IPO观察](https://www.tmtpost.com/8128550.html)
+**发布时间**: 2026-09-04 16:08
+
+#### [在房山，我们读到时间的三种写法——万千气象看北京](https://www.tmtpost.com/8128569.html)
+**发布时间**: 2026-09-04 14:08
+
+#### [从算力竞赛到 Token 争夺战，AI 基建进入分层竞争时代](https://www.tmtpost.com/8128030.html)
+**发布时间**: 2026-09-04 13:56
+
+#### [价格战里，地平线找到了新生意](https://www.tmtpost.com/8128104.html)
+**发布时间**: 2026-09-04 13:27
+
+#### [银行半年考：大行排队减员，城商行普遍涨薪](https://www.tmtpost.com/8128050.html)
+**发布时间**: 2026-09-04 13:27
+
+#### [那批扎堆去港股的消费公司，现在怎么样了](https://www.tmtpost.com/8128494.html)
+**发布时间**: 2026-09-04 13:27
+
+#### [名创优品正在杀死自己的轻资产神话](https://www.tmtpost.com/8128022.html)
+**发布时间**: 2026-09-04 13:27
+
+#### [从SaaS到AI短剧：读懂“港股AI短剧第一股”兑吧的价值重估逻辑](https://www.tmtpost.com/8128340.html)
+**发布时间**: 2026-09-04 13:23
+
+#### [72小时AI巅峰之战，编程仍是皇冠](https://www.tmtpost.com/8128479.html)
+**发布时间**: 2026-09-04 12:48
+
+#### [当代年轻人，正在重新定义一份“好工作”](https://www.tmtpost.com/8127194.html)
+**发布时间**: 2026-09-04 12:17
+
+#### [补贴只是短期热闹，外卖行业重练基本功](https://www.tmtpost.com/8127933.html)
+**发布时间**: 2026-09-04 11:37
+
+#### [星巴克的中国新故事太难讲了](https://www.tmtpost.com/8127974.html)
+**发布时间**: 2026-09-04 11:37
+
+#### [AI猎头的暴富神话：找到一个人，佣金300w？](https://www.tmtpost.com/8127900.html)
+**发布时间**: 2026-09-04 11:32
+
+#### [机器人能动只是第一步，难的是落地场景](https://www.tmtpost.com/8127840.html)
+**发布时间**: 2026-09-04 11:32
+
+#### [ARR 3亿美元的Kimi，为什么还在追着投资人要钱？](https://www.tmtpost.com/8127838.html)
+**发布时间**: 2026-09-04 11:09
+
+#### [德基的艺术奥莱，给了Max Mara一个清货的台阶下](https://www.tmtpost.com/8127769.html)
+**发布时间**: 2026-09-04 10:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
+**发布时间**: 2026-09-04 15:11
+
+#### [开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
+**发布时间**: 2026-09-04 15:01
+
+#### [在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
+**发布时间**: 2026-09-04 11:25
+
+#### [派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等](https://sspai.com/post/114164)
+**发布时间**: 2026-09-04 08:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付](https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 15:09
+
+#### [GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”](https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 13:00
+
+#### [让测试更加绿色可持续](https://www.infoq.cn/article/m9DBSRgv8grSQ9NkY6rS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 13:00
+
+#### [Astro 推出 Sätteri：Rust 驱动的 Markdown 与 MDX 处理器，构建速度最高提升 60%](https://www.infoq.cn/article/s1MDWGIV7yoxkCXmWJx8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 11:20
+
+#### [AI 浪潮里，听见一线的声音｜AICon 深圳 2026 优秀出品人 & 明星讲师名单揭晓](https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 11:11
+
+#### [人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？](https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 10:22
+
+#### [“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队](https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 10:16
+
+#### [向总决赛进发｜GOAI复赛评审正式启动](https://www.infoq.cn/article/bOI6y8Tdr714CWa5CcxR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 10:14
+
+#### [谷歌云发布 AI 智能体，简化数据库生命周期管理](https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 09:21
 
 ---
 

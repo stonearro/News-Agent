@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-04 09:16
+**最后更新时间**: 2026-09-05 00:33
+
+---
+
+## 🆕 最新更新 (2026-09-05 00:33)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元](http://www.geekpark.net/news/369871)
+**发布时间**: 2026-09-05 08:24
+
+#### [GPT-6 曝光， OpenAI 总裁说：AGI 来了](http://www.geekpark.net/news/369867)
+**发布时间**: 2026-09-04 17:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [鸿蒙 AI Coding 的研发新范式与工程实践](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 22:18
+
+#### [Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式](https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 17:23
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion](https://www.tmtpost.com/8129165.html)
+**发布时间**: 2026-09-04 21:35
+
+#### [Keep Cut Its Way to Profit. Now It Needs AI to Find Growth](https://www.tmtpost.com/8129155.html)
+**发布时间**: 2026-09-04 21:22
+
+#### [从500家店缩到39家：嗨特购闭店潮背后，折扣零售迎来模式分水岭](https://www.tmtpost.com/8129043.html)
+**发布时间**: 2026-09-04 20:55
+
+#### [鸭脖卖不动了，卤味三巨头主业集体失速](https://www.tmtpost.com/8129094.html)
+**发布时间**: 2026-09-04 20:54
+
+#### [小分子药企围猎偶联药物](https://www.tmtpost.com/8128306.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了](https://www.tmtpost.com/8128382.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [深度 | 连续三季度盈利的蔚来，为何不做人形机器人？](https://www.tmtpost.com/8128497.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [疆煤不是来抢的，是来填空的](https://www.tmtpost.com/8128377.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [鸭脖刺客，变相降价了？](https://www.tmtpost.com/8128867.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [比3D打印还贵，8000元的桌面机床成了理工男的大玩具](https://www.tmtpost.com/8128895.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [L3爆发前夜](https://www.tmtpost.com/8128869.html)
+**发布时间**: 2026-09-04 18:58
+
+#### [独家 | 1688跨境业务体量预计两年超过国内，AI自动采购交易额已超过30%](https://www.tmtpost.com/8128421.html)
+**发布时间**: 2026-09-04 18:55
+
+#### [皇家中国在华首条罐装湿粮产线揭晓；锦江酒店2026上半年扣非净利增长45.16%；Helly Hansen 发布五年增长战略｜消研所周报](https://www.tmtpost.com/8128855.html)
+**发布时间**: 2026-09-04 17:56
+
+#### [2026年二季度手机市场：华为第一、苹果躺赢，小米跌两成](https://www.tmtpost.com/8128198.html)
+**发布时间**: 2026-09-04 17:24
+
+#### [阿里又多了一个Agent赛马](https://www.tmtpost.com/8128120.html)
+**发布时间**: 2026-09-04 17:24
+
+#### [劝你别做GEO了](https://www.tmtpost.com/8128703.html)
+**发布时间**: 2026-09-04 17:24
+
+#### [智谱上天猫“摆摊”，要把Token当话费卖](https://www.tmtpost.com/8128188.html)
+**发布时间**: 2026-09-04 17:24
+
+#### [外卖补贴退场之后，王兴赢回了利润、蒋凡买到了门票](https://www.tmtpost.com/8128242.html)
+**发布时间**: 2026-09-04 17:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
+**发布时间**: 2026-09-04 17:32
 
 ---
 

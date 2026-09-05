@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-05 00:33
+**最后更新时间**: 2026-09-05 08:46
+
+---
+
+## 🆕 最新更新 (2026-09-05 08:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从AI家电到新物种比拼，IFA 2026成了中国科技的欧洲年会](https://www.tmtpost.com/8129450.html)
+**发布时间**: 2026-09-05 18:05
+
+#### [万元AI研学营，正在批量收割家长](https://www.tmtpost.com/8129346.html)
+**发布时间**: 2026-09-05 16:30
+
+#### [预制食品遍地，企业为什么不赚钱了？](https://www.tmtpost.com/8129271.html)
+**发布时间**: 2026-09-05 16:26
+
+#### [高位定增机构再遭背刺，江波龙港股六折“发车”](https://www.tmtpost.com/8129248.html)
+**发布时间**: 2026-09-05 16:21
+
+#### [《后西游记》开播那晚，电影院里坐满了人](https://www.tmtpost.com/8128195.html)
+**发布时间**: 2026-09-05 16:17
+
+#### [扎堆争抢外卖骑手群体，两轮电动车能靠此“翻盘”吗？](https://www.tmtpost.com/8129274.html)
+**发布时间**: 2026-09-05 16:17
+
+#### [2026中国能源主线](https://www.tmtpost.com/8129275.html)
+**发布时间**: 2026-09-05 16:17
+
+#### [奶茶杯子为啥越来越高？](https://www.tmtpost.com/8129285.html)
+**发布时间**: 2026-09-05 16:16
+
+#### [500元红包补偿雷鸟iO延迟发货，AI眼镜的版本答案是去AI化？](https://www.tmtpost.com/8129338.html)
+**发布时间**: 2026-09-05 16:16
+
+#### [AI重构家电竞争逻辑，透过IFA2026看长虹出海的本土化解法](https://www.tmtpost.com/8129531.html)
+**发布时间**: 2026-09-05 16:16
+
+#### [卡位Agent生态：腾讯WorkBuddy做了什么？](https://www.tmtpost.com/8129511.html)
+**发布时间**: 2026-09-05 14:49
+
+#### [我们可能低估了银河通用三块金牌的含金量](https://www.tmtpost.com/8127819.html)
+**发布时间**: 2026-09-05 13:12
+
+#### [智驾公司的半年报，开始看得出谁能赚钱了](https://www.tmtpost.com/8128189.html)
+**发布时间**: 2026-09-05 10:40
+
+#### [GPT-6 Astra上线，AGI时代真到来了吗？](https://www.tmtpost.com/8128178.html)
+**发布时间**: 2026-09-05 09:59
+
+#### [AGI，真的来了？](https://www.tmtpost.com/8129208.html)
+**发布时间**: 2026-09-05 09:58
+
+#### [越来越贵的方便面，拯救统一们？](https://www.tmtpost.com/8129027.html)
+**发布时间**: 2026-09-05 09:58
+
+#### [Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈](https://www.tmtpost.com/8129072.html)
+**发布时间**: 2026-09-05 09:58
+
+#### [豆包终于想明白了](https://www.tmtpost.com/8129097.html)
+**发布时间**: 2026-09-05 09:58
+
+#### [湖北上市公司价值重估：光通信抬升上限，科教制造底盘分化](https://www.tmtpost.com/8129365.html)
+**发布时间**: 2026-09-05 09:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [互联网最古老的恐惧，被 AI 复活了](http://www.geekpark.net/news/369873)
+**发布时间**: 2026-09-05 12:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Uber GitFarm：面向大规模单体代码库的 Git 即服务平台](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-05 11:17
+
+#### [Meta 拓展自研芯片战略：从计算领域延伸至网络领域](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-05 09:56
 
 ---
 

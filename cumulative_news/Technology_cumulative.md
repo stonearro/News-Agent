@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-06 00:29
+**最后更新时间**: 2026-09-06 09:07
+
+---
+
+## 🆕 最新更新 (2026-09-06 09:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI](https://www.tmtpost.com/8129811.html)
+**发布时间**: 2026-09-06 16:35
+
+#### [Token上架天猫，智谱在盘算什么？](https://www.tmtpost.com/8130024.html)
+**发布时间**: 2026-09-06 16:35
+
+#### [2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标](https://www.tmtpost.com/8129971.html)
+**发布时间**: 2026-09-06 12:40
+
+#### [OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争](https://www.tmtpost.com/8129268.html)
+**发布时间**: 2026-09-06 11:57
+
+#### [男频剧，还在奥德赛的海上漂着](https://www.tmtpost.com/8129947.html)
+**发布时间**: 2026-09-06 11:25
+
+#### [AI时代，年轻人正在“忘记”打字](https://www.tmtpost.com/8129736.html)
+**发布时间**: 2026-09-06 11:22
+
+#### [AGI来没来不好说，但GPT-6真把Token省下来了](https://www.tmtpost.com/8129798.html)
+**发布时间**: 2026-09-06 11:22
+
+#### [银行“抢着借钱”，字节贷款近2000亿搞AI？](https://www.tmtpost.com/8129806.html)
+**发布时间**: 2026-09-06 11:22
+
+#### [AI时代，最稀缺的不是知识，而是系统思维](https://www.tmtpost.com/8082672.html)
+**发布时间**: 2026-09-06 10:41
+
+#### [车企的焦虑，都在押注机器人](https://www.tmtpost.com/8129734.html)
+**发布时间**: 2026-09-06 10:33
+
+#### [宇树上市后的“冰火两重天”](https://www.tmtpost.com/8129676.html)
+**发布时间**: 2026-09-06 10:03
+
+#### [中国大模型简史02：一张突然值钱的船票](https://www.tmtpost.com/8129912.html)
+**发布时间**: 2026-09-06 10:03
+
+#### [公募基金市场近期关注](https://www.tmtpost.com/8129899.html)
+**发布时间**: 2026-09-06 09:13
+
+#### [对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装](https://www.tmtpost.com/8128608.html)
+**发布时间**: 2026-09-06 09:11
+
+#### [亦庄，北京科技的另一半——万千气象看北京](https://www.tmtpost.com/8129831.html)
+**发布时间**: 2026-09-06 09:10
+
+#### [Edge AI Daily 早报（9月6日）](https://www.tmtpost.com/8129870.html)
+**发布时间**: 2026-09-06 08:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池](https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-06 15:10
+
+#### [FlexGanttFX 正式开源](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-06 11:24
+
+#### [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-06 09:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
+**发布时间**: 2026-09-06 15:00
 
 ---
 

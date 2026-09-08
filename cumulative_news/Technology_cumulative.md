@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-08 00:52
+**最后更新时间**: 2026-09-08 09:16
+
+---
+
+## 🆕 最新更新 (2026-09-08 09:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 17:06
+
+#### [Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度](https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 16:31
+
+#### [华为乾崑，守护200万份信任](https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 15:39
+
+#### [Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测](https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 15:06
+
+#### [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 13:55
+
+#### [OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互](https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 13:32
+
+#### [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 11:10
+
+#### [Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限](https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 11:05
+
+#### [OpenClaw 2.0 发布：简化配置，支持智能体协作](https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 09:11
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华为乾崑过线，辅助驾驶进入“规模杀”](https://www.tmtpost.com/8131404.html)
+**发布时间**: 2026-09-08 16:26
+
+#### [Anthropic 放弃 60 亿美元收购 Decart 交易](https://www.tmtpost.com/8132095.html)
+**发布时间**: 2026-09-08 16:20
+
+#### [自动驾驶商业化大考：谁来为无人驾驶买单？](https://www.tmtpost.com/8132710.html)
+**发布时间**: 2026-09-08 16:09
+
+#### [参数可以卷，功能可以跟，安克什么很难被抄](https://www.tmtpost.com/8132300.html)
+**发布时间**: 2026-09-08 16:05
+
+#### [撕番的风吹到了商业代言](https://www.tmtpost.com/8132770.html)
+**发布时间**: 2026-09-08 16:00
+
+#### [11 天、30 万美元：AI 攻破 358 年数学难题的最后一关](https://www.tmtpost.com/8132711.html)
+**发布时间**: 2026-09-08 15:56
+
+#### [DeepSeek’s 150 Engineering Hires Signal Shift From Model Race to Infrastructure Scale](https://www.tmtpost.com/8132858.html)
+**发布时间**: 2026-09-08 15:54
+
+#### [星宇股份劝退107名应届生：一场产能扩张的反噬](https://www.tmtpost.com/8132573.html)
+**发布时间**: 2026-09-08 15:51
+
+#### [思维链让AI变聪明，Astra却用它骗人](https://www.tmtpost.com/8132568.html)
+**发布时间**: 2026-09-08 15:43
+
+#### [Two Sigma谈如何用AI赋能投资](https://www.tmtpost.com/8132173.html)
+**发布时间**: 2026-09-08 15:35
+
+#### [最快20秒生成、支持GPT-6 Astra接入：实测群核Lux3D，3D生成的胜负手可能不在几何](https://www.tmtpost.com/8132226.html)
+**发布时间**: 2026-09-08 15:28
+
+#### [奥特曼、李飞飞、张一鸣齐押注，3D世界成AI竞赛新战场](https://www.tmtpost.com/8132577.html)
+**发布时间**: 2026-09-08 15:23
+
+#### [B面具身智能：机器人烧钱，数采公司躺赚？](https://www.tmtpost.com/8132303.html)
+**发布时间**: 2026-09-08 15:23
+
+#### [赶不走的C端用户，成了AI公司不值钱的资产](https://www.tmtpost.com/8132490.html)
+**发布时间**: 2026-09-08 15:23
+
+#### [江波龙赴港IPO：715倍净利增长背后，中国存储龙头的长期价值底色](https://www.tmtpost.com/8132676.html)
+**发布时间**: 2026-09-08 15:13
+
+#### [再这样下去，Agent要被卖保健品了](https://www.tmtpost.com/8132569.html)
+**发布时间**: 2026-09-08 15:11
+
+#### [黄仁勋说AGI已来，奥特曼说只是营销词：四个人的AGI，四本账](https://www.tmtpost.com/8132633.html)
+**发布时间**: 2026-09-08 15:09
+
+#### [摩尔线程一天跌没500亿，国产GPU集体“哑火”](https://www.tmtpost.com/8131673.html)
+**发布时间**: 2026-09-08 13:09
+
+#### [从县城“杀”出来的松果出行，又双叒叕因合规问题“栽跟头”](https://www.tmtpost.com/8131592.html)
+**发布时间**: 2026-09-08 13:01
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
+**发布时间**: 2026-09-08 15:29
+
+#### [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
+**发布时间**: 2026-09-08 15:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+**发布时间**: 2026-09-08 15:00
+
+#### [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+**发布时间**: 2026-09-08 11:06
+
+#### [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+**发布时间**: 2026-09-08 08:07
 
 ---
 

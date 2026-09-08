@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3ed943fc51f7c5b75bd308bfa484e35694689e982a857424b5ad83e5d7845686": {
-        "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-        "link": "https://www.qbitai.com/2026/08/468782.html",
-        "published_date": "Sun, 09 Aug 2026 03:40:00 GMT",
-        "first_seen": "2026-08-09T05:44:21.867171"
-      },
-      "baef728da9204bfd6f746eb1a4e490a27e763cddee676fa72c13a8837eb1bd8f": {
-        "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-        "link": "https://www.qbitai.com/2026/08/468766.html",
-        "published_date": "Sun, 09 Aug 2026 03:25:00 GMT",
-        "first_seen": "2026-08-09T05:44:21.867342"
-      },
-      "432862ff4873fd678be0cf758b3835772d622242093b02f33cf62f69c11a48fe": {
-        "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
-        "link": "https://www.qbitai.com/2026/08/468715.html",
-        "published_date": "Sun, 09 Aug 2026 03:17:00 GMT",
-        "first_seen": "2026-08-09T05:44:21.867533"
-      },
       "89803495fc50546c850f03668baf261a5084c192a3fb48ccbbd318e8f072426f": {
         "title": "180万刀，连亚马逊都烧不起Claude了",
         "link": "https://www.qbitai.com/2026/08/469010.html",
@@ -1290,141 +1272,39 @@
         "link": "https://www.qbitai.com/2026/09/485039.html",
         "published_date": "Mon, 07 Sep 2026 04:01:00 GMT",
         "first_seen": "2026-09-07T09:54:51.087094"
+      },
+      "72326c57110d69ed73595b33c4a7ddb90363fdf21050bdff596498db52ed5167": {
+        "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+        "link": "https://www.qbitai.com/2026/09/485854.html",
+        "published_date": "Tue, 08 Sep 2026 06:05:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.159076"
+      },
+      "478d5e593f8f39e1962bee1bfdb48c4327449ce5e7290b572c1908870b0caff4": {
+        "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+        "link": "https://www.qbitai.com/2026/09/485794.html",
+        "published_date": "Tue, 08 Sep 2026 05:05:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.159182"
+      },
+      "e91fcd37b2060cacf880cf140467232fa6d2cbda2027b2424951ecf891376396": {
+        "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+        "link": "https://www.qbitai.com/2026/09/485784.html",
+        "published_date": "Tue, 08 Sep 2026 03:22:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.159306"
+      },
+      "579a1cfb14140703ba451117d1e324c10b5e71d64e86623dbeeb53d9baddb549": {
+        "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+        "link": "https://www.qbitai.com/2026/09/485630.html",
+        "published_date": "Tue, 08 Sep 2026 02:42:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.159453"
+      },
+      "3741592e3b9402b6e925970dab33361b53a0e9168db00adfcb11b056ca85a74e": {
+        "title": "王云鹤创业后交出首个模型",
+        "link": "https://www.qbitai.com/2026/09/485555.html",
+        "published_date": "Tue, 08 Sep 2026 02:14:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.159545"
       }
     },
     "Technology": {
-      "1b7c37c9f68235a7d6002fa82ba898167cc5f43bd27c7ea8bd1cc5cb3b63cb19": {
-        "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-        "link": "http://www.geekpark.net/news/368579",
-        "published_date": "Sun, 09 Aug 2026 12:28:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338643"
-      },
-      "fa27e096b1b75164aca8090f5c508e22def6fec52e2411950f64ad21dece0e6e": {
-        "title": "苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍",
-        "link": "http://www.geekpark.net/news/368577",
-        "published_date": "Sun, 09 Aug 2026 07:56:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338661"
-      },
-      "4f2a7865961e15a30387ed5ef443f0ea4df87e274e36d0fced7536f74b2be507": {
-        "title": "谷歌AI 10年权力斗争落幕，皮查伊杯酒释兵权",
-        "link": "https://www.tmtpost.com/8096485.html",
-        "published_date": "Sun, 09 Aug 2026 11:32:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338673"
-      },
-      "6882b047e63ec5140497d263a635286d5439e1fa88f67a645a0c13ebcf39aaff": {
-        "title": "工厂待建，销售借力先声与济川，普祺医药再战港股IPO",
-        "link": "https://www.tmtpost.com/8096492.html",
-        "published_date": "Sun, 09 Aug 2026 11:32:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338684"
-      },
-      "ed8a368562372a2f899141354f9ad88b9d7df5ddae8a75f9135da9012191c592": {
-        "title": "4元一杯的星巴克，还是没能偷家库迪瑞幸",
-        "link": "https://www.tmtpost.com/8096567.html",
-        "published_date": "Sun, 09 Aug 2026 11:32:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338695"
-      },
-      "71a3175bf788092e6a722a4f02334fe8ccb6a6864d49d6b15b2feea96b5b5612": {
-        "title": "宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家",
-        "link": "https://www.tmtpost.com/8096400.html",
-        "published_date": "Sun, 09 Aug 2026 11:23:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338705"
-      },
-      "98a83c06312cbe0794a2b3ff773ec58753ccc64ac43ced040e1c6a8bd13abc23": {
-        "title": "特斯拉开放Model S/X设计资料：不是开源，是给'三柱合一'帝国铺第一块砖\"",
-        "link": "https://www.tmtpost.com/8096108.html",
-        "published_date": "Sun, 09 Aug 2026 11:12:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338752"
-      },
-      "b5de1b5b622bf4b28514601e48579a41e50ed71c88661e061de6b49b4a2c6618": {
-        "title": "苹果给阿里提了一个醒",
-        "link": "https://www.tmtpost.com/8096547.html",
-        "published_date": "Sun, 09 Aug 2026 11:00:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338763"
-      },
-      "eb635a67ff3b89d649e509f87b52aa730cbc3cf7f6d01293c5280f9b7a2fec51": {
-        "title": "Jeff Dean离职谷歌首次亮相回答：AI的下一个十年是什么",
-        "link": "https://www.tmtpost.com/8096544.html",
-        "published_date": "Sun, 09 Aug 2026 10:15:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338773"
-      },
-      "2370a13ab964d22a4216b1002804fd1110cf86fe63916570c5865da7fc415f05": {
-        "title": "Edge AI Daily 早报（8月9日）",
-        "link": "https://www.tmtpost.com/8096504.html",
-        "published_date": "Sun, 09 Aug 2026 08:28:00 GMT",
-        "first_seen": "2026-08-09T05:44:21.988881"
-      },
-      "d8e0c2766e615c94967dad0b6856b748617f54d6386ea6fca2147aa84ddf3994": {
-        "title": "Cambricon Turns a Profit Surge into an Inventory Test",
-        "link": "https://www.tmtpost.com/8096505.html",
-        "published_date": "Sun, 09 Aug 2026 07:37:00 GMT",
-        "first_seen": "2026-08-09T05:44:21.989747"
-      },
-      "bbd6a3805b801562184a12f049ceae923fccb09e4f848380267bd3a5629f271b": {
-        "title": "OpenAI给10亿用户免费换上GPT-5.6",
-        "link": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 09 Aug 2026 10:23:00 GMT",
-        "first_seen": "2026-08-09T05:44:21.990337"
-      },
-      "f0fb7e21ef0d68b0161b86243dba1c59e938456e2baf204d8ca2edb99c732695": {
-        "title": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 09 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-09T05:44:31.338614"
-      },
-      "df2e5377639af868f1d7909e661c7ffb2d29d45b4af2f17d0cd6b79d5d1dadbd": {
-        "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年二季度）",
-        "link": "https://www.tmtpost.com/8096691.html",
-        "published_date": "Sun, 09 Aug 2026 16:11:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.557384"
-      },
-      "b093055817223a797ca5ffd60a005a612fde5bab3b83e802248f89bc77a124d8": {
-        "title": "公募基金市场近期关注｜基金市场",
-        "link": "https://www.tmtpost.com/8096700.html",
-        "published_date": "Sun, 09 Aug 2026 16:11:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.557569"
-      },
-      "970f97990479e71c2f9c1a0ec1c836258c63a1c300fcff6b66506f9d03560270": {
-        "title": "A股发展能力百强榜：谁还在持续打开增长空间？",
-        "link": "https://www.tmtpost.com/8096693.html",
-        "published_date": "Sun, 09 Aug 2026 16:10:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.557727"
-      },
-      "e34f30e3b1142ed8284f116e237a181e5a131c6a9c55c9f11c1cd2b0514d1452": {
-        "title": "价值判断：涨停板的投资机会和风险提示（8月7日）｜上市公司观察",
-        "link": "https://www.tmtpost.com/8096682.html",
-        "published_date": "Sun, 09 Aug 2026 16:10:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.557934"
-      },
-      "4c34111146876311e4d5b169d4224f8e774f3eb341e26dfeba541ec05c515084": {
-        "title": "价值管理四大路径之一：投资者正在决定新的资本市场游戏规则",
-        "link": "https://www.tmtpost.com/8096673.html",
-        "published_date": "Sun, 09 Aug 2026 16:10:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.558175"
-      },
-      "78a6b1b3086170c49dc6179d52c949920914fc0f7c3a3e21cbacdc3c932e62eb": {
-        "title": "Wheeled Robots Gain Ground as Embodied AI Moves from Labs to Work Floors",
-        "link": "https://www.tmtpost.com/8096593.html",
-        "published_date": "Sun, 09 Aug 2026 13:43:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.558602"
-      },
-      "0a50ab9a528457c9b43e84a9f73aac4ac224744bd625e06e1c46159b03579995": {
-        "title": "Jeff Dean挥别谷歌48小时首秀：我眼中AI的下一个十年",
-        "link": "https://www.tmtpost.com/8096544.html",
-        "published_date": "Sun, 09 Aug 2026 10:15:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.558993"
-      },
-      "7fc0cdc337071d9c2107d2c322544d2c7e41517656193f6c62b16d2386f32c40": {
-        "title": "单周大涨7%，黄金投资热潮回归？",
-        "link": "https://www.tmtpost.com/8096510.html",
-        "published_date": "Sun, 09 Aug 2026 08:48:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.559311"
-      },
-      "01781bdf45ea30592cac07e601b21ce0189cd8d179cde472dcd483c7d44dfca7": {
-        "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
-        "link": "https://sspai.com/post/113158",
-        "published_date": "Sun, 09 Aug 2026 15:00:00 GMT",
-        "first_seen": "2026-08-09T08:35:18.559933"
-      },
       "43f1890aeeb13e079faa383f2a01e7bf9310e0ce51573d4bafa4e7883a6ef83f": {
         "title": "2026香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅",
         "link": "https://www.tmtpost.com/8096553.html",
@@ -10742,13 +10622,211 @@
         "link": "https://sspai.com/post/114288",
         "published_date": "Mon, 07 Sep 2026 18:08:00 GMT",
         "first_seen": "2026-09-08T00:53:01.294452"
+      },
+      "bbc058158b7a11967f92c0a50e523e6c7154d4ee162abef7dccdb985e8f61654": {
+        "title": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+        "link": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 17:06:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051666"
+      },
+      "2ec67e0407c85052b25fb53c627dd2d48769cd9cbdc7e4332dff2afaf0ddb225": {
+        "title": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "link": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 16:31:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051710"
+      },
+      "dc9f0fdfa0567b7a981655e985520bcdef34ee526b960fc6e38cc88e5cbf43cc": {
+        "title": "华为乾崑，守护200万份信任",
+        "link": "https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 15:39:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051717"
+      },
+      "b67c2606bf0c22b95d4c13a4caf853dfa692f86da1a31a17ed8a93453ce07a5c": {
+        "title": "Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测",
+        "link": "https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 15:06:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051724"
+      },
+      "c4aae67e899409915549121ceebb3b6aec3d0884a03e87bd4e55e35b9632189a": {
+        "title": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+        "link": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 13:55:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051733"
+      },
+      "ea196e9b3474f05b35940f477440d1b9946513d2b299c202dd25c7f79447cfba": {
+        "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+        "link": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 13:32:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051739"
+      },
+      "2411b306e9efa4610f4e6a410ad6026e1853f8f4cc24bcf1a49e5c79d50116e4": {
+        "title": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+        "link": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 11:10:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051747"
+      },
+      "885d7c2b3bcf4645c9b0cca1e1a0fd54800dd63ff7e13e1d79ad57b1b4550082": {
+        "title": "Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限",
+        "link": "https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 11:05:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051753"
+      },
+      "fc20cd6ba0ea782585585bb277c85bd53483a6ac518887bba479ae4776284188": {
+        "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "link": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 08 Sep 2026 09:11:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051689"
+      },
+      "119aa6c5e26e014087611a395a9d70985e641145f86846407ee1989014ac71ae": {
+        "title": "华为乾崑过线，辅助驾驶进入“规模杀”",
+        "link": "https://www.tmtpost.com/8131404.html",
+        "published_date": "Tue, 08 Sep 2026 16:26:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.695562"
+      },
+      "794acd545f8a8e870ccee8e4c49861eedcae0e92ce7ac3e5c968c8aa7bbbe1e4": {
+        "title": "Anthropic 放弃 60 亿美元收购 Decart 交易",
+        "link": "https://www.tmtpost.com/8132095.html",
+        "published_date": "Tue, 08 Sep 2026 16:20:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.696074"
+      },
+      "d2bb9577cf46f3c3521a248accb1b245602b99833aaef8ca9afa17a050b5d0db": {
+        "title": "自动驾驶商业化大考：谁来为无人驾驶买单？",
+        "link": "https://www.tmtpost.com/8132710.html",
+        "published_date": "Tue, 08 Sep 2026 16:09:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.696407"
+      },
+      "9433873c4ccad3e9a8ff2cedde9eaecc192e0723ff46cff2c3eb683600228804": {
+        "title": "参数可以卷，功能可以跟，安克什么很难被抄",
+        "link": "https://www.tmtpost.com/8132300.html",
+        "published_date": "Tue, 08 Sep 2026 16:05:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.696791"
+      },
+      "cc454e29dcc183c822a88e2b347b10481a285f93d4007d077858ddd357aac1e7": {
+        "title": "撕番的风吹到了商业代言",
+        "link": "https://www.tmtpost.com/8132770.html",
+        "published_date": "Tue, 08 Sep 2026 16:00:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.697035"
+      },
+      "cab56d948f2c1a6a8957274500aa6324a552f09b6b34806c23fdb5659077db6a": {
+        "title": "11 天、30 万美元：AI 攻破 358 年数学难题的最后一关",
+        "link": "https://www.tmtpost.com/8132711.html",
+        "published_date": "Tue, 08 Sep 2026 15:56:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.697743"
+      },
+      "248da871fe9fc8c800def8cb32ed39801928317315f2d3a272e14a50c984f711": {
+        "title": "DeepSeek’s 150 Engineering Hires Signal Shift From Model Race to Infrastructure Scale",
+        "link": "https://www.tmtpost.com/8132858.html",
+        "published_date": "Tue, 08 Sep 2026 15:54:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.698962"
+      },
+      "d07207a3d245e1e2d8f5211fa6738696fd5594bd0d13078bb13060580ae92eab": {
+        "title": "星宇股份劝退107名应届生：一场产能扩张的反噬",
+        "link": "https://www.tmtpost.com/8132573.html",
+        "published_date": "Tue, 08 Sep 2026 15:51:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.699458"
+      },
+      "e35801a4e27176e8f8f6d86f816a3c09a82cb972566898bad0a77d77be8041d3": {
+        "title": "思维链让AI变聪明，Astra却用它骗人",
+        "link": "https://www.tmtpost.com/8132568.html",
+        "published_date": "Tue, 08 Sep 2026 15:43:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.699998"
+      },
+      "21795e07cf0300ae1a4233bd1b190aedb792d9a41fc7455e0dfd72ead5cc6bc7": {
+        "title": "Two Sigma谈如何用AI赋能投资",
+        "link": "https://www.tmtpost.com/8132173.html",
+        "published_date": "Tue, 08 Sep 2026 15:35:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.700558"
+      },
+      "489a30a1e6abcaca9f49eccf097891000e53f24ed3d5872e28a21d437829f6c8": {
+        "title": "最快20秒生成、支持GPT-6 Astra接入：实测群核Lux3D，3D生成的胜负手可能不在几何",
+        "link": "https://www.tmtpost.com/8132226.html",
+        "published_date": "Tue, 08 Sep 2026 15:28:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.701617"
+      },
+      "4e8cc7b04aacbae744923121533600c3bef2abd78c692fbbd35df509037d0fa6": {
+        "title": "奥特曼、李飞飞、张一鸣齐押注，3D世界成AI竞赛新战场",
+        "link": "https://www.tmtpost.com/8132577.html",
+        "published_date": "Tue, 08 Sep 2026 15:23:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.702350"
+      },
+      "fc51837ec7e9ceb1afda9c11bf30bdf62fbf59bc4e8d7b93b5233caac0f3b309": {
+        "title": "B面具身智能：机器人烧钱，数采公司躺赚？",
+        "link": "https://www.tmtpost.com/8132303.html",
+        "published_date": "Tue, 08 Sep 2026 15:23:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.702923"
+      },
+      "9b7799fd767ace09fa02eb35fbea1839d04d0685096bb39c829c207e3ba93dea": {
+        "title": "赶不走的C端用户，成了AI公司不值钱的资产",
+        "link": "https://www.tmtpost.com/8132490.html",
+        "published_date": "Tue, 08 Sep 2026 15:23:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.703552"
+      },
+      "378e7d0a9bad47468e995adb7924a6a5c6cd67065c460baedae9c180911e740a": {
+        "title": "江波龙赴港IPO：715倍净利增长背后，中国存储龙头的长期价值底色",
+        "link": "https://www.tmtpost.com/8132676.html",
+        "published_date": "Tue, 08 Sep 2026 15:13:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.704513"
+      },
+      "73e61f79838293177a8cbc6fb5462d93cda2fc478c377f1726c077f5aee5423e": {
+        "title": "再这样下去，Agent要被卖保健品了",
+        "link": "https://www.tmtpost.com/8132569.html",
+        "published_date": "Tue, 08 Sep 2026 15:11:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.705125"
+      },
+      "38a77bd44cdebc9432602b6234f47f1b8d5e77cb6c5e3618a083352feb8b1ccc": {
+        "title": "黄仁勋说AGI已来，奥特曼说只是营销词：四个人的AGI，四本账",
+        "link": "https://www.tmtpost.com/8132633.html",
+        "published_date": "Tue, 08 Sep 2026 15:09:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.706178"
+      },
+      "6690ee061fd18a01ab0d836cfb3317b46ea2ee6891fb7dba5bfeffcfe0470353": {
+        "title": "摩尔线程一天跌没500亿，国产GPU集体“哑火”",
+        "link": "https://www.tmtpost.com/8131673.html",
+        "published_date": "Tue, 08 Sep 2026 13:09:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.707028"
+      },
+      "c1d30eb82df8f5e44b6f1094cc4fa5e4c2bdc9e4b0fbf52f90263a5832b07435": {
+        "title": "从县城“杀”出来的松果出行，又双叒叕因合规问题“栽跟头”",
+        "link": "https://www.tmtpost.com/8131592.html",
+        "published_date": "Tue, 08 Sep 2026 13:01:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.708085"
+      },
+      "2b5c2e5de712b259d35c089565ec18ef5961f0d94bcfce26ad091c1e5c33fc1e": {
+        "title": "IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上",
+        "link": "http://www.geekpark.net/news/370007",
+        "published_date": "Tue, 08 Sep 2026 15:29:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.709489"
+      },
+      "8672a8e4d4d0a56a50d008cf56b5d0ebdd94db015da48d17df2e43929e6986be": {
+        "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
+        "link": "http://www.geekpark.net/news/370006",
+        "published_date": "Tue, 08 Sep 2026 15:27:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.710601"
+      },
+      "94b78fd7773fc493c9cfe04dcd8d1f91338eb7f36c318aebd2d3cb78b67126f9": {
+        "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+        "link": "https://sspai.com/post/114312",
+        "published_date": "Tue, 08 Sep 2026 15:00:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.711825"
+      },
+      "65b5be23891d0aeff580a0691102cfcae00839e9fd689eb94dade55fd8638080": {
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "link": "https://sspai.com/post/113299",
+        "published_date": "Tue, 08 Sep 2026 11:06:00 GMT",
+        "first_seen": "2026-09-08T09:17:00.712949"
+      },
+      "4c4115d457452413061df08b27b5f3b1d2e6d56f0c32f32c67bda0e0ee34c066": {
+        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+        "link": "https://sspai.com/post/114307",
+        "published_date": "Tue, 08 Sep 2026 08:07:00 GMT",
+        "first_seen": "2026-09-08T09:17:10.051701"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-09-08T00:53:10.798687",
-    "Technology": "2026-09-08T00:53:10.688681",
-    "Finance": "2026-09-08T00:53:10.816416"
+    "AI": "2026-09-08T09:17:10.165046",
+    "Technology": "2026-09-08T09:17:10.073379",
+    "Finance": "2026-09-08T09:17:10.178909"
   }
 }

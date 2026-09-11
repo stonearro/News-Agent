@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-10 09:18
+**最后更新时间**: 2026-09-11 00:43
+
+---
+
+## 🆕 最新更新 (2026-09-11 00:43)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [ToolGrad: Efficient tool-use dataset generation with textual "gradients"](https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/)
+**发布时间**: 2026-09-10 22:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
+**发布时间**: 2026-09-10 10:17
 
 ---
 

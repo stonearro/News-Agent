@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Sep 2026 00:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 00:46:22 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 09:17:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:19:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;</title>
-      <link>https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/</link>
-      <description>&lt;![CDATA[ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 22:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/</guid>
+      <title>墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济</title>
+      <link>https://www.qbitai.com/2026/09/487273.html</link>
+      <description>&lt;![CDATA[墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 06:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487273.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ECCV上，顶尖学者们开始研究如何让AI做生意了</title>
-      <link>https://www.qbitai.com/2026/09/486934.html</link>
-      <description>&lt;![CDATA[ECCV上，顶尖学者们开始研究如何让AI做生意了]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486934.html</guid>
+      <title>量子位「MEET2027智能未来大会」启动！年度榜单征集进行中</title>
+      <link>https://www.qbitai.com/2026/09/487176.html</link>
+      <description>&lt;![CDATA[量子位「MEET2027智能未来大会」启动！年度榜单征集进行中]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 03:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487176.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>3万台无人车之后，这家公司盯上了城市级物理AI</title>
+      <link>https://www.qbitai.com/2026/09/487163.html</link>
+      <description>&lt;![CDATA[3万台无人车之后，这家公司盯上了城市级物理AI]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 02:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487163.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI这是拿千禧年难题当Benchmark刷啊。。。</title>
+      <link>https://www.qbitai.com/2026/09/487092.html</link>
+      <description>&lt;![CDATA[OpenAI这是拿千禧年难题当Benchmark刷啊。。。]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 01:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487092.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞</title>
+      <link>https://www.qbitai.com/2026/09/487055.html</link>
+      <description>&lt;![CDATA[吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 00:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487055.html</guid>
       <category>AI</category>
     </item>
   </channel>

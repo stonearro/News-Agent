@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-14 00:35
+**最后更新时间**: 2026-09-14 10:16
+
+---
+
+## 🆕 最新更新 (2026-09-14 10:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中国最有钱的几大公司，突然拼命借钱](https://www.tmtpost.com/8139074.html)
+**发布时间**: 2026-09-14 17:40
+
+#### [三个月价格腰斩，大模型的“聪明”正在贬值？](https://www.tmtpost.com/8139062.html)
+**发布时间**: 2026-09-14 17:40
+
+#### [蓝思科技的压力，不只是手机卖不动](https://www.tmtpost.com/8139058.html)
+**发布时间**: 2026-09-14 17:40
+
+#### [硅谷AI大厂踩刹车，英伟达和白宫先慌了](https://www.tmtpost.com/8138997.html)
+**发布时间**: 2026-09-14 17:40
+
+#### [李飞飞的Atlas，为具身智能推开新世界大门](https://www.tmtpost.com/8139209.html)
+**发布时间**: 2026-09-14 17:40
+
+#### [香水赛道，又燃起来了](https://www.tmtpost.com/8139218.html)
+**发布时间**: 2026-09-14 17:39
+
+#### [算力缺的不是“卡”，而是Token丨ToB产业观察](https://www.tmtpost.com/8139123.html)
+**发布时间**: 2026-09-14 16:59
+
+#### [安踏买彪马：丁世忠的“全球猎杀”，又下一城](https://www.tmtpost.com/8138974.html)
+**发布时间**: 2026-09-14 16:52
+
+#### [OpenAI按下竞速暂停键：大模型退烧，企业 AI进入结果验收时代](https://www.tmtpost.com/8139181.html)
+**发布时间**: 2026-09-14 16:52
+
+#### [阿莫迪的响指：我们该如何理解“大模型减速论”？](https://www.tmtpost.com/8138857.html)
+**发布时间**: 2026-09-14 15:39
+
+#### [进口砍掉四成、油价却在破百：炼厂“买得起、炼不起”](https://www.tmtpost.com/8135242.html)
+**发布时间**: 2026-09-14 15:39
+
+#### [敬一丹：在电视仍能抵达所有人的年代](https://www.tmtpost.com/8138600.html)
+**发布时间**: 2026-09-14 14:59
+
+#### [猛犸象欠消费者一个说法](https://www.tmtpost.com/8138895.html)
+**发布时间**: 2026-09-14 14:59
+
+#### [用户时长不再是硬通货](https://www.tmtpost.com/8138711.html)
+**发布时间**: 2026-09-14 14:59
+
+#### [博迈医疗：利润过半依赖补助，腾讯创投等突击入股，实控人配偶上市前夕套现4.76亿｜IPO观察](https://www.tmtpost.com/8136837.html)
+**发布时间**: 2026-09-14 14:05
+
+#### [一根头发丝般粗细的“针”，正在卡住万卡集群的脖子](https://www.tmtpost.com/8138933.html)
+**发布时间**: 2026-09-14 12:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 17:29
+
+#### [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 16:26
+
+#### [ICANN 取消第三级 .name 域名注册，是否为身份盗用敞开了大门？](https://www.infoq.cn/article/DlKsq4vFFkUV9Xl7Fxls?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 15:41
+
+#### [openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省](https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 13:40
+
+#### [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 13:09
+
+#### [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 11:11
+
+#### [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+**发布时间**: 2026-09-14 16:35
+
+#### [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+**发布时间**: 2026-09-14 15:16
+
+#### [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+**发布时间**: 2026-09-14 11:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)
+**发布时间**: 2026-09-14 13:14
 
 ---
 

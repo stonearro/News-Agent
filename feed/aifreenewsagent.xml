@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Sep 2026 09:43:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 09:45:46 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 00:55:00 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:58:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hacked by CoupDeGrace</title>
-      <link>https://www.qbitai.com/2026/09/489371.html</link>
-      <description>&lt;![CDATA[Hacked by CoupDeGrace]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 07:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489371.html</guid>
+      <title>Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train</title>
+      <link>https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/</link>
+      <description>&lt;![CDATA[Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Meta新研究：字节模型蒸馏后，天花板破了</title>
-      <link>https://www.qbitai.com/2026/09/489337.html</link>
-      <description>&lt;![CDATA[Meta新研究：字节模型蒸馏后，天花板破了]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 06:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489337.html</guid>
+      <title>梁文锋CFO到位！投过智谱MiniMax</title>
+      <link>https://www.qbitai.com/2026/09/489707.html</link>
+      <description>&lt;![CDATA[梁文锋CFO到位！投过智谱MiniMax]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489707.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了</title>
-      <link>https://www.qbitai.com/2026/09/489288.html</link>
-      <description>&lt;![CDATA[前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489288.html</guid>
+      <title>地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出</title>
+      <link>https://www.qbitai.com/2026/09/489698.html</link>
+      <description>&lt;![CDATA[地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489698.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>9月21日，深圳前海！聊聊工业AI与生态共创的下一步</title>
-      <link>https://www.qbitai.com/2026/09/489277.html</link>
-      <description>&lt;![CDATA[9月21日，深圳前海！聊聊工业AI与生态共创的下一步]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 05:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489277.html</guid>
+      <title>手机替我跑了一整套流程！我就说了一句话，AI执行了100步</title>
+      <link>https://www.qbitai.com/2026/09/489466.html</link>
+      <description>&lt;![CDATA[手机替我跑了一整套流程！我就说了一句话，AI执行了100步]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 12:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489466.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开</title>
-      <link>https://www.qbitai.com/2026/09/489227.html</link>
-      <description>&lt;![CDATA[7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 02:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489227.html</guid>
+      <title>无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA</title>
+      <link>https://www.qbitai.com/2026/09/489460.html</link>
+      <description>&lt;![CDATA[无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489460.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型</title>
+      <link>https://www.qbitai.com/2026/09/489389.html</link>
+      <description>&lt;![CDATA[全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489389.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影</title>
+      <link>https://www.qbitai.com/2026/09/489381.html</link>
+      <description>&lt;![CDATA[一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489381.html</guid>
       <category>AI</category>
     </item>
   </channel>

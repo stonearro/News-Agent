@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-15 09:43
+**最后更新时间**: 2026-09-16 00:55
+
+---
+
+## 🆕 最新更新 (2026-09-16 00:55)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/)
+**发布时间**: 2026-09-15 20:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
+**发布时间**: 2026-09-15 13:53
+
+#### [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
+**发布时间**: 2026-09-15 13:32
+
+#### [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
+**发布时间**: 2026-09-15 12:47
+
+#### [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
+**发布时间**: 2026-09-15 10:43
+
+#### [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
+**发布时间**: 2026-09-15 10:41
+
+#### [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
+**发布时间**: 2026-09-15 09:58
+
+#### [首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编](https://www.qbitai.com/2026/09/489260.html)
+**发布时间**: 2026-09-15 07:48
 
 ---
 

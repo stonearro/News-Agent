@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-17 09:45
+**最后更新时间**: 2026-09-18 00:55
+
+---
+
+## 🆕 最新更新 (2026-09-18 00:55)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The future of practice: Enabling teachers to create learning interactives with generative UI](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/)
+**发布时间**: 2026-09-17 20:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从“会回答”到“会办事”，vivo如何解AI手机这道题？](https://www.qbitai.com/2026/09/491649.html)
+**发布时间**: 2026-09-17 12:03
+
+#### [Claude Code团队讲究啊，这都往外说](https://www.qbitai.com/2026/09/491596.html)
+**发布时间**: 2026-09-17 11:56
+
+#### [图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家](https://www.qbitai.com/2026/09/491522.html)
+**发布时间**: 2026-09-17 09:42
+
+#### [央企做了个通用Agent，直接杀进IDC实测前三！](https://www.qbitai.com/2026/09/491454.html)
+**发布时间**: 2026-09-17 09:39
 
 ---
 

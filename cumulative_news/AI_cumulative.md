@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-24 09:39
+**最后更新时间**: 2026-09-25 01:03
+
+---
+
+## 🆕 最新更新 (2026-09-25 01:03)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/)
+**发布时间**: 2026-09-24 19:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496961.html)
+**发布时间**: 2026-09-24 14:20
+
+#### [PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍](https://www.qbitai.com/2026/09/496925.html)
+**发布时间**: 2026-09-24 14:17
+
+#### [时隔十年，AI大牛署名新论文](https://www.qbitai.com/2026/09/496834.html)
+**发布时间**: 2026-09-24 12:58
+
+#### [GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案](https://www.qbitai.com/2026/09/496816.html)
+**发布时间**: 2026-09-24 08:20
 
 ---
 

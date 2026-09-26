@@ -1,54 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a03dd1df5791f91bdb2e277eb9e2d1baf58a42a1b7348909b83cd1cf32ec7361": {
-        "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-        "link": "https://www.qbitai.com/2026/08/480005.html",
-        "published_date": "Thu, 27 Aug 2026 02:46:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.994944"
-      },
-      "ce6b2609785136bc208fe5edbf8cbad8e4225b8e082bf7489c4a30229cc7876a": {
-        "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-        "link": "https://www.qbitai.com/2026/08/480001.html",
-        "published_date": "Thu, 27 Aug 2026 01:45:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.995117"
-      },
-      "b3f9c380a56481f4f903d4c806736783bdd1ceb877b4a866734904810caf1c0f": {
-        "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
-        "link": "https://www.qbitai.com/2026/08/479919.html",
-        "published_date": "Wed, 26 Aug 2026 16:48:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.995314"
-      },
-      "8976cdc1e4a0c174bd19bd0383db73492819df3b007cfe78af89de7900381261": {
-        "title": "AI视频应用井喷，美图打开新的增长空间",
-        "link": "https://www.qbitai.com/2026/08/479895.html",
-        "published_date": "Wed, 26 Aug 2026 10:18:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.995470"
-      },
-      "9e0c658b88010ae1d29eb39aaa98132231623a2c6d17235557a4808b2c4e5678": {
-        "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
-        "link": "https://www.qbitai.com/2026/08/479811.html",
-        "published_date": "Wed, 26 Aug 2026 10:17:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.995736"
-      },
-      "f032ad7a5c71fb6d2d9f63796b2f4a21272055f38d8ed3be957508424ad84173": {
-        "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-        "link": "https://www.qbitai.com/2026/08/479834.html",
-        "published_date": "Wed, 26 Aug 2026 10:07:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.995954"
-      },
-      "b98666f1319c09083f2039a0dc5389f5cd9fb5a674cbb9efe27f31b0607a84f8": {
-        "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
-        "link": "https://www.qbitai.com/2026/08/479808.html",
-        "published_date": "Wed, 26 Aug 2026 09:17:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.996222"
-      },
-      "ebc4b315e506a96ef243846bf0f892c5ff57cd26749fca9792d08715a0537e04": {
-        "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-        "link": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-        "published_date": "Wed, 26 Aug 2026 18:42:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.996809"
-      },
       "88e9791ba153bdc28e5a8f979926c35648c4c7a3fc3b56ce575585c7c559b947": {
         "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
         "link": "https://www.qbitai.com/2026/08/480092.html",
@@ -1362,189 +1314,39 @@
         "link": "https://www.qbitai.com/2026/09/497108.html",
         "published_date": "Fri, 25 Sep 2026 10:00:00 GMT",
         "first_seen": "2026-09-26T01:07:47.771789"
+      },
+      "16d7ecf289ae6665bf6d7eadb4fd675bd0eed3fefe8975e25784e7a089f35ec4": {
+        "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+        "link": "https://www.qbitai.com/2026/09/498271.html",
+        "published_date": "Sat, 26 Sep 2026 09:07:00 GMT",
+        "first_seen": "2026-09-26T09:41:23.084410"
+      },
+      "f36f6fada31bcbbdf02a3f965a8050455f2ec8e3e4ee3f5b80a7f8a43b7482a5": {
+        "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+        "link": "https://www.qbitai.com/2026/09/497624.html",
+        "published_date": "Sat, 26 Sep 2026 09:01:00 GMT",
+        "first_seen": "2026-09-26T09:41:23.084604"
+      },
+      "8e14f9880666f14ca1af85dc0bf015c67e121e3ed0b19baf8d5b95f2e020765b": {
+        "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+        "link": "https://www.qbitai.com/2026/09/497613.html",
+        "published_date": "Sat, 26 Sep 2026 07:18:00 GMT",
+        "first_seen": "2026-09-26T09:41:23.084751"
+      },
+      "1aab7567160b26874cf1bde34db9f6c9cd97b61c30fd4c7cd9201f83e8102e08": {
+        "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+        "link": "https://www.qbitai.com/2026/09/497425.html",
+        "published_date": "Sat, 26 Sep 2026 07:12:00 GMT",
+        "first_seen": "2026-09-26T09:41:23.084997"
+      },
+      "6c5c7b70ef129a221890a6cb1b2078336d25ac695a8fa5f0554bb190d926fa18": {
+        "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+        "link": "https://www.qbitai.com/2026/09/497382.html",
+        "published_date": "Sat, 26 Sep 2026 07:04:00 GMT",
+        "first_seen": "2026-09-26T09:41:23.085332"
       }
     },
     "Technology": {
-      "b626771abd8793da4d954e3861fdfede23ada1dedc97be004ce5b36bf56014e8": {
-        "title": "从数字化到AI：企业数智跃迁的路径、实践与挑战 | 2026 ITValue Summit前瞻：AI系统落地系列直播②",
-        "link": "https://www.tmtpost.com/8118639.html",
-        "published_date": "Thu, 27 Aug 2026 12:08:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851780"
-      },
-      "6afe64a32cffe7f1ba0cd3fc1fa1491db99f6933a8a9bf60b774fc9038b4aed1": {
-        "title": "DeepSeek一张涨价单，繁荣了一条产业链？",
-        "link": "https://www.tmtpost.com/8118103.html",
-        "published_date": "Thu, 27 Aug 2026 11:52:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851860"
-      },
-      "df9826a1123e6e007915a8ea884dc66719b437fa1a6cf84557a5f6dcd47a57b8": {
-        "title": "腾讯汤道生，为“慢”作答",
-        "link": "https://www.tmtpost.com/8118158.html",
-        "published_date": "Thu, 27 Aug 2026 11:52:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851868"
-      },
-      "ae8238b7cd05b218472af4b69dff53ece57c88e15106c0ee090dc07ad93a308b": {
-        "title": "AI的账单，不只由科技公司买单",
-        "link": "https://www.tmtpost.com/8118214.html",
-        "published_date": "Thu, 27 Aug 2026 11:52:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851808"
-      },
-      "8258de29d076ce4dbb2d07ee3c5f451e5bb0681979985d397108c83ed3bc5b7d": {
-        "title": "一周卖出2个亿后，ALO 不想和 Lululemon 当对手了",
-        "link": "https://www.tmtpost.com/8118087.html",
-        "published_date": "Thu, 27 Aug 2026 11:35:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851876"
-      },
-      "577fcdd0a193b431e0afb69abc3c394ecd518bf338f3e09622beaf3e2cdc17a2": {
-        "title": "DeepSeek调价之后，谁走出了斩杀线？",
-        "link": "https://www.tmtpost.com/8118102.html",
-        "published_date": "Thu, 27 Aug 2026 11:34:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851883"
-      },
-      "855749c9c07a553e723cc9b16ea8a598010c04c26697ee2f387ba40de4146b30": {
-        "title": "薇诺娜还在为贝泰妮抗鼎",
-        "link": "https://www.tmtpost.com/8118184.html",
-        "published_date": "Thu, 27 Aug 2026 11:34:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.479350"
-      },
-      "50cc1b156e17b22dc6d4e86d46567ad21389caa1c3f04694bb5e846aa0119f98": {
-        "title": "家医签约「绑」上专科医生——273号文到底在改什么？",
-        "link": "https://www.tmtpost.com/8118219.html",
-        "published_date": "Thu, 27 Aug 2026 11:34:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.479671"
-      },
-      "9b0db6d4049744f832e08deac93b99450c8c08fd309b70c182019ba19653aa40": {
-        "title": "「点头」：一旦执行可以交给AI，人还剩下什么",
-        "link": "https://www.tmtpost.com/8116759.html",
-        "published_date": "Thu, 27 Aug 2026 11:02:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.479986"
-      },
-      "b68dd74b57d545959f134a143fab81fa2c7ead348161b388ba05ac3709bccd61": {
-        "title": "B端收入涨7倍反超C端，MiniMax换了个活法 ｜ 看财报",
-        "link": "https://www.tmtpost.com/8118586.html",
-        "published_date": "Thu, 27 Aug 2026 10:43:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.480386"
-      },
-      "83e17d064cbc84824740e2d50af8b617315d8772cf193b09db55421b481cab18": {
-        "title": "茉莉奶白的速度与账本：年开近千家店，首批加盟商开始退出",
-        "link": "https://www.tmtpost.com/8118045.html",
-        "published_date": "Thu, 27 Aug 2026 10:09:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.480839"
-      },
-      "1998ddbf11091723d65118e34275c8ddde842d204315a189fb9fd63a43ae03c0": {
-        "title": "基金市场概况与资产配置观点（08.17—08.23）",
-        "link": "https://www.tmtpost.com/8118564.html",
-        "published_date": "Thu, 27 Aug 2026 10:08:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.481306"
-      },
-      "9b8ba9003ba7484567d31a0bfbc03a1aaa6225f4046ae7f8cddd0a058b0dece7": {
-        "title": "烧钱与营收并进，DeepSeek被曝前七个月收入4.75亿元，Minimax连夜披露ARR暴涨500%",
-        "link": "https://www.tmtpost.com/8118394.html",
-        "published_date": "Thu, 27 Aug 2026 10:08:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.482113"
-      },
-      "d99c45981a6b9787bd22d58711e22ee01f858d4dad4b411383c74f0ef0a4c135": {
-        "title": "OpenAI自研芯片将击穿英伟达CUDA护城河？",
-        "link": "https://www.tmtpost.com/8117324.html",
-        "published_date": "Thu, 27 Aug 2026 10:07:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851819"
-      },
-      "d7f50a348da49f04decc8cf13ee4837e3135944099a677ec0c3e4126cb52913c": {
-        "title": "MiniMax开始靠别人赚钱",
-        "link": "https://www.tmtpost.com/8118437.html",
-        "published_date": "Thu, 27 Aug 2026 09:48:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.482944"
-      },
-      "8f8d2fafe78970092ca5de8be4881481dc0ee28f9ff2b88c0bbc86b0c5ab6427": {
-        "title": "【机构调研】上市公司TOP5穹顶评估（8月17日至8月23日）",
-        "link": "https://www.tmtpost.com/8118514.html",
-        "published_date": "Thu, 27 Aug 2026 09:43:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.483623"
-      },
-      "f1b94dd429884dee9a7b3308ebe6f7136d757879c6adf68d452a47a1736fd889": {
-        "title": "资本市场深层底座创新探索 ——济安金信行业分类标准的理论、实践与逻辑审视",
-        "link": "https://www.tmtpost.com/8118501.html",
-        "published_date": "Thu, 27 Aug 2026 09:39:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851830"
-      },
-      "3539353d2cb2afc49653cf9bdb68ef418acfbee93960ec9eab07c205d5de7257": {
-        "title": "价值判断：涨停板的投资机会和风险提示（8月25日｜上市公司观察",
-        "link": "https://www.tmtpost.com/8118499.html",
-        "published_date": "Thu, 27 Aug 2026 09:39:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.485146"
-      },
-      "ff46663a9aa714125fa6f2fa5fa5237242a6b0cbe45af6f6d1033d599aa8524a": {
-        "title": "特斯拉的产线还未投产，Figure已交付350台机器人",
-        "link": "https://www.tmtpost.com/8118474.html",
-        "published_date": "Thu, 27 Aug 2026 09:38:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.485921"
-      },
-      "eaec985a8d29e962d542800653bb926b2c7bfa5e9401eb6e353bdf5ac54847f1": {
-        "title": "AI抢走的第一份工作，如何变成一场大萧条？",
-        "link": "https://www.tmtpost.com/8118487.html",
-        "published_date": "Thu, 27 Aug 2026 09:38:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.486577"
-      },
-      "4e9d466e41129c9892ab2cf63c4a8cc70fff1fd9d034fc3ec839bc4f462d46d0": {
-        "title": "Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群",
-        "link": "https://www.infoq.cn/article/p8qELFuWcdBic11PXG72?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Aug 2026 12:00:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.487718"
-      },
-      "accfcf916baae6d7a26d8199f667f764156f8e2b33f5872af023aaf616ee1f0d": {
-        "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-        "link": "https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Aug 2026 10:28:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.488905"
-      },
-      "49907f701eb80de1c41daf9346801e27bc1902c22cf82fc2c51e13b14649aa7c": {
-        "title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
-        "link": "https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Aug 2026 10:27:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.490544"
-      },
-      "a21ad3b3f690ce3f9e9089cbfce0ceb5252f289542ad5050f708f56cb6d0d080": {
-        "title": "“我们把同一个应用构建了两次”：Harper 挑战 Vercel，性能最高相差 14 倍",
-        "link": "https://www.infoq.cn/article/jbOa8ChckHTgVVKh5AKb?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Aug 2026 10:10:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.491963"
-      },
-      "192094c9f64a9234972aec60278461a8015e7f9c4cd63a490d316f76146ef20a": {
-        "title": "如何把 Agent 的判断与行动变成可恢复的软件事实 | KDC 工程补篇",
-        "link": "https://www.infoq.cn/article/AkgUFEFE4uG7WIlqaO2g?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.493343"
-      },
-      "7180f4f1222f189307aab073eef19e19c4fba423f3945403161474439fd2a6b6": {
-        "title": "英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级",
-        "link": "https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Aug 2026 17:44:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851843"
-      },
-      "32ac15bb939c8c9bd6897755319538158510a69aa33d16994566734ad67e730f": {
-        "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
-        "link": "https://sspai.com/post/113222",
-        "published_date": "Thu, 27 Aug 2026 11:01:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.496452"
-      },
-      "64b253dd16fd6c6d86d8102720a3817afd63f6a5a3b6d5b193cb852d420ec5c4": {
-        "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
-        "link": "https://sspai.com/post/113873",
-        "published_date": "Thu, 27 Aug 2026 07:33:00 GMT",
-        "first_seen": "2026-08-27T04:12:51.851853"
-      },
-      "01aa0142407f387e2b6db9e88e6a51a0ed4ce5f6c409401ff7c1b28b4c0c72c3": {
-        "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-        "link": "https://sspai.com/prime/story/zhuanglesha-260826",
-        "published_date": "Wed, 26 Aug 2026 15:59:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.499166"
-      },
-      "179e5c1ed46b04335862390042cd6df756d296ca1ee6054c72a223a8dbec0d7b": {
-        "title": "Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道",
-        "link": "http://www.geekpark.net/news/369414",
-        "published_date": "Thu, 27 Aug 2026 08:27:00 GMT",
-        "first_seen": "2026-08-27T04:12:42.502089"
-      },
       "1f8657d0df89f4a1c65ebb9ee1ae49be8c86ad8543d70934b4f579f956a2ef58": {
         "title": "“全球AI药物递送第一股”的半年考：134倍营收，成色几何",
         "link": "https://www.tmtpost.com/8119542.html",
@@ -10268,13 +10070,73 @@
         "link": "https://sspai.com/post/114957",
         "published_date": "Fri, 25 Sep 2026 17:30:00 GMT",
         "first_seen": "2026-09-26T01:07:47.661850"
+      },
+      "80388da4d14fe5a2fb3324940e6f80e9d84b0a1ce0be50e12372b19a80d4347b": {
+        "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+        "link": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 26 Sep 2026 17:00:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.932932"
+      },
+      "d0347c9e3ce0565f52f72992ff4c7121be8db72a7421be902ab34a486256c499": {
+        "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+        "link": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 26 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.933118"
+      },
+      "79f923434980b426776c4ef49f1d38b7922f69c8405b8c1587bcca5e391814ca": {
+        "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+        "link": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 26 Sep 2026 09:20:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.933339"
+      },
+      "84be4afdf3a7d62fa2a8fe19ef42e810915812e0a069ae744b985e84160830fc": {
+        "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+        "link": "https://sspai.com/post/114958",
+        "published_date": "Sat, 26 Sep 2026 14:00:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.933609"
+      },
+      "6b911735456e38d4262865928fac97c490c5bb84a5c50335ddd7a10b25fc2d55": {
+        "title": "【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
+        "link": "https://www.tmtpost.com/8153052.html",
+        "published_date": "Sat, 26 Sep 2026 12:46:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.934157"
+      },
+      "89a9ef80ad135820fd876d2f4a1b0ab9fa72dbe92c0b72369c6c907cce1bee1e": {
+        "title": "从买东西到买体验：为什么4个周末替代不了一个8天长假？",
+        "link": "https://www.tmtpost.com/8153043.html",
+        "published_date": "Sat, 26 Sep 2026 12:34:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.934455"
+      },
+      "8fbe2b4a258a44ff3809af829e3f84ddbf1c97014b82d933cf4f12cf79c5af36": {
+        "title": "山姆没有捷径，中国零售平台集体追赶30%自营率",
+        "link": "https://www.tmtpost.com/8152993.html",
+        "published_date": "Sat, 26 Sep 2026 12:31:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.934839"
+      },
+      "17bd9cbbcf3602fd63fbec30a7a49a832fd9c2802fe245a3f6db9c7520b535cd": {
+        "title": "0元购机，卒于2026",
+        "link": "https://www.tmtpost.com/8152955.html",
+        "published_date": "Sat, 26 Sep 2026 12:14:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.935127"
+      },
+      "eae3ba998d8ca14d14fbce1a583847d9ef279a191c7b8b5cb08aab33e5a97095": {
+        "title": "羽绒服品牌集体抢人过冬",
+        "link": "https://www.tmtpost.com/8152944.html",
+        "published_date": "Sat, 26 Sep 2026 12:14:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.935366"
+      },
+      "1542f0ea4e1a93bfdfdf1d15fbd4989a5c034e9c358b37bf1a9066bd275975c9": {
+        "title": "阿里的蒸汽机时代",
+        "link": "https://www.tmtpost.com/8152987.html",
+        "published_date": "Sat, 26 Sep 2026 11:35:00 GMT",
+        "first_seen": "2026-09-26T09:41:22.935640"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-09-26T01:07:47.777298",
-    "Technology": "2026-09-26T01:07:47.674165",
-    "Finance": "2026-09-26T01:07:47.688064"
+    "AI": "2026-09-26T09:41:23.092679",
+    "Technology": "2026-09-26T09:41:22.956554",
+    "Finance": "2026-09-26T09:41:22.975229"
   }
 }

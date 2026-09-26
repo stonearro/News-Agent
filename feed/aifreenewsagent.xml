@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Sep 2026 01:05:00 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 01:07:47 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 09:39:00 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:41:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”</title>
-      <link>https://www.qbitai.com/2026/09/497278.html</link>
-      <description>&lt;![CDATA[“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497278.html</guid>
+      <title>AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo</title>
+      <link>https://www.qbitai.com/2026/09/498271.html</link>
+      <description>&lt;![CDATA[AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498271.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉</title>
-      <link>https://www.qbitai.com/2026/09/497177.html</link>
-      <description>&lt;![CDATA[OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497177.html</guid>
+      <title>笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub</title>
+      <link>https://www.qbitai.com/2026/09/497624.html</link>
+      <description>&lt;![CDATA[笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497624.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源</title>
-      <link>https://www.qbitai.com/2026/09/497108.html</link>
-      <description>&lt;![CDATA[亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497108.html</guid>
+      <title>在云栖大会，我终于看懂了米哈游千亿AI野心</title>
+      <link>https://www.qbitai.com/2026/09/497613.html</link>
+      <description>&lt;![CDATA[在云栖大会，我终于看懂了米哈游千亿AI野心]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497613.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架</title>
+      <link>https://www.qbitai.com/2026/09/497425.html</link>
+      <description>&lt;![CDATA[谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497425.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光</title>
+      <link>https://www.qbitai.com/2026/09/497382.html</link>
+      <description>&lt;![CDATA[OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497382.html</guid>
       <category>AI</category>
     </item>
   </channel>

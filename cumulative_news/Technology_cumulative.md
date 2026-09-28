@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-28 01:24
+**最后更新时间**: 2026-09-28 11:24
+
+---
+
+## 🆕 最新更新 (2026-09-28 11:24)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [创始人书单 | 在创业的过程里，见世界、见自己](http://www.geekpark.net/news/371131)
+**发布时间**: 2026-09-28 18:33
+
+#### [AI 硬件创业第一步，先做 AI 还是先做硬件？](http://www.geekpark.net/news/371125)
+**发布时间**: 2026-09-28 18:06
+
+#### [AI 手机只是起点，高通要为智能体铺一条全栈技术路线](http://www.geekpark.net/news/371113)
+**发布时间**: 2026-09-28 17:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Swift 6.4 正式发布：内置 Subprocess 1.0、增强跨语言互操作、Wasm 性能大幅提升及更多更新](https://www.infoq.cn/article/zl0e1sUoD95YJfboNz2a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 18:24
+
+#### [Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI](https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 18:23
+
+#### [生成式到代理式跃迁：构建保险后援数字分身｜QCon上海](https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【Fintech 周报】互联网保险拟设“十不得”划定负面清单；微信支付推出一款APP](https://www.tmtpost.com/8154273.html)
+**发布时间**: 2026-09-28 18:00
+
+#### [刘欢走了，他唱过我们怎样的生活](https://www.tmtpost.com/8153718.html)
+**发布时间**: 2026-09-28 17:38
+
+#### [月饼卖不动？茂名凭什么把一块饼做成50亿产业](https://www.tmtpost.com/8153801.html)
+**发布时间**: 2026-09-28 17:38
+
+#### [一代人的两种歌声：公共华章与私人青春](https://www.tmtpost.com/8153626.html)
+**发布时间**: 2026-09-28 16:27
+
+#### [一个AI应用爆火，会带动多少硬件生意？](https://www.tmtpost.com/8153647.html)
+**发布时间**: 2026-09-28 16:27
+
+#### [赌具身智能没有未来的人，是没有未来的 | 对谈伯克利Allen Yang博士](https://www.tmtpost.com/8153646.html)
+**发布时间**: 2026-09-28 16:27
+
+#### [RSI概念过热，一线学者：有炒作成分](https://www.tmtpost.com/8153593.html)
+**发布时间**: 2026-09-28 15:37
+
+#### [爆火了的Muse和Instinct们不能做的，OS3能？](https://www.tmtpost.com/8153909.html)
+**发布时间**: 2026-09-28 15:37
+
+#### [口红效应消失了吗？](https://www.tmtpost.com/8153900.html)
+**发布时间**: 2026-09-28 15:37
+
+#### [蔚来与吉利官宣联手，各自图什么？](https://www.tmtpost.com/8153951.html)
+**发布时间**: 2026-09-28 14:12
+
+#### [千万小时缺口下的突围：谁在为中国具身智能“喂”数据？](https://www.tmtpost.com/8153852.html)
+**发布时间**: 2026-09-28 13:50
+
+#### [谁来为AI投入买单？从价值缺口到应对之道 | 2026 ITValue Summit数字价值年会](https://www.tmtpost.com/8149442.html)
+**发布时间**: 2026-09-28 13:17
+
+#### [从“命悬一线”到426亿元：长江边小镇，出了个“偏科天才”](https://www.tmtpost.com/8153817.html)
+**发布时间**: 2026-09-28 11:38
+
+#### [从端侧推理到物理AI，芯片行业正面临新考题](https://www.tmtpost.com/8153747.html)
+**发布时间**: 2026-09-28 10:54
+
+#### [Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里](https://www.tmtpost.com/8153628.html)
+**发布时间**: 2026-09-28 10:33
+
+#### [AI打平创业门槛之后，AI应用大爆发](https://www.tmtpost.com/8153790.html)
+**发布时间**: 2026-09-28 10:11
+
+#### [管住AI，成了一门新生意](https://www.tmtpost.com/8153560.html)
+**发布时间**: 2026-09-28 09:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/115094)
+**发布时间**: 2026-09-28 17:45
+
+#### [基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
+**发布时间**: 2026-09-28 17:33
+
+#### [比起折痕， iPhone Duo 的交互设计更加令人着迷](https://sspai.com/post/114972)
+**发布时间**: 2026-09-28 15:00
+
+#### [摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
+**发布时间**: 2026-09-28 11:00
 
 ---
 

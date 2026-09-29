@@ -1,7 +1,183 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-28 11:24
+**最后更新时间**: 2026-09-29 02:28
+
+---
+
+## 🆕 最新更新 (2026-09-29 02:28)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [2022 年，科技行业的创业者们推荐这 47 本书 | 创始人书单](http://www.geekpark.net/news/371445)
+**发布时间**: 2026-09-29 10:25
+
+#### [质量数字化如何成为制造业数智化的破局点？ | Founder 100](http://www.geekpark.net/news/371444)
+**发布时间**: 2026-09-29 10:22
+
+#### [泽森科工：国产 3D 内容生成软件的新机遇在哪里？ | Founder 100](http://www.geekpark.net/news/371443)
+**发布时间**: 2026-09-29 10:21
+
+#### [元宇宙时代，国产物理引擎的新机会在哪里？ | Founder 100](http://www.geekpark.net/news/371441)
+**发布时间**: 2026-09-29 10:19
+
+#### [智能眼镜平民化的新尝试：AR 泳镜 | Founder 100](http://www.geekpark.net/news/371439)
+**发布时间**: 2026-09-29 10:08
+
+#### [作为 Clubhouse 的首位社区负责人，我学到了这些创业经验 | Startup Recipes](http://www.geekpark.net/news/371438)
+**发布时间**: 2026-09-29 10:07
+
+#### [大地量子 王驰：AI+ 遥感打造数字全息地球 | Founder 100](http://www.geekpark.net/news/371437)
+**发布时间**: 2026-09-29 10:05
+
+#### [数据红利时代，隐私计算如何解决数据安全问题？| Founder 100](http://www.geekpark.net/news/371434)
+**发布时间**: 2026-09-29 09:52
+
+#### [云创远景：AI 如何让数据中心再降 15% 能耗？| Founder 100](http://www.geekpark.net/news/371433)
+**发布时间**: 2026-09-29 09:51
+
+#### [改变世界？合成生物学有望先改变食品行业 | Founder 100](http://www.geekpark.net/news/371432)
+**发布时间**: 2026-09-29 09:50
+
+#### [麦岩智能：高端商务场景是清洁机器人的下一个蓝海 | Founder 100](http://www.geekpark.net/news/371430)
+**发布时间**: 2026-09-29 09:48
+
+#### [夏勇峰：AR 眼镜「由实入虚」是当下的最优解 ｜ Founder 100](http://www.geekpark.net/news/371429)
+**发布时间**: 2026-09-29 09:47
+
+#### [星奇世界：如何把无人机做成科技潮玩？ | Founder 100](http://www.geekpark.net/news/371427)
+**发布时间**: 2026-09-29 09:45
+
+#### [SphereEx：开源项目的商业化之路可以这么走 | Founder 100](http://www.geekpark.net/news/371424)
+**发布时间**: 2026-09-29 09:43
+
+#### [李楠：一款「反性价比」耳机的商业洞察 | Founder 100](http://www.geekpark.net/news/371421)
+**发布时间**: 2026-09-29 09:42
+
+#### [和四位国内创业者聊一聊，AIGC 创业的机会在哪里？](http://www.geekpark.net/news/371419)
+**发布时间**: 2026-09-29 09:40
+
+#### [数字栩生翁冬冬：超写实数字人像人很难，但有必要 | Founder 100](http://www.geekpark.net/news/371414)
+**发布时间**: 2026-09-29 09:38
+
+#### [Conflux 张元杰：公有链才是中国 Web3 的未来 | Founder 100](http://www.geekpark.net/news/371411)
+**发布时间**: 2026-09-29 09:36
+
+#### [制药技术新革命，AI 如何助力微生态药物研发？ | Rebuild 2022](http://www.geekpark.net/news/371409)
+**发布时间**: 2026-09-29 09:33
+
+#### [哈崎机器人：陪伴机器人的竞争优势在于「主动性」| Founder 100](http://www.geekpark.net/news/371408)
+**发布时间**: 2026-09-29 09:32
+
+#### [合规的 Web3 在中国是否有机会？怎么做？| Founder 100](http://www.geekpark.net/news/371407)
+**发布时间**: 2026-09-29 09:30
+
+#### [元宇宙、机器人和自动驾驶领域的创始人都在读什么？ | 创始人书单](http://www.geekpark.net/news/371406)
+**发布时间**: 2026-09-29 09:29
+
+#### [卫星互联网「高成本、低速率、高延迟」难题要怎么解？ | Founder 100](http://www.geekpark.net/news/371405)
+**发布时间**: 2026-09-29 09:27
+
+#### [有了 Gotin：线上活动不需要取代线下，更应该定义新规则 | Founder 100](http://www.geekpark.net/news/371404)
+**发布时间**: 2026-09-29 09:25
+
+#### [有自主意识的 AI 才是人类需要的真 AI | Founder 100](http://www.geekpark.net/news/371403)
+**发布时间**: 2026-09-29 09:23
+
+#### [CRM 的正确方向不是「监管」而是搭建客户关系 | Founder 100](http://www.geekpark.net/news/371402)
+**发布时间**: 2026-09-29 09:22
+
+#### [元宇宙里的「数字基建」生意要怎么做？| Founder 100](http://www.geekpark.net/news/371401)
+**发布时间**: 2026-09-29 09:20
+
+#### [AI 设计，低门槛和平民化设计的终极答案 | Founder 100](http://www.geekpark.net/news/371400)
+**发布时间**: 2026-09-29 09:19
+
+#### [千亿美元的数字时尚行业，将如何改变服装业？| Founder 100](http://www.geekpark.net/news/371399)
+**发布时间**: 2026-09-29 09:17
+
+#### [资本和玩家持续涌入，滑板底盘「钱景」如何？ | Founder 100](http://www.geekpark.net/news/371398)
+**发布时间**: 2026-09-29 09:16
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [人形机器人涌入主题公园：赛博NPC真能赚钱吗？](https://www.tmtpost.com/8154399.html)
+**发布时间**: 2026-09-29 10:09
+
+#### [还在找理由“请3休13”，别人都在景区快玩腻了](https://www.tmtpost.com/8154387.html)
+**发布时间**: 2026-09-29 10:02
+
+#### [厄尔尼诺峰值遇上美豆季节性反弹，豆粕会受多大影响？](https://www.tmtpost.com/8154366.html)
+**发布时间**: 2026-09-29 09:55
+
+#### [影目Air3被召回，智能眼镜迎来散热大考](https://www.tmtpost.com/8154442.html)
+**发布时间**: 2026-09-29 09:55
+
+#### [罗博特科明日港股挂牌，但光伏销量暴跌94%，33亿订单利润仅655万，硅光故事能撑得起它的千亿估值吗](https://www.tmtpost.com/8154672.html)
+**发布时间**: 2026-09-29 09:55
+
+#### [吉利蔚来“握手”，李斌：团结才能活下去](https://www.tmtpost.com/8154666.html)
+**发布时间**: 2026-09-29 09:53
+
+#### [新型电池“十五五”规划落地，全固态电池2027年装车倒计时，硫化锂价格仍是最后一公里](https://www.tmtpost.com/8154671.html)
+**发布时间**: 2026-09-29 09:47
+
+#### [FDE，大模型落地的最后一公里](https://www.tmtpost.com/8154193.html)
+**发布时间**: 2026-09-29 09:44
+
+#### [昨夜星辰(五）我的“三星”职场之旅](https://www.tmtpost.com/8154579.html)
+**发布时间**: 2026-09-29 09:42
+
+#### [微软亚太研发换帅：整合信号大于转型信号](https://www.tmtpost.com/8154571.html)
+**发布时间**: 2026-09-29 09:37
+
+#### [云南养猪富豪遇“天价离婚案”，近88亿元股权如何分？](https://www.tmtpost.com/8154558.html)
+**发布时间**: 2026-09-29 09:33
+
+#### [梅卡曼德上市后首份财报亮相：高预期之下的审视与压力](https://www.tmtpost.com/8154637.html)
+**发布时间**: 2026-09-29 09:29
+
+#### [钠电收入仅1510万，却砸下200亿疯狂扩产，曹德旺的“福耀”打法能让这家动力电池企业赌赢么？](https://www.tmtpost.com/8154673.html)
+**发布时间**: 2026-09-29 09:29
+
+#### [朋友定了8个闹铃抢票，我就知道今年双节不一般](https://www.tmtpost.com/8154382.html)
+**发布时间**: 2026-09-29 09:09
+
+#### [Sonnet 5.5发布，智能水平超越GPT-6 Astra，说好的减速呢？](https://www.tmtpost.com/8154739.html)
+**发布时间**: 2026-09-29 09:09
+
+#### [困于“数字金拱门”的麦当劳](https://www.tmtpost.com/8154433.html)
+**发布时间**: 2026-09-29 08:45
+
+#### [人形机器人还没成熟，Physical AI先去找了机械臂](https://www.tmtpost.com/8154412.html)
+**发布时间**: 2026-09-29 08:37
+
+#### [Edge AI Daily 早报（9月29日）](https://www.tmtpost.com/8154712.html)
+**发布时间**: 2026-09-29 08:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon上海](https://www.infoq.cn/article/mDiczbGJpHNMU6e0qBX1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 10:00
+
+#### [Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细](https://www.infoq.cn/article/XF5kZxV681STVDrzsstj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 09:50
+
+#### [Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC](https://www.infoq.cn/article/OooAe7xY816xAdLrkv8V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 22:17
+
+#### [超越相关性：面向企业个性化场景的治理优先架构](https://www.infoq.cn/article/LZLgofWubQu4DfjO4q74?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 21:20
+
+#### [AKS通过新的NAP指南使节点中断更加可预测](https://www.infoq.cn/article/7zcxyr8aBkDqQO682CJm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 20:17
+
+#### [Spring新闻汇总：Boot、Framework、Data、Security、Modulith、Batch的首个里程碑发布](https://www.infoq.cn/article/WG5UVlDS5e3K2iMTcUYj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-28 19:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
+**发布时间**: 2026-09-29 08:09
 
 ---
 

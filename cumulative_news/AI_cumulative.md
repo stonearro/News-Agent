@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-29 11:00
+**最后更新时间**: 2026-09-30 01:46
+
+---
+
+## 🆕 最新更新 (2026-09-30 01:46)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了](https://www.qbitai.com/2026/09/499246.html)
+**发布时间**: 2026-09-29 23:01
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/)
+**发布时间**: 2026-09-29 18:38
 
 ---
 

@@ -1299,150 +1299,6 @@
       }
     },
     "Technology": {
-      "03ed34e5cd8f112888e91cf6f150eb1496918875b27d806955c9e1f2e098ef36": {
-        "title": "AWS 发布 Aws-Bench，用于评估云任务中的智能代理",
-        "link": "https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 16:22:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375588"
-      },
-      "3cf6ff3928afbf8cfbc064037bb6cc1fc0c5ee5a55b22fe8dbff39492f3f4aba": {
-        "title": "机器人的下一站，或许是乐高化",
-        "link": "https://www.infoq.cn/article/UtCRvV8lbVcxda606JVq?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 15:18:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375655"
-      },
-      "181aa741dc8fd3ff5fe7980cec256d91c32b18a4e55c6c0c7e13d067207798d2": {
-        "title": "通过操作 DRAM 控制器寄存器可突破 CPU 内存隔离机制",
-        "link": "https://www.infoq.cn/article/G5CDMcK3tU0h71LzUlyo?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 15:00:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375604"
-      },
-      "00ff640d6334bdc60c2c26b3e94c59ac344ff29f2ebf8dbb5894000c84bd1a38": {
-        "title": "shadcn 通过新推出的聊天组件将对话基础组件引入了 shadcn/ui",
-        "link": "https://www.infoq.cn/article/TKOvaxoX6xF5yWHJ7dYg?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 13:17:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375667"
-      },
-      "2916970a31b0532edd17975d29091d57b42eb442753441ac8ee4f71fbcbb7e4f": {
-        "title": "从2999份作品出发：GOAI四大赛道的AI创新观察",
-        "link": "https://www.infoq.cn/article/fovhGGuNSwa7tG44WBFm?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 12:54:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375617"
-      },
-      "4623d6d44c0804bf4f47b04280ad4c010287f0e729bae426c8ce5cb247691863": {
-        "title": "Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相对滞后",
-        "link": "https://www.infoq.cn/article/Su2betkPUhxX0JTVazBi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 11:55:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375676"
-      },
-      "d36580d4713a551593daf3bbf0e01be431ba1dff09c62b6c5c002dbd0d1770ed": {
-        "title": "智元的“夺冠方法论”",
-        "link": "https://www.infoq.cn/article/Ql9rmriHMYtauB4R53Kw?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 10:26:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375686"
-      },
-      "721cf0afe2d3603562280b84542f4801bf8c22db4e6cded4ce728464fa8f8e70": {
-        "title": "AI液冷服务器急交付，卡点或在中国制造的一条焊缝里",
-        "link": "https://www.tmtpost.com/8124529.html",
-        "published_date": "Tue, 01 Sep 2026 16:13:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.830161"
-      },
-      "ea644811ef39a834b83e85e31ff2628971f7289f8ac761165f03250711aa8f15": {
-        "title": "百丽十二年数智化复盘：先把企业工程化，再让AI 读懂它丨2026 ITValue Summit 前瞻：AI系统落地系列直播③",
-        "link": "https://www.tmtpost.com/8123419.html",
-        "published_date": "Tue, 01 Sep 2026 15:14:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375631"
-      },
-      "6e02802e60337c22bd782c9049d0f42380d618c7470fa51c1a9e892c5278f6de": {
-        "title": "Jobber 的中国空位：当 Agent 遇上三人疏通队，社区 SaaS 的千亿缝隙",
-        "link": "https://www.tmtpost.com/8124281.html",
-        "published_date": "Tue, 01 Sep 2026 14:44:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.831493"
-      },
-      "e29e093e8282d3272cfe0a2a76556b606b727b181f423b0a769b12f5dce32a1e": {
-        "title": "用AI，谈一场身心俱疲的恋爱",
-        "link": "https://www.tmtpost.com/8124305.html",
-        "published_date": "Tue, 01 Sep 2026 14:44:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.831932"
-      },
-      "eb61293454dc80a15533da2cfefd0735b78a5355384b340dc6e587ee29abbc2e": {
-        "title": "瑞士生物科技企业Aukera Therapeutics研发针对RAPTOR蛋白的高选择性小分子抑制剂",
-        "link": "https://www.tmtpost.com/8124032.html",
-        "published_date": "Tue, 01 Sep 2026 14:33:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375512"
-      },
-      "f36af1925461e8747bdb2105b89e6878016eea6ff52a74c6ad718931ab72796c": {
-        "title": "具身江湖志（五）：离新闻头条最近的小脑派",
-        "link": "https://www.tmtpost.com/8124307.html",
-        "published_date": "Tue, 01 Sep 2026 14:33:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.833425"
-      },
-      "4d17fd4dbfcf7f06a7cc23fafc9834541ff2bf2f33b92b7337b19d08d682462f": {
-        "title": "具身江湖志（四）：它们，把机器人的大脑做实",
-        "link": "https://www.tmtpost.com/8124306.html",
-        "published_date": "Tue, 01 Sep 2026 14:33:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.834122"
-      },
-      "1e8912de3d0eb6ef2cd8de74f8225d97f6f336f73bbf035d409664e314820f91": {
-        "title": "特朗普宣布与梯瓦等9家公司达成药品定价协议",
-        "link": "https://www.tmtpost.com/8124389.html",
-        "published_date": "Tue, 01 Sep 2026 14:24:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.834550"
-      },
-      "f2983423a2f1061c68924fbac6c2ac951ba0fcb67452db8d9e43d9fbad1753ab": {
-        "title": "机器人的“通用”迷局，场景进入才是头道门槛",
-        "link": "https://www.tmtpost.com/8124272.html",
-        "published_date": "Tue, 01 Sep 2026 13:41:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.835175"
-      },
-      "eacc086e68c0f38afa00f9bd848a067bcebb7d3c6969b3a5d1b5c66db7ee2b08": {
-        "title": "三家上市公司的命，绑在了一盘“菜”上？",
-        "link": "https://www.tmtpost.com/8124081.html",
-        "published_date": "Tue, 01 Sep 2026 12:42:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.835916"
-      },
-      "778a8a5598fad3a71c82f7380d5cd598f1549a1e9c248cb7342fae86bfd316b0": {
-        "title": "机场大屏上的AI云暗战：新云，正迎来它的时代",
-        "link": "https://www.tmtpost.com/8119048.html",
-        "published_date": "Tue, 01 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.836703"
-      },
-      "841381b084608313ea6f0db0fa895d7cb0b73d4b900c8a03d40e266d938553fa": {
-        "title": "独家｜扩散语言模型杀进端侧：Agent跑快5倍，GPT的“下一代替代者”出现了？",
-        "link": "https://www.tmtpost.com/8124156.html",
-        "published_date": "Tue, 01 Sep 2026 12:34:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.837945"
-      },
-      "536d4bc20e0a3bc6a7a4ceed969b4cf69cf668f9ceba4ef32d82c2445cc5d408": {
-        "title": "楼花时代的终结",
-        "link": "https://www.tmtpost.com/8124096.html",
-        "published_date": "Tue, 01 Sep 2026 12:30:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.838437"
-      },
-      "dbe4cb09d9ba1368b994e8d4b93e0455cd77f570e0edeed32c375f6386a4a749": {
-        "title": "再次卖爆的维密，正在抛弃自己",
-        "link": "https://www.tmtpost.com/8124102.html",
-        "published_date": "Tue, 01 Sep 2026 12:26:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.839135"
-      },
-      "1a2a5d9522b907ee6dfb545b805fd5103ebf9ed5e4e8757f6ac02bc6fd746bdd": {
-        "title": "全球酒店巨头杀入，1500亿疗愈酒店为何难撕“割韭菜”标签？",
-        "link": "https://www.tmtpost.com/8124104.html",
-        "published_date": "Tue, 01 Sep 2026 12:22:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.840135"
-      },
-      "2a2eb06316a78a34300f62e5fb9d958c25556b846f04c2052eb3329b15435504": {
-        "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-        "link": "https://sspai.com/post/114071",
-        "published_date": "Tue, 01 Sep 2026 15:18:00 GMT",
-        "first_seen": "2026-09-01T09:44:19.375645"
-      },
-      "5b56b70adc33c8d088c8b8a2d6289eb7bc3619508051a92520d223e208bfe261": {
-        "title": "开学季｜值得关注的官翻渠道汇总（2026）",
-        "link": "https://sspai.com/post/114062",
-        "published_date": "Tue, 01 Sep 2026 15:00:00 GMT",
-        "first_seen": "2026-09-01T09:44:09.842542"
-      },
       "23436d654f60cba1a0a3341843d555bbbc08278d0abff1c62d0a4d34dd8ec081": {
         "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
         "link": "http://www.geekpark.net/news/369690",
@@ -10010,13 +9866,121 @@
         "link": "https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 30 Sep 2026 19:39:00 GMT",
         "first_seen": "2026-10-01T01:46:25.830140"
+      },
+      "d0f32fcc0f1de807b134a121c75f64ad6e9a14c18c0034bcdb3e357403d4a9f4": {
+        "title": "三大主业同时失速，《欢迎来龙餐馆》票房爆火能救中国儒意吗？",
+        "link": "https://www.tmtpost.com/8157613.html",
+        "published_date": "Thu, 01 Oct 2026 18:22:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257895"
+      },
+      "d7e17c8256421ec0ad6064a88700e7f2f7eec9b2071f57da5243597b7f7c67de": {
+        "title": "阶跃星辰“第一梯队”，是“自嗨”吗？",
+        "link": "https://www.tmtpost.com/8157775.html",
+        "published_date": "Thu, 01 Oct 2026 18:22:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257905"
+      },
+      "dda045290e50c8ef570ab6d0a6b4db1d9ec5232df2eb402a7fb5db00cd121db9": {
+        "title": "不在一起，造好车",
+        "link": "https://www.tmtpost.com/8157271.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.878694"
+      },
+      "fd77761b73251696184b50d595a8b6cc51478c04d6cc27d96719ecbacb844708": {
+        "title": "宠物进餐厅的账，还没有算清",
+        "link": "https://www.tmtpost.com/8157211.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257914"
+      },
+      "51be0e703bd786a31b6e191bcfd6872aff56b8615f25563d5d4ca525f03b6430": {
+        "title": "悬在Muse头上的剑",
+        "link": "https://www.tmtpost.com/8157000.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257922"
+      },
+      "9537113bc30802dd29826ccf5a4e6ade830827403227031fe5dbe9f2be8b38b1": {
+        "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
+        "link": "https://www.tmtpost.com/8157785.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257932"
+      },
+      "4263514fb7f4a797da2f9f4e9b4eb7d85db028a2dfdd66bcefb697f14efb7d88": {
+        "title": "陈思诚、小沈阳、小猪佩奇，谁能撑起国庆档？",
+        "link": "https://www.tmtpost.com/8157788.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257942"
+      },
+      "cabd873def599fdf36404acdc724a8ff0cb401d04878924a353f524451f4c500": {
+        "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+        "link": "https://www.tmtpost.com/8157828.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.879848"
+      },
+      "168f02a22b6f0cb5af259113fb154c933a91c3c6e6dbe2bc40836de9083ee945": {
+        "title": "传音手机利润腰斩，储能营收却两年暴涨825%，非洲手机之王转战储能，靠渠道能跑赢技术壁垒吗？",
+        "link": "https://www.tmtpost.com/8157851.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257832"
+      },
+      "a0911bd226b9ad3d0db087b09cdd941e7d45d66f2c46203593fd17914641bfbf": {
+        "title": "48天签约又解约，7亿的合同有8亿风险，晨丰科技选择不玩了",
+        "link": "https://www.tmtpost.com/8157846.html",
+        "published_date": "Thu, 01 Oct 2026 16:05:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257859"
+      },
+      "a69d2a5ff6616b30bafac6f56b902a0b36aa165b4fca657e4e50807045fbfada": {
+        "title": "江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节",
+        "link": "https://www.tmtpost.com/8157844.html",
+        "published_date": "Thu, 01 Oct 2026 16:05:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.881437"
+      },
+      "82c73cb6369eeac7b8c3279d7cbac4ce02849b285f7728e99132e7ce7cefe6b5": {
+        "title": "豪掷82亿美元，芯片巨头押注的世界模型究竟是什么",
+        "link": "https://www.tmtpost.com/8157833.html",
+        "published_date": "Thu, 01 Oct 2026 16:04:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257869"
+      },
+      "e58b7c2bbe7834faf608ddb386298389c109258c4b355cc4417744f1449ce62b": {
+        "title": "BBNJ协定生效后，公海保护如何走出纸面？",
+        "link": "https://www.tmtpost.com/8157862.html",
+        "published_date": "Thu, 01 Oct 2026 14:08:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.882283"
+      },
+      "9a673f9eedaf8338ed438903d45d2d18aeca69ba41b554f760afb352bbd57c66": {
+        "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+        "link": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Oct 2026 14:00:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.883075"
+      },
+      "c612dd23e6698d5019a984a00002d61bb0f0366f7bb1fb16e2fb180fff7d2fc7": {
+        "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+        "link": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Oct 2026 11:00:00 GMT",
+        "first_seen": "2026-10-01T11:19:47.257884"
+      },
+      "c8d60b5f2f835e1776a530c62f188dfa5f16e5ba3094862e9789aabe44b89e28": {
+        "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
+        "link": "https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.885089"
+      },
+      "bafc5e17775a00e8aeb1e4f3b3385c5252bc8ade895c1708b8d53a52f5da7f41": {
+        "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.886050"
+      },
+      "648fccf0bd01bae4cfc2762c9c92c07c8b4ef7ca4173c6e0a125450a672efcb7": {
+        "title": "从数据到智能，再到进化：Agent正在重写AI基础设施",
+        "link": "http://www.geekpark.net/news/372065",
+        "published_date": "Thu, 01 Oct 2026 11:21:00 GMT",
+        "first_seen": "2026-10-01T11:19:37.886810"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-10-01T01:46:35.316678",
-    "Technology": "2026-10-01T01:46:35.182164",
-    "Finance": "2026-10-01T01:46:35.201608"
+    "AI": "2026-10-01T11:19:47.430763",
+    "Technology": "2026-10-01T11:19:47.306103",
+    "Finance": "2026-10-01T11:19:47.324430"
   }
 }

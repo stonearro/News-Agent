@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Oct 2026 01:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 01:56:20 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 10:49:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:52:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>何恺明团队新作：看猫片就能学会ARC挑战</title>
-      <link>https://www.qbitai.com/2026/10/499812.html</link>
-      <description>&lt;![CDATA[何恺明团队新作：看猫片就能学会ARC挑战]]&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 15:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499812.html</guid>
+      <title>openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗</title>
+      <link>https://www.qbitai.com/2026/10/500098.html</link>
+      <description>&lt;![CDATA[openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/500098.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让</title>
-      <link>https://www.qbitai.com/2026/10/499663.html</link>
-      <description>&lt;![CDATA[谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让]]&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499663.html</guid>
+      <title>丘成桐新论文致谢了GPT和Claude</title>
+      <link>https://www.qbitai.com/2026/10/499991.html</link>
+      <description>&lt;![CDATA[丘成桐新论文致谢了GPT和Claude]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499991.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>arXiv最严新规！每人每月最多提交2篇，拒稿不退额度</title>
+      <link>https://www.qbitai.com/2026/10/499958.html</link>
+      <description>&lt;![CDATA[arXiv最严新规！每人每月最多提交2篇，拒稿不退额度]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 06:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499958.html</guid>
       <category>AI</category>
     </item>
   </channel>

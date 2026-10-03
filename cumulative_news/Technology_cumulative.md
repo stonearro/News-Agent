@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-03 01:37
+**最后更新时间**: 2026-10-03 10:11
+
+---
+
+## 🆕 最新更新 (2026-10-03 10:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI正在造AI](https://www.tmtpost.com/8158706.html)
+**发布时间**: 2026-10-03 17:33
+
+#### [华尔街量化新王：人均年薪1800万，豪掷18.3亿香港租楼](https://www.tmtpost.com/8158693.html)
+**发布时间**: 2026-10-03 17:33
+
+#### [国庆出游用AI，第一批人已经被坑惨了](https://www.tmtpost.com/8158647.html)
+**发布时间**: 2026-10-03 15:19
+
+#### [国庆开电车，车主们集体兼职“调度员”](https://www.tmtpost.com/8158629.html)
+**发布时间**: 2026-10-03 13:47
+
+#### [苏姿丰抬头，李飞飞低头](https://www.tmtpost.com/8158564.html)
+**发布时间**: 2026-10-03 09:42
+
+#### [大模型一体机，开始缩水了](https://www.tmtpost.com/8158443.html)
+**发布时间**: 2026-10-03 09:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
+**发布时间**: 2026-10-03 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海](https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-03 10:00
 
 ---
 

@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "87ca4e42bbbb748c83df85360b049cf49008bce16e97d5af94b7fbd841db8fc8": {
-        "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-        "link": "https://www.qbitai.com/2026/09/483274.html",
-        "published_date": "Wed, 02 Sep 2026 09:22:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.504578"
-      },
       "42495d2a452a0272c8c0eaa9a4df5e8c1aba7d22dd9178c1bd63f082a587c535": {
         "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
         "link": "https://www.qbitai.com/2026/09/483565.html",
@@ -1266,135 +1260,15 @@
         "link": "https://www.qbitai.com/2026/10/499958.html",
         "published_date": "Fri, 02 Oct 2026 06:46:00 GMT",
         "first_seen": "2026-10-02T10:52:06.350323"
+      },
+      "675b66bdb2d212db8bb293f7911ffe6069118494264e88d2501ad154aac93402": {
+        "title": "Toward provably private learning from federated data",
+        "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+        "published_date": "Fri, 02 Oct 2026 14:57:00 GMT",
+        "first_seen": "2026-10-03T01:37:32.961211"
       }
     },
     "Technology": {
-      "061e7e76ff8a788a525778edbdf75ecc6cf4a6aa53092817ef688395492c46a1": {
-        "title": "存力接棒算力：AI智能体把存储推上主战场",
-        "link": "https://www.tmtpost.com/8123421.html",
-        "published_date": "Thu, 03 Sep 2026 08:29:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402094"
-      },
-      "0a4e09043d4bc6cc9d66c0f2d2d5fb8fe07d3ce98565c58ee84c4fbac3b21a2d": {
-        "title": "Edge AI Daily 早报（9月3日）",
-        "link": "https://www.tmtpost.com/8126450.html",
-        "published_date": "Thu, 03 Sep 2026 08:13:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402101"
-      },
-      "13f56be580c5fce00e5d5a22919ec49d919f1e0cc970b5f74fa1cc8694abb970": {
-        "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
-        "link": "https://www.tmtpost.com/8126299.html",
-        "published_date": "Thu, 03 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402110"
-      },
-      "c16119211e0bc487e017dc406f319215f20ec60b7e67c35d9e98084b4b789f93": {
-        "title": "渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报",
-        "link": "https://www.tmtpost.com/8125053.html",
-        "published_date": "Wed, 02 Sep 2026 21:49:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402118"
-      },
-      "f869b3b2c76d67417ef7d466227492cdc6c545db06ac441b6234e86c07d06d19": {
-        "title": "China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”",
-        "link": "https://www.tmtpost.com/8126318.html",
-        "published_date": "Wed, 02 Sep 2026 21:37:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402127"
-      },
-      "b582be63a3461b25d7e1435a69aa8f5bc4185c7443aea4c8c1191bb0f828ba05": {
-        "title": "AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察",
-        "link": "https://www.tmtpost.com/8124464.html",
-        "published_date": "Wed, 02 Sep 2026 21:34:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402049"
-      },
-      "636c2a220762678086cb0afe1e32546df89672f9d20732bf86784e7f84cef0f3": {
-        "title": "Humanoid Robots Still Can’t Prop up Geek+",
-        "link": "https://www.tmtpost.com/8126302.html",
-        "published_date": "Wed, 02 Sep 2026 21:31:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402135"
-      },
-      "a909fe3cbf8bc0b245fdce5b02c42a01034fcb4d9be499ff64149c140a297925": {
-        "title": "库克和特努斯谁更难？",
-        "link": "https://www.tmtpost.com/8124886.html",
-        "published_date": "Wed, 02 Sep 2026 18:55:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402141"
-      },
-      "a81a0f471c746ae55414eaac706e0cc75e71665ad0c369d06a56f2a85fa01b38": {
-        "title": "Claude Desktop 被 Ollama 偷梁换柱",
-        "link": "https://www.tmtpost.com/8125118.html",
-        "published_date": "Wed, 02 Sep 2026 18:54:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.904518"
-      },
-      "c17ea226027acac4d1441826fea79d448c81a052418648b969fc857ad12ab924": {
-        "title": "库克最后一天，和他的苹果15年",
-        "link": "https://www.tmtpost.com/8125977.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.904778"
-      },
-      "5a0ca279cc89d69904292bcf92e8979470fa4f0d9cea1662cbd45bc478decc87": {
-        "title": "苹果新任CEO特努斯的四张考卷",
-        "link": "https://www.tmtpost.com/8125937.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.905021"
-      },
-      "2fff80a0b52c0850b673ec4ee28c9a34761ec19a053f0108d8ac6844a72e9caa": {
-        "title": "大A正从互联网大厂偷偷挖公关",
-        "link": "https://www.tmtpost.com/8125931.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.905250"
-      },
-      "6a75c8d82ed1cca65fa5ffab13678b4185d97b960c8cb6ce262bf0d6408a286b": {
-        "title": "Keep的AI棋局",
-        "link": "https://www.tmtpost.com/8125756.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.905539"
-      },
-      "a0d8c2e9d61643f022a1ddc161f2451bd77871f6edeacb8b3facdccfa7f7ce07": {
-        "title": "AI公司请达人说好话，得加钱了",
-        "link": "https://www.tmtpost.com/8125729.html",
-        "published_date": "Wed, 02 Sep 2026 17:58:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.905867"
-      },
-      "eafadcc6bcce7f97eb8bcb8964d70cafac66e0232f31966121a634583a2c09fb": {
-        "title": "Claude Fable 5.1发布：跑分翻倍是面子，思考块\"上锁\"才是里子",
-        "link": "https://www.tmtpost.com/8125528.html",
-        "published_date": "Wed, 02 Sep 2026 17:58:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402074"
-      },
-      "40b152135b22682b28dad1c08605a16f5820922c5acae19459ba62e0e43386f6": {
-        "title": "制造业有了本体，大模型就能落地吗 | 智造观察",
-        "link": "https://www.tmtpost.com/8125160.html",
-        "published_date": "Wed, 02 Sep 2026 17:52:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.907013"
-      },
-      "e1c776aa06f323ab9aff9674a73c8f4b764c8ecc8dab4aa9ec3c9e9ddcddbdac": {
-        "title": "AI公司终于赚钱了，商汤做对了什么？",
-        "link": "https://www.tmtpost.com/8125570.html",
-        "published_date": "Wed, 02 Sep 2026 17:45:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.907426"
-      },
-      "71e4f2c4ebc24a8f1d789e9f56f09010072d2956d7d636aad96a0ec567682e93": {
-        "title": "马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道",
-        "link": "http://www.geekpark.net/news/369745",
-        "published_date": "Thu, 03 Sep 2026 08:03:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.908659"
-      },
-      "add807198aeb3396f19786ab92d77d29f1b7f96edeb5606728acf238d9daf06d": {
-        "title": "Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器",
-        "link": "https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 02 Sep 2026 23:44:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.909818"
-      },
-      "aabe8440b9fac5e02eb707c63cf5f01d596d8fdc2c00baa74015b0a5cd2cae41": {
-        "title": "当 AI 开始重写负载，数据库该如何重新设计？",
-        "link": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 02 Sep 2026 18:07:00 GMT",
-        "first_seen": "2026-09-03T00:55:48.910493"
-      },
-      "70ddebffd1e21a7d691e1e66f8f10042aca9b81bd77ec41b7bae6494566a50ca": {
-        "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
-        "link": "https://sspai.com/post/114084",
-        "published_date": "Wed, 02 Sep 2026 17:40:00 GMT",
-        "first_seen": "2026-09-03T00:55:58.402086"
-      },
       "faf29044f8b6fd8def5ec7fb02978c701e44fdcbeb366af43253fc227e40110c": {
         "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
         "link": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article",
@@ -9698,13 +9572,25 @@
         "link": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 02 Oct 2026 10:00:00 GMT",
         "first_seen": "2026-10-02T10:51:56.766910"
+      },
+      "7b28707859ae16823663b8c82db8194fe01cfdeead7b4bea561339deebd406aa": {
+        "title": "Edge AI Daily 早报（10月3日）",
+        "link": "https://www.tmtpost.com/8158562.html",
+        "published_date": "Sat, 03 Oct 2026 09:30:00 GMT",
+        "first_seen": "2026-10-03T01:37:32.824973"
+      },
+      "bca7220203f5f51e24443349cb772e4040e4b4598a32475205e856bda101369e": {
+        "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
+        "link": "http://www.geekpark.net/news/372070",
+        "published_date": "Sat, 03 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-03T01:37:32.825200"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-10-02T10:52:06.357612",
-    "Technology": "2026-10-02T10:52:06.223594",
-    "Finance": "2026-10-02T10:52:06.243368"
+    "AI": "2026-10-03T01:37:32.967157",
+    "Technology": "2026-10-03T01:37:32.849532",
+    "Finance": "2026-10-03T01:37:32.865153"
   }
 }

@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-05 11:58
+**最后更新时间**: 2026-10-06 02:37
+
+---
+
+## 🆕 最新更新 (2026-10-06 02:37)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)
+**发布时间**: 2026-10-05 21:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，诺贝尔奖颁给光遗传学！](https://www.qbitai.com/2026/10/501720.html)
+**发布时间**: 2026-10-05 10:37
 
 ---
 

@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-07 01:57
+**最后更新时间**: 2026-10-07 11:29
+
+---
+
+## 🆕 最新更新 (2026-10-07 11:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [可灵上市，快手如何自洽](https://www.tmtpost.com/8160242.html)
+**发布时间**: 2026-10-07 17:42
+
+#### [谁在捧杀Utopai X？](https://www.tmtpost.com/8160338.html)
+**发布时间**: 2026-10-07 17:42
+
+#### [溢价400%、一秒抢光，中国玩家全球“扫货”，带火一门套利生意](https://www.tmtpost.com/8160286.html)
+**发布时间**: 2026-10-07 16:08
+
+#### [为什么每个APP都想追着借钱给你？](https://www.tmtpost.com/8160287.html)
+**发布时间**: 2026-10-07 16:08
+
+#### [6万元起家，韩国游客疯狂打卡，上海“排队王”冲刺IPO？](https://www.tmtpost.com/8160302.html)
+**发布时间**: 2026-10-07 16:08
+
+#### [这届商家，为什么总要消费者补修阅读理解？](https://www.tmtpost.com/8160195.html)
+**发布时间**: 2026-10-07 15:12
+
+#### [黑莓键盘机又火了？昔日 830 亿美元机皇，如今靠卖系统“翻红”](https://www.tmtpost.com/8154176.html)
+**发布时间**: 2026-10-07 15:12
+
+#### [半年净利暴增96%，重回中国台湾首富宝座，郭台铭靠AI赚翻了](https://www.tmtpost.com/8148632.html)
+**发布时间**: 2026-10-07 12:36
+
+#### [储量全球第一，中国钨产量为何还在下降？](https://www.tmtpost.com/8152246.html)
+**发布时间**: 2026-10-07 12:36
+
+#### [网球机器人火了，但好生意要从“有效付费小时”算起](https://www.tmtpost.com/8160190.html)
+**发布时间**: 2026-10-07 12:35
+
+#### [Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？](https://www.tmtpost.com/8160182.html)
+**发布时间**: 2026-10-07 12:35
+
+#### [OpenRouter，美版硅基流动的流水单  ——三张榜，一个正在贬值的信用](https://www.tmtpost.com/8160102.html)
+**发布时间**: 2026-10-07 12:35
+
+#### [分拆带来的市场疑虑消散后，科迪华股价有望上涨50%](https://www.tmtpost.com/8160200.html)
+**发布时间**: 2026-10-07 12:25
+
+#### [好产品也会丢单，Palantir 旧访谈翻红：企业级 AI 订单，拼的不只是模型](https://www.tmtpost.com/8160164.html)
+**发布时间**: 2026-10-07 10:54
+
+#### [明起停牌！拉卡拉筹划收购高富信息控股权](https://www.tmtpost.com/8160368.html)
+**发布时间**: 2026-10-07 05:34
+
+#### [中国央行再出手，连续23个月增持黄金](https://www.tmtpost.com/8160371.html)
+**发布时间**: 2026-10-07 05:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整](https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-07 16:00
+
+#### [MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用](https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-07 10:00
+
+#### [用 Harness 工程打造 SRE 可控的生产环境｜QCon上海](https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-07 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
+**发布时间**: 2026-10-07 11:00
 
 ---
 

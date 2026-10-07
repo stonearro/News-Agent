@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-06 11:37
+**最后更新时间**: 2026-10-07 01:55
+
+---
+
+## 🆕 最新更新 (2026-10-07 01:55)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/)
+**发布时间**: 2026-10-06 15:05
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，诺贝尔物理奖一人独揽！](https://www.qbitai.com/2026/10/501746.html)
+**发布时间**: 2026-10-06 10:44
 
 ---
 

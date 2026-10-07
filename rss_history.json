@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "7337387752bb362119f6e676a549256f2a4e53feb10590bcd97f740724be0316": {
-        "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-        "link": "https://www.qbitai.com/2026/09/484897.html",
-        "published_date": "Sun, 06 Sep 2026 11:44:00 GMT",
-        "first_seen": "2026-09-07T00:36:13.435382"
-      },
       "573f5e9db029bbea95e446e3f74a96a3701b6c25f052d07fd939e1096c521c3a": {
         "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
         "link": "https://www.qbitai.com/2026/09/485064.html",
@@ -1182,39 +1176,15 @@
         "link": "https://www.qbitai.com/2026/10/501726.html",
         "published_date": "Tue, 06 Oct 2026 06:45:00 GMT",
         "first_seen": "2026-10-06T11:40:23.886664"
+      },
+      "84cc91699ae2fac84e93bd61677ce5bb1b08938ce6c2c257678f6e1dff3ef5ed": {
+        "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+        "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+        "published_date": "Tue, 06 Oct 2026 15:05:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.732817"
       }
     },
     "Technology": {
-      "0bdd61c35312d8a9cc33b12a76d7cbc0b097837a93f3ca1e56991f05c1487550": {
-        "title": "8000万养宠人，见证“它经济”从狂热到崩塌",
-        "link": "https://www.tmtpost.com/8130247.html",
-        "published_date": "Mon, 07 Sep 2026 08:20:00 GMT",
-        "first_seen": "2026-09-07T00:36:13.281042"
-      },
-      "20bc9cfd6eca4bb8c9f653f3d24df664734ef1db230d90e63176baae63fcdbec": {
-        "title": "Edge AI Daily 早报（9月7日）",
-        "link": "https://www.tmtpost.com/8130271.html",
-        "published_date": "Mon, 07 Sep 2026 08:02:00 GMT",
-        "first_seen": "2026-09-07T00:36:13.281215"
-      },
-      "b69341d90656b7c44f45e6b5161a6964d2bc24a816f55cb5b4485990b14682ff": {
-        "title": "【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”",
-        "link": "https://www.tmtpost.com/8130184.html",
-        "published_date": "Mon, 07 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-07T00:36:13.281467"
-      },
-      "faf80271a283534914f6b4f108ca99f35889b07188eabdfe635f96ff4b9d0835": {
-        "title": "Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区",
-        "link": "https://www.tmtpost.com/8130213.html",
-        "published_date": "Sun, 06 Sep 2026 20:46:00 GMT",
-        "first_seen": "2026-09-07T00:36:13.281677"
-      },
-      "1130559b807c51a98467201baf09d03b0b3db81721a9d10d0745b2d057709388": {
-        "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
-        "link": "https://www.tmtpost.com/8129869.html",
-        "published_date": "Sun, 06 Sep 2026 18:50:00 GMT",
-        "first_seen": "2026-09-07T00:36:13.281969"
-      },
       "748122f6ad7ba42a9aeee8c605bb3abcda497515873941c43cc49ba93249a576": {
         "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争",
         "link": "https://www.tmtpost.com/8131169.html",
@@ -8876,13 +8846,49 @@
         "link": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 06 Oct 2026 15:00:00 GMT",
         "first_seen": "2026-10-06T11:40:23.734797"
+      },
+      "16c48109d45a47f81f444d6297fc49af413a8b2fbd4f39c76f7dc89af2c9fee5": {
+        "title": "全球市值最大股表现落后，若英伟达启动上涨，科技股与大盘或将跟随",
+        "link": "https://www.tmtpost.com/8160143.html",
+        "published_date": "Wed, 07 Oct 2026 09:31:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.656855"
+      },
+      "c0495f893e5d5c35dae4101dd79f190d6c96c013bc639b6729cfd7acb5585017": {
+        "title": "三只可能从现代战争中受益的国防类股票",
+        "link": "https://www.tmtpost.com/8160134.html",
+        "published_date": "Wed, 07 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.656990"
+      },
+      "98b13634b08fad22ddcc94cd76c6031d172369eabac1447ceec68d74c8f377bd": {
+        "title": "默沙东重注背后：G12D凭什么成为下一个爆款靶点？",
+        "link": "https://www.tmtpost.com/8160057.html",
+        "published_date": "Wed, 07 Oct 2026 08:56:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.657069"
+      },
+      "5a95061f8120594b3ac2576d6d7a53af6f2ee6bd51c9bd1934adc02e46675c84": {
+        "title": "Edge AI Daily 早报（10月7日）",
+        "link": "https://www.tmtpost.com/8160096.html",
+        "published_date": "Wed, 07 Oct 2026 08:48:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.657159"
+      },
+      "ab1d08d85cdf17e049c22957fb93c24aa56a1bc32726fdc20e1d464481e98bc8": {
+        "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+        "link": "https://www.tmtpost.com/8159961.html",
+        "published_date": "Tue, 06 Oct 2026 21:10:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.657322"
+      },
+      "ee4371af699447e5988ad334489bdb2805cd01fefa196ce5549bb81a20d8f22a": {
+        "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+        "link": "http://www.geekpark.net/news/372089",
+        "published_date": "Wed, 07 Oct 2026 08:39:00 GMT",
+        "first_seen": "2026-10-07T01:57:50.657626"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-10-06T11:40:23.893805",
-    "Technology": "2026-10-06T11:40:23.753751",
-    "Finance": "2026-10-06T11:40:23.773756"
+    "AI": "2026-10-07T01:57:50.736910",
+    "Technology": "2026-10-07T01:57:50.667500",
+    "Finance": "2026-10-07T01:57:50.677303"
   }
 }

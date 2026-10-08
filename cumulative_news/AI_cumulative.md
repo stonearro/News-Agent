@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-07 11:27
+**最后更新时间**: 2026-10-08 02:23
+
+---
+
+## 🆕 最新更新 (2026-10-08 02:23)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-6今起免费用！拒答变少，话变多了](https://www.qbitai.com/2026/10/501834.html)
+**发布时间**: 2026-10-08 01:07
+
+#### [Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊](https://www.qbitai.com/2026/10/501832.html)
+**发布时间**: 2026-10-08 01:04
+
+#### [迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦](https://www.qbitai.com/2026/10/501825.html)
+**发布时间**: 2026-10-07 14:10
+
+#### [《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！](https://www.qbitai.com/2026/10/501803.html)
+**发布时间**: 2026-10-07 11:34
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)
+**发布时间**: 2026-10-07 20:19
 
 ---
 

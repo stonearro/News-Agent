@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "15c9b57534dd2f7dea4df39a2f58a76d385e1d3e66040c47bc4b78d146db04e8": {
-        "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-        "link": "https://www.qbitai.com/2026/09/487688.html",
-        "published_date": "Sat, 12 Sep 2026 05:58:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.209860"
-      },
-      "70b57f391b5b520aef3c77e72910c0b213da680ef8052c54b4f7698d0178c190": {
-        "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-        "link": "https://www.qbitai.com/2026/09/487653.html",
-        "published_date": "Sat, 12 Sep 2026 04:53:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.209988"
-      },
       "3f846420a2f91083fd118d3e2a079f1f0c009e405d04d4022531c59e3004ae70": {
         "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
         "link": "https://www.qbitai.com/2026/09/487860.html",
@@ -1182,129 +1170,21 @@
         "link": "https://www.qbitai.com/2026/10/502544.html",
         "published_date": "Sun, 11 Oct 2026 03:27:00 GMT",
         "first_seen": "2026-10-11T11:10:58.548057"
+      },
+      "2cc04697a044a224da7152749e20140e3054569a57bf4a39e8c9788c0ebc708c": {
+        "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+        "link": "https://www.qbitai.com/2026/10/502654.html",
+        "published_date": "Mon, 12 Oct 2026 05:48:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.379705"
+      },
+      "559963039d69471852ce535d5ede089a1bac930115e9e7479aff7dd30a675be3": {
+        "title": "智谱新模型，490 tokens/s！",
+        "link": "https://www.qbitai.com/2026/10/502649.html",
+        "published_date": "Mon, 12 Oct 2026 02:37:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.379829"
       }
     },
     "Technology": {
-      "d649d65b4bfc157a2b85cc44e63884f0b987638681cbbec72b20bfdcda17bff3": {
-        "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
-        "link": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 16:06:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080829"
-      },
-      "45323d83ae9ec5bd73290a6777c2b3d46efd7fed28a108f3087bf661b197e92f": {
-        "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
-        "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:19:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080862"
-      },
-      "95e75a48384c62207c20af44c12cd06dc43c1e6009346af630a9228d896d2587": {
-        "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-        "link": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:13:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080877"
-      },
-      "f90bebc29a23cacb70e423baea9a09ad491751316d2e1bc151e20e0a89daf5cf": {
-        "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-        "link": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:08:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080888"
-      },
-      "8577dd1bc1505ce4aea0ca5c86289ac48ee0cb315d32a52c76e84411f2f5f388": {
-        "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
-        "link": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080897"
-      },
-      "13589227dd5e35748f7e3c345fc38a913488bdf26a5adfc62e0d4d10469dd1cc": {
-        "title": "Neovim 加入 vim.async：告别回调地狱",
-        "link": "https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080907"
-      },
-      "1e5f4298092a3eb697c1c50ce5891fb0d516e9004fdb1acf61927c3fdc0b72dc": {
-        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-        "link": "https://sspai.com/post/114461",
-        "published_date": "Sat, 12 Sep 2026 15:00:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080916"
-      },
-      "0831bab95d5195020619c52874ddac72afee6f9e3d937cbb2cfab782bfc292df": {
-        "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
-        "link": "https://www.tmtpost.com/8137561.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080926"
-      },
-      "a685dee4142268ab280c78ed8f043a79a1782054c83f9d0b0fc1f74031bd2d80": {
-        "title": "中国人寿利润暴涨背后的业绩AB面",
-        "link": "https://www.tmtpost.com/8137602.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080933"
-      },
-      "62639d3bc2bc3a865242f9747742adad560c5cf5db9e0c0884f04953d71efd71": {
-        "title": "种草，开始被清算",
-        "link": "https://www.tmtpost.com/8137652.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.664095"
-      },
-      "166fe0002bd74ba907f42297dbdbac82a2f06d56b968957df511dd304a642d93": {
-        "title": "i人特努斯，会手抖的苹果CEO",
-        "link": "https://www.tmtpost.com/8137758.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:00:08.080941"
-      },
-      "2186ef5df93f25ede33275116d9774953e2d4f590300e9885b63b24f49dd80ff": {
-        "title": "素人 IP 批量走红：热度易得，变现很难",
-        "link": "https://www.tmtpost.com/8137813.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.665026"
-      },
-      "2d5d2c72d72ed3410cd49298c412d0587a1ef9e873421f9c8ae4e1aa1c63f52a": {
-        "title": "AI新经济已来，不是轰然一响，而是悄然一新",
-        "link": "https://www.tmtpost.com/8137661.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.665549"
-      },
-      "b2b1fdad3f9164531ee89b44acac7169fac99cbb2c6b10b68c7a538d7d34f5ae": {
-        "title": "海底捞27.5亿港元减持背后，是家族信托的税务压力",
-        "link": "https://www.tmtpost.com/8137293.html",
-        "published_date": "Sat, 12 Sep 2026 11:35:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.666125"
-      },
-      "089976b509c5e0188989723fd031d3a61f3d9e4eff5f27203bb2bb7b5d6d9e8b": {
-        "title": "蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血",
-        "link": "https://www.tmtpost.com/8137230.html",
-        "published_date": "Sat, 12 Sep 2026 10:43:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.666841"
-      },
-      "0f0b34868391dbfac96deea52ead4494c93adddf75fbd081bf1bb66cfe6e446c": {
-        "title": "智谱和MiniMax，进入“低价增长”时代",
-        "link": "https://www.tmtpost.com/8137263.html",
-        "published_date": "Sat, 12 Sep 2026 10:42:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.667527"
-      },
-      "cecf57bfd573ab198631bc07683cff71fecb9ef2b4041ebce992ba74500b34ee": {
-        "title": "OpenAI把Codex“拆开卖了”",
-        "link": "https://www.tmtpost.com/8137691.html",
-        "published_date": "Sat, 12 Sep 2026 10:42:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.668128"
-      },
-      "aeb35689f65039d042b66cb3ae4f865df152cb0dec897f47ec6f74675f7eead5": {
-        "title": "MiniMax寻路AGI",
-        "link": "https://www.tmtpost.com/8137218.html",
-        "published_date": "Sat, 12 Sep 2026 10:02:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.668585"
-      },
-      "92cc7e7ef2e4966bd371999be95651bc464487bfcdd17e36ff38e5d9deba762b": {
-        "title": "AI正在批量制造海景房",
-        "link": "https://www.tmtpost.com/8137190.html",
-        "published_date": "Sat, 12 Sep 2026 10:02:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.669031"
-      },
-      "024beeb5a57ca856970e5049176593496e7928e6a57293afb0720ce8a5fab633": {
-        "title": "2万字对话陈大年：冲在投资和产业的第一线，想让每个人都有自己的AI",
-        "link": "https://www.tmtpost.com/8137660.html",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T08:59:58.669946"
-      },
       "c4fa1163400af8e2e23e318177a110a64f7278938350a97308188dba1a334d87": {
         "title": "Edge AI Daily 早报（9月13日）",
         "link": "https://www.tmtpost.com/8138092.html",
@@ -8516,13 +8396,169 @@
         "link": "https://sspai.com/post/115845",
         "published_date": "Mon, 12 Oct 2026 06:34:00 GMT",
         "first_seen": "2026-10-12T02:00:01.092290"
+      },
+      "5d574d2306159db6331910394a52490f9594b7806ceec45ac0ab65d07a77066a": {
+        "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
+        "link": "http://www.geekpark.net/news/372263",
+        "published_date": "Mon, 12 Oct 2026 20:15:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235348"
+      },
+      "099ac33ea9ce9519b11ed2fdac3ae9ce8668d9ec1a9aab42b404cf8758599fb8": {
+        "title": "AI 办公大战，盯上了企业的人力预算",
+        "link": "https://www.tmtpost.com/8165026.html",
+        "published_date": "Mon, 12 Oct 2026 17:45:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235362"
+      },
+      "5ac2fbe49055627e484074c2ba05389ec0f4e3d11571e2b2ba1e696e6dc190a3": {
+        "title": "东百集团拟3.16亿控股快灵光电，业绩承诺集中看2029",
+        "link": "https://www.tmtpost.com/8165286.html",
+        "published_date": "Mon, 12 Oct 2026 17:43:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235374"
+      },
+      "c2f3c0fecef19ed33d20725031b9a047631325279bc8c1964051f3fd25380384": {
+        "title": "李小龙的功夫哲学，藏着长三角的经济密码",
+        "link": "https://www.tmtpost.com/8165049.html",
+        "published_date": "Mon, 12 Oct 2026 17:35:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235383"
+      },
+      "bead676162faa9f914821b9485c09ab3eaae7056b470256316effb464cc97417": {
+        "title": "一位55岁应届生，带着AI进入秋招季",
+        "link": "https://www.tmtpost.com/8164982.html",
+        "published_date": "Mon, 12 Oct 2026 17:35:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235393"
+      },
+      "4939db097434de8c0b73b3881107c65f68dc94cea8e15a13470c10aea842c56f": {
+        "title": "王鹏伟：当下的世界模型都只学到了片面的世界",
+        "link": "https://www.tmtpost.com/8041489.html",
+        "published_date": "Mon, 12 Oct 2026 17:34:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235404"
+      },
+      "2e4b9fe547e91d55eec4e52f7ff2954ab9eda47b32d792eca8dda082c00dacb6": {
+        "title": "独董全案否决换届议案，城市传媒换届争议收函",
+        "link": "https://www.tmtpost.com/8165308.html",
+        "published_date": "Mon, 12 Oct 2026 17:04:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235413"
+      },
+      "3ce1e3d0df27540f48ec826a9ccdb239517b1bdfa07ecddb392c32b4f894bd45": {
+        "title": "人形机器人出货暴增4倍，钱被谁赚走了？",
+        "link": "https://www.tmtpost.com/8164863.html",
+        "published_date": "Mon, 12 Oct 2026 16:46:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235422"
+      },
+      "d73eb22a287da54e457422b9969e1e017f05ceb09306b85ad32a894f178c7a4d": {
+        "title": "新鲜零食，同质化血拼",
+        "link": "https://www.tmtpost.com/8164797.html",
+        "published_date": "Mon, 12 Oct 2026 16:46:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235431"
+      },
+      "d8c2cea99fcfa62528b21d119c5035ddd2055cbf7aedad4518f007f4a74e20a2": {
+        "title": "【Fintech 周报】浙商大佬仇建平3.25亿元入股网商银行；46岁数学博士AI炒股登上富豪榜",
+        "link": "https://www.tmtpost.com/8165230.html",
+        "published_date": "Mon, 12 Oct 2026 16:27:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.751006"
+      },
+      "cafacaa87102cdfbfdb90c3d8d1af9a0db56d0d1c7709fb2f40872e89fb32068": {
+        "title": "卸任7年，69岁\"京东方之父\"又敲一次钟，这次填的是中国芯片最后一块短板",
+        "link": "https://www.tmtpost.com/8164678.html",
+        "published_date": "Mon, 12 Oct 2026 16:13:00 GMT",
+        "first_seen": "2026-10-12T12:40:15.235317"
+      },
+      "06d461865f921d523928ec3de3853ef31a24bc2f17d6b529d430dfb6494ac307": {
+        "title": "反对Agent，反对RSI，杨立昆新模型反对当下一切AI叙事",
+        "link": "https://www.tmtpost.com/8165030.html",
+        "published_date": "Mon, 12 Oct 2026 16:13:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.752486"
+      },
+      "73080050caa69a70c7d6ed781418a08168885e548199702c95b14a057ca69887": {
+        "title": "China’s AI Boom Moves From Model Prices to Power Bills and Depreciation",
+        "link": "https://www.tmtpost.com/8165235.html",
+        "published_date": "Mon, 12 Oct 2026 16:09:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.753408"
+      },
+      "0f10936440327a8c7ed7e85d3d9be9af6f1f0c5209a75be1c980798529ed544c": {
+        "title": "华人“接管”全球AI核心圈，已到了什么程度？",
+        "link": "https://www.tmtpost.com/8164740.html",
+        "published_date": "Mon, 12 Oct 2026 15:35:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.754068"
+      },
+      "52d4bc2caf59df76e365173b9e4813142c52159a2a0dec40c136f59abc0491f7": {
+        "title": "公关暗战全记录：2000万流量绞杀，4天反转必输局",
+        "link": "https://www.tmtpost.com/8164978.html",
+        "published_date": "Mon, 12 Oct 2026 15:35:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.754730"
+      },
+      "f7e864117e100e449409bd639adabb6b2ce0ac5f3b927f60d5a4b83a4f52fcdf": {
+        "title": "寅家电子：递表前夕突击入股，两月估值暴涨152%，持续亏损造血失灵｜IPO观察",
+        "link": "https://www.tmtpost.com/8165097.html",
+        "published_date": "Mon, 12 Oct 2026 14:23:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.755677"
+      },
+      "e6e15b4e66ee098b783f1b81a10356d2703cbe692f42d7f053a75036e1327916": {
+        "title": "Chinese Appliance Brands Gain in Europe, But Share Alone Is Fragile",
+        "link": "https://www.tmtpost.com/8164986.html",
+        "published_date": "Mon, 12 Oct 2026 11:06:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.757116"
+      },
+      "2a79da8d6061c5928d246ef1e294b6cf0c60ae25c55a8eaaa417532f45d00ef0": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/115934",
+        "published_date": "Mon, 12 Oct 2026 17:30:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.757823"
+      },
+      "e1d372da8ede8be4438f612a082d41a26da74dc948ec55480d7eea05f4d23e88": {
+        "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+        "link": "https://sspai.com/post/115242",
+        "published_date": "Mon, 12 Oct 2026 15:00:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.758796"
+      },
+      "3569420f8bca830b1e23e36783158a9bec781c9aa579f560cd96f1515d1b9adb": {
+        "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+        "link": "https://sspai.com/post/114821",
+        "published_date": "Mon, 12 Oct 2026 11:20:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.759722"
+      },
+      "4ad0ee61d61886877f436dff84a476c45bec49b1254c91446c02c2d775ccdf98": {
+        "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+        "link": "https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 17:19:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.761255"
+      },
+      "9ec49aee8fe2f5e0bec5e1ed689970e317fa9d25325b12d6732a861ee69863f0": {
+        "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "link": "https://www.infoq.cn/article/Qk7CzmLpDCvfYpAiU6Tf?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 16:00:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.763061"
+      },
+      "3306045c18c04446a9fe70f245047322d9b3936b508600f62aa9bb7bf759b0e0": {
+        "title": "SvelteKit 3 进入 RC：svelte.config.js 没了，$lib 也要退休",
+        "link": "https://www.infoq.cn/article/Hs5X7EdO6PNHk367zZv3?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 14:36:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.764879"
+      },
+      "d8606bcf8cfe245688fde89fbf48f93d1b25cb3537502d716ca1f3feae594dde": {
+        "title": "Meta ZGateway 在每秒处理超过 10 亿次操作的同时，将 ZippyDB 的连接数减少了 19 倍",
+        "link": "https://www.infoq.cn/article/d5x9BkQ9AoIZq5mf6LN0?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 13:00:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.767166"
+      },
+      "9addbccf35e4e9f2381f8c318b6ee233a853d59be82e269c0718aad258a3dc0a": {
+        "title": "Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞",
+        "link": "https://www.infoq.cn/article/h86bNjSBdJRBYwxP4Xgt?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 10:15:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.768509"
+      },
+      "de0d71a22e0d6b953f8207fd587f585a9107c32a33344b0949234b2c89118d3d": {
+        "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
+        "link": "https://www.infoq.cn/article/4hYrs8ShAKPAhyzTGQ92?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-12T12:40:05.770674"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-10-12T02:00:01.231751",
-    "Technology": "2026-10-12T02:00:01.114967",
-    "Finance": "2026-10-12T02:00:01.130524"
+    "AI": "2026-10-12T12:40:15.387159",
+    "Technology": "2026-10-12T12:40:15.248071",
+    "Finance": "2026-10-12T12:40:15.267386"
   }
 }
